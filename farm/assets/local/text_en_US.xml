@@ -1,0 +1,1048 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root locale="zh_test" revision="1">
+	<module name="All">
+<key id="100035_tips" value="200 {coin}"/>
+<key id="100036_tips" value="100 Times {essence}"/>
+<key id="220001_tips" value="You can get some Profit from Planting farmland."/>
+<key id="About" value="About us"/>
+<key id="AboutContent" value="Doule all rights reserved\n Developed by StarTech team"/>
+<key id="ActivityLoginAwardTitle" value="Accumulated Login"/>
+<key id="ActivityLoginGetAward" value="Acquire"/>
+<key id="ActivityLoginMsg" value="Star Farm is coming! During the activity, reaching certain requirements will gain you great rewards! Start your farm life immediately！"/>
+<key id="ActivityLoginTime" value="Activity Date:2013/05/16——2013/05/30"/>
+<key id="ActivityLoginday" value="{0}days"/>
+<key id="ActivityLoginlevel" value="Lv.{0}"/>
+<key id="ActivityPay1" value="Gifts for Recharge"/>
+<key id="ActivityPay2" value="Recharge Status"/>
+<key id="ActivityPay3" value="{0}{points}"/>
+<key id="ActivityPay4" value="Recharge Description Recharge Description Recharge Description"/>
+<key id="Ale" value="Ale"/>
+<key id="Apple" value="Apple"/>
+<key id="AppleJuice" value="Apple juice"/>
+<key id="ApplePie" value="Apple pie"/>
+<key id="AppleTree" value="Apple Tree"/>
+<key id="AppleTree_desc" value="Collect 3 times"/>
+<key id="ArenaStart" value="Challenge"/>
+<key id="ArenaStart2" value="More Opportunities"/>
+<key id="ArenaStart3" value="Shortens the time"/>
+<key id="ArenaTime" value="Receive Time"/>
+<key id="ArenaTop" value="Ranking"/>
+<key id="AskForHelp" value="Ask for Help"/>
+<key id="BBQGrill" value="Barbecue Grill"/>
+<key id="BBQGrill_desc" value="Produces Grilled Food"/>
+<key id="BaconEgg" value="Bacon and Eggs"/>
+<key id="BaconPie" value="Bacon pie"/>
+<key id="BakedTomato" value="Baked tomato"/>
+<key id="Bakery" value="Bakery"/>
+<key id="Bakery_desc" value="Produces Food"/>
+<key id="BambooFence" value="Bamboo fence"/>
+<key id="BambooFence_desc" value="Decorate your Farm"/>
+<key id="Banana" value="Banana"/>
+<key id="Beer" value="Beer"/>
+<key id="BeerMaker" value="Brewing machine"/>
+<key id="BeerMaker_desc" value="Produces Beer"/>
+<key id="Bench" value="Bench"/>
+<key id="Bench_desc" value="Decorate your Farm"/>
+<key id="BerryJuice" value="Berry juice"/>
+<key id="Blackberry" value="Blackberry"/>
+<key id="BlackberryBread" value="Blackberry Bread"/>
+<key id="BlackberryCake" value="Blackberry cake"/>
+<key id="BlackberryTree" value="Blackberry Tree"/>
+<key id="BlackberryTree_desc" value="Collect 3 times"/>
+<key id="Blacksmith_1" value="Bakery"/>
+<key id="BlueSweater" value="Purple sweater"/>
+<key id="BlueWoollyHat" value="Purple velour hat"/>
+<key id="Box" value="Box"/>
+<key id="Box_desc" value="Decorate your Farm"/>
+<key id="Bread" value="Wheat Bread"/>
+<key id="Bread_desc" value="Able to Sell"/>
+<key id="BrownRailings" value="BrownRailings"/>
+<key id="BrownSugar" value="Brown sugar"/>
+<key id="Bucket" value="Bucket"/>
+<key id="Bucket_desc" value="Decorate your Farm"/>
+<key id="Butter" value="Butter"/>
+<key id="ButterPopcorn" value="Buttered Popcorn"/>
+<key id="CHANGE" value="Change the name of your farm"/>
+<key id="HayStack" value="HayStack"/>
+<key id="HayStack_desc" value="Decorate your Farm"/>
+<key id="Cage" value="Cage"/>
+<key id="CageMaker" value="Production Room"/>
+<key id="CageMaker_desc" value="Make cages"/>
+<key id="CakeOven" value="Cake Oven"/>
+<key id="CakeOven_desc" value="Makes Cakes"/>
+<key id="Camp" value="Camp"/>
+<key id="CandyMachine" value="Candy machine"/>
+<key id="CandyMachine_desc" value="Produce candies"/>
+<key id="Cane" value="Sugarcane"/>
+<key id="Capsicum" value="Chili Pepper"/>
+<key id="Caramel" value="Milk Candy"/>
+<key id="Carrot" value="Carrot"/>
+<key id="CarrotCake" value="Carrot Cake"/>
+<key id="CarrotJuice" value="Carrot Juice"/>
+<key id="CarrotPie" value="Carrot Pie"/>
+<key id="Cat" value="Tabby cat"/>
+<key id="CatHouse" value="Cattery"/>
+<key id="CatHouse_desc" value="You can have 3 cats"/>
+<key id="Cat_desc" value="EXP can be harvested"/>
+<key id="Cheese" value="Cheese"/>
+<key id="CheeseCake" value="Cheeze cake"/>
+<key id="Cherry" value="Cherry Tree"/>
+<key id="Cherry" value="Cherry"/>
+<key id="CherryCake" value="Cherry cake"/>
+<key id="CherryJuice" value="Cherry juice"/>
+<key id="CherryTree" value="Cherry Tree"/>
+<key id="CherryTree_desc" value="Collect 3 times"/>
+<key id="Chick" value="Hen"/>
+<key id="ChickHouse" value="Henhouse"/>
+<key id="ChickHouse_desc" value="Able to foster 6 Chickens"/>
+<key id="Chick_desc" value="Egg/20 min"/>
+<key id="ChilliPopcorn" value="Chilli popcorn"/>
+<key id="Chocolate" value="Chocolate"/>
+<key id="ChocolateIceCream" value="Chocolate Ice Cream"/>
+<key id="Citruslimon" value="Lemon"/>
+<key id="CitruslimonTree" value="Lemon Tree"/>
+<key id="CitruslimonTree_desc" value="Collect three times"/>
+<key id="CityActivity1" value="Welcome to Star Farm"/>
+<key id="CityActivity2" value="Gems available to get"/>
+<key id="CityActivity3" value="This time you can get"/>
+<key id="CityActivity3_2" value="Next time you can get"/>
+<key id="CityActivity4" value="Remaining time for next reward:"/>
+<key id="CityActivityEnd" value="You've got all Gem Gift, come to build your farm!"/>
+<key id="CityActivityInfo" value="Dear Citylife players, in order to make you enjoy a happy life here, we prepare you exclusive Gem Gift! Get it in time~"/>
+<key id="CityActivityInfo2" value="Dear farmers , in order to allow you to enjoy the rural life , we specially prepared diamond exclusive gift for you ! Remember to collect oh ~ "/>
+<key id="Cocktail" value="Cocktail"/>
+<key id="Coco" value="coco"/>
+<key id="CocoTree" value="Cocoa Tree"/>
+<key id="CocoTree_desc" value="Collect 3 times"/>
+<key id="Cocoa" value="Cocoa"/>
+<key id="CocoaTree" value="Cocoa tree"/>
+<key id="CocoaTree_desc" value="Collect 3 times"/>
+<key id="Coming Soon" value="Coming Soon"/>
+<key id="Coming" value="The naughty monkey is coming to your farm!"/>
+<key id="CompleteOrder" value="Completion Rewards"/>
+<key id="Cookies" value="Cookies"/>
+<key id="Corn" value="Corn"/>
+<key id="Cow" value="Black Cow"/>
+<key id="CowHouse" value="Cowshed"/>
+<key id="CowHouse_desc" value="Able to foster 5 Dairy Cows"/>
+<key id="Cow_desc" value="Milk/1 hour"/>
+<key id="Cream" value="Cream"/>
+<key id="CreamCake" value="Butter cake"/>
+<key id="Cream_desc" value="Able to Sell"/>
+<key id="CurrentRank" value="Current Rank"/>
+<key id="Dairy" value="Dairy Farm"/>
+<key id="Dairy_desc" value="Produces Dairy Products"/>
+<key id="Decoration_desc" value="Decorate your farm"/>
+<key id="Discount0904_buy_btn" value="Buy now"/>
+<key id="Discount0904_text_0" value="Big Sale"/>
+<key id="Discount0904_text_1" value="Only"/>
+<key id="Discount0904_text_2" value="days left"/>
+<key id="Discount0904_text_3" value="Original Price:8"/>
+<key id="Discount0904_text_4" value="Current price:"/>
+<key id="Discount0904_text_5" value="4"/>
+<key id="Dog" value="Hound"/>
+<key id="DogHouse" value="Doghouse"/>
+<key id="DogHouse_desc" value="You can have 3 dogs"/>
+<key id="Dog_desc" value="EXP can be harvested"/>
+<key id="DoubleLayerCake" value="Double Layered Cake"/>
+<key id="EndInvite_text_0" value="Notice downline invitation code activity"/>
+<key id="EndInvite_text_1" value="The Invitation Code activity will end. Don't forget to share your Invitation Code to your friends who play the mobile version of Star Farm. Once the Invitation Code is applied successfully, both you and your friend will get great rewards! The more times your Invitation Code is shared, the more rewards you will get!"/>
+<key id="EndInvite_text_2" value="Share"/>
+<key id="EndInvite_text_3" value="Enter"/>
+<key id="EndInvite_text_4" value="Acquire"/>
+<key id="EndInvite_text_5" value="1. Copy the Invitation Code from the PC version of Star Farm"/>
+<key id="EndInvite_text_6" value="2. Share it with friends who play the mobile version of Star Farm"/>
+<key id="EndInvite_text_7" value="3. Claim gifts"/>
+<key id="EndInvite_text_8" value="Only:"/>
+<key id="EndInvite_text_9" value="days left"/>
+<key id="FACEBOOK-CONNECT" value="Connect with Facebook"/>
+<key id="FanPageRewardBtn" value="Acquire" />
+<key id="FanPageRewardInfo" value="Enter Fans Wall to share our post, and click the appropriate link in the post, then you will get the reward!" />
+<key id="FanPageRewardTitle" value="Daily Reward!" />
+<key id="Farm" value="Farmland"/>
+<key id="Farm_desc" value="Plant Crops"/>
+<key id="FeedMill" value="Mill"/>
+<key id="FeedMill_desc" value="Produces Fodder"/>
+<key id="FlowerCar" value="Fresh hay"/>
+<key id="FlowerPot" value="Flower Pot"/>
+<key id="FlowerPot_desc" value="Decorate your Farm"/>
+<key id="Follow" value="Number of Friends"/>
+<key id="FoodNotEnoughTip" value="Insufficient fodder"/>
+<key id="FreshHay" value="Fresh hay"/>
+<key id="FreshHay_desc" value="Decorate your Farm"/>
+<key id="FruitJuice" value="Juice Machine"/>
+<key id="FruitJuice_desc" value="Make juice"/>
+<key id="Garden" value="Garden"/>
+<key id="Garden_desc" value="Decorate your Farm"/>
+<key id="GetNow" value="Get Now"/>
+<key id="Gloves" value="Gloves"/>
+<key id="Goat" value="Capricorn"/>
+<key id="GoatCheese" value="Goat cheese"/>
+<key id="GoatHouse" value="Goat pen"/>
+<key id="GoatHouse_desc" value="Able to foster 4 goats"/>
+<key id="GoatMilk" value="Goat milk"/>
+<key id="GoatPie" value="Goat cheese pie"/>
+<key id="Goat_desc" value="Goat milk/8 hours"/>
+<key id="GoldBar" value="Gold Bar"/>
+<key id="GoldOre" value="Gold Ore"/>
+<key id="Grape" value="Grape"/>
+<key id="GrapeJuice" value="Grape Wine"/>
+<key id="GrapeLemonJuice" value="Grape-lemon perfumes"/>
+<key id="GrapeTree" value="Grape vine"/>
+<key id="GrapeTree_desc" value="Allows 3 harvests"/>
+<key id="GreenHaystack" value="Green Haystack"/>
+<key id="GreenHaystack_desc" value="Decorate your Farm"/>
+<key id="GreenStack" value="GreenStack"/>
+<key id="HELP" value="Help and feedback"/>
+<key id="HTFansInfo1" value="300,000 fans gathering!"/>
+<key id="HTFansInfo2" value="Activity time: once you have 300,000 fans, you can claim the reward  in 2 days"/>
+<key id="HTFansInfo3" value="Dear friends, Star Farm is welcoming its No. 300,000 fan! Are you excited? With your support, we keep optimizing functions of Star Farm. Please keep close attention to our game and Fans Wall."/>
+<key id="HTFansInfo5" value="If you're excited, share your feeling with more friends!"/>
+<key id="HTFansInfo6" value="Respect"/>
+<key id="Hamburger" value="Hamburg"/>
+<key id="Here" value="You can find your friends here!"/>
+<key id="RomanPillar" value="RomanPillar"/>
+<key id="RomanPillar_desc" value="Decorate your Farm"/>
+<key id="IceCreamMaker" value="Icecream Machine"/>
+<key id="IceCreamMaker_desc" value="Makes Ice Cream"/>
+<key id="Language" value="Choose a Language"/>
+<key id="Lavender" value="Lavender"/>
+<key id="LavenderPerfume" value="Lavender perfume"/>
+<key id="Leaving" value="The little monkey is going to steal away your stuff! Go stop it!"/>
+<key id="LemonPopsicle" value="Lemon Ice Candy"/>
+<key id="Level" value="Level"/>
+<key id="LevelUpNewsStr" value="new!"/>
+<key id="Lily" value="White Lily"/>
+<key id="LilyPerfume" value="Lily Perfume"/>
+<key id="LoadCargo" value="Load Cargo"/>
+<key id="Loom" value="Loom"/>
+<key id="Loom_desc" value="Knits Clothes"/>
+<key id="Lupulus" value="hops"/>
+<key id="MashedPotato" value="Smashed Potato with Cheese"/>
+<key id="MaterialStorage" value="Storage"/>
+<key id="MintJelly" value="Mint Gel"/>
+<key id="MintSugar" value="Mints"/>
+<key id="Mintgrass" value="Mint"/>
+<key id="MobileActivity_1" value="The Invitation Code Activity"/>
+<key id="MobileActivity_2" value="Share"/>
+<key id="MobileActivity_3" value="Enter"/>
+<key id="MobileActivity_4" value="Acquire"/>
+<key id="MobileActivity_5" value="From now on, by entering [{0}] in the Android version of [Star Farm], you will get great gifts!"/>
+<key id="MobileActivity_6" value="Download mobile【Star Farm】and enter the invitation code from your buddy to get super gifts!"/>
+<key id="MobileActivity_8" value="Your invitation code is used once, and you will get:"/>
+<key id="MobileActivity_9" value="The more your invitation code is used, the more rewards you will get!"/>
+<key id="MobileActivity_copyBtn" value="Copy"/>
+<key id="MobileActivity_copyOK" value="Successfully copied"/>
+<key id="MobileActivity_stateBtn" value="Check my invitation"/>
+<key id="MobileActivity_times" value="Used {0} times"/>
+<key id="MyFarm" value="MyFarm"/>
+<key id="Name" value="Name of player"/>
+<key id="Next" value="Next page"/>
+<key id="Ore" value="Mine"/>
+<key id="Page" value="Last page"/>
+<key id="Pavilion" value="Pavilion"/>
+<key id="Pavilion_desc" value="Decorate your Farm"/>
+<key id="Paycash" value="Pay {0} {points}"/>
+<key id="Paycash1" value="Padded Material Cost {0}"/>
+<key id="PerfumeMaker" value="Perfume Machine"/>
+<key id="PerfumeMaker_desc" value="Produces Perfumes"/>
+<key id="PieOven" value="Pie Oven"/>
+<key id="PieOven_desc" value="Pie"/>
+<key id="Pig" value="Pig"/>
+<key id="PigHouse" value="Pigsty"/>
+<key id="PigHouse_desc" value="Able to foster 5 Pigs"/>
+<key id="Pig_desc" value="Bacon/4 hours"/>
+<key id="Pizza" value="Pancake"/>
+<key id="PlatinumBar" value="Platinum bullion"/>
+<key id="PlatinumOre" value="Platinum Ore"/>
+<key id="Popcorn" value="Popcorn"/>
+<key id="PopcornPot" value="Popcorn Machine"/>
+<key id="PopcornPot_desc" value="Produces Popcorn"/>
+<key id="Potato" value="Potato"/>
+<key id="PotatoPie" value="Potato Pie"/>
+<key id="Preferential_1" value="Big Sale"/>
+<key id="Preferential_2" value="Get all the items below at a super low price"/>
+<key id="Preferential_3" value="Tips: Available for players whose level is lower than 8"/>
+<key id="Preferential_4" value="was $10, now it's only ..."/>
+<key id="Preferential_5" value="Buy now"/>
+<key id="Pumpkin" value="Pumpkin"/>
+<key id="PumpkinPie" value="Pumpkin Pie"/>
+<key id="PvePopupProgress" value="{0}/{1}"/>
+<key id="Rabbit" value="Rabbit"/>
+<key id="RabbitFur" value="Rabbit Hair"/>
+<key id="RabbitHouse" value="Rabbit Hutch"/>
+<key id="RabbitHouse_desc" value="Able to foster 5 Rabbit"/>
+<key id="Rabbit_desc" value="Rabbit Hair/9 hour"/>
+<key id="RainbowCandy" value="Rainbow candy"/>
+<key id="Raspberry" value="Raspberry"/>
+<key id="RaspberryBread" value="Raspberry Bread"/>
+<key id="Receive" value="Acquire"/>
+<key id="ReceiveSuc" value="Collection Successful"/>
+<key id="Received" value="Received"/>
+<key id="Rose" value="Rose"/>
+<key id="RosePerfume" value="Rosewater"/>
+<key id="RoundBed" value="Round parterre"/>
+<key id="RoundBed_desc" value="Decorate your Farm"/>
+<key id="RubberDuck" value="RubberDuck"/>
+<key id="Scarecrow" value="Scarecrow"/>
+<key id="Scarecrow_desc" value="Decorate your Farm"/>
+<key id="Scarf" value="Scarf"/>
+<key id="SeedStorage" value="Granary"/>
+<key id="Shawl" value="Shawl"/>
+<key id="Sheep" value="Sheep"/>
+<key id="SheepHouse" value="Sheep Shed"/>
+<key id="SheepHouse_desc" value="Able to foster 5 Sheep"/>
+<key id="Sheep_desc" value="Wool/6 hours"/>
+<key id="SilverBar" value="Silver Bullion"/>
+<key id="SilverOre" value="Silver Ore"/>
+<key id="Slides" value="Camp"/>
+<key id="SmallChair" value="SmallChair"/>
+<key id="Smelter" value="Forge"/>
+<key id="Smelter_desc" value="Produces Ore"/>
+<key id="SnowBoots" value="Snow Boot"/>
+<key id="Sold" value="Dispense"/>
+<key id="Soybean" value="Green Soy Bean"/>
+<key id="Squirrel" value="Squirrel"/>
+<key id="SquirrelHouse" value="Tree House"/>
+<key id="SquirrelHouse_desc" value="Tree House"/>
+<key id="Squirrel_desc" value="EXP can be harvested"/>
+<key id="StopBuildingWorkButton" value="Stop Production"/>
+<key id="StoreRoad" value="Gravel Path"/>
+<key id="StoreRoad_desc" value="Decorate your Farm"/>
+<key id="StoreWall" value="Stone wall"/>
+<key id="StoreWall_desc" value="Decorate your Farm"/>
+<key id="Straw" value="Straw"/>
+<key id="Strawberry" value="Strawberries"/>
+<key id="Strawberry" value="Strawberries"/>
+<key id="StrawberryCake" value="Strawberry Cake"/>
+<key id="StrawberryIceCream" value="Strawberry ice cream"/>
+<key id="StrawberryTree" value="Strawberry Seed"/>
+<key id="StrawberryTree_desc" value="Collect 3 times"/>
+<key id="StreetLamp" value="Street Light"/>
+<key id="StreetLamp_desc" value="Decorate your Farm"/>
+<key id="SugarMill" value="Candy Processor"/>
+<key id="SugarMill_desc" value="Produces Candies"/>
+<key id="Sugus" value="Switzerland candy"/>
+<key id="Swan" value="Swan"/>
+<key id="SwanAnnounce_text_0" value="Welcome the swan"/>
+<key id="SwanAnnounce_text_1" value="Level reached 25"/>
+<key id="SwanAnnounce_text_2" value="Unclock the swan"/>
+<key id="SwanAnnounce_text_3" value="Collect product"/>
+<key id="SwanFeather" value="Velvet"/>
+<key id="SwanLake" value="Swan lake"/>
+<key id="SwanLake_desc" value="Be able to raise 4 Swans"/>
+<key id="Swan_desc" value="Velvet/7 hours"/>
+<key id="Sweater" value="White Sweater"/>
+<key id="Syrup" value="Syrup"/>
+<key id="TOPlevel" value="Top 20"/>
+<key id="TheArenaRewards" value="Award Ranking"/>
+<key id="TicketPopouInfo" value="Vouchers can be got by opening treasure chests and finishing special Truck  orders, and you can exchange special items by using vouchers"/>
+<key id="TicketPopouTitle" value="Voucher"/>
+<key id="Toaster" value="Thick Toast"/>
+<key id="Tomato" value="Tomato"/>
+<key id="TomatoJuice" value="Tomato Juice"/>
+<key id="Tortillas" value="Corn bread"/>
+<key id="TrainLeave" value="CornBread"/>
+<key id="TrainRepair" value="Repair"/>
+<key id="TrainScoreFriR" value="FriendsRankings" />
+<key id="TrainScoreInfo" value="Sun may award" />
+<key id="TrainScoreInfo2" value="The higher the rank , the better reward" />
+<key id="TrainScoreSevR" value="All players ranked" />
+<key id="TrainScoreTitle" value="Ranking Points" />
+<key id="TreeHouse" value="TreeHouse"/>
+<key id="UnitConfiguration_1" value="Save Settings"/>
+<key id="UpgradePackage_1" value="Level-up Gift Pack"/>
+<key id="UpgradePackage_2" value="From now on you can get Level-up Gift Packs as you reach specified levels"/>
+<key id="VanillaIceCream" value="Vanilla ice cream"/>
+<key id="Well" value="Well"/>
+<key id="Wheat" value="Wheat"/>
+<key id="Wheelbarrow" value="Straw"/>
+<key id="Wheelbarrow_desc" value="Decorate your Farm"/>
+<key id="WhiteRailings" value="WhiteRailings"/>
+<key id="WhiteSugar" value="White Sugar"/>
+<key id="YellowHaystack" value="Yellow Haystack"/>
+<key id="YellowHaystack_desc" value="Decorate your Farm"/>
+<key id="accept" value="Accept"/>
+<key id="access_waring" value="Sorry, the user is full"/>
+<key id="accountNotice" value="{0}Increase{1}"/>
+<key id="achievement1" value="EGG-COLLECTING IDOL"/>
+<key id="achievement10" value="TASTY CREAM "/>
+<key id="achievement11" value="FARM TYCOON"/>
+<key id="achievement12" value="TRADE EXPERT"/>
+<key id="achievement13" value="SMART MANAGER"/>
+<key id="achievement14" value="BEST FRIENDS"/>
+<key id="achievement15" value="EGGHEAD"/>
+<key id="achievement16" value="GOT MILK"/>
+<key id="achievement17" value="BACONATOR"/>
+<key id="achievement18" value="HYPER HARVESTER"/>
+<key id="achievement2" value="MILK-COLLECTING IDOL"/>
+<key id="achievement3" value="ORDER TALENT"/>
+<key id="achievement4" value="CHICKEN FEED"/>
+<key id="achievement5" value="CATTLE FEED"/>
+<key id="achievement6" value="SUPER WHEAT-MAN"/>
+<key id="achievement7" value="CORN BOMB"/>
+<key id="achievement8" value="AlPHA-CARROTING"/>
+<key id="achievement9" value="DELICIOUS BREAD"/>
+<key id="achievements" value="Achievements"/>
+<key id="addFriend" value="Add Friend"/>
+<key id="addFriendSuccess" value="Friend request sent successfully"/>
+<key id="addFriendfail" value="This friend ID doesn't exist"/>
+<key id="addPet" value="Add New"/>
+<key id="addToFriend" value="Add Friend"/>
+<key id="agateX10" value="Silver x10"/>
+<key id="agree" value="Accept"/>
+<key id="alertInfo" value="Are you sure to spend {0} Gems?"/>
+<key id="allalreayplaced" value="All Placed Already"/>
+<key id="and" value="And/With"/>
+<key id="application" value="Expansion Application"/>
+<key id="askFeedmsg" value="Request gift"/>
+<key id="askForhelpButton" value="Ask for Help"/>
+<key id="ask_help" value="Friends' Help"/>
+<key id="askforfriend" value="Ask Friend for Help"/>
+<key id="axe" value="Axe"/>
+<key id="back" value="Return"/>
+<key id="bacon" value="Bacon"/>
+<key id="bagsheet_1" value="Construction"/>
+<key id="bagsheet_2" value="Decoration"/>
+<key id="bagsheet_6" value="Ore"/>
+<key id="bagsheet_7" value="Materials"/>
+<key id="bagsheet_8" value="Inventory"/>
+<key id="battleMapInition" value="Preparing"/>
+<key id="bolt" value="Big Screw"/>
+<key id="bomb" value="bomb"/>
+<key id="bonusCoinText" value="Reward: Plus{0}{coin}!"/>
+<key id="build" value="Shop"/>
+<key id="buildSheetText_0" value="Farmland/livestock barn"/>
+<key id="buildSheetText_1" value="Seed/small animals"/>
+<key id="buildSheetText_2" value="Storage/processor"/>
+<key id="buildSheetText_3" value="Fruit Tree"/>
+<key id="buildSheetText_4" value="Decoration"/>
+<key id="buildingNotReadyToClick" value="Under Construction"/>
+<key id="buildingStatusClearing" value="Working"/>
+<key id="buildingStatusFinishing" value="Construction Almost Finished"/>
+<key id="buildingStatusGetting" value="Building"/>
+<key id="buildingStatusHarvesting" value="Harvesting"/>
+<key id="buildingStatusPouring" value="Building"/>
+<key id="buildingStatusProducting" value="Ready"/>
+<key id="building_click_collect" value="Collect"/>
+<key id="building_click_finish" value="Instant Complete"/>
+<key id="building_click_move" value="Move"/>
+<key id="building_click_upgrade" value="Upgrade"/>
+<key id="building_click_upgrade2" value="Roadside Stand"/>
+<key id="buy" value="Shop"/>
+<key id="buyAllUseMoney" value="Buy All{0}"/>
+<key id="buyEnergyBtn" value="Buy {Energy}"/>
+<key id="buyForSomeMoney" value="{0}"/>
+<key id="buyMachine_action" value="Create {0} machines"/>
+<key id="buyMineConfirm" value="Mined by the use of small explosives, use explosives and shovels to get the ore! The once opened you can make 26000 coins!"/>
+<key id="buySomeResource" value="Purchase {0}{1}"/>
+<key id="buycash" value="Sorry, Your Remaining {points} are not enough to make this Purchase, do you want to Recharge?"/>
+<key id="buyforcash1" value="Need to buy {coins}"/>
+<key id="buyformoney" value="Cost"/>
+<key id="buyforresource" value="Buy"/>
+<key id="canNotHelpToday" value="Help your friend tomorrow"/>
+<key id="canReward" value="Congratulations, now you can get your reward of Achievement"/>
+<key id="cancel" value="Cancel"/>
+<key id="cantThief" value="Thank you, no need to help for now."/>
+<key id="cashChestAction" value="Open Chest"/>
+<key id="chickfood" value="Chicken fodder"/>
+<key id="chickfood_desc" value="Feed Hens"/>
+<key id="chooseCardLose" value="You Have 0 Chances to Draw"/>
+<key id="chooseCardWin" value="You Have 1 Chance to Draw"/>
+<key id="cleanupText" value="Shoveling {0} Gets You {1}{coin}"/>
+<key id="clear" value="Clear"/>
+<key id="clickToCleanTip" value="Click to Clean Debris"/>
+<key id="clickToCleanupTip" value="Click to Clean Withered Crops"/>
+<key id="clickToCollectTip" value="Click to Harvest {0}{1}"/>
+<key id="clickToDestroyTip" value="Click to Destroy"/>
+<key id="clickToEsTip" value="Click to Produce {essence}"/>
+<key id="clickToGemTip" value="Click to Produce Ore"/>
+<key id="clickToHelpCleanTip" value="Click to Clean Debris"/>
+<key id="clickToHelpCollectTip" value="Click for Harvesting Help"/>
+<key id="clickToHelpReviveTip" value="Click for Revive Help"/>
+<key id="clickToHelpSpeedupTip" value="Click to Explain Acceleration"/>
+<key id="clickToHelpbuildTip" value="Click for Buildings Help"/>
+<key id="clickToMoveTip" value="Click to move"/>
+<key id="clickToPlantTip" value="Click to Plant Crops"/>
+<key id="clickToRepairTip" value="Click to Repair"/>
+<key id="clickToSellTip" value="Click to Sell Items"/>
+<key id="clickToSpeedupTip" value="Click to Finish Acceleration"/>
+<key id="clickToStartProtectTip" value="Click to Start or Extend Protection Time"/>
+<key id="clickToWoodTip" value="Click to Cut Wood"/>
+<key id="close" value="Close"/>
+<key id="coin" value="Coin"/>
+<key id="coinNotEnough" value="Not Enough Coins"/>
+<key id="coinTooltip" value="Coins: {0}"/>
+<key id="coinX200" value="Gold x200"/>
+<key id="collectButton" value="Collect"/>
+<key id="collect_action" value="Collect {1} {0}"/>
+<key id="combo1" value="Bonus!"/>
+<key id="combo10" value="Shake!"/>
+<key id="combo2" value="Come on!"/>
+<key id="combo3" value="Terrific!"/>
+<key id="combo4" value="Amazing!"/>
+<key id="combo5" value="Excellent!"/>
+<key id="combo6" value="What!!"/>
+<key id="combo7" value="Oh wow!!"/>
+<key id="combo8" value="I cannot imagine!"/>
+<key id="combo9" value="Can Not Match!"/>
+<key id="comingSoon" value="Coming Soon"/>
+<key id="completed" value="FINISHED:"/>
+<key id="continue" value="Continue"/>
+<key id="cooling" value="Cooling down"/>
+<key id="cowfood" value="Cow feed"/>
+<key id="cowfood_desc" value="Feed Dairy Cow"/>
+<key id="crop" value="Crop"/>
+<key id="crystalX10" value="Copper x10"/>
+<key id="currentFans" value="The current number of fans:{0}"/>
+<key id="days" value="Days"/>
+<key id="deal_action" value="Finish {0} trades with NPCs who visit you"/>
+<key id="default" value="Default"/>
+<key id="defaultNPCFriendName" value="Lily"/>
+<key id="defensingHours" value="6 Hours Later"/>
+<key id="diamondX10" value="Gold x10"/>
+<key id="discard" value="Abandon"/>
+<key id="discardConfirm" value="Sure to give up {0}? There will be no refund for you if you give it up."/>
+<key id="doNotShowTipThisTime" value="Don't remind me again before i reenter this game"/>
+<key id="dontStopWorkButton" value="Do Not Stop"/>
+<key id="earn_action" value="Earn {0} coins in the street market"/>
+<key id="egg" value="Egg"/>
+<key id="empty" value="Empty"/>
+<key id="energNotEnough" value="You cannot drive the little monkey away for you don't have enough energy"/>
+<key id="energyNotEnough" value="Lack of energy!"/>
+<key id="energyTooltip" value="{0}/{1}"/>
+<key id="energyall" value="Energy Fill Up"/>
+<key id="errorCode1201" value="Your Level is too Low"/>
+<key id="errorCode1202" value="Not Enough Coins {0}"/>
+<key id="errorCode1203" value="Not Enough {points}"/>
+<key id="errorCode1204" value="Not Enough {energy}"/>
+<key id="errorCode1205" value="You Do Not Have Enough of {essence}"/>
+<key id="errorCode1210" value="Already Collected Today"/>
+<key id="errorCode1301" value="Not Yet Unlocked"/>
+<key id="errorCode1302" value="Number of Houses Reached"/>
+<key id="errorCode1303" value="Building Does Not Exist!"/>
+<key id="errorCode1304" value="Building Does Not Exist!"/>
+<key id="errorCode1308" value="Can Not Harvest Yet"/>
+<key id="errorCode1309" value="Already in Production"/>
+<key id="errorCode1311" value="Product Doesn't Exist"/>
+<key id="essence5" value="Small Stones"/>
+<key id="essence6" value="Ordinary Gems"/>
+<key id="essence7" value="Shining Gems"/>
+<key id="essence8" value="Perfect Gem"/>
+<key id="essenceTooltip" value="Food:{0}"/>
+<key id="essenceX100" value="Food x100"/>
+<key id="exchange" value="Exchange"/>
+<key id="exp" value="Exp."/>
+<key id="expand_popup_info" value="To expand new lands successfully, you need the following items!"/>
+<key id="expand_popup_title" value="Expand your farm"/>
+<key id="expansion_info" value="Click to Expand"/>
+<key id="expasionPopupBond" value="Need Level{0}"/>
+<key id="expasionPopupCoin" value="Need {0}{coin}"/>
+<key id="expasionPopuptitle" value="Explore New Region"/>
+<key id="explosive" value="Bomb"/>
+<key id="extendButton" value="open..in"/>
+<key id="f_10_body" value="Star Farm, the SIM game you don’t want to miss in 2013. Online beta has received unanimous admiration of female gamers. Come to join Star Farm and collect great rewards!"/>
+<key id="f_10_title" value="The most popular game among females in 2013"/>
+<key id="f_11_body" value="Go to download mobile Star Farm and enter the invitation code to get super gifts! "/>
+<key id="f_11_title" value="Invitation code for mobile Star Farm"/>
+<key id="f_12_body" value="A flock of beautiful swans will come to your farm. Get ready for their arrival!"/>
+<key id="f_12_title" value="Your farm is more and more lovely"/>
+<key id="f_13_body" value="{0} wants to expand a new land and your help will be highly appreciated!"/>
+<key id="f_13_title" value="Farm Expansion"/>
+<key id="f_14_body" value="{0} captured a hateful monkey in his/her own farm! To get free, the monkey gave a gift. What a pleasant surprise!"/>
+<key id="f_14_title" value="Hunt for hateful monkeys."/>
+<key id="f_15_body" value="In the operation of capturing monkeys, {0} performed remarkably well. Generous rewards are awarded."/>
+<key id="f_15_title" value="{0}'s farm has been protected!"/>
+<key id="f_1_body" value="Congratulations, your role has reached level {1}, let's celebrate this together for our great farm owner!"/>
+<key id="f_1_title" value="Role upgrade"/>
+<key id="f_2_body" value="{0}'s Warehouse has upgraded successfully! Now more items can be stored!"/>
+<key id="f_2_title" value="Warehouse upgrade"/>
+<key id="f_3_body" value="{0} has accomplished a goal in Star Farm, as his friends, how can you miss this exciting moment? Come to congratulate him!"/>
+<key id="f_3_title" value="Get rewards from the Milestone"/>
+<key id="f_4_body" value="{0}'s Barn has upgraded successfully! Now there is no need to worry about where to put your harvests!"/>
+<key id="f_4_title" value="Barn upgrade"/>
+<key id="f_5_body" value="Your friend {0} is waiting for your present in Star Farm. Please click here to send it! If you are playing Star Farm, you will gain a surprise."/>
+<key id="f_5_title" value="Request gift"/>
+<key id="f_6_body" value="Your friend {0} is waiting for your present in Star Farm. Please click here to send it! If you are playing Star Farm, you will gain a surprise."/>
+<key id="f_6_title" value="Request gift"/>
+<key id="f_7_body" value="Your friend {0} is waiting for your present in Star Farm. Please click here to send it! If you are playing Star Farm, you will gain a surprise."/>
+<key id="f_7_title" value="Request gift"/>
+<key id="f_8_body" value="{0} has just earned a bucket of coins in Star Farm, and he wants to share his happiness with you!"/>
+<key id="f_8_title" value="Coins ring like bells!"/>
+<key id="f_9_body" value="Star Farm is holding an activity of 200,000 Fans. You can get free gems and enjoy the game with no expense! I've received 5 gems already. Come to become a fan and claim your gems now!"/>
+<key id="f_9_title" value="Share the good news with your friends!"/>
+<key id="fanpage_LimitError" value="Unfortunately, the award has been received light, and a lot of attention to grasp the next chance fan page!"/>
+<key id="fanpage_RewardMsg" value="Congratulations, you have successfully received the reward of this event!"/>
+<key id="fanpage_title" value="Congratulations!"/>
+<key id="farmBeThief" value="Farmland has been harvested"/>
+<key id="farm_score" value="SCORE:"/>
+<key id="feedAward" value="Congratulations, you've got the rewards!"/>
+<key id="finishButton" value="Need {0}"/>
+<key id="finishConstructButton" value="Complete Building"/>
+<key id="finished" value="Done"/>
+<key id="finishedQuest" value="Complete The Goal!"/>
+<key id="follows" value="Friends"/>
+<key id="friAlready" value="The other is already your friend"/>
+<key id="friend" value="Buddy"/>
+<key id="friendGiftInfo" value="You Received Following Gifts"/>
+<key id="friendGiftTitle" value="Gift"/>
+<key id="friendPanelVisitText" value="Click to Visit"/>
+<key id="friendReq" value="Friend request"/>
+<key id="friendUid" value="Friend's Game ID"/>
+<key id="friendmarket" value="Friend's"/>
+<key id="friends" value="Find Friends"/>
+<key id="fullscreenTooltip" value="Full Screen"/>
+<key id="g_order_info" value="(You have:"/>
+<key id="g_order_no" value="Sorry"/>
+<key id="g_order_title" value="Nice day!Start managing your farm after limbering up!"/>
+<key id="g_order_wait" value="Hold on"/>
+<key id="g_order_yes" value="Fine"/>
+<key id="gameName" value="Star Farm"/>
+<key id="getReward" value="Checkpoint Reward"/>
+<key id="get_reward" value="CLAIM PRIZE"/>
+<key id="getfromfriend" value="Ask Friend for Help"/>
+<key id="getreward" value="Get reward"/>
+<key id="giveUpTrainOrder" value="Are you sure to quit this Airship order?"/>
+<key id="goatfood" value="Goat forage"/>
+<key id="gohome" value="Return Home"/>
+<key id="gohomeTip" value="Return Home"/>
+<key id="govermentPopupUnfinishTitle" value="Construction Employees"/>
+<key id="govermentShareReminderButton" value="Remind a friend"/>
+<key id="govermentUseMoneyButton" value="Use {0}"/>
+<key id="guiBagButton" value="Inventory"/>
+<key id="guiBuildButton" value="Buy/Build"/>
+<key id="guiCancelButton" value="Cancel"/>
+<key id="guiHandleButton" value="Operation"/>
+<key id="guiInviteFriendButton" value="Invite Friend"/>
+<key id="guiReturnhomeButton" value="Go home"/>
+<key id="guiSkillSearchButton" value="Research"/>
+<key id="guiStrengthenButton" value="Enhance"/>
+<key id="hasBeenBuilded" value="Already Built"/>
+<key id="helpStatusbuild" value="Building"/>
+<key id="helpStatusclean" value="Cleaning"/>
+<key id="helpStatusharvest" value="Harvesting"/>
+<key id="helpStatusrevive" value="Watering"/>
+<key id="helpStatusspeedup" value="Accelerating"/>
+<key id="hours" value="Hours"/>
+<key id="hungry" value="Hungry"/>
+<key id="increase_storage_to" value="Enlarge capacity to {0}"/>
+<key id="industryBuildingTips" value="Click to Know More"/>
+<key id="industryProducePannelProduce" value="Income"/>
+<key id="industryProducePannelResource" value="Store"/>
+<key id="invite" value="Invite"/>
+<key id="inviteTooltip" value="Invite Friend"/>
+<key id="islandDetail" value="Details"/>
+<key id="jinxu" value="Only"/>
+<key id="levelNotEnough" value="The required level is {0}"/>
+<key id="levelTooltip" value="{0}/{1}"/>
+<key id="levelUp" value="Level Up!"/>
+<key id="levelUpButton" value="Upgrade"/>
+<key id="levelUpInfo" value="{0}"/>
+<key id="levelUpUnlock" value="Received Following Rewards"/>
+<key id="licenseStamp" value="Permission Seal"/>
+<key id="loading" value="Loading, Please Wait"/>
+<key id="locked" value="Locked already"/>
+<key id="lockedAction" value="The secret chest is locked, you can open it by spending gems"/>
+<key id="locked_space_halt" value="This land is not qualified for expansion."/>
+<key id="locked_space_unrelease" value="This land is not qualified for expansion, please kindly wait."/>
+<key id="logindays" value="Day {0}"/>
+<key id="make_action" value="Produce {1} {0}"/>
+<key id="marketPopupAd" value="Advertise 3 hours"/>
+<key id="marketPopupAdCool" value="The advertisement will open:"/>
+<key id="marketPopupAddAll" value="Add All"/>
+<key id="marketPopupConfirm" value="Confirm"/>
+<key id="marketPopupCreateTip" value="sale"/>
+<key id="marketPopupForBuy" value="Shopping Cart"/>
+<key id="marketPopupForSale" value="Sell"/>
+<key id="marketPopupMyItems" value="My Items"/>
+<key id="marketPopupNewsButton" value="Add"/>
+<key id="marketPopupNewsTip" value="Publish advertisements in newspaper"/>
+<key id="marketPopupPriceTip" value="Price"/>
+<key id="marketPopupQuantity" value="Number"/>
+<key id="marketPopupRemove" value="Remove"/>
+<key id="marketPopupSelectItem" value="Select an Item"/>
+<key id="marketPopupSelectedButton" value="Select"/>
+<key id="marketPopupTitle" value="'s Roadside Stand"/>
+<key id="marketPopupTotalCost" value="Total Price"/>
+<key id="marketTradeInfoTitle" value="Edit"/>
+<key id="materialStorageFullInfo" value="Your storage is full, upgrade it for larger capacity."/>
+<key id="materialStorageFullToClick" value="The storage is full"/>
+<key id="materialStorageMaxInfo" value="Your storage has already reached the max capacity, please clear the items before harvesting."/>
+<key id="maxLevelError" value="Highest Level Reached"/>
+<key id="max_energy_tips" value="{energy} Limit Exceeded"/>
+<key id="mei" value="Every"/>
+<key id="milk" value="Milk"/>
+<key id="minutes" value="Minutes"/>
+<key id="moneyNotEnough" value="Not Enough Gems"/>
+<key id="moneyNotEnoughTips" value="Not Enough {points}, Click To Buy {points}."/>
+<key id="monkeyAimedTip" value="You can't operate while the little monkey is playing here"/>
+<key id="monkeyLeftTime" value="Remaining time for escaping"/>
+<key id="move" value="Move"/>
+<key id="moveOnfriendinvadeiconTip" value="Need Help"/>
+<key id="musicTooltip" value="Music"/>
+<key id="myGameUid" value="Your Game ID: {0}"/>
+<key id="mymarket" value="MY"/>
+<key id="nail" value="Thumbtack"/>
+<key id="need" value="You need to expand"/>
+<key id="needNewVersions" value="The version is too old, please update to rejoin the world!"/>
+<key id="needToRepairAirship" value="You need to fix the Airship before using the platform!"/>
+<key id="need_resource" value="Need More Resources"/>
+<key id="need_resource_buy" value="Cost {0}"/>
+<key id="need_resource_dynic" value="Tell a Friend"/>
+<key id="need_resource_explain" value="Ask a Friend or Purchase Right Away"/>
+<key id="needmore" value="Need More $$"/>
+<key id="newItem" value="New item"/>
+<key id="newShopPopupTitle" value="Shop"/>
+<key id="newspaper_sendfeed" value="Send"/>
+<key id="next" value="Next step"/>
+<key id="nextTrainOrder" value="Next Airship order"/>
+<key id="noAdvertisement" value="No updates for now, please check back later"/>
+<key id="noFeed" value="Your request is sent. The next present will be ready in {0}."/>
+<key id="not" value="The remaining space is insufficient"/>
+<key id="notFriend" value="You are not friends yet, send the friend request now!"/>
+<key id="not_placeable" value="Can Not Be Placed"/>
+<key id="ok" value="Confirm"/>
+<key id="onCheckingPay" value="Payment verification..."/>
+<key id="onStartPay" value="Paying..."/>
+<key id="openLevel" value="The function will open when the level reaches {0}"/>
+<key id="orderActivityEndTime1" value="Activity Time: From today to May 15, 2013"/>
+<key id="orderActivityEndTime2" value="Event Period: From today to 2013/5/23"/>
+<key id="orderActivityInfo1" value="During the activity, complete the required number of NPC missions to get great rewards! Rewards are different every day. Your number of completed orders will be reset every 24 hours. You have chance to win diamonds every day!"/>
+<key id="orderActivityInfo2" value="During the event, by finishing certain amount of Truck orders you can get plenty of rewards! Various rewards and daily Gems! Get your Truck moving!"/>
+<key id="orderActivityItemTip" value="Complete {0} orders to get it. You have completed {1} orders"/>
+<key id="orderActivityNextRefreshTime" value="Number of completed orders and countdown for resetting reward"/>
+<key id="orderActivityTitle1" value="Order Carnival"/>
+<key id="orderActivityTitle2" value="Truck's Story"/>
+<key id="orderBuild" value="Order"/>
+<key id="order_action" value="Finish order {0} times"/>
+<key id="order_waitInfo" value="This order is not available right now, please wait or accelerate it!"/>
+<key id="order_waitTime" value="Please wait..."/>
+<key id="ownCount" value="Possessions:"/>
+<key id="own_action" value="Possess {1} {0}"/>
+<key id="packTitle" value="Inventory"/>
+<key id="packagehave" value="Items in Backpack:"/>
+<key id="patureBeThief" value="The animal has been harvested"/>
+<key id="peddlersBackBtntext" value="Don't choose"/>
+<key id="peddlersBackCntText" value="Remaining time for use: {0}"/>
+<key id="peddlersBackInfoText" value="These is what we've found, which one do you need?"/>
+<key id="peddlersBeginBtnText" value="OK, I will try"/>
+<key id="peddlersBeginInfoText" value="Hi, I'm Tom, your servant. I will be waiting for you at the street market."/>
+<key id="peddlersBuyTimesInfoText" value="Do you want to hire me again?"/>
+<key id="peddlersBuyTimesThankCellText" value="No, thanks"/>
+<key id="peddlersBuyTimesbuyCellText" value="{0}day"/>
+<key id="peddlersChooseBtnText" value="Start searching"/>
+<key id="peddlersChooseTitleText" value="What do you want me to look for?"/>
+<key id="peddlersRestInfoText" value="Zzz... I really need to have a rest"/>
+<key id="peddlersRestTimeText" value="Time of re-use: {0}"/>
+<key id="peopleTooltip" value="Population/Population Limit"/>
+<key id="petProducePannelResource" value="Resource Consumption"/>
+<key id="pickaxe" value="Expansion Hoe"/>
+<key id="pigfood" value="Pig fodder"/>
+<key id="pillageBuff" value="Increase Housing Production of {0}%"/>
+<key id="place" value="Place"/>
+<key id="plank" value="Wood Plank"/>
+<key id="points" value="Gems"/>
+<key id="popularizeInfo" value="The world famous Star Farm will come to you today! The honor of becoming a great farm owner is right in front of you. Come and create your glory here!"/>
+<key id="popularizeInfo2" value="Leave the bustling city behind and enjoy quiet and peaceful time. Welcome to the Star Farm! Collect diamonds and live the leisure farm life!"/>
+<key id="population" value="Population"/>
+<key id="populationText" value="{0}/{1}"/>
+<key id="population_max" value="The upper limit of population"/>
+<key id="population_now" value="Current Population"/>
+<key id="populationmaxNotEnough" value="Population Limit too Low"/>
+<key id="produce" value="Manufacture"/>
+<key id="producePannelProduceTime" value="Production Time"/>
+<key id="produceing" value="Currently Producing"/>
+<key id="questUpdateNotice" value="{0} {1}/{2}"/>
+<key id="quest_get" value="New missions available"/>
+<key id="quest_remind" value="Oh, what great progress"/>
+<key id="rabbitfood" value="Rabbit Fodder"/>
+<key id="raidMoreCount" value="More"/>
+<key id="raidPopupCount" value="What is Left Today"/>
+<key id="raidPopupEnter" value="Enter"/>
+<key id="raidPopupTitle" value="Join Instance"/>
+<key id="raidTips" value="Click to Enter {0}"/>
+<key id="raidUserMoneyToMoreCount" value="Using {0}{points} to Increase 1 time"/>
+<key id="ready" value="Preparing to harvest"/>
+<key id="recharge" value="Recharge"/>
+<key id="recharge_cash0" value="PILE OF GEMS"/>
+<key id="recharge_cash1" value="BAG OF GEMS"/>
+<key id="recharge_cash2" value="PACK OF GEMS"/>
+<key id="recharge_cash3" value="BOX OF GEMS"/>
+<key id="recharge_cash4" value="CHEST OF GEMS"/>
+<key id="recharge_cash5" value="CASE OF GEMS"/>
+<key id="recharge_coin0" value="PILE OF COINS"/>
+<key id="recharge_coin1" value="BAG OF COINS"/>
+<key id="recharge_coin2" value="PACK OF COINS"/>
+<key id="recharge_coin3" value="BOX OF COINS"/>
+<key id="recharge_coin4" value="CHEST OF COINS"/>
+<key id="recharge_coin5" value="TRUNK OF COINS"/>
+<key id="recharge_title_cash" value="GET MORE GEMS!"/>
+<key id="recharge_title_coin" value="GET MORE COINS!"/>
+<key id="refresh_game" value="Refresh the Game"/>
+<key id="refuse" value="Refuse"/>
+<key id="renwujieshou" value="Mission"/>
+<key id="requesttofriend" value="Friend's Help"/>
+<key id="requireExitGame" value="Sure you want to quit the game?"/>
+<key id="require_explain" value="You Need More $$, You Can Either Get Some From Friends Or Buy {Points}."/>
+<key id="requires" value="Require"/>
+<key id="requiresBuildingLevel" value="Need {0}Level {1}"/>
+<key id="requiresLevel" value="Level"/>
+<key id="requiresOwn" value="You Need to Have"/>
+<key id="requires_item" value="Consumables:"/>
+<key id="resource" value="{0} insufficient"/>
+<key id="resourceIsLast" value="This is the last of this resource which remains, are you sure you want to use it?"/>
+<key id="resourceNotEnough" value="You don't have enough resource,.To have it done,you need to buy."/>
+<key id="reward" value="Rewards"/>
+<key id="rubyX10" value="Tin x10"/>
+<key id="saw" value="Saw"/>
+<key id="screw" value="Small Screw"/>
+<key id="secondes" value="Seconds"/>
+<key id="seedStorageFullInfo" value="Your barn is full, you can get larger capacity by upgrading it.Or you can sell some in your Roadside Stand."/>
+<key id="seedStorageFullToClick" value="Your barn is full"/>
+<key id="seedStorageMaxInfo" value="Your barn has already reached the max capacity, please clear the items before harvesting."/>
+<key id="select" value="Select"/>
+<key id="selectFeed" value="Click here to choose the present you want!"/>
+<key id="sell" value="Dispense"/>
+<key id="sell_coin" value="Get"/>
+<key id="sell_confirm" value="Confirmation of Sale"/>
+<key id="server_error" value="Sorry, Internet connection error, please refresh the game."/>
+<key id="setting" value="Settings"/>
+<key id="settingsTooltip" value="Settings"/>
+<key id="shareBtn" value="CONTINUE"/>
+<key id="sheepfood" value="Sheep fodder"/>
+<key id="shouchong" value="If Players Recharge Any Amount, They Can Get a Gift"/>
+<key id="shouchongtitle" value="Gift Package"/>
+<key id="shovel" value="Shovel"/>
+<key id="skillBuySkillButton" value="Buy"/>
+<key id="soundTooltip" value="Sound Effects"/>
+<key id="speedtext" value="Accelerate"/>
+<key id="startAction" value="Execute"/>
+<key id="startGrub" value="Began digging"/>
+<key id="stateNot" value="Somebody have helped me already,you may do another friends a favor."/>
+<key id="stealInfo" value="During your offline period, the little monkey has stolen away a {0}"/> 
+<key id="stealInfoOnline" value="The little monkey runs away after stealing 1 {0}"/>
+<key id="steal_action" value="Steal {0} {1}"/>
+<key id="stopWorkButton" value="Stop Working"/>
+<key id="stopWorkPopup" value="If you stop production of this building, you will cause loss of resources"/>
+<key id="storageCapacity" value="Capacity of storage: {0}/{1}"/>
+<key id="subtext01" value="Submitting questions"/>
+<key id="subtext02" value="Tips: Please briefly describe the problem in the game, so we can check and fix it without delay. Thanks!"/>
+<key id="subtext03" value="Problem Type"/>
+<key id="subtext04" value="Description of the problem"/>
+<key id="subtext05" value="Mailbox"/>
+<key id="subtext06" value="Submit"/>
+<key id="subtext07" value="Please input your description of the problem here"/>
+<key id="subtext09" value="Invalid Email format"/>
+<key id="subtext10" value="Description of the problem cannot be empty"/>
+<key id="swanfood" value="Swan forage"/>
+<key id="tape" value="Tape"/>
+<key id="thiefItemBtnTF" value="Go to friend's farm"/>
+<key id="thiefItemTimeTF" value="To pick Time: {0}"/>
+<key id="thiefItemTitle" value="{0}'s farm"/>
+<key id="thiefLevel" value="Need to achieve the Level {0} in order to steal something, quickly boost your level!"/>
+<key id="thiefTitle" value="Player Message"/>
+<key id="ticketNotEnough" value="Vouchers insufficient"/>
+<key id="timeDay" value="Day"/>
+<key id="timeHour" value="Hour"/>
+<key id="timeMinute" value="Minute"/>
+<key id="timeSencond" value="Second"/>
+<key id="topazX10" value="Iron x10"/>
+<key id="total" value="Total"/>
+<key id="tutorial_1" value="Welcome to Star Farm, it's important to learn the basic knowledge of managing a farm before you start the life here!"/>
+<key id="tutorial_2" value="Now you have enough money to buy a new machine, go to have a look in the store."/>
+<key id="tutorial_2" value="You have enough money now. Go to buy a new machine in the shop!"/>
+<key id="tutorial_3" value="Want more energy? Buy a hen in the shop to add more fun to your farm!"/>
+<key id="tutorial_3_1" value="Your feed is running, go to the store to buy feed, you can create a feed, go and experience it!"/>
+<key id="tutorial_3_2" value="The little girl in the farm waiting for your help, go and take a look and provide some help!"/>
+<key id="tutorial_4" value="The successful fulfilment of the truck orders bring you experience and coins, go and have a try!"/>
+<key id="tutorial_5" value="Small market to sell your goods out, you can buy the items you need!"/>
+<key id="tutorial_5_1" value="Now, you are already familiar with the basic operation of the farm, looking forward to a new generation of farmers !"/>
+<key id="tutorial_Buy" value="Buy"/>
+<key id="tutorial_ChickFeed" value="Feed"/>
+<key id="tutorial_ChickHarvest" value="Harvest"/>
+<key id="tutorial_FarmHarvest" value="Harvest"/>
+<key id="tutorial_FarmSeed" value="Plant the seeds"/>
+<key id="tutorial_Produce" value="Process"/>
+<key id="tutorial_intro" value="Welcome to Star Farm. Before I hand the farm over to you, I will teach you some of the basic skills you’ll need. Now let's begin!"/>
+<key id="unLockatlevel" value="Unlock at level {0}"/>
+<key id="unLockformoney" value="Unlock Spending"/>
+<key id="unlockTrainConfirm" value="The little Airship can bring you great benefits, go fixing it!Need to spend 16000 coins to repair"/>
+<key id="unlock_battle" value="Attack needed {0}"/>
+<key id="upgradeToLevel" value="Reach Lv{0}"/>
+<key id="user_sealed_forever" value="Sorry, you account is banned"/>  
+<key id="visitFriendButton" value="Visit"/>
+<key id="waiting" value="Waiting..."/>
+<key id="warn" value="Warning"/>
+<key id="wood" value="Wood"/>
+<key id="wool" value="Wool"/>
+<key id="workInProgressPopupAsk" value="Invite a Friend to Help You Speed Up"/>
+<key id="workInProgressPopupFinish" value="Use {0}{points} to Finish Right Now"/>
+<key id="workInProgressPopupFinish1" value="Instant Complete"/>
+<key id="workInProgressPopupOr" value="or"/>
+<key id="workshopIsFull" value="The queue is full"/>
+<key id="workshopRipeFull" value="The production cap reached, please collect to make room for more resources."/>
+<key id="xinshoutitle" value="Goodie bag for newcomers"/>
+<key id="zanInfo" value="If you like our game, please click the “like” of the game and the fans page. We can’t make it without your support！"/>
+<key id="zanInfo2" value="Thanks for your support. From now on to April 28, click “like” will give you surprise! Come and join!"/>
+<key id="zanTitle" value="“Like”us ！"/>
+<key id="zoomInTooltip" value="Zoom In"/>
+<key id="zoomOutTooltip" value="Zoom Out"/>
+<key id="LackResources" value="Lack of resources"/>
+<key id="EnergyAddPopouInfo" value="Add physical!Help friends harvest crops,you can get a windfall."/>
+<key id="EnergyAddPopouTitle" value="Add Physical"/>
+<key id="isVisitText" value="Visit friends"/>
+<key id="Windmill" value="Windmill"/>
+<key id="ChildrenBallon" value="ChickBallon"/>
+<key id="Swing" value="Swing"/>
+<key id="ChildrenSwing" value="ChildrenSwing"/>	
+<key id="feed_230013_1_body"  value="The bread {0} made is sold out."/>
+<key id="feed_230013_2_body"  value="Just eat one piece of bread made by {0}, you will never forget it."/>
+<key id="feed_230013_3_body"  value="The bread {0} made makes you fondly recall your mother."/>
+		 
+<key id="feed_230012_1_body"  value="{0} produced feed small animals very much."/>
+<key id="feed_230012_2_body"  value="Aha!The boars became so fat and healthy because of eating the feed made by {0}."/>
+<key id="feed_230012_3_body"  value="After eating the feed {0} produced,the cats and dogs will tell you how they feel."/>
+		 
+<key id="feed_230014_1_body"  value="The butter {0} made is very good."/>
+<key id="feed_230014_2_body"  value="If you have butter {0} made continuously adhere 5214 weeks, you will live to be 100 years old."/>
+<key id="feed_230014_3_body"  value="Secretary wanted! you need to behave as a lady but thinking like a man."/>
+		 
+<key id="feed_230034_1_body"  value="{0} can not help drinking too much."/>
+<key id="feed_230034_2_body"  value="Beers {0} made are the top around the world."/>
+<key id="feed_230034_3_body"  value="Wine {0} made hand down to generations."/>
+<key id="feed_230034_4_body"  value="{0} transferred out of the KIR ROYAL, it tastes fantastic."/>
+		 
+<key id="feed_230015_1_body"  value="With the help of {0},we have double earn."/>
+<key id="feed_230015_2_body"  value="Sugars {0} produced make you feel pure ."/>
+<key id="feed_230015_3_body"  value="{0} said that there is  no inventory ! Hurry up to produce!"/>
+		 
+<key id="feed_230016_1_body"  value="{0} repaired popcorn machine, and we can produce delicious popcorn again."/>
+<key id="feed_230016_2_body"  value="The popcorn {0} produced match this movie best."/>
+<key id="feed_230016_3_body"  value="{0} put the popcorn sold worldwide."/>
+		 
+<key id="feed_230017_1_body"  value="{0} won the first in an eating competition in Star Farm."/>
+<key id="feed_230017_2_body"  value="Since eating a hamburger {0} produced, now I prefer it to another food every day."/>
+<key id="feed_230017_3_body"  value="{0} said:'The meat we bought is freshest and healthiest,welcome to my farm to have a taste!"/>
+		 
+<key id="feed_230018_1_body"  value="{0} promises you a cheap and quick home delivery."/>
+<key id="feed_230018_2_body"  value="Baked cookies {0} made are better as well as healthier."/>
+<key id="feed_230018_3_body"  value="{0} just finished cleaning, welcome to my farm!"/>
+<key id="feed_230018_4_body"  value="{0} can provide you delicious pie at your home."/>
+		 
+<key id="feed_230024_1_body"  value="Clotheing designed by {0} is on display at the Paris Fashion Week."/>
+<key id="feed_230024_2_body"  value="Clotheing designed by {0} bring you the colors of the world!"/>
+<key id="feed_230024_3_body"  value="Clotheing designed by {0} is suitable for any important occasions."/>
+<key id="feed_230024_4_body"  value="{0} said:'Gosh! My dress became tight again!'"/>
+		 
+<key id="feed_230031_1_body"  value="Egg-tarts {0} made are more sweet than my first love."/>
+<key id="feed_230031_2_body"  value="I even can not take my eyes off the egg-tarts {0} made."/>
+<key id="feed_230031_3_body"  value="{0} wishes the egg-tars would not be sold out, so he could enjoy all the egg-tars."/>
+		 
+<key id="feed_230032_1_body"  value="With our perfume, {0} found a handsome boyfriend."/>
+<key id="feed_230032_2_body"  value="The perfume made by {0} attracts the opposite sex easily,besides, with the perfume comes with a book about self-defense."/>
+<key id="feed_230032_3_body"  value="The perfume made by {0} is long lasting."/>
+<key id="feed_230032_4_body"  value="{0} said that if your husband would not buy you the perfume, find another people!"/>
+<key id="feed_230032_5_body"  value="Please do not accost a make-up woman casually,since she is likely to be your grandmother!"/>
+		 
+<key id="feed_230035_1_body"  value="It is absolutely incredible that {0} has made out of spicy-flavored candies."/>
+<key id="feed_230035_2_body"  value="The mint candies {0} produced make your every kiss perfect."/>
+<key id="feed_230035_3_body"  value="God knows the best candies come from  {0}'hands ."/>
+<key id="feed_230035_4_body"  value="{0} said working makes people happy! Do you want a try?"/>
+		 
+<key id="feed_230033_1_body"  value="With the help of {0},we have double amount of production."/>
+<key id="feed_230033_2_body"  value="{0} found a rare kind of ore."/>
+<key id="feed_230033_3_body"  value="{0} found the best ore."/>
+<key id="feed_230033_4_body"  value="{0} was named the best Boilermakers Star Farm."/>
+		 
+<key id="feed_230039_1_body"  value="{0} is making fried IceCream.Come and enjoy with us!"/>
+<key id="feed_230039_2_body"  value="The best IceCream made by {0} is only for favorite people."/>
+<key id="feed_230039_3_body"  value="Come and visit my farm if you are free."/>
+<key id="feed_230039_4_body"  value="Love her/him then invite her/him to eat the most famous IceCream made by {0}."/>
+		 
+<key id="feed_230040_1_body"  value="Juices made by {0} are best-sold around the world."/>
+<key id="feed_230040_2_body"  value="You'll drink the last drop of the juices made by {0}."/>
+<key id="feed_230040_3_body"  value="The juice made by {0} is beyond your imagine."/>
+<key id="feed_230040_4_body"  value="{0} is ready for you as a free private lawyer."/>
+
+<key id="crew_230013_1" value="Bread Masters"/>
+<key id="crew_230013_2" value="Bread Apprentices"/>
+<key id="crew_230013_3" value="Bakery Manager"/>
+		 
+<key id="crew_230012_1" value="Feeding Workers"/>
+<key id="crew_230012_2" value="Workers pack"/>
+<key id="crew_230012_3" value="Feed formulator"/>
+		 
+<key id="crew_230014_1" value="Quality Inspector"/>
+<key id="crew_230014_2" value="Purchasing Manager"/>
+<key id="crew_230014_3" value="Secretary"/>
+		 
+<key id="crew_230034_1" value="Sommelier"/>
+<key id="crew_230034_2" value="Sales Manager"/>
+<key id="crew_230034_3" value="Winemakers"/>
+<key id="crew_230034_4" value="Bartender"/>
+		 
+<key id="crew_230015_1" value="Sugar production director"/>
+<key id="crew_230015_2" value="Sugar Technologists"/>
+<key id="crew_230015_3" value="Warehouse Manager"/>
+		 
+<key id="crew_230016_1" value="Mechanical installation division"/>
+<key id="crew_230016_2" value="CFO"/>
+<key id="crew_230016_3" value="Sales of people"/>
+		 
+<key id="crew_230017_1" value="Super eaters"/>
+<key id="crew_230017_2" value="Barbecue Master"/>
+<key id="crew_230017_3" value="Purchasing Manager"/>
+		 
+<key id="crew_230018_1" value="Accounting"/>
+<key id="crew_230018_2" value="Baked Pie Masters"/>
+<key id="crew_230018_3" value="Cleaners"/>
+<key id="crew_230018_4" value="Deliveryman"/>
+		 
+<key id="crew_230024_1" value="Apparel Production Manager"/>
+<key id="crew_230024_2" value="Color Designer"/>
+<key id="crew_230024_3" value="Fashion Design"/>
+<key id="crew_230024_4" value="Apparel Shopping Guide"/>
+		 
+<key id="crew_230031_1" value="Market Researchers"/>
+<key id="crew_230031_2" value="Equipment Maintenance Technician"/>
+<key id="crew_230031_3" value="Tarts salesperson"/>
+		 
+<key id="crew_230032_1" value="Beauty Fragrance Consultant"/>
+<key id="crew_230032_2" value="Perfume Model"/>
+<key id="crew_230032_3" value="Perfume Deployment of the Division"/>
+<key id="crew_230032_4" value="Counter shopping guide"/>
+<key id="crew_230032_5" value="Makeup Artist"/>
+		 
+<key id="crew_230035_1" value="Chief Operating Officer"/>
+<key id="crew_230035_2" value="Finance Manager"/>
+<key id="crew_230035_3" value="Salesman"/>
+<key id="crew_230035_4" value="Human Resources Manager"/>
+		 
+<key id="crew_230033_1" value="Mechanical Repair Division"/>
+<key id="crew_230033_2" value="Ore Appraisers"/>
+<key id="crew_230033_3" value="Ore Purchasing Director"/>
+<key id="crew_230033_4" value="Kotelshchik"/>
+		 
+<key id="crew_230039_1" value="Dessert Pastry Division"/>
+<key id="crew_230039_2" value="Haagen Apprentice"/>
+<key id="crew_230039_3" value="Waiter"/>
+<key id="crew_230039_4" value="Fancy Ice Cream Apprentice"/>
+		 
+<key id="crew_230040_1" value="Manager"/>
+<key id="crew_230040_2" value="Logistics Manager"/>
+<key id="crew_230040_3" value="Taste deployment of the Division"/>
+<key id="crew_230040_4" value="Legal Adviser"/>
+
+<key id="crew_friends"  value="Hire friend"/>
+<key id="crew_friends_title"  value="Employment friends"/>
+<key id="hire"  value="Hire"/>
+<key id="need_hire"  value="Need {0} people"/>
+<key id="help_people"  value="{0} says {1} I need manpower , and sincerely hope that you can come help！"/>
+<key id="needCrew" value="This machine needs of employees , invite your friends to become your employees right！"/>
+<key id="uncollected"  value="Uncollected"/>
+<key id="SevendaysReward"  value="Log reward"/>
+<key id="RechargeActivities"  value="Recharge activities"/>
+<key id="RechargeActivitiesText"  value="Recharge any amount you can get an extra 50%"/>
+<key id="lastTime"  value="Time left:"/>
+	</module>
+</root>

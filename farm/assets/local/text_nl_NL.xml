@@ -1,0 +1,1049 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root locale="zh_test" revision="1">
+	<module name="All">
+		<key id="100035_tips" value="200 {coin}"/>
+<key id="100036_tips" value="100 Times {essence}"/>
+<key id="220001_tips" value="U kunt een aantal Winst krijgen van Planting landbouwgrond."/>
+<key id="About" value="instellingen"/>
+<key id="AboutContent" value="Kies een taal"/>
+<key id="ActivityLoginAwardTitle" value="geaccumuleerde Inloggen"/>
+<key id="ActivityLoginGetAward" value="verwerven"/>
+<key id="ActivityLoginMsg" value="Star Farm komt eraan! Tijdens de activiteit, het bereiken van bepaalde eisen zullen je krijgt grote beloningen! Begin uw leven op de boerderij direct!"/>
+<key id="ActivityLoginTime" value="Activiteit Datum: 2013/05 / 16--2.013 / 30/05"/>
+<key id="ActivityLoginday" value="{0} dag"/>
+<key id="ActivityLoginlevel" value="Lv. {0}"/>
+<key id="ActivityPay1" value="Cadeaus voor Recharge"/>
+<key id="ActivityPay2" value="Recharge Status"/>
+<key id="ActivityPay3" value="{0} {points}"/>
+<key id="ActivityPay4" value="Recharge Beschrijving Recharge Beschrijving Recharge Beschrijving"/>
+<key id="Ale" value="ale"/>
+<key id="Apple" value="appel"/>
+<key id="AppleJuice" value="appelsap"/>
+<key id="ApplePie" value="appeltaart"/>
+<key id="AppleTree" value="appelboom"/>
+<key id="AppleTree_desc" value="Kunnen verkopen"/>
+<key id="ArenaStart" value="uitdaging"/>
+<key id="ArenaStart2" value="meer kansen"/>
+<key id="ArenaStart3" value="Verkort de tijd"/>
+<key id="ArenaTime" value="Ontvang Tijd"/>
+<key id="ArenaTop" value="ranking"/>
+<key id="AskForHelp" value="Vraag om hulp"/>
+<key id="BBQGrill" value="Barbecue Grill"/>
+<key id="BBQGrill_desc" value="Produceert gegrilde gerechten"/>
+<key id="BaconEgg" value="Spek en eieren"/>
+<key id="BaconPie" value="spek taart"/>
+<key id="BakedTomato" value="gebakken tomaat"/>
+<key id="Bakery" value="bakkerij"/>
+<key id="Bakery_desc" value="produceert Eten"/>
+<key id="BambooFence" value="omheining van het bamboe"/>
+<key id="BambooFence_desc" value="Versier je Farm"/>
+<key id="Banana" value="banaan"/>
+<key id="Beer" value="bier"/>
+<key id="BeerMaker" value="brouwen machine"/>
+<key id="BeerMaker_desc" value="produceert Beer"/>
+<key id="Bench" value="bank"/>
+<key id="Bench_desc" value="Versier je Farm"/>
+<key id="BerryJuice" value="bessensap"/>
+<key id="Blackberry" value="braam"/>
+<key id="BlackberryBread" value="Blackberry Brood"/>
+<key id="BlackberryCake" value="Blackberry taart"/>
+<key id="BlackberryTree" value="Blackberry Boom"/>
+<key id="BlackberryTree_desc" value="Verzamel 3 keer"/>
+<key id="Blacksmith_1" value="bakkerij"/>
+<key id="BlueSweater" value="paarse trui"/>
+<key id="BlueWoollyHat" value="Paars velours hoed"/>
+<key id="Box" value="doos"/>
+<key id="Box_desc" value="Versier je Farm"/>
+<key id="Bread" value="Brood van de Tarwe"/>
+<key id="Bread_desc" value="Wol/6 uur"/>
+<key id="BrownRailings" value="BrownRailings"/>
+<key id="BrownSugar" value="bruine suiker"/>
+<key id="Bucket" value="emmer"/>
+<key id="Bucket_desc" value="Versier je Farm"/>
+<key id="Butter" value="boter"/>
+<key id="ButterPopcorn" value="beboterde popcorn"/>
+<key id="CHANGE" value="Verbinding maken met Facebook"/>
+<key id="HayStack" value="hooiberg"/>
+<key id="HayStack_desc" value="Versier je Farm"/>
+<key id="Cage" value="kooi"/>
+<key id="CageMaker" value="Production Room"/>
+<key id="CageMaker_desc" value="Maak kooien"/>
+<key id="CakeOven" value="cake Oven"/>
+<key id="CakeOven_desc" value="maakt Cakes"/>
+<key id="Camp" value="kamp"/>
+<key id="CandyMachine" value="snoepautomaat"/>
+<key id="CandyMachine_desc" value="produceren snoepjes"/>
+<key id="Cane" value="suikerriet"/>
+<key id="Capsicum" value="chili Pepper"/>
+<key id="Caramel" value="Milk Candy"/>
+<key id="Carrot" value="wortel"/>
+<key id="CarrotCake" value="Carrot Cake"/>
+<key id="CarrotJuice" value="wortelsap"/>
+<key id="CarrotPie" value="wortel Pie"/>
+<key id="Cat" value="Cyperse kat"/>
+<key id="CatHouse" value="cattery"/>
+<key id="CatHouse_desc" value="U kunt 3 katten hebben"/>
+<key id="Cat_desc" value="EXP kan worden geoogst"/>
+<key id="Cheese" value="kaas"/>
+<key id="CheeseCake" value="cheeze taart"/>
+<key id="Cherry" value="kers"/>
+<key id="Cherry" value="kerseboom"/>
+<key id="CherryCake" value="kersen taart"/>
+<key id="CherryJuice" value="kersensap"/>
+<key id="CherryTree" value="kerseboom"/>
+<key id="CherryTree_desc" value="Verzamel 3 keer"/>
+<key id="Chick" value="kip"/>
+<key id="ChickHouse" value="kippenhok"/>
+<key id="ChickHouse_desc" value="In staat om 6 Kippen bevorderen"/>
+<key id="Chick_desc" value="Melk/1 uur"/>
+<key id="ChilliPopcorn" value="Chilli popcorn"/>
+<key id="Chocolate" value="chocolade"/>
+<key id="ChocolateIceCream" value="Roomijs van de chocolade"/>
+<key id="Citruslimon" value="citroen"/>
+<key id="CitruslimonTree" value="Lemon Tree"/>
+<key id="CitruslimonTree_desc" value="Verzamel driemaal"/>
+<key id="CityActivity1" value="Welkom bij Star Farm"/>
+<key id="CityActivity2" value="Gems beschikbaar te krijgen"/>
+<key id="CityActivity3" value="Deze keer kun je krijgen"/>
+<key id="CityActivity3_2" value="De volgende keer dat je kunt krijgen"/>
+<key id="CityActivity4" value="Resterende tijd voor de volgende beloning:"/>
+<key id="CityActivityBtnTip" value="Exclusieve Gift voor Citylife"/>
+<key id="CityActivityEnd" value="Je hebt alle gem gift, komen om je boerderij te bouwen!"/>
+<key id="CityActivityInfo" value="Geachte Citylife spelers, om u te laten genieten van een gelukkig leven hier, bereiden wij u exclusieve Gem Gift! Get it in de tijd ~"/>
+<key id="Cocktail" value="cocktail"/>
+<key id="Coco" value="kokosnoot"/>
+<key id="CocoTree" value="cacaoboom"/>
+<key id="CocoTree_desc" value="Verzamel 3 keer"/>
+<key id="Cocoa" value="cacao"/>
+<key id="CocoaTree" value="cacaoboom"/>
+<key id="CocoaTree_desc" value="Verzamel 3 keer"/>
+<key id="Coming Soon" value="Binnenkort"/>
+<key id="Coming" value="De ondeugende aap komt naar je boerderij!"/>
+<key id="CompleteOrder" value="voltooiing Beloningen"/>
+<key id="Cookies" value="koekjes"/>
+<key id="Corn" value="maïs"/>
+<key id="Cow" value="Black Cow"/>
+<key id="CowHouse" value="stal"/>
+<key id="CowHouse_desc" value="In staat om 5 Melkkoeien bevorderen"/>
+<key id="Cow_desc" value=""/>
+<key id="Cream" value="crème"/>
+<key id="CreamCake" value="boterkoek"/>
+<key id="Cream_desc" value="Kunnen verkopen"/>
+<key id="CurrentRank" value="huidige Rank"/>
+<key id="Dairy" value="melkboerderij"/>
+<key id="Dairy_desc" value="Produceert Zuivelproducten"/>
+<key id="Decoration_desc" value="Versier je Farm"/>
+<key id="Discount0904_buy_btn" value="Koop nu"/>
+<key id="Discount0904_text_0" value="Big Sale"/>
+<key id="Discount0904_text_1" value="alleen"/>
+<key id="Discount0904_text_2" value="dagen over"/>
+<key id="Discount0904_text_3" value="Originele Prijs: 8"/>
+<key id="Discount0904_text_4" value="Huidige prijs:"/>
+<key id="Discount0904_text_5" value="4"/>
+<key id="Dog" value="hond"/>
+<key id="DogHouse" value="hondehok"/>
+<key id="DogHouse_desc" value="U kunt 3 honden hebben"/>
+<key id="Dog_desc" value="EXP kan worden geoogst"/>
+<key id="DoubleLayerCake" value="Dubbele lagen Cake"/>
+<key id="EndInvite_text_0" value="Kennisgeving downline uitnodiging code activiteit"/>
+<key id="EndInvite_text_1" value="De Uitnodiging Code activiteit zal eindigen. Vergeet niet om uw uitnodiging code aan uw vrienden die de mobiele versie van Star Farm spelen delen. Zodra de uitnodiging code met succes wordt toegepast, zal zowel u als uw vriend grote beloningen te krijgen! Hoe vaker je uitnodiging code wordt gedeeld, hoe meer beloningen je krijgt!"/>
+<key id="EndInvite_text_2" value="aandeel"/>
+<key id="EndInvite_text_3" value="invoeren"/>
+<key id="EndInvite_text_4" value="verwerven"/>
+<key id="EndInvite_text_5" value="1. Kopieer de Uitnodiging Code van de PC-versie van Star Farm"/>
+<key id="EndInvite_text_6" value="2. Deel het met vrienden die de mobiele versie van Star Farm spelen"/>
+<key id="EndInvite_text_7" value="3. Claim geschenken"/>
+<key id="EndInvite_text_8" value="alleen:"/>
+<key id="EndInvite_text_9" value="dagen over"/>
+<key id="FACEBOOK-CONNECT" value="gewas"/>
+<key id="FanPageRewardBtn" value="verwerven"/>
+<key id="FanPageRewardInfo" value="Voer Fans Muur om onze post te delen, en klik op de desbetreffende link in de post, dan zal je de beloning te krijgen!"/>
+<key id="FanPageRewardTitle" value="Dagelijks Beloning!"/>
+<key id="Farm" value="bouwland"/>
+<key id="Farm_desc" value="Plant Gewassen"/>
+<key id="FeedMill" value="molen"/>
+<key id="FeedMill_desc" value="produceert Fodder"/>
+<key id="FlowerCar" value="Floats"/>
+<key id="FlowerPot" value="Flower Pot"/>
+<key id="FlowerPot_desc" value="Versier je Farm"/>
+<key id="Follow Count" value="vrienden"/>
+<key id="FoodNotEnoughTip" value="onvoldoende veevoeder"/>
+<key id="FreshHay" value="vers hooi"/>
+<key id="FreshHay_desc" value="Versier je Farm"/>
+<key id="FruitJuice" value="sap Machine"/>
+<key id="FruitJuice_desc" value="Maak sap"/>
+<key id="Garden" value="tuin"/>
+<key id="Garden_desc" value="Versier je Farm"/>
+<key id="GetNow" value="krijg nu"/>
+<key id="Gloves" value="handschoenen"/>
+<key id="Goat" value="Steenbok"/>
+<key id="GoatCheese" value="geitenkaas"/>
+<key id="GoatHouse" value="geit pen"/>
+<key id="GoatHouse_desc" value="In staat om 4 geiten bevorderen"/>
+<key id="GoatMilk" value="geitenmelk"/>
+<key id="GoatPie" value="Geitenkaas taart"/>
+<key id="Goat_desc" value="Geitenmelk/8 uur"/>
+<key id="GoldBar" value="Gold Bar"/>
+<key id="GoldOre" value="Gold Ore"/>
+<key id="Grape" value="druif"/>
+<key id="GrapeJuice" value="druivenwijn"/>
+<key id="GrapeLemonJuice" value="Druif-citroen parfums"/>
+<key id="GrapeTree" value="wijnstok"/>
+<key id="GrapeTree_desc" value="Hiermee 3 oogsten"/>
+<key id="GreenHaystack" value="groene Hooiberg"/>
+<key id="GreenHaystack_desc" value="Versier je Farm"/>
+<key id="GreenStack" value="GreenStack"/>
+<key id="HELP" value="Verander de naam van uw bedrijf"/>
+<key id="HTFansInfo1" value="300.000 fans verzamelen!"/>
+<key id="HTFansInfo2" value="Activiteit tijd: als je eenmaal hebt 300.000 fans, kunt u de beloning in 2 dagen claimen"/>
+<key id="HTFansInfo3" value="Beste vrienden, sterren boerderij is gastvrij haar No. 300.000 fan! Ben je opgewonden? Met uw steun, houden wij het optimaliseren van functies van Star Farm. Houd veel aandacht aan ons spel en Fans Muur."/>
+<key id="HTFansInfo5" value="Als je enthousiast bent, deel uw gevoel met meer vrienden!"/>
+<key id="HTFansInfo6" value="eerbied"/>
+<key id="Hamburger" value="Hamburg"/>
+<key id="Here" value="Aantal Vrienden"/>
+<key id="RomanPillar" value="RomeinsPijler"/>
+<key id="RomanPillar_desc" value="Versier je Farm"/>
+<key id="IceCreamMaker" value="icecream Machine"/>
+<key id="IceCreamMaker_desc" value="Maakt Ice Cream"/>
+<key id="Language" value="over ons"/>
+<key id="Lavender" value="lavendel"/>
+<key id="LavenderPerfume" value="lavendel parfum"/>
+<key id="Leaving" value="De kleine aap is van plan om weg te stelen uw spullen! Ga stoppen!"/>
+<key id="LemonPopsicle" value="Lemon Ice Candy"/>
+<key id="Level" value="niveau"/>
+<key id="LevelUpNewsStr" value="nieuwe!"/>
+<key id="Lily" value="witte Lelie"/>
+<key id="LilyPerfume" value="Lily Parfum"/>
+<key id="LoadCargo" value="Zorg dat de lading"/>
+<key id="Loom" value="weefgetouw"/>
+<key id="Loom_desc" value="Knits Kleding"/>
+<key id="Lupulus" value="hop"/>
+<key id="MashedPotato" value="Smashed Aardappel met Kaas"/>
+<key id="MaterialStorage" value="graanschuur"/>
+<key id="MintJelly" value="mint Gel"/>
+<key id="MintSugar" value="mints"/>
+<key id="Mintgrass" value="munt"/>
+<key id="MobileActivity_1" value="De Uitnodiging Code Activiteit"/>
+<key id="MobileActivity_2" value="aandeel"/>
+<key id="MobileActivity_3" value="invoeren"/>
+<key id="MobileActivity_4" value="verwerven"/>
+<key id="MobileActivity_5" value="Van nu af aan, door het invoeren van [{0}] in de Android-versie van [Star Farm], vindt u geweldige cadeaus te krijgen!"/>
+<key id="MobileActivity_6" value="Download mobiele 【Star Farm】 en voer de uitnodiging code van je buddy tot super cadeaus te krijgen!"/>
+<key id="MobileActivity_8" value="Uw uitnodiging code wordt een keer gebruikt, en je krijgt:"/>
+<key id="MobileActivity_9" value="Hoe meer je uitnodiging code wordt gebruikt, hoe meer beloningen je krijgt!"/>
+<key id="MobileActivity_copyBtn" value="kopie"/>
+<key id="MobileActivity_copyOK" value="gekopieerd"/>
+<key id="MobileActivity_stateBtn" value="Check mijn uitnodiging"/>
+<key id="MobileActivity_times" value="Gebruikt {0} tijden"/>
+<key id="MyFarm" value="MyFarm"/>
+<key id="Name" value="Naam van de speler"/>
+<key id="Next" value="Volgende pagina"/>
+<key id="Ore" value="de mijne"/>
+<key id="Page" value="laatste pagina"/>
+<key id="Pavilion" value="paviljoen"/>
+<key id="Pavilion_desc" value="Versier je Farm"/>
+<key id="Paycash" value="Betaal {0} {points}"/>
+<key id="Paycash1" value="Gewatteerde Materiaalkosten {0}"/>
+<key id="PerfumeMaker" value="parfum Machine"/>
+<key id="PerfumeMaker_desc" value="produceert Parfums"/>
+<key id="PieOven" value="taart Oven"/>
+<key id="PieOven_desc" value="taart"/>
+<key id="Pig" value="varken"/>
+<key id="PigHouse" value="zwijnenstal"/>
+<key id="PigHouse_desc" value="In staat om 5 Varkens bevorderen"/>
+<key id="Pig_desc" value="Ei/20 min"/>
+<key id="Pizza" value="pannenkoek"/>
+<key id="PlatinumBar" value="platina edelmetaal"/>
+<key id="PlatinumOre" value="Platinum Ore"/>
+<key id="Popcorn" value="popcorn"/>
+<key id="PopcornPot" value="popcorn Machine"/>
+<key id="PopcornPot_desc" value="produceert Popcorn"/>
+<key id="Potato" value="aardappel"/>
+<key id="PotatoPie" value="Potato Pie"/>
+<key id="Preferential_1" value="Big Sale"/>
+<key id="Preferential_2" value="Krijg alle items hieronder op een super lage prijs"/>
+<key id="Preferential_3" value="Tips: Beschikbaar voor spelers waarvan het niveau lager is dan 8"/>
+<key id="Preferential_4" value="was 10 dollar, nu is het alleen ..."/>
+<key id="Preferential_5" value="Koop nu"/>
+<key id="Pumpkin" value="pompoen"/>
+<key id="PumpkinPie" value="pumpkin Pie"/>
+<key id="PvePopupProgress" value="{0}/{1}"/>
+<key id="Rabbit" value="konijn"/>
+<key id="RabbitFur" value="konijn haar"/>
+<key id="RabbitHouse" value="Rabbit Hutch"/>
+<key id="RabbitHouse_desc" value="In staat om 5 Rabbit bevorderen"/>
+<key id="Rabbit_desc" value="Konijn Hair/9 uur"/>
+<key id="RainbowCandy" value="regenboog snoep"/>
+<key id="Raspberry" value="framboos"/>
+<key id="RaspberryBread" value="framboos Brood"/>
+<key id="Receive" value="verwerven"/>
+<key id="ReceiveSuc" value="verzameling Succesvolle"/>
+<key id="Received" value="ontvangen"/>
+<key id="Rose" value="roze"/>
+<key id="RosePerfume" value="rozenwater"/>
+<key id="RoundBed" value="ronde parterre"/>
+<key id="RoundBed_desc" value="Versier je Farm"/>
+<key id="RubberDuck" value="RubberDuck"/>
+<key id="Scarecrow" value="vogelverschrikker"/>
+<key id="Scarecrow_desc" value="Versier je Farm"/>
+<key id="Scarf" value="sjaal"/>
+<key id="SeedStorage" value="schop"/>
+<key id="Shawl" value="sjaal"/>
+<key id="Sheep" value="schapen"/>
+<key id="SheepHouse" value="Sheep Shed"/>
+<key id="SheepHouse_desc" value="In staat om 5 Sheep bevorderen"/>
+<key id="Sheep_desc" value="Spek/4 uur"/>
+<key id="SilverBar" value="Silver Bullion"/>
+<key id="SilverOre" value="zilvererts"/>
+<key id="Slides" value="dia's"/>
+<key id="SmallChair" value="SmallChair"/>
+<key id="Smelter" value="smeden"/>
+<key id="Smelter_desc" value="produceert Ore"/>
+<key id="SnowBoots" value="sneeuw Boot"/>
+<key id="Sold" value="uitgeven"/>
+<key id="Soybean" value="Groene Soy Bean"/>
+<key id="Squirrel" value="eekhoorn"/>
+<key id="SquirrelHouse" value="Tree House"/>
+<key id="SquirrelHouse_desc" value="Tree House"/>
+<key id="Squirrel_desc" value="EXP kan worden geoogst"/>
+<key id="StopBuildingWorkButton" value="Do not Stop"/>
+<key id="StoreRoad" value="grindpad"/>
+<key id="StoreRoad_desc" value="Versier je Farm"/>
+<key id="StoreWall" value="stenen muur"/>
+<key id="StoreWall_desc" value="Versier je Farm"/>
+<key id="Straw" value="stro"/>
+<key id="Strawberry" value="aardbeien"/>
+<key id="Strawberry" value="aardbeien"/>
+<key id="StrawberryCake" value="Strawberry Cake"/>
+<key id="StrawberryIceCream" value="Aardbeien ijs"/>
+<key id="StrawberryTree" value="aardbei Seed"/>
+<key id="StrawberryTree_desc" value="Verzamel 3 keer"/>
+<key id="StreetLamp" value="street Light"/>
+<key id="StreetLamp_desc" value="Versier je Farm"/>
+<key id="SugarMill" value="Candy Processor"/>
+<key id="SugarMill_desc" value="produceert Candies"/>
+<key id="Sugus" value="Zwitserland snoep"/>
+<key id="Swan" value="zwaan"/>
+<key id="SwanAnnounce_text_0" value="Welkom de zwaan"/>
+<key id="SwanAnnounce_text_1" value="Niveau bereikt 25"/>
+<key id="SwanAnnounce_text_2" value="Unclock de zwaan"/>
+<key id="SwanAnnounce_text_3" value="Verzamel product"/>
+<key id="SwanFeather" value="fluwelen"/>
+<key id="SwanLake" value="zwanenmeer"/>
+<key id="SwanLake_desc" value="In staat zijn om 4 Swans verhogen"/>
+<key id="Swan_desc" value="Velvet/7 uur"/>
+<key id="Sweater" value="witte trui"/>
+<key id="Syrup" value="siroop"/>
+<key id="TOPlevel" value="Top 20"/>
+<key id="TheArenaRewards" value="Award Ranking"/>
+<key id="TicketPopouInfo" value="Vouchers kunnen worden gekregen door het openen van schatkisten en afwerking speciale Truck bestellingen, en je kunt wisselen speciale items met behulp van vouchers"/>
+<key id="TicketPopouTitle" value="bon"/>
+<key id="Toaster" value="dikke Toast"/>
+<key id="Tomato" value="tomaat"/>
+<key id="TomatoJuice" value="tomatensap"/>
+<key id="Tortillas" value="maïsbrood"/>
+<key id="TrainLeave" value="luchtschip links"/>
+<key id="TrainRepair" value="reparatie"/>
+<key id="TrainScoreFriR" value="vrienden rankings" />
+<key id="TrainScoreInfo" value="Zon kan award" />
+<key id="TrainScoreInfo2" value="Hoe hoger de rang, hoe beter loon" />
+<key id="TrainScoreSevR" value="Alle spelers gerangschikt" />
+<key id="TrainScoreTitle" value="Ranking Points" />
+<key id="TreeHouse" value="TreeHouse"/>
+<key id="UnitConfiguration_1" value="Instellingen opslaan"/>
+<key id="UpgradePackage_1" value="Level-up Gift Pack"/>
+<key id="UpgradePackage_2" value="Vanaf nu kun je Level-up Gift Packs kunt krijgen zoals u hebt aangegeven niveaus te bereiken"/>
+<key id="VanillaIceCream" value="Vanille-ijs"/>
+<key id="Well" value="goed"/>
+<key id="Wheat" value="tarwe"/>
+<key id="Wheelbarrow" value="stro"/>
+<key id="Wheelbarrow_desc" value="Versier je Farm"/>
+<key id="WhiteRailings" value="WhiteRailings"/>
+<key id="WhiteSugar" value="witte suiker"/>
+<key id="YellowHaystack" value="geel Hooiberg"/>
+<key id="YellowHaystack_desc" value="Versier je Farm"/>
+<key id="accept" value="accepteren"/>
+<key id="access_waring" value="Sorry, de gebruiker is vol"/>
+<key id="accountNotice" value="Eten x100"/>
+<key id="achievement1" value="{0} {1}/{2}"/>
+<key id="achievement10" value="heerlijk brood"/>
+<key id="achievement11" value="smakelijke room"/>
+<key id="achievement12" value="boerderij tycoon"/>
+<key id="achievement13" value="patronaat"/>
+<key id="achievement14" value="patronaat"/>
+<key id="achievement15" value="beste vriend"/>
+<key id="achievement16" value="egghead"/>
+<key id="achievement17" value="gekregen melk"/>
+<key id="achievement18" value="Baconator"/>
+<key id="achievement2" value="EGGHEAD"/>
+<key id="achievement3" value="gekregen melk"/>
+<key id="achievement4" value="BESTEL TALENT"/>
+<key id="achievement5" value="BESTEL TALENT"/>
+<key id="achievement6" value="VEEVOEDERS"/>
+<key id="achievement7" value="SUPER TARWE-MAN"/>
+<key id="achievement8" value="CORN BOMB"/>
+<key id="achievement9" value="Alpha-CARROTING"/>
+<key id="achievements" value="Prestaties"/>
+<key id="addFriend" value="vriend toevoegen"/>
+<key id="addFriendSuccess" value="Vriendschapsverzoek succesvol verzonden"/>
+<key id="addFriendfail" value="Deze vriend ID bestaat niet"/>
+<key id="addPet" value="Nieuwe toevoegen"/>
+<key id="addToFriend" value="vriend toevoegen"/>
+<key id="agateX10" value="goud x10"/>
+<key id="agree" value="accepteren"/>
+<key id="alertInfo" value="Weet je zeker naar {0} Gems uitgeven?"/>
+<key id="allalreayplaced" value="Alle reeds geplaatste"/>
+<key id="and" value="En/Met"/>
+<key id="application" value="uitbreiding Application"/>
+<key id="askFeedmsg" value="verzoek geschenk"/>
+<key id="askForhelpButton" value="stoppen met werken"/>
+<key id="ask_help" value="Vrienden 'Help"/>
+<key id="askforfriend" value="Vraag Friend for Help"/>
+<key id="axe" value="band"/>
+<key id="back" value="terugkeer"/>
+<key id="bacon" value="spek"/>
+<key id="bagsheet_1" value="bouw"/>
+<key id="bagsheet_2" value="decoratie"/>
+<key id="bagsheet_6" value="erts"/>
+<key id="bagsheet_7" value="materieel"/>
+<key id="bagsheet_8" value="inventaris"/>
+<key id="battleMapInition" value="het voorbereiden"/>
+<key id="bolt" value="hout"/>
+<key id="bomb" value="bom"/>
+<key id="bonusCoinText" value="Beloning: Plus {0} {coin}!"/>
+<key id="build" value="winkel"/>
+<key id="buildSheetText_0" value="Landbouwgrond/vee schuur"/>
+<key id="buildSheetText_1" value="Zaad/kleine dieren"/>
+<key id="buildSheetText_2" value="Opslag/processor"/>
+<key id="buildSheetText_3" value="fruitboom"/>
+<key id="buildSheetText_4" value="decoratie"/>
+<key id="buildingNotReadyToClick" value="terug naar huis"/>
+<key id="buildingStatusClearing" value="werken"/>
+<key id="buildingStatusFinishing" value="Bouw bijna klaar"/>
+<key id="buildingStatusGetting" value="gebouw"/>
+<key id="buildingStatusHarvesting" value="oogst"/>
+<key id="buildingStatusPouring" value="gebouw"/>
+<key id="buildingStatusProducting" value="klaar"/>
+<key id="building_click_collect" value="Gefeliciteerd, nu kunt u uw loon of Achievement krijgen"/>
+<key id="building_click_finish" value="verzamelen"/>
+<key id="building_click_move" value="Instant Compleet"/>
+<key id="building_click_upgrade" value="verhuizing"/>
+<key id="building_click_upgrade2" value="markt"/>
+<key id="buy" value="winkel"/>
+<key id="buyAllUseMoney" value="Kopen Alle {0}"/>
+<key id="buyEnergyBtn" value="totaal"/>
+<key id="buyForSomeMoney" value="{0}"/>
+<key id="buyMachine_action" value="Afwerking orde {0} tijden"/>
+<key id="buyMineConfirm" value="Bepaald door het gebruik van kleine explosieven, het gebruik van explosieven en schoppen om het erts te krijgen! De eenmaal geopend kun je 26.000 coins maken!"/>
+<key id="buySomeResource" value="Aankoop {0} {1}"/>
+<key id="buycash" value="Sorry, Uw Resterende {points} zijn niet genoeg om deze aankoop te doen, wil je op te laden?"/>
+<key id="buyforcash1" value="Moeten {coins} kopen"/>
+<key id="buyformoney" value="kosten"/>
+<key id="buyforresource" value="kopen"/>
+<key id="canNotHelpToday" value="Help je vriend morgen"/>
+<key id="canReward" value="vordering prijs"/>
+<key id="cancel" value="annuleren"/>
+<key id="cantThief" value="Dank je wel, geen behoefte om te helpen voor nu."/>
+<key id="cashChestAction" value="Open Borst"/>
+<key id="chickfood" value="kip veevoeder"/>
+<key id="chickfood_desc" value="Feed Hens"/>
+<key id="chooseCardLose" value="Je hebt nog 1 kans om te tekenen"/>
+<key id="chooseCardWin" value="Verhoog Huisvesting De productie van {0}%"/>
+<key id="cleanupText" value="Het scheppen van {0} krijgt U {1} {coin}"/>
+<key id="clear" value="duidelijk"/>
+<key id="clickToCleanTip" value="Klik om items te verkopen"/>
+<key id="clickToCleanupTip" value="Klik om Versnelling Finish"/>
+<key id="clickToCollectTip" value="U heeft 0 De kans om te tekenen"/>
+<key id="clickToDestroyTip" value="Klik om te verhuizen"/>
+<key id="clickToEsTip" value="Klik om gewassen te planten"/>
+<key id="clickToGemTip" value="Klik om Cut Wood"/>
+<key id="clickToHelpCleanTip" value="Klik voor Revive Help"/>
+<key id="clickToHelpCollectTip" value="Klik om Versnelling Explain"/>
+<key id="clickToHelpReviveTip" value="Klik voor Oogsten Help"/>
+<key id="clickToHelpSpeedupTip" value="Klik voor Gebouwen Help"/>
+<key id="clickToHelpbuildTip" value="Klik op Meer Weten"/>
+<key id="clickToMoveTip" value="Klik om Harvest {0} {1}"/>
+<key id="clickToPlantTip" value="Sleep om planten"/>
+<key id="clickToRepairTip" value="Klik om te produceren Ore"/>
+<key id="clickToSellTip" value="Klik om Withered Gewassen reinigen"/>
+<key id="clickToSpeedupTip" value="Klik om te herstellen"/>
+<key id="clickToStartProtectTip" value="Klik om schoon puin"/>
+<key id="clickToWoodTip" value="Klik om te produceren {essence}"/>
+<key id="close" value="dicht"/>
+<key id="coin" value="muntstuk"/>
+<key id="coinNotEnough" value="Not Enough Munten"/>
+<key id="coinTooltip" value="Munten: {0}"/>
+<key id="coinX200" value="tin x10"/>
+<key id="collectButton" value="bezoek"/>
+<key id="collect_action" value="hyper harvester"/>
+<key id="combo1" value="Bonus!"/>
+<key id="combo10" value="Schudden!"/>
+<key id="combo2" value="Kom op!"/>
+<key id="combo3" value="Geweldig!"/>
+<key id="combo4" value="Geweldig!"/>
+<key id="combo5" value="Uitstekend!"/>
+<key id="combo6" value="Wat !!"/>
+<key id="combo7" value="Oh wow !!"/>
+<key id="combo8" value="Ik kan me niet voorstellen!"/>
+<key id="combo9" value="Niet kan evenaren!"/>
+<key id="comingSoon" value="Ontvangen Na Beloningen"/>
+<key id="completed" value="Beschikken over {1} {0}"/>
+<key id="continue" value="voortzetten"/>
+<key id="cooling" value="afkoelen"/>
+<key id="cowfood" value="koe-feed"/>
+<key id="cowfood_desc" value="Voeden Melkkoe"/>
+<key id="crop" value="opslagruimte"/>
+<key id="crystalX10" value="zilveren x10"/>
+<key id="currentFans" value="Het huidige aantal fans: {0}"/>
+<key id="days" value="dagen"/>
+<key id="deal_action" value="creëren {0} machines"/>
+<key id="default" value="verzuim"/>
+<key id="defaultNPCFriendName" value="lelie"/>
+<key id="defensingHours" value="6 uur later"/>
+<key id="diamondX10" value="verbruiksartikelen:"/>
+<key id="discard" value="verlaten"/>
+<key id="discardConfirm" value="Ervoor op te geven {0}? Er zal geen restitutie voor u zijn als u het op te geven."/>
+<key id="doNotShowTipThisTime" value="Mij niet meer herinneren voordat ik opnieuw in te voeren dit spel"/>
+<key id="dontStopWorkButton" value="Herinneren een vriend"/>
+<key id="earn_action" value="Afwerking {0} handelt met NPC's die u bezoekt"/>
+<key id="egg" value="ei"/>
+<key id="empty" value="leeg"/>
+<key id="energNotEnough" value="Je kan niet rijden de kleine aap weg voor u niet genoeg energie hebben"/>
+<key id="energyNotEnough" value="Gebrek aan energie!"/>
+<key id="energyTooltip" value="{0}/{1}"/>
+<key id="energyall" value="Binnenkort"/>
+<key id="errorCode1201" value="Uw niveau te laag"/>
+<key id="errorCode1202" value="Not Enough Munten {0}"/>
+<key id="errorCode1203" value="Not Enough {points}"/>
+<key id="errorCode1204" value="Not Enough {energy}"/>
+<key id="errorCode1205" value="Je hebt niet genoeg van {essence}"/>
+<key id="errorCode1210" value="Al Verzamelde Vandaag"/>
+<key id="errorCode1301" value="Nog niet Unlocked"/>
+<key id="errorCode1302" value="Aantal woningen Bereikte"/>
+<key id="errorCode1303" value="Gebouw bestaat niet!"/>
+<key id="errorCode1304" value="Gebouw bestaat niet!"/>
+<key id="errorCode1308" value="Kan Niet Oogst Toch"/>
+<key id="errorCode1309" value="Al in productie"/>
+<key id="errorCode1311" value="Product bestaat niet"/>
+<key id="essence5" value="kleine Stones"/>
+<key id="essence6" value="gewone Gems"/>
+<key id="essence7" value="Shining Gems"/>
+<key id="essence8" value="perfect Gem"/>
+<key id="essenceTooltip" value="Eten:{0}"/>
+<key id="essenceX100" value="goud x200"/>
+<key id="exchange" value="uitwisseling"/>
+<key id="exp" value="De functie wordt geopend wanneer het niveau bereikt {0}"/>
+<key id="expand_popup_info" value="Naar nieuwe landen succesvol uitbreiden, kunt u het volgende nodig!"/>
+<key id="expand_popup_title" value="Breid uw bedrijf"/>
+<key id="expansion_info" value="Click to expand"/>
+<key id="expasionPopupBond" value="Need Level {0}"/>
+<key id="expasionPopupCoin" value="Behoefte {0} {coin}"/>
+<key id="expasionPopuptitle" value="Verken New Region"/>
+<key id="explosive" value="zaag"/>
+<key id="extendButton" value="open..in"/>
+<key id="f_10_body" value="Star Farm, de SIM-spel dat je niet wilt missen in 2013. Online beta is unanieme bewondering van de vrouwelijke gamers ontvangen. Komen om deel te nemen Star Farm en het verzamelen van grote beloningen!"/>
+<key id="f_10_title" value="De meest populaire spel onder vrouwen in 2013"/>
+<key id="f_11_body" value="Ga naar de mobiele Star Farm downloaden en voer de uitnodiging code super cadeaus te krijgen!"/>
+<key id="f_11_title" value="Uitnodiging code voor mobiele Star Farm"/>
+<key id="f_12_body" value="Een kudde van prachtige zwanen zullen om je boerderij komen. Maak je klaar voor hun komst!"/>
+<key id="f_12_title" value="Uw boerderij is meer en meer mooie"/>
+<key id="f_13_body" value="{0} wil een nieuw land uit te breiden en uw hulp wordt zeer gewaardeerd!"/>
+<key id="f_13_title" value="Farm Uitbreiding"/>
+<key id="f_14_body" value="{0} gevangen een hatelijk aap in zijn / haar eigen boerderij! Om vrij te krijgen, de aap gaf een kadootje. Wat een aangename verrassing!"/>
+<key id="f_14_title" value="Jagen voor hatelijk apen."/>
+<key id="f_15_body" value="In de werking van het vastleggen van apen, {0} uitgevoerd opmerkelijk goed. Royale beloningen worden toegekend."/>
+<key id="f_15_title" value="{0} 's boerderij is beschermd!"/>
+<key id="f_1_body" value="Gefeliciteerd, heeft uw rol bereikte niveau {1}, laten we vieren dit samen voor onze grote boerderij eigenaar!"/>
+<key id="f_1_title" value="rol upgrade"/>
+<key id="f_2_body" value="{0} 's Warehouse heeft met succes een upgrade! Nu meer items kunnen worden opgeslagen!"/>
+<key id="f_2_title" value="magazijn upgrade"/>
+<key id="f_3_body" value="{0} heeft bereikt een doel in Star Farm, zoals zijn vrienden, hoe kun je dit spannende moment te missen? Komen om hem te feliciteren!"/>
+<key id="f_3_title" value="Krijg beloningen van de Milestone"/>
+<key id="f_4_body" value="{0} 's Barn heeft met succes een upgrade! Nu is er geen zorgen te maken over waar uw oogsten zetten!"/>
+<key id="f_4_title" value="schuur upgrade"/>
+<key id="f_5_body" value="Je vriend {0} is wachten op uw huidige in Star Farm. Klik hier om het te verzenden! Als je speelt Star Farm, krijgt u een verrassing te krijgen."/>
+<key id="f_5_title" value="verzoek geschenk"/>
+<key id="f_6_body" value="Je vriend {0} is wachten op uw huidige in Star Farm. Klik hier om het te verzenden! Als je speelt Star Farm, krijgt u een verrassing te krijgen."/>
+<key id="f_6_title" value="verzoek geschenk"/>
+<key id="f_7_body" value="Je vriend {0} is wachten op uw huidige in Star Farm. Klik hier om het te verzenden! Als je speelt Star Farm, krijgt u een verrassing te krijgen."/>
+<key id="f_7_title" value="verzoek geschenk"/>
+<key id="f_8_body" value="{0} heeft gewoon verdiend een emmer van munten in Star Farm, en hij wil zijn geluk met jullie delen!"/>
+<key id="f_8_title" value="Munten rinkelen als klokken!"/>
+<key id="f_9_body" value="Star Farm houdt een activiteit van 200.000 fans. U kunt gratis edelstenen te krijgen en geniet van het spel met geen kosten! Ik heb 5 edelstenen ontvangen al. Kom naar een fan te worden en beweren uw edelstenen nu!"/>
+<key id="f_9_title" value="Deel het goede nieuws met je vrienden!"/>
+<key id="fanpage_LimitError" value="Helaas heeft de onderscheiding ontvangen licht, en veel aandacht voor de volgende kans fanpagina te begrijpen!"/>
+<key id="fanpage_RewardMsg" value="Gefeliciteerd, u heeft succesvol ontvangen de beloning van dit evenement!"/>
+<key id="fanpage_title" value="Gefeliciteerd!"/>
+<key id="farmBeThief" value="Landbouwgrond is geoogst"/>
+<key id="farm_score" value="KLAAR:"/>
+<key id="feedAward" value="Gefeliciteerd, je hebt de beloningen!"/>
+<key id="finishButton" value="Vraag om hulp"/>
+<key id="finishConstructButton" value="stop Production"/>
+<key id="finished" value="gedaan"/>
+<key id="finishedQuest" value="Voltooi het doel!"/>
+<key id="follows" value="Vind Vrienden"/>
+<key id="friAlready" value="De andere is al je vriend"/>
+<key id="friend" value="makker"/>
+<key id="friendGiftInfo" value="U Ontvangen Na Gifts"/>
+<key id="friendGiftTitle" value="geschenk"/>
+<key id="friendPanelVisitText" value="Click to Visit"/>
+<key id="friendReq" value="vriendenverzoek"/>
+<key id="friendUid" value="Friend's Game ID"/>
+<key id="friendmarket" value="MIJN"/>
+<key id="friends" value="Doule alle rechten voorbehouden \n Ontwikkeld door StarTech team"/>
+<key id="fullscreenTooltip" value="full Screen"/>
+<key id="g_order_info" value="(Je hebt:"/>
+<key id="g_order_no" value="sorry"/>
+<key id="g_order_title" value="Leuke dag! Start beheer van uw bedrijf na limbering up!"/>
+<key id="g_order_wait" value="Hold on"/>
+<key id="g_order_yes" value="fijn"/>
+<key id="gameName" value="Star Farm"/>
+<key id="getReward" value="Checkpoint Beloning"/>
+<key id="get_reward" value="scoren:"/>
+<key id="getfromfriend" value="Vraag Friend for Help"/>
+<key id="getreward" value="krijg beloning"/>
+<key id="giveUpAirshipOrder" value="Weet je zeker dat dit Airship orde stoppen?"/>
+<key id="goatfood" value="geit voedergewassen"/>
+<key id="gohome" value="terug naar huis"/>
+<key id="gohomeTip" value="Hulp nodig"/>
+<key id="govermentPopupUnfinishTitle" value="bouw Medewerkers"/>
+<key id="govermentShareReminderButton" value="Gebruik {0}"/>
+<key id="govermentUseMoneyButton" value="Moeten {0}"/>
+<key id="guiBagButton" value="Ga naar de home"/>
+<key id="guiBuildButton" value="upgrade"/>
+<key id="guiCancelButton" value="operatie"/>
+<key id="guiHandleButton" value="verhogen"/>
+<key id="guiInviteFriendButton" value="onderzoek"/>
+<key id="guiReturnhomeButton" value="Nodig vriend"/>
+<key id="guiSkillSearchButton" value="Kopen/bouwen"/>
+<key id="guiStrengthenButton" value="inventaris"/>
+<key id="hasBeenBuilded" value="reeds gebouwd"/>
+<key id="helpStatusbuild" value="gebouw"/>
+<key id="helpStatusclean" value="schoonmaak"/>
+<key id="helpStatusharvest" value="oogst"/>
+<key id="helpStatusrevive" value="watering"/>
+<key id="helpStatusspeedup" value="versnellen"/>
+<key id="hours" value="uur"/>
+<key id="hungry" value="hongerig"/>
+<key id="increase_storage_to" value="Vergroten capaciteit om {0}"/>
+<key id="industryBuildingTips" value="Under Construction"/>
+<key id="industryProducePannelProduce" value="inkomen"/>
+<key id="industryProducePannelResource" value="winkel"/>
+<key id="invite" value="nodigen"/>
+<key id="inviteTooltip" value="Nodig vriend"/>
+<key id="islandDetail" value="Details"/>
+<key id="jinxu" value="alleen"/>
+<key id="levelNotEnough" value="uitdelen"/>
+<key id="levelTooltip" value="{0}/{1}"/>
+<key id="levelUp" value="Exp."/>
+<key id="levelUpButton" value="kopen"/>
+<key id="levelUpInfo" value="Level up!"/>
+<key id="levelUpUnlock" value="{0}"/>
+<key id="licenseStamp" value="toestemming Seal"/>
+<key id="loading" value="Bezig met laden"/>
+<key id="locked" value="Al op slot"/>
+<key id="lockedAction" value="Het geheim borst is vergrendeld, kunt u het openen door het uitgeven van edelstenen"/>
+<key id="locked_space_halt" value="Dit land is niet gekwalificeerd voor uitbreiding."/>
+<key id="locked_space_unrelease" value="Dit land is niet gekwalificeerd voor uitbreiding, neem dan zo vriendelijk te wachten."/>
+<key id="logindays" value="Dag {0}"/>
+<key id="make_action" value="Verzamel {1} {0}"/>
+<key id="marketPopupAd" value="toevoegen"/>
+<key id="marketPopupAdCool" value="Adverteren 3 uur"/>
+<key id="marketPopupAddAll" value="aantal"/>
+<key id="marketPopupConfirm" value="Alle voegen"/>
+<key id="marketPopupCreateTip" value="U kunt uw vrienden hier te vinden!"/>
+<key id="marketPopupForBuy" value="verkopen"/>
+<key id="marketPopupForSale" value="of"/>
+<key id="marketPopupMyItems" value="totale Prijs"/>
+<key id="marketPopupNewsButton" value="prijs"/>
+<key id="marketPopupNewsTip" value="De advertentie zal openen:"/>
+<key id="marketPopupPriceTip" value="verkoop"/>
+<key id="marketPopupQuantity" value="verwijderen"/>
+<key id="marketPopupRemove" value="Winkelwagen"/>
+<key id="marketPopupSelectItem" value="mijn Artikelen"/>
+<key id="marketPopupSelectedButton" value="kiezen"/>
+<key id="marketPopupTitle" value="friend's"/>
+<key id="marketPopupTotalCost" value="bevestigen"/>
+<key id="marketTradeInfoTitle" value="Publiceren van advertenties in de krant"/>
+<key id="materialStorageFullInfo" value="Uw opslagruimte vol is, upgraden voor een grotere capaciteit."/>
+<key id="materialStorageFullToClick" value="De opslag is vol"/>
+<key id="materialStorageMaxInfo" value="Uw opslag heeft al de maximum capaciteit bereikt is, zet dan de items voor de oogst."/>
+<key id="maxLevelError" value="Hoogste niveau heeft bereikt"/>
+<key id="max_energy_tips" value="{energy} limiet overschreden"/>
+<key id="mei" value="iedere"/>
+<key id="milk" value="melk"/>
+<key id="minutes" value="notulen"/>
+<key id="moneyNotEnough" value="Not Enough Gems"/>
+<key id="moneyNotEnoughTips" value="Not Enough {points}, Click To {points} kopen."/>
+<key id="monkeyAimedTip" value="Je kunt niet bedienen terwijl de kleine aap hier speelt"/>
+<key id="monkeyLeftTime" value="Resterende tijd om te ontsnappen"/>
+<key id="move" value="verhuizing"/>
+<key id="moveOnfriendinvadeiconTip" value="Klik om te starten of uitbreiden beveilig.tijd"/>
+<key id="musicTooltip" value="muziek"/>
+<key id="myGameUid" value="Your Game ID: {0}"/>
+<key id="mymarket" value="Selecteer een item"/>
+<key id="nail" value="Verzamel 3 keer"/>
+<key id="need" value="Je nodig hebt om uit te breiden"/>
+<key id="needNewVersions" value="De versie is te oud, werkt u aan de wereld weer aan!"/>
+<key id="needToRepairAirship" value="U moet de Airship repareren voordat u het platform!"/>
+<key id="need_resource" value="verzamelen"/>
+<key id="need_resource_buy" value="Vertel een vriend"/>
+<key id="need_resource_dynic" value="Vraag een vriend of kopen meteen"/>
+<key id="need_resource_explain" value="Need More Resources"/>
+<key id="needmore" value="Wilt u meer $$"/>
+<key id="newItem" value="nieuw item"/>
+<key id="newShopPopupTitle" value="winkel"/>
+<key id="newspaper_sendfeed" value="sturen"/>
+<key id="next" value="volgende stap"/>
+<key id="nextAirshipOrder" value="Volgende Airship orde"/>
+<key id="noAdvertisement" value="Geen updates voor nu, kijk dan later terug"/>
+<key id="noFeed" value="Uw aanvraag wordt verstuurd. De volgende aanwezig zal klaar zijn in {0} zijn."/>
+<key id="not" value="De resterende ruimte onvoldoende"/>
+<key id="notFriend" value="Je bent nog niet vrienden, stuur de aanvraag voor een vriend nu!"/>
+<key id="not_placeable" value="Niet kunnen worden geplaatst"/>
+<key id="ok" value="bevestigen"/>
+<key id="onCheckingPay" value="Betaalinstrumenten ..."/>
+<key id="onStartPay" value="Betalen ..."/>
+<key id="openLevel" value="Het vereiste niveau is {0}"/>
+<key id="orderActivityEndTime1" value="Activiteit Tijd: Vanaf vandaag tot 15 mei 2013"/>
+<key id="orderActivityEndTime2" value="Event Periode: Vanaf vandaag tot 2013/05/23"/>
+<key id="orderActivityInfo1" value="Tijdens de activiteit, vul het gewenste aantal NPC missies om grote beloningen te krijgen! Beloningen zijn elke dag anders. Uw aantal afgeronde bestellingen zal elke 24 uur opnieuw ingesteld. Je hebt de kans om diamanten te winnen elke dag!"/>
+<key id="orderActivityInfo2" value="Tijdens het evenement, door de afwerking bepaalde hoeveelheid Truck bestellingen kunt u tal van beloningen te krijgen! Verschillende beloningen en dagelijks Gems! Haal je truck te bewegen!"/>
+<key id="orderActivityItemTip" value="Compleet {0} orders om het te krijgen. Je hebt {1} bestellingen afgerond"/>
+<key id="orderActivityNextRefreshTime" value="Aantal voltooide orders en aftellen voor het resetten van beloning"/>
+<key id="orderActivityTitle1" value="Om Carnaval"/>
+<key id="orderActivityTitle2" value="Truck's Story"/>
+<key id="orderBuild" value="orde"/>
+<key id="order_action" value="Stelen {0} {1}"/>
+<key id="order_waitInfo" value="Deze volgorde is niet beschikbaar op dit moment, een moment geduld aub of versnellen het!"/>
+<key id="order_waitTime" value="Een ogenblik geduld ..."/>
+<key id="ownCount" value="bezittingen:"/>
+<key id="own_action" value="Verdien {0} munten in de straat markt"/>
+<key id="packTitle" value="inventaris"/>
+<key id="packagehave" value="Energie Fill Up"/>
+<key id="patureBeThief" value="Het dier is geoogst"/>
+<key id="peddlersBackBtntext" value="Niet kiezen"/>
+<key id="peddlersBackCntText" value="Resterende tijd voor gebruik: {0}"/>
+<key id="peddlersBackInfoText" value="Deze is wat we hebben gevonden, welke heb je nodig?"/>
+<key id="peddlersBeginBtnText" value="OK, ik zal proberen"/>
+<key id="peddlersBeginInfoText" value="Hoi, ik ben Tom, uw dienaar. Ik zal voor u klaar op de straat markt."/>
+<key id="peddlersBuyTimesInfoText" value="Wil je me weer te huren?"/>
+<key id="peddlersBuyTimesThankCellText" value="Nee, bedankt"/>
+<key id="peddlersBuyTimesbuyCellText" value="{0} dag"/>
+<key id="peddlersChooseBtnText" value="beginnen met zoeken"/>
+<key id="peddlersChooseTitleText" value="Wat wil je dat ik te zoeken?"/>
+<key id="peddlersRestInfoText" value="Zzz ... Ik moet echt even uit te rusten"/>
+<key id="peddlersRestTimeText" value="Tijd van hergebruik: {0}"/>
+<key id="peopleTooltip" value="Bevolking/Bevolking Limit"/>
+<key id="petProducePannelResource" value="Resource consumptie"/>
+<key id="pickaxe" value="uitbreiding Schoffel"/>
+<key id="pigfood" value="varken voeder"/>
+<key id="pillageBuff" value="Koop {Energy}"/>
+<key id="place" value="plaats"/>
+<key id="plank" value="kleine Schroef"/>
+<key id="points" value="Gems"/>
+<key id="popularizeInfo" value="De wereldberoemde sterren boerderij zal tot u komen vandaag! De eer om een grote boerderij eigenaar is recht voor je neus. Kom en maak uw glorie hier!"/>
+<key id="popularizeInfo2" value="Laat de bruisende stad achter en geniet van een rustige en vredige tijd. Welkom op de Star Farm! Verzamel diamanten en leven de vrije tijd leven op de boerderij!"/>
+<key id="population" value="bevolking"/>
+<key id="populationText" value="{0}/{1}"/>
+<key id="population_max" value="De bovengrens van de bevolking"/>
+<key id="population_now" value="huidige Bevolking"/>
+<key id="populationmaxNotEnough" value="Bevolking Limit te laag"/>
+<key id="produce" value="fabricage"/>
+<key id="producePannelProduceTime" value="productie tijd"/>
+<key id="produceing" value="momenteel produceren"/>
+<key id="questUpdateNotice" value="{0}Toename{1}"/>
+<key id="quest_get" value="Nieuwe missies beschikbaar"/>
+<key id="quest_remind" value="O, wat een grote vooruitgang"/>
+<key id="rabbitfood" value="konijn Fodder"/>
+<key id="raidMoreCount" value="meer"/>
+<key id="raidPopupCount" value="Wat is Links Vandaag"/>
+<key id="raidPopupEnter" value="invoeren"/>
+<key id="raidPopupTitle" value="Join aanleg"/>
+<key id="raidTips" value="Klik op Enter {0}"/>
+<key id="raidUserMoneyToMoreCount" value="Met behulp van {0} {points} om 1 keer te verhogen"/>
+<key id="ready" value="Het voorbereiden om te oogsten"/>
+<key id="recharge" value="herladen"/>
+<key id="recharge_cash0" value="STAPEL VAN GEMS"/>
+<key id="recharge_cash1" value="ZAK VAN GEMS"/>
+<key id="recharge_cash2" value="SET VAN GEMS"/>
+<key id="recharge_cash3" value="DOOS VAN GEMS"/>
+<key id="recharge_cash4" value="BORST VAN GEMS"/>
+<key id="recharge_cash5" value="GEVAL VAN GEMS"/>
+<key id="recharge_coin0" value="Stapel van munten"/>
+<key id="recharge_coin1" value="Zak munten"/>
+<key id="recharge_coin2" value="SET VAN MUNTEN"/>
+<key id="recharge_coin3" value="DOOS VAN MUNTEN"/>
+<key id="recharge_coin4" value="BORST VAN MUNTEN"/>
+<key id="recharge_coin5" value="Kofferbak van COINS"/>
+<key id="recharge_title_cash" value="GET meer edelstenen!"/>
+<key id="recharge_title_coin" value="GET meer munten!"/>
+<key id="refresh_game" value="Vernieuw de Game"/>
+<key id="refuse" value="weigeren"/>
+<key id="renwujieshou" value="missie"/>
+<key id="requesttofriend" value="Friend's Help"/>
+<key id="requireExitGame" value="Zeker dat u wilt stoppen met het spel?"/>
+<key id="require_explain" value="Je hebt meer $$, kunt u ofwel Get Some van vrienden of Koop {Points}."/>
+<key id="requires" value="vereisen"/>
+<key id="requiresBuildingLevel" value="Behoefte {0} Level {1}"/>
+<key id="requiresLevel" value="niveau"/>
+<key id="requiresOwn" value="Je moet"/>
+<key id="requires_item" value="Items in Rugzak:"/>
+<key id="resource" value="{0} onvoldoende"/>
+<key id="resourceIsLast" value="Dit is de laatste van deze hulpbron die blijft, bent u zeker dat u het wilt gebruiken?"/>
+<key id="resourceNotEnough" value="Je hebt niet genoeg middelen hebben,.Te hebben gedaan, moet je om te kopen."/>
+<key id="reward" value="beloningen"/>
+<key id="rubyX10" value="ijzer x10"/>
+<key id="saw" value="Axe"/>
+<key id="screw" value="pinaise"/>
+<key id="secondes" value="seconden"/>
+<key id="seedStorageFullInfo" value="Uw schuur vol is, kunt u een grotere capaciteit krijgen door het upgraden.Of je kunt een aantal in uw Roadside Stand verkopen."/>
+<key id="seedStorageFullToClick" value="Uw schuur is vol"/>
+<key id="seedStorageMaxInfo" value="Uw schuur heeft al de maximum capaciteit bereikt is, zet dan de items voor de oogst."/>
+<key id="select" value="kiezen"/>
+<key id="selectFeed" value="Klik hier om de huidige kiezen die u wilt!"/>
+<key id="sell" value="uitdelen"/>
+<key id="sell_coin" value="krijgen"/>
+<key id="sell_confirm" value="Bevestiging van Sale"/>
+<key id="server_error" value="Sorry, internetverbinding fout Vernieuw het spel."/>
+<key id="setting" value="Hulp en feedback"/>
+<key id="settingsTooltip" value="instellingen"/>
+<key id="shareBtn" value="voeren"/>
+<key id="sheepfood" value="schapen veevoeder"/>
+<key id="shouchong" value="Als spelers Laad elk bedrag, kunnen ze een cadeau"/>
+<key id="shouchongtitle" value="Cadeau pakket"/>
+<key id="shovel" value="bom"/>
+<key id="skillBuySkillButton" value="upgrade"/>
+<key id="soundTooltip" value="Sound Effects"/>
+<key id="speedtext" value="versnellen"/>
+<key id="startAction" value="uitvoeren"/>
+<key id="startGrub" value="begon te graven"/>
+<key id="stateNot" value="Iemand heeft me geholpen, kun je andere vrienden te helpen."/>
+<key id="stealInfo" value="Tijdens je offline periode heeft het aapje weg gestolen van een {0}"/>
+<key id="stealInfoOnline" value="De kleine aap rent weg na het stelen van 1 {0}"/>
+<key id="steal_action" value="Produceren {1} {0}"/>
+<key id="stopWorkButton" value="annuleren"/>
+<key id="stopWorkPopup" value="Klik om schoon puin"/>
+<key id="storageCapacity" value="Opslagcapaciteit van: {0}/{1}"/>
+<key id="subtext01" value="Het indienen van vragen"/>
+<key id="subtext02" value="Tips: Geef een korte beschrijving van het probleem in het spel, zodat we kunnen controleren en op te lossen zonder vertraging. Bedankt!"/>
+<key id="subtext03" value="probleem Type"/>
+<key id="subtext04" value="Beschrijving van het probleem"/>
+<key id="subtext05" value="brievenbus"/>
+<key id="subtext06" value="voorleggen"/>
+<key id="subtext07" value="Voer alstublieft uw beschrijving van het probleem hier"/>
+<key id="subtext09" value="Ongeldig E-mail formaat"/>
+<key id="subtext10" value="Beschrijving van het probleem kan niet leeg zijn"/>
+<key id="swanfood" value="zwaan voedergewassen"/>
+<key id="tape" value="Big Screw"/>
+<key id="thiefItemBtnTF" value="Ga naar de boerderij vriend"/>
+<key id="thiefItemTimeTF" value="Om tijd te halen: {0}"/>
+<key id="thiefItemTitle" value="{0} 's boerderij"/>
+<key id="thiefLevel" value="Noodzaak om de Level {0} om iets te stelen bereiken, snel verhogen uw niveau!"/>
+<key id="thiefTitle" value="Speler Bericht"/>
+<key id="ticketNotEnough" value="vouchers onvoldoende"/>
+<key id="timeDay" value="dag"/>
+<key id="timeHour" value="uur"/>
+<key id="timeMinute" value="minuut"/>
+<key id="timeSencond" value="tweede"/>
+<key id="topazX10" value="koperen x10"/>
+<key id="total" value="Kosten {0}"/>
+<key id="tutorial_1" value="Welkom bij Star Farm, is het belangrijk om de basiskennis van het beheren van een boerderij leren voordat je het leven hier beginnen!"/>
+<key id="tutorial_2" value="Je genoeg geld hebt nu. Ga naar een nieuwe machine in de winkel te kopen!"/>
+<key id="tutorial_2" value="Nu heb je genoeg geld om een nieuwe machine te kopen, ga dan naar een kijkje in de winkel hebben."/>
+<key id="tutorial_3" value="Wilt u meer energie? Koop een kip in de winkel om meer plezier toe te voegen aan uw bedrijf!"/>
+<key id="tutorial_3_1" value="Uw feed loopt, ga naar de winkel om voer te kopen, kunt u een feed te maken, ga en ervaar het!"/>
+<key id="tutorial_3_2" value="Het kleine meisje in de boerderij te wachten op uw hulp, ga en neem een kijkje nemen en zorgen voor de hulp!"/>
+<key id="tutorial_4" value="De succesvolle uitvoering van de truck bestellingen brengen je ervaart en munten, gaan en hebben een keer te proberen!"/>
+<key id="tutorial_5" value="Kleine markt om uw goederen te verkopen, kunt u de items die u nodig hebt te kopen!"/>
+<key id="tutorial_5_1" value="Nu ben je al bekend bent met de basiswerking van de boerderij, op zoek naar een nieuwe generatie van de boeren!"/>
+<key id="tutorial_Buy" value="kopen"/>
+<key id="tutorial_ChickFeed" value="voeden"/>
+<key id="tutorial_ChickHarvest" value="oogst"/>
+<key id="tutorial_FarmHarvest" value="oogst"/>
+<key id="tutorial_FarmSeed" value="Plant de zaden"/>
+<key id="tutorial_Produce" value="procédé"/>
+<key id="tutorial_intro" value="Welkom bij Star Farm. Voordat ik de hand van de boerderij over aan u, ik zal u een aantal van de basisvaardigheden die je nodig hebt te leren. Laten we nu beginnen!"/>
+<key id="unLockatlevel" value="Ontgrendelen op niveau {0}"/>
+<key id="unLockformoney" value="Unlock Spending"/>
+<key id="unlockAirshipConfirm" value="De kleine Luchtschip kan brengen u grote voordelen, ga hem vast te zetten! Behoefte om 16.000 munten te besteden te repareren"/>
+<key id="unlock_battle" value="Aanval nodig {0}"/>
+<key id="upgradeToLevel" value="Reach Lv {0}"/>
+<key id="user_sealed_forever" value="Sorry, je account wordt verboden"/>
+<key id="visitFriendButton" value="compleet Gebouw"/>
+<key id="waiting" value="Wachten ..."/>
+<key id="warn" value="waarschuwing"/>
+<key id="wood" value="houten Plank"/>
+<key id="wool" value="wol"/>
+<key id="workInProgressPopupAsk" value="Als je de productie van dit gebouw te stoppen, zul je het verlies van middelen veroorzaken"/>
+<key id="workInProgressPopupFinish" value="Nodig een vriend om u te helpen versnellen"/>
+<key id="workInProgressPopupFinish1" value="Gebruik {0} {points} om Right Now Finish"/>
+<key id="workInProgressPopupOr" value="Instant Compleet"/>
+<key id="workshopIsFull" value="De wachtrij is vol"/>
+<key id="workshopRipeFull" value="De productie cap bereikt, dan kunt u verzamelen om ruimte te maken voor meer middelen."/>
+<key id="xinshoutitle" value="Goodie bag voor nieuwkomers"/>
+<key id="zanInfo" value="Als je van ons spel, klikt u op de 'als' van het spel en de pagina fans. We kunnen het niet zonder uw steun!"/>
+<key id="zanInfo2" value="Bedankt voor uw steun. Vanaf nu tot 28 april, klik op 'als' geeft je verrassen! Kom en doe mee!"/>
+<key id="zanTitle" value="Like ons!"/>
+<key id="zoomInTooltip" value="Inzoomen"/>
+<key id="zoomOutTooltip" value="Uitzoomen"/>
+<key id="LackResources" value="gebrek aan middelen"/>
+<key id="EnergyAddPopouInfo" value="Sterkte toe! Help vrienden te oogsten gewassen, kunt u een meevaller krijgen."/>
+<key id="EnergyAddPopouTitle" value="kracht toe te voegen"/>
+<key id="isVisitText" value="vrienden bezoeken"/>
+<key id="Windmill" value="windmolen"/>
+<key id="ChildrenBallon" value="chick Ballon"/>
+<key id="Swing" value="Swing voor kinderen"/>
+<key id="ChildrenSwing" value="herfst Swing"/>
+<key id="feed_230013_1_body" value="Het brood {0} gemaakt is uitverkocht."/>
+<key id="feed_230013_2_body" value="Eet slechts één stuk brood {0} maakte, zal je nooit vergeten."/>
+<key id="feed_230013_3_body" value="Het brood {0} maakte maakt je liefdevol herinneren je moeder."/>
+		 
+<key id="feed_230012_1_body" value="{0} geproduceerd voer kleine dieren heel veel."/>
+<key id="feed_230012_2_body" value="Aha! De zwijnen werd zo vet en gezond omdat het eten van het voer door {0}."/>
+<key id="feed_230012_3_body" value="Na het eten van het voer {0} geproduceerd, de katten en honden zal u vertellen hoe ze zich voelen."/>
+		 
+<key id="feed_230014_1_body" value="De boter {0} gemaakt is zeer goed."/>
+<key id="feed_230014_2_body" value="Als je boter {0} maakte continu hechten 5214 weken, zal je woont 100 jaar oud te zijn."/>
+<key id="feed_230014_3_body" value="Secretaresse wilde! je nodig hebt om zich te gedragen als een dame, maar denken als een man."/>
+		 
+<key id="feed_230034_1_body" value="{0} kan het niet helpen te veel drinken."/>
+<key id="feed_230034_2_body" value="Bieren {0} gemaakt zijn de top in de wereld."/>
+<key id="feed_230034_3_body" value="Wijn {0} made hand omlaag naar generaties."/>
+<key id="feed_230034_4_body" value="{0} overgeboekt van de Kir Royal, het smaakt fantastisch."/>
+		 
+<key id="feed_230015_1_body" value="Met de hulp van {0}, hebben we dubbel te verdienen."/>
+<key id="feed_230015_2_body" value="Suikers {0} geproduceerd voelt u pure voelen."/>
+<key id="feed_230015_3_body" value="{0} zei dat er geen inventaris! Opschieten om te produceren!"/>
+		 
+<key id="feed_230016_1_body" value="{0} gerepareerd popcornmachine, en kunnen we lekker popcorn weer produceren."/>
+<key id="feed_230016_2_body" value="De popcorn {0} geproduceerd match deze film best."/>
+<key id="feed_230016_3_body" value="{0} zet de popcorn wereldwijd verkocht."/>
+		 
+<key id="feed_230017_1_body" value="{0} won de eerste in een het eten concurrentie in Star Farm."/>
+<key id="feed_230017_2_body" value="Aangezien het eten van een hamburger {0} geproduceerd, nu geef ik de voorkeur aan een ander voedsel elke dag."/>
+<key id="feed_230017_3_body" value="{0} heeft gezegd:'Het vlees we gekocht is verste en gezondste, welkom op mijn boerderij om een smaak te hebben!'"/>
+		 
+<key id="feed_230018_1_body" value="{0} belooft u een goedkope en snelle levering aan huis."/>
+<key id="feed_230018_2_body" value="Gebakken koekjes {0} maakte zijn beter als gezonder."/>
+<key id="feed_230018_3_body" value="{0} net klaar met schoonmaken, welkom op mijn boerderij!"/>
+<key id="feed_230018_4_body" value="{0} kan u voorzien van heerlijke taart bij u thuis."/>
+		 
+<key id="feed_230024_1_body" value="Clotheing ontworpen door {0} is te bezichtigen tijdens de Paris Fashion Week."/>
+<key id="feed_230024_2_body" value="Clotheing ontworpen door {0} brengen je de kleuren van de wereld!"/>
+<key id="feed_230024_3_body" value="Clotheing ontworpen door {0} is geschikt voor elke belangrijke gelegenheden."/>
+<key id="feed_230024_4_body" value="{0} zei:'Goh Mijn jurk werd strak weer!'"/>
+		 
+<key id="feed_230031_1_body" value="Ei-taarten {0} maakte zijn meer lief dan mijn eerste liefde."/>
+<key id="feed_230031_2_body" value="Ik kan niet eens mijn ogen uit het ei-taarten {0} gemaakt."/>
+<key id="feed_230031_3_body" value="{0} wil het ei-teer zou niet uitverkocht, dus hij al de ei-teer konden genieten."/>
+		 
+<key id="feed_230032_1_body" value="Met onze parfum, {0} vond een knappe vriendje."/>
+<key id="feed_230032_2_body" value="Het parfum gemaakt door {0} trekt het andere geslacht eenvoudig, bovendien, met het parfum wordt geleverd met een boek over zelfverdediging."/>
+<key id="feed_230032_3_body" value="Het parfum gemaakt door {0} is langdurig."/>
+<key id="feed_230032_4_body" value="{0} zei dat als je man je niet zou kopen van de parfum, zoek een andere mensen!"/>
+<key id="feed_230032_5_body" value="Gelieve niet aanklampen een make-up vrouw terloops, omdat ze waarschijnlijk je oma zijn!"/>
+		 
+<key id="feed_230035_1_body" value="Het is absoluut ongelooflijk dat {0} heeft gemaakt van pittige-smaak snoepjes."/>
+<key id="feed_230035_2_body" value="De mint snoepjes {0} geproduceerd maak je elke kussen perfect."/>
+<key id="feed_230035_3_body" value="God weet het beste snoepjes komen uit {0} 'handen."/>
+<key id="feed_230035_4_body" value="{0} zei werken maakt mensen gelukkig! Heeft u een keer te proberen wilt?"/>
+		 
+<key id="feed_230033_1_body" value="Met de hulp van {0}, we hebben dubbele hoeveelheid van de productie."/>
+<key id="feed_230033_2_body" value="{0} vond een zeldzame vorm van erts."/>
+<key id="feed_230033_3_body" value="{0} gevonden de beste erts."/>
+<key id="feed_230033_4_body" value="{0} werd uitgeroepen tot de beste Ketelmakers Star Farm."/>
+		 
+<key id="feed_230039_1_body" value="{0} is het maken van gebakken IceCream.Come en geniet met ons mee!"/>
+<key id="feed_230039_2_body" value="De beste IceCream gemaakt door {0} is alleen voor favoriete mensen."/>
+<key id="feed_230039_3_body" value="Kom en bezoek mijn boerderij als je vrij bent."/>
+<key id="feed_230039_4_body" value="Hou van haar/hem dan nodigen hem/haar naar de meest beroemde IceCream gemaakt door {0} te eten."/>
+		 
+<key id="feed_230040_1_body" value="Sappen gemaakt door {0} zijn best verkocht over de hele wereld."/>
+<key id="feed_230040_2_body" value="U vindt de laatste druppel van de sappen die door {0} drinken."/>
+<key id="feed_230040_3_body" value="Het sap gemaakt door {0} is buiten je voorstellen."/>
+<key id="feed_230040_4_body" value="{0} staat voor u klaar als een gratis advocaat."/>
+
+<!--  新增 职位 -->
+<key id="crew_230013_1" value="brood Masters"/>
+<key id="crew_230013_2" value="brood Leerlingen"/>
+<key id="crew_230013_3" value="bakkerij Manager"/>
+		 
+<key id="crew_230012_1" value="voeden arbeiders"/>
+<key id="crew_230012_2" value="werknemers pakken"/>
+<key id="crew_230012_3" value="Feed samensteller"/>
+		 
+<key id="crew_230014_1" value="Inspecteur"/>
+<key id="crew_230014_2" value="Purchasing Manager"/>
+<key id="crew_230014_3" value="secretaresse"/>
+		 
+<key id="crew_230034_1" value="sommelier"/>
+<key id="crew_230034_2" value="Verkoopsmanager"/>
+<key id="crew_230034_3" value="wijnmakers"/>
+<key id="crew_230034_4" value="barman"/>
+		 
+<key id="crew_230015_1" value="Suikerproductie directeur"/>
+<key id="crew_230015_2" value="Sugar Technologen"/>
+<key id="crew_230015_3" value="Warehouse Manager"/>
+		 
+<key id="crew_230016_1" value="Mechanische installatie divisie"/>
+<key id="crew_230016_2" value="CFO"/>
+<key id="crew_230016_3" value="De verkoop van de mensen"/>
+		 
+<key id="crew_230017_1" value="super eters"/>
+<key id="crew_230017_2" value="barbecue Master"/>
+<key id="crew_230017_3" value="Purchasing Manager"/>
+		 
+<key id="crew_230018_1" value="Accounting"/>
+<key id="crew_230018_2" value="Gebakken Pie Masters"/>
+<key id="crew_230018_3" value="schoonmaaksters"/>
+<key id="crew_230018_4" value="bezorger"/>
+		 
+<key id="crew_230024_1" value="Apparel Production Manager"/>
+<key id="crew_230024_2" value="color Designer"/>
+<key id="crew_230024_3" value="Fashion Design"/>
+<key id="crew_230024_4" value="Kleding Shopping Guide"/>
+		 
+<key id="crew_230031_1" value="marktonderzoekers"/>
+<key id="crew_230031_2" value="Equipment Maintenance Technician"/>
+<key id="crew_230031_3" value="taartjes verkoper"/>
+		 
+<key id="crew_230032_1" value="Beauty Fragrance Consultant"/>
+<key id="crew_230032_2" value="parfum Model"/>
+<key id="crew_230032_3" value="Parfum Inzet van de afdeling"/>
+<key id="crew_230032_4" value="Teller shopping guide"/>
+<key id="crew_230032_5" value="Make-up Artist"/>
+		 
+<key id="crew_230035_1" value="Algemeen Directeur"/>
+<key id="crew_230035_2" value="Financieel Manager"/>
+<key id="crew_230035_3" value="verkoper"/>
+<key id="crew_230035_4" value="Human Resources Manager"/>
+		 
+<key id="crew_230033_1" value="Mechanical Repair Division"/>
+<key id="crew_230033_2" value="Ore Taxateurs"/>
+<key id="crew_230033_3" value="Ore Purchasing Director"/>
+<key id="crew_230033_4" value="Kotelshchik"/>
+		 
+<key id="crew_230039_1" value="Dessert Gebak Division"/>
+<key id="crew_230039_2" value="Haagen Apprentice"/>
+<key id="crew_230039_3" value="ober"/>
+<key id="crew_230039_4" value="Fancy Ice Cream Apprentice"/>
+		 
+<key id="crew_230040_1" value="Sap R &amp; D Manager"/>
+<key id="crew_230040_2" value="logistiek Manager"/>
+<key id="crew_230040_3" value="Smaak inzet van de afdeling"/>
+<key id="crew_230040_4" value="juridisch adviseur"/>
+
+<key id="crew_friends"  value="Om een ​​vriend te huren"/>
+<key id="crew_friends_title"  value="werkgelegenheid vrienden"/>
+<key id="hire"  value="huren"/>
+<key id="need_hire"  value="Het aantal benodigde werkgelegenheid:{0}"/>
+<key id="help_people"  value="{0} zegt : {1} ik nodig mankracht , en hoop van harte dat u hulp kunt komen！"/>
+<key id="needCrew" value="Tämä kone työntekijöiden tarpeet , kutsu ystäväsi tulla työntekijöille oikeus!"/>
+<key id="uncollected"  value="Uncollected"/>
+<key id="SevendaysReward"  value="Inloggen beloning"/>
+<key id="RechargeActivities"  value="Lataa toiminta"/>
+<key id="RechargeActivitiesText"  value="Lataa minkä tahansa summan saatylimääräisen 50 % tuotto"/>
+<key id="lastTime"  value="aikaa jäljellä: "/>
+	</module>
+</root>

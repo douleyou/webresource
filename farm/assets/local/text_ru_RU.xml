@@ -1,0 +1,1049 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root locale="zh_test" revision="1">
+	<module name="All">
+		<key id="100035_tips" value="200 {coin}"/>
+<key id="100036_tips" value="100 {essence}"/>
+<key id="220001_tips" value="Вы можете получить некоторую прибыль от посадки сельскохозяйственных угодий."/>
+<key id="About" value="О нас"/>
+<key id="AboutContent" value="ELEX авторское право\n StarTech команда разработала"/>
+<key id="ActivityLoginAwardTitle" value="Накопленные посадки"/>
+<key id="ActivityLoginGetAward" value="Получить"/>
+<key id="ActivityLoginMsg" value="Звезда Farm идет! За время своей деятельности, достижения определенных требований получит Вас большие награды! Сразу Начните жизни фермы!"/>
+<key id="ActivityLoginTime" value="Время деятельности: 2013/05/16——2013/05/30"/>
+<key id="ActivityLoginday" value="{0} день"/>
+<key id="ActivityLoginlevel" value="{0} класса"/>
+<key id="ActivityPay1" value="Пакет для пополнения счета"/>
+<key id="ActivityPay2" value="Ваше накопленное пополнение счета"/>
+<key id="ActivityPay3" value="{0}{points}"/>
+<key id="ActivityPay4" value="Описание о пополнении счета"/>
+<key id="Ale" value="Пиво"/>
+<key id="Apple" value="Яблоко"/>
+<key id="AppleJuice" value="Яблочный сок"/>
+<key id="ApplePie" value="Яблочный пирог"/>
+<key id="AppleTree" value="Яблоня"/>
+<key id="AppleTree_desc" value="Собрать 3 раза"/>
+<key id="ArenaStart" value="Вызов"/>
+<key id="ArenaStart2" value="Больше шансов"/>
+<key id="ArenaStart3" value="Сократить время"/>
+<key id="ArenaTime" value="Время для получения"/>
+<key id="ArenaTop" value="Рейтинг"/>
+<key id="AskForHelp" value="Просить о помощи"/>
+<key id="BBQGrill" value="Стойка для барбекю"/>
+<key id="BBQGrill_desc" value="Барбекю"/>
+<key id="BaconEgg" value="Бекон яйцо"/>
+<key id="BaconPie" value="Бекон пирожок"/>
+<key id="BakedTomato" value="Жареные помидоры"/>
+<key id="Bakery" value="Тостер"/>
+<key id="Bakery_desc" value="Выпечка"/>
+<key id="BambooFence" value="Бамбуковый забор"/>
+<key id="BambooFence_desc" value="Украсьте свою ферму"/>
+<key id="Banana" value="Банан"/>
+<key id="Beer" value="Пиво"/>
+<key id="BeerMaker" value="Пивоваренная машина"/>
+<key id="BeerMaker_desc" value="Производство пива"/>
+<key id="Bench" value="Скамейка"/>
+<key id="Bench_desc" value="Украсьте свою ферму"/>
+<key id="BerryJuice" value="Морс"/>
+<key id="Blackberry" value="Ежевика"/>
+<key id="BlackberryBread" value="Хлеб Blackberry"/>
+<key id="BlackberryCake" value="Ежевичный торт"/>
+<key id="BlackberryTree" value="Ежевичная чаща"/>
+<key id="BlackberryTree_desc" value="Собрать 3 раза"/>
+<key id="Blacksmith_1" value="Хлебопекарня"/>
+<key id="BlueSweater" value="Фиолетовый свитер"/>
+<key id="BlueWoollyHat" value="Фиолетовый масках"/>
+<key id="Box" value="Ящик"/>
+<key id="Box_desc" value="Украсьте свою ферму"/>
+<key id="Bread" value="Хлеб"/>
+<key id="Bread_desc" value="Можно быть продано"/>
+<key id="BrownRailings" value="Коричневый забор"/>
+<key id="BrownSugar" value="Коричневый сахар"/>
+<key id="Bucket" value="Бочка"/>
+<key id="Bucket_desc" value="Украсьте свою ферму"/>
+<key id="Butter" value="Масло"/>
+<key id="ButterPopcorn" value="Масло-попкорн"/>
+<key id="CHANGE FARM NAME" value="Изменить название фермы"/>
+<key id="HayStack" value="стог сена"/>
+<key id="HayStack_desc" value="Украсьте свою ферму"/>
+<key id="Cage" value="Клетка"/>
+<key id="CageMaker" value="Комната производства"/>
+<key id="CageMaker_desc" value="Сделать клетки"/>
+<key id="CakeOven" value="Тортовая машина"/>
+<key id="CakeOven_desc" value="Выпекать торт"/>
+<key id="Camp" value="палатка"/>
+<key id="CandyMachine" value="Конфетная машина"/>
+<key id="CandyMachine_desc" value="Производство конфет"/>
+<key id="Cane" value="Сахарный тростник"/>
+<key id="Capsicum" value="Перец"/>
+<key id="Caramel" value="Карамель"/>
+<key id="Carrot" value="Морковь"/>
+<key id="CarrotCake" value="Морковный торт"/>
+<key id="CarrotJuice" value="Морковный сок"/>
+<key id="CarrotPie" value="Морковный пирожок"/>
+<key id="Cat" value="Полосатый"/>
+<key id="CatHouse" value="Кошачьих туалетов"/>
+<key id="CatHouse_desc" value="Может поддерживать три кошки"/>
+<key id="Cat_desc" value="Опыт может быть собран"/>
+<key id="Cheese" value="Сыр"/>
+<key id="CheeseCake" value="Чизкейк"/>
+<key id="Cherry" value="Вишневое дерево"/>
+<key id="Cherry" value="Вишня"/>
+<key id="CherryCake" value="Вишневый торт"/>
+<key id="CherryJuice" value="Вишневый сок"/>
+<key id="CherryTree" value="Вишневое дерево"/>
+<key id="CherryTree_desc" value="Собрать 3 раза"/>
+<key id="Chick" value="Курица"/>
+<key id="ChickHouse" value="Курятник"/>
+<key id="ChickHouse_desc" value="Можно кормить 6 куриц"/>
+<key id="Chick_desc" value="Яйцо /20 минут"/>
+<key id="ChilliPopcorn" value="Перцовый попкорн"/>
+<key id="Chocolate" value="Шоколад"/>
+<key id="ChocolateIceCream" value="Шоколадное мороженое"/>
+<key id="Citruslimon" value="Лимон"/>
+<key id="CitruslimonTree" value="Лимонное дерево"/>
+<key id="CitruslimonTree_desc" value="Собрать 3 раза"/>
+<key id="CityActivity1" value="Добро пожаловать в  Star Farm"/>
+<key id="CityActivity2" value="Количество алмазов для получения"/>
+<key id="CityActivity3" value="Этот раз можете получить"/>
+<key id="CityActivity3_2" value="Следующий раз можете получить"/>
+<key id="CityActivity4" value="Следующее получение:"/>
+<key id="CityActivityBtnTip" value="Эксклюзивный подарок City Life"/>
+<key id="CityActivityEnd" value="Вы уже получили все подарки, лучше быстро строить ферму сейчас!"/>
+<key id="CityActivityInfo" value="Уважаемые игроки City Life, для того, чтобы вы могли наслаждаться пастырской жизнью, мы подготовили эксклюзивный подарок - алмазы! Не забудьте получить."/>
+<key id="Cocktail" value="Коктейль"/>
+<key id="Coco" value="какао"/>
+<key id="CocoTree" value="Дерево-какао"/>
+<key id="CocoTree_desc" value="Собрать 3 раза"/>
+<key id="Cocoa" value="Какао"/>
+<key id="CocoaTree" value="Какао-дерево"/>
+<key id="CocoaTree_desc" value="Собрать 3 раза"/>
+<key id="Coming Soon" value="Оставайтесь с нами"/>
+<key id="Coming" value="Обезьянка направляется к вашей ферме!!"/>
+<key id="CompleteOrder" value="Награды за Завершение"/>
+<key id="Cookies" value="Печенье"/>
+<key id="Corn" value="Кукуруза"/>
+<key id="Cow" value="Молочная корова"/>
+<key id="CowHouse" value="Коровник"/>
+<key id="CowHouse_desc" value="Можно кормить 5 молочных коров"/>
+<key id="Cow_desc" value="Молоко/ 1 час"/>
+<key id="Cream" value="Крем"/>
+<key id="CreamCake" value="Кремовый торт"/>
+<key id="Cream_desc" value="Можно быть продано"/>
+<key id="CurrentRank" value="Текущий рейтинг"/>
+<key id="Dairy" value="Молочная мастерская"/>
+<key id="Dairy_desc" value="Производство молочной продукции"/>
+<key id="Decoration_desc" value="Украсьте свою ферму"/>
+<key id="Discount0904_buy_btn" value="Купить сейчас"/>
+<key id="Discount0904_text_0" value="Большие скидки"/>
+<key id="Discount0904_text_1" value="Осталось:"/>
+<key id="Discount0904_text_2" value="дней"/>
+<key id="Discount0904_text_3" value="Начальная цена: 8"/>
+<key id="Discount0904_text_4" value="Текущая цена только:"/>
+<key id="Discount0904_text_5" value="4"/>
+<key id="Dog" value="Гончая"/>
+<key id="DogHouse" value="Конура"/>
+<key id="DogHouse_desc" value="Вы можете держать 3 собаки"/>
+<key id="Dog_desc" value="Опыт может быть собран"/>
+<key id="DoubleLayerCake" value="Двухслойный торт"/>
+<key id="EndInvite_text_0" value="Обратите внимание нижестоящих код приглашения деятельности"/>
+<key id="EndInvite_text_1" value="Деятельность закончится чере дня, пожалуйста, запросите код приглашения у друзей как можно скорее, которые используют HappyFrarm мобильной версии, после успешного использования кода приглашения, вы с вашем другом можете получить богатые награды! Чем больше друзей вы поделитесь, тем больше подарков вы получите!"/>
+<key id="EndInvite_text_2" value="Делиться"/>
+<key id="EndInvite_text_3" value="Ввести"/>
+<key id="EndInvite_text_4" value="Получить"/>
+<key id="EndInvite_text_5" value="1. Скопировать код приглашения HappyFrarm ПК версии"/>
+<key id="EndInvite_text_6" value="2. Поделиться с друзьями, которые используют HappyFrarm мобильной версии"/>
+<key id="EndInvite_text_7" value="3. Получить подарки"/>
+<key id="EndInvite_text_8" value="Осталось:"/>
+<key id="EndInvite_text_9" value="дней"/>
+<key id="FACEBOOK-CONNECT" value="Подключиться к facebook"/>
+<key id="FanPageRewardBtn" value="Получить" />
+<key id="FanPageRewardInfo" value="Введите настенных вентиляторов поделиться нашим пост, и нажмите соответствующую ссылку в пост, то вы получите награду!" /> 
+<key id="FanPageRewardTitle" value="Ежедневный награда!" /> 
+<key id="Farm" value="Сельскохозяйственное угодье"/>
+<key id="Farm_desc" value="Выращивание культур"/>
+<key id="FeedMill" value="Машина кормов"/>
+<key id="FeedMill_desc" value="Произвести корма для животных"/>
+<key id="FlowerCar" value="Поплавки"/>
+<key id="FlowerPot" value="Цветочный горшок"/>
+<key id="FlowerPot_desc" value="Украсьте свою ферму"/>
+<key id="Follow Count" value="Количество партнеров"/>
+<key id="FoodNotEnoughTip" value="У вас не хватает кормов, нельзя коримть"/>
+<key id="FreshHay" value="Свежее сено"/>
+<key id="FreshHay_desc" value="Украсьте свою ферму"/>
+<key id="FruitJuice" value="Соковыжималка"/>
+<key id="FruitJuice_desc" value="Приготовления соков"/>
+<key id="Garden" value="Цветник"/>
+<key id="Garden_desc" value="Украсьте свою ферму"/>
+<key id="GetNow" value="Get Now"/>
+<key id="Gloves" value="Перчатки"/>
+<key id="Goat" value="Коза"/>
+<key id="GoatCheese" value="Козий сыр"/>
+<key id="GoatHouse" value="Загон для козы"/>
+<key id="GoatHouse_desc" value="Можно кормить 4 козы"/>
+<key id="GoatMilk" value="Козье молоко"/>
+<key id="GoatPie" value="Пирожог из козьего сыра"/>
+<key id="Goat_desc" value="Козье молоко/ 8 часов"/>
+<key id="GoldBar" value="Золотой слиток"/>
+<key id="GoldOre" value="Золотая руда"/>
+<key id="Grape" value="Виноград"/>
+<key id="GrapeJuice" value="Вино"/>
+<key id="GrapeLemonJuice" value="Виноградный духи лимона"/>
+<key id="GrapeTree" value="Vines"/>
+<key id="GrapeTree_desc" value="Собрал три раза"/>
+<key id="GreenHaystack" value="Зеленый стог"/>
+<key id="GreenHaystack_desc" value="Украсьте свою ферму"/>
+<key id="GreenStack" value="Зеленая стена кустарник"/>
+<key id="HELP AND FEEDBACK" value="Помощь и обратная связь"/>
+<key id="HTFansInfo1" value="300000 Вентиляторы стадо!"/>
+<key id="HTFansInfo2" value="Активность: Вентиляторы достигло 300 000 в течение двух дней, чтобы получить награды от"/>
+<key id="HTFansInfo3" value="Дорогие друзья, Star Farm приветствует его номер 300000 вентилятор! Вы рады? С вашей поддержкой, мы продолжаем оптимизировать функции Star Farm. Пожалуйста, имейте пристальное внимание к нашей игре и настенных вентиляторов."/>
+<key id="HTFansInfo5" value="Если вы рады Вас, чтобы поделиться с друзьями более сейчас!"/>
+<key id="HTFansInfo6" value="С уважением"/>
+<key id="Hamburger" value="Гамбургер"/>
+<key id="Here you will find people following you!" value="Здесь вы найдете людей, которые следуют за вами!"/>
+<key id="RomanPillar" value="римский-столб"/>
+<key id="RomanPillar_desc" value="Украсьте свою ферму"/>
+<key id="IceCreamMaker" value="Мороженица"/>
+<key id="IceCreamMaker_desc" value="Произвести мороженое"/>
+<key id="Language" value="Выберите язык"/>
+<key id="Lavender" value="Лаванда"/>
+<key id="LavenderPerfume" value="Лаванда духи"/>
+<key id="Leaving" value="Обезьянка собирается украсть ваши вещи! Идите и поймайте ее!"/>
+<key id="LemonPopsicle" value="Горячая жевательная резинка"/>
+<key id="Level" value="Уровень"/>
+<key id="LevelUpNewsStr" value="Новый!"/>
+<key id="Lily" value="Белая лилия"/>
+<key id="LilyPerfume" value="Духи лилии"/>
+<key id="LoadCargo" value="Загрузить товары"/>
+<key id="Loom" value="Текстильная машина"/>
+<key id="Loom_desc" value="Ткать одежду"/>
+<key id="Lupulus" value="Хмель"/>
+<key id="MashedPotato" value="Запеченное картофельное пюре"/>
+<key id="MaterialStorage" value="Товарный склад"/>
+<key id="MintJelly" value="Желе Мята"/>
+<key id="MintSugar" value="Минц"/>
+<key id="Mintgrass" value="Мята"/>
+<key id="MobileActivity_1" value="Деятельность кода приглашения"/>
+<key id="MobileActivity_2" value="Делиться"/>
+<key id="MobileActivity_3" value="Введите"/>
+<key id="MobileActivity_4" value="Получить"/>
+<key id="MobileActivity_5" value="С сегодняшнего дня в StarFarm Android введите 【{0}】, вы можете получить богатые подарки!"/>
+<key id="MobileActivity_6" value="Скачать мобильную версию StarFarm,введите пригласительный код,получить подарки!"/>
+<key id="MobileActivity_8" value="Ваш пригласительный код был использован 1 раз, вы получили:"/>
+<key id="MobileActivity_9" value="Используйте коды приглашения многоразово, вы можете получить больше!"/>
+<key id="MobileActivity_copyBtn" value="копия"/>
+<key id="MobileActivity_copyOK" value="Успешная копия"/>
+<key id="MobileActivity_stateBtn" value="Посмотреть мою пригласительную ситуацию"/>
+<key id="MobileActivity_times" value="Успешно использовано {0}"/>
+<key id="MyFarm" value="Моя ферма"/>
+<key id="Name" value="Имя игрока"/>
+<key id="Next page" value="Следующая страница"/>
+<key id="Ore" value="Шахта"/>
+<key id="Page up" value="Предыдущая страница"/>
+<key id="Pavilion" value="Павильон"/>
+<key id="Pavilion_desc" value="Украсьте свою ферму"/>
+<key id="Paycash" value="Заплатить {0}{points}"/>
+<key id="Paycash1" value="Оплата {0} для пополнения запаса"/>
+<key id="PerfumeMaker" value="Машина духов"/>
+<key id="PerfumeMaker_desc" value="Производство духов"/>
+<key id="PieOven" value="Машина для обработки пирожка"/>
+<key id="PieOven_desc" value="Запеченный пирожок"/>
+<key id="Pig" value="Свинья"/>
+<key id="PigHouse" value="Свинарник"/>
+<key id="PigHouse_desc" value="Можно кормить 5 свиней"/>
+<key id="Pig_desc" value="Бекон/ 4 часа"/>
+<key id="Pizza" value="Блинчики"/>
+<key id="PlatinumBar" value="Платиновый слиток"/>
+<key id="PlatinumOre" value="Платиновая руда"/>
+<key id="Popcorn" value="Попкорн"/>
+<key id="PopcornPot" value="Машина попкорна"/>
+<key id="PopcornPot_desc" value="Произвести попкорн"/>
+<key id="Potato" value="Картофель"/>
+<key id="PotatoPie" value="Картофельный пирог"/>
+<key id="Preferential_1" value="Большая скидка"/>
+<key id="Preferential_2" value="Получить все из следующих предметов по низким ценам"/>
+<key id="Preferential_3" value="Подсказка: игрок ниже уровня 8 может покупать"/>
+<key id="Preferential_4" value="Первоначальная цена $20, теперь только..."/>
+<key id="Preferential_5" value="Купить сейчас"/>
+<key id="Pumpkin" value="Тыква"/>
+<key id="PumpkinPie" value="Тыквенный пирожок"/>
+<key id="PvePopupProgress" value="{0}/{1}"/>
+<key id="Rabbit" value="Заяц"/>
+<key id="RabbitFur" value="Кролика волосы"/>
+<key id="RabbitHouse" value="Кроличья нора"/>
+<key id="RabbitHouse_desc" value="Можно кормить 5 Заяц"/>
+<key id="Rabbit_desc" value="Кролика волосы/9 час"/>
+<key id="RainbowCandy" value="Кегли"/>
+<key id="Raspberry" value="Малина"/>
+<key id="RaspberryBread" value="Малиновый Хлеб"/>
+<key id="Receive" value="Получить"/>
+<key id="ReceiveSuc" value="Получить успешно"/>
+<key id="Received" value="Уже получили"/>
+<key id="Rose" value="Роза"/>
+<key id="RosePerfume" value="Розовые духи"/>
+<key id="RoundBed" value="Круглая кровать цветок"/>
+<key id="RoundBed_desc" value="Украсьте свою ферму"/>
+<key id="RubberDuck" value="RubberDuck"/>
+<key id="Scarecrow" value="Чучело"/>
+<key id="Scarecrow_desc" value="Украсьте свою ферму"/>
+<key id="Scarf" value="Шарф"/>
+<key id="SeedStorage" value="Хлебный амбар"/>
+<key id="Shawl" value="Шаль"/>
+<key id="Sheep" value="Овца"/>
+<key id="SheepHouse" value="Овчарня"/>
+<key id="SheepHouse_desc" value="Можно кормить 5 овец"/>
+<key id="Sheep_desc" value="Шерсть /6 часов"/>
+<key id="SilverBar" value="Серебряный слиток"/>
+<key id="SilverOre" value="Серебряная руда"/>
+<key id="Slides" value="Детская площадка"/>
+<key id="SmallChair" value="Придорожный Стул"/>
+<key id="Smelter" value="Машина руды"/>
+<key id="Smelter_desc" value="Производство руды"/>
+<key id="SnowBoots" value="Снегоступы"/>
+<key id="Sold" value="Проданный"/>
+<key id="Soybean" value="Соевые бобы"/>
+<key id="Squirrel" value="Белка"/>
+<key id="SquirrelHouse" value="Домик на дереве"/>
+<key id="SquirrelHouse_desc" value="Домик на дереве"/>
+<key id="Squirrel_desc" value="Опыт может быть собран"/>
+<key id="StopBuildingWorkButton" value="Остановить производить"/>
+<key id="StoreRoad" value="Гравийная дорога"/>
+<key id="StoreRoad_desc" value="Украсьте свою ферму"/>
+<key id="StoreWall" value="Каменные стены"/>
+<key id="StoreWall_desc" value="Украсьте свою ферму"/>
+<key id="Straw" value="солома"/>
+<key id="Strawberry" value="Клубника"/>
+<key id="Strawberry" value="Малина"/>
+<key id="StrawberryCake" value="Клубничный пирог"/>
+<key id="StrawberryIceCream" value="Клубничное мороженое"/>
+<key id="StrawberryTree" value="Малиновая чаща"/>
+<key id="StrawberryTree_desc" value="Собрать 3 раза"/>
+<key id="StreetLamp" value="Уличный фонарь"/>
+<key id="StreetLamp_desc" value="Украсьте свою ферму"/>
+<key id="SugarMill" value="Сахарная машина"/>
+<key id="SugarMill_desc" value="Произвести сахар"/>
+<key id="Sugus" value="Швейцарский сахар"/>
+<key id="Swan" value="Лебедь"/>
+<key id="SwanAnnounce_text_0" value="Приветствуйте Лебедя"/>
+<key id="SwanAnnounce_text_1" value="Достичь 25 Уровня"/>
+<key id="SwanAnnounce_text_2" value="Разблокировать Лебедя"/>
+<key id="SwanAnnounce_text_3" value="Собирать Продукт"/>
+<key id="SwanFeather" value="Бархат"/>
+<key id="SwanLake" value="Лебединое озеро"/>
+<key id="SwanLake_desc" value="Можно держать 4 лебедей"/>
+<key id="Swan_desc" value="Бархат/7Часов"/>
+<key id="Sweater" value="Белый свитер"/>
+<key id="Syrup" value="Сироп"/>
+<key id="TOPlevel" value="Топ 20 на рейтинге"/>
+<key id="TheArenaRewards" value="Рейтинг награды"/>
+<key id="TicketPopouInfo" value="Ваучеры можно приобрести путем открытия сундуков с сокровищами и заканчивая специальной автомобильной заказы, и вы можете обменять специальные элементы с помощью ваучеров"/>
+<key id="TicketPopouTitle" value="Купон"/>
+<key id="Toaster" value="Толстый тост"/>
+<key id="Tomato" value="Помидор"/>
+<key id="TomatoJuice" value="Томатный сок"/>
+<key id="Tortillas" value="Лепешка"/>
+<key id="TrainLeave" value="Осталось тренировок"/>
+<key id="TrainRepair" value="Ремонтировать"/>
+<key id="TrainScoreFriR" value="Рейтинг друга" />
+<key id="TrainScoreInfo" value="ВС может присудить" />
+<key id="TrainScoreInfo2" value="Чем выше ранг, тем лучше награда" />
+<key id="TrainScoreSevR" value="Рейтинг всех игроков" />
+<key id="TrainScoreTitle" value="Рейтинг очков" />
+<key id="TreeHouse" value="Домик на дереве"/>
+<key id="UnitConfiguration_1" value="Сохранить конфигурацию"/>
+<key id="UpgradePackage_1" value="Подарки обновления"/>
+<key id="UpgradePackage_2" value="Теперь вы можете получить подарки по достижению указанного уровня"/>
+<key id="VanillaIceCream" value="Ванильное мороженое"/>
+<key id="Well" value="Колодец"/>
+<key id="Wheat" value="Пшеница"/>
+<key id="Wheelbarrow" value="Тачка"/>
+<key id="Wheelbarrow_desc" value="Украсьте свою ферму"/>
+<key id="WhiteRailings" value="Белый забор"/>
+<key id="WhiteSugar" value="Сахар"/>
+<key id="YellowHaystack" value="Желтый стог"/>
+<key id="YellowHaystack_desc" value="Украсьте свою ферму"/>
+<key id="accept" value="Принять"/>
+<key id="access_waring" value="Пользователи полны!!!!"/>
+<key id="accountNotice" value="{0} Увеличение {1}"/>
+<key id="achievement1" value="Я люблю есть яйцо"/>
+<key id="achievement10" value="Вкусный крем"/>
+<key id="achievement11" value="Вся ферма"/>
+<key id="achievement12" value="Добрый фермер"/>
+<key id="achievement13" value="Бизнесмен"/>
+<key id="achievement14" value="Дружественные фермеры"/>
+<key id="achievement15" value="Очень много яиц"/>
+<key id="achievement16" value="Очень много молока"/>
+<key id="achievement17" value="Очень много беконов"/>
+<key id="achievement18" value="Очень много культур"/>
+<key id="achievement2" value="Я люблю пить молоко"/>
+<key id="achievement3" value="Эксперт заказа"/>
+<key id="achievement4" value="Я люблю кормить курицу"/>
+<key id="achievement5" value="Я люблю кормить корову"/>
+<key id="achievement6" value="Я эксперт пшеницы"/>
+<key id="achievement7" value="Кукурузная бомба"/>
+<key id="achievement8" value="У меня есть голова редьки"/>
+<key id="achievement9" value="Там будет хлеб"/>
+<key id="achievements" value="Достижение"/>
+<key id="addFriend" value="Добавить в список друзей"/>
+<key id="addFriendSuccess" value="Заявка о дружбе успешно отправлена"/>
+<key id="addFriendfail" value="ID друга не существует"/>
+<key id="addPet" value="Новое дополнение"/>
+<key id="addToFriend" value="Добавить в друзья"/>
+<key id="agateX10" value="Серебро x10"/>
+<key id="agree" value="Принять"/>
+<key id="alertInfo" value="Подтвердите тратить {0} алмазов?"/>
+<key id="allalreayplaced" value="Все было помещено"/>
+<key id="and" value="И"/>
+<key id="application" value="Заявление о Расширение"/>
+<key id="askFeedmsg" value="Запрос о подарке"/>
+<key id="askForhelpButton" value="Просить о помощи"/>
+<key id="ask_help" value="Друг помогает"/>
+<key id="askforfriend" value="Обратиться к друзьям за помощью"/>
+<key id="axe" value="Топор"/>
+<key id="back" value="Возвращение"/>
+<key id="bacon" value="Бекон"/>
+<key id="bagsheet_1" value="Строительство"/>
+<key id="bagsheet_2" value="Украшение"/>
+<key id="bagsheet_6" value="Руда"/>
+<key id="bagsheet_7" value="Материал"/>
+<key id="bagsheet_8" value="Рюкзак"/>
+<key id="battleMapInition" value="В подготовке"/>
+<key id="bolt" value="Большой винт"/>
+<key id="bomb" value="Бомба"/>
+<key id="bonusCoinText" value="Награда:+{0}{coin}!"/>
+<key id="build" value="Магазин"/>
+<key id="buildSheetText_0" value="Сельхозугодья/ Сарай"/>
+<key id="buildSheetText_1" value="Семена/ Мелкие животные"/>
+<key id="buildSheetText_2" value="Склад/ Машина для обработки"/>
+<key id="buildSheetText_3" value="Фруктовое дерево"/>
+<key id="buildSheetText_4" value="Украшение"/>
+<key id="buildingNotReadyToClick" value="Здание строится"/>
+<key id="buildingStatusClearing" value="В работе"/>
+<key id="buildingStatusFinishing" value="Завершить строить"/>
+<key id="buildingStatusGetting" value="В получении"/>
+<key id="buildingStatusHarvesting" value="В урожае"/>
+<key id="buildingStatusPouring" value="Строится"/>
+<key id="buildingStatusProducting" value="Готов"/>
+<key id="building_click_collect" value="Собрать"/>
+<key id="building_click_finish" value="Завершить сразу"/>
+<key id="building_click_move" value="Передвижение"/>
+<key id="building_click_upgrade" value="Улучшение"/>
+<key id="building_click_upgrade2" value="рынок"/>
+<key id="buy" value="Магазин"/>
+<key id="buyAllUseMoney" value="Купить все {0}"/>
+<key id="buyEnergyBtn" value="Купить {energy}"/>
+<key id="buyForSomeMoney" value="{0}"/>
+<key id="buyMachine_action" value="Производить {0} машин"/>
+<key id="buyMineConfirm" value="На шахте вы можете использовать маленький динамит, большой динамит и лопату, чтобы получить руды! Для открытия шахты необходимо потратить 26000 золотых монет!"/>
+<key id="buySomeResource" value="Купить {0}{1}"/>
+<key id="buycash" value="К сожалению, ваши оставшиеся {points} недостаточны, чтобы сделать покупку, хотите ли вы пополнить счет?"/>
+<key id="buyforcash1" value="Купить с {points}"/>
+<key id="buyformoney" value="Расходы"/>
+<key id="buyforresource" value="Купить"/>
+<key id="canNotHelpToday" value="Помоги другу завтра"/>
+<key id="canReward" value="Поздравляем, вы можете получить награду достижения"/>
+<key id="cancel" value="Отмена"/>
+<key id="cantThief" value="Спасибо вам, не надо, чтобы помочь сейчас"/>
+<key id="cashChestAction" value="Открыть ящик"/>
+<key id="chickfood" value="Корм для курицы"/>
+<key id="chickfood_desc" value="Кормить курицу"/>
+<key id="chooseCardLose" value="У вас 0 шанс для лотереи"/>
+<key id="chooseCardWin" value="У вас 1 шанс для лотереи"/>
+<key id="cleanupText" value="Если вы выполете {0}, вы получите {1}{coin}."/>
+<key id="clear" value="Очистка"/>
+<key id="clickToCleanTip" value="Нажмите для очистки мусора"/>
+<key id="clickToCleanupTip" value="Нажмите для очистки высохших культур"/>
+<key id="clickToCollectTip" value="Нажмите для урожая {0}{1}"/>
+<key id="clickToDestroyTip" value="Нажмите для уничтожения"/>
+<key id="clickToEsTip" value="Нажмите для производства {essence}"/>
+<key id="clickToGemTip" value="Нажмите для производства руды"/>
+<key id="clickToHelpCleanTip" value="Нажмите, чтобы помогать чистить мусоры"/>
+<key id="clickToHelpCollectTip" value="Нажмите, чтобы помогать убирать урожай"/>
+<key id="clickToHelpReviveTip" value="Нажмите, чтобы помогать воскресать"/>
+<key id="clickToHelpSpeedupTip" value="Нажмите объявление для ускорения"/>
+<key id="clickToHelpbuildTip" value="Нажмите, чтобы помогать строить"/>
+<key id="clickToMoveTip" value="Нажмите для перемещения"/>
+<key id="clickToPlantTip" value="Перетащите посадку"/>
+<key id="clickToRepairTip" value="Нажмите для ремонта"/>
+<key id="clickToSellTip" value="Нажмите, чтобы выбрать предметы для продажи"/>
+<key id="clickToSpeedupTip" value="Нажмите для ускорения завершения"/>
+<key id="clickToStartProtectTip" value="Нажмите, чтобы начать или продлить время защиты"/>
+<key id="clickToWoodTip" value="Нажмите для лесозаготовки"/>
+<key id="close" value="Закрыть"/>
+<key id="coin" value="Золотая монета"/>
+<key id="coinNotEnough" value="Нехватает золотых монет"/>
+<key id="coinTooltip" value="Золотая монета: {0}"/>
+<key id="coinX200" value="Золотая монета x200"/>
+<key id="collectButton" value="Собрать"/>
+<key id="collect_action" value="Соберите {0}{1}"/>
+<key id="combo1" value="Награда!"/>
+<key id="combo10" value="Удивительный шедевр!"/>
+<key id="combo2" value="Давай!"/>
+<key id="combo3" value="Молодец!"/>
+<key id="combo4" value="Удивительно!"/>
+<key id="combo5" value="Удивительно!"/>
+<key id="combo6" value="Что!!"/>
+<key id="combo7" value="Боже мой!!"/>
+<key id="combo8" value="Не могу себе представить!"/>
+<key id="combo9" value="Невозможно сравниться!"/>
+<key id="comingSoon" value="Открыть в ближайшее время"/>
+<key id="completed" value="Был завершен:"/>
+<key id="continue" value="Продолжение"/>
+<key id="cooling" value="В охлаждении"/>
+<key id="cowfood" value="Корм для коровы"/>
+<key id="cowfood_desc" value="Кормить молочную корову"/>
+<key id="crop" value="Культуры"/>
+<key id="crystalX10" value="Медь x10"/>
+<key id="currentFans" value="Текущее количество фанов: {0}"/>
+<key id="days" value="День"/>
+<key id="deal_action" value="Завершить сделку с посещенным NPC на {0} раз"/>
+<key id="default" value="По умолчанию"/>
+<key id="defaultNPCFriendName" value="Lily"/>
+<key id="defensingHours" value="+6 часов"/>
+<key id="diamondX10" value="Золото x10"/>
+<key id="discard" value="Бросить"/>
+<key id="discardConfirm" value="Вы уверены, что хотите бросить {0}? У вас не будет возврата."/>
+<key id="doNotShowTipThisTime" value="Перед тем, как повторно войти в игру, больше не будет потребительского совета"/>
+<key id="dontStopWorkButton" value="Не останавливайтесь"/>
+<key id="earn_action" value="Получить {0} золотых монет с маленького придорожного рынка"/>
+<key id="egg" value="Яйцо"/>
+<key id="empty" value="Свободный"/>
+<key id="energNotEnough" value="Ваша энергия не достаточно Управляя маленьким обезьяны"/>
+<key id="energyNotEnough" value="Недостаток энергии!"/>
+<key id="energyTooltip" value="{0}/{1}"/>
+<key id="energyall" value="Пополнить энергию"/>
+<key id="errorCode1201" value="Ваш уровень слишкои низок"/>
+<key id="errorCode1202" value="У вас не хватает {монетов}"/>
+<key id="errorCode1203" value="У вас не хватает {точек}"/>
+<key id="errorCode1204" value="У вас не хватает {энергии}"/>
+<key id="errorCode1205" value="У вас нехватает {сущности}"/>
+<key id="errorCode1210" value="Сегодня вы уже получили"/>
+<key id="errorCode1301" value="Вы еще не достигли условия для разблокировки"/>
+<key id="errorCode1302" value="Количество зданий уже дошло до предела"/>
+<key id="errorCode1303" value="Здание не существует"/>
+<key id="errorCode1304" value="Здание не существует"/>
+<key id="errorCode1308" value="Это не время для урожая"/>
+<key id="errorCode1309" value="Находится в производстве"/>
+<key id="errorCode1311" value="Продукт не существует"/>
+<key id="essence5" value="Небольшие кусочки самоцвета"/>
+<key id="essence6" value="Обычный самоцвет"/>
+<key id="essence7" value="Яркий самоцвет"/>
+<key id="essence8" value="Идеальный самоцвет"/>
+<key id="essenceTooltip" value="Пища: {0}"/>
+<key id="essenceX100" value="Пища x100"/>
+<key id="exchange" value="Обмен"/>
+<key id="exp" value="Опыт"/>
+<key id="expand_popup_info" value="Для завершение расширения нужны следующие предметы!"/>
+<key id="expand_popup_title" value="Расширить вашу ферму"/>
+<key id="expansion_info" value="Нажмите для расширения"/>
+<key id="expasionPopupBond" value="Нужен уровень {0}"/>
+<key id="expasionPopupCoin" value="Нужно {0}{coin}"/>
+<key id="expasionPopuptitle" value="Исследуйте Новый регион"/>
+<key id="explosive" value="Динамит"/>
+<key id="extendButton" value="Развить"/>
+<key id="f_10_body" value="Счастилвая ферма, SIM игра которую вы не должны пропустить в 2013 году.&#10;Онлай бета получившая единогласное восхищение игроков девушек. Присоединяйтесь в Star Farm и получайте прекрасные призы!"/>
+<key id="f_10_title" value="Самая популярная игра среди девушек в 2013 году"/>
+<key id="f_11_body" value="Скачать мобильную версию Star Farm сейчас, введите пригласительный код друга и получите классные подарки! "/>
+<key id="f_11_title" value="Мобильная версия StarFarm пригласительный код большой пробег"/>
+<key id="f_12_body" value="Группа красивых лебедей летит к вашей ферме, приготовьтесь к их прибытию!"/>
+<key id="f_12_title" value="Ваша Ферма становится все прекраснее и прекраснее!"/>
+<key id="f_13_body" value="{0} хочет расширить свою ферму, протяните ему руку помощи!"/>
+<key id="f_13_title" value="Расширить ферму"/>
+<key id="f_14_body" value="На своей ферме {0} поймал злую обезьяну! За свободу обезьяна дала в подарок, это приятный сюрприз!"/>
+<key id="f_14_title" value="Арест злых обезьян!"/>
+<key id="f_15_body" value="В операции ареста обезьян, {0} получил щедрое вознаграждение за выдающиеся результаты!"/>
+<key id="f_15_title" value="{0} 'ы ферма была защищена!"/>
+<key id="f_1_body" value="Поздравляем персонаж {0} достиг до уровня {1}, давайте болеть за этого великого фермера!"/>
+<key id="f_1_title" value="Улучшение персонажа"/>
+<key id="f_2_body" value="Склад {0} успешно улучшился! Теперь вы можете хранить больше предметов!"/>
+<key id="f_2_title" value="Улучшение склада"/>
+<key id="f_3_body" value="{0} завершил задание в Star Farm. В этот волнующий момент давайте поздравим его!"/>
+<key id="f_3_title" value="Получить награды вехи"/>
+<key id="f_4_body" value="Хлебный амбар {0} успешно улучшился! Теперь не беспокойтесь о послеуборочном урожае!"/>
+<key id="f_4_title" value="Улучшение хлебного амбара"/>
+<key id="f_5_body" value="Ваш друг {0} ждет ваш подарок в Star Farm, нажмите здесь, чтобы отправить! Если вы тоже в Star Farm, вы получите сюрприз в игре."/>
+<key id="f_5_title" value="Запрос о подарке"/>
+<key id="f_6_body" value="Ваш друг {0} ждет ваш подарок в Star Farm, нажмите здесь, чтобы отправить! Если вы тоже в Star Farm, вы получите сюрприз в игре."/>
+<key id="f_6_title" value="Запрос о подарке"/>
+<key id="f_7_body" value="Ваш друг {0} ждет ваш подарок в Star Farm, нажмите здесь, чтобы отправить! Если вы тоже в Star Farm, вы получите сюрприз в игре."/>
+<key id="f_7_title" value="Запрос о подарке"/>
+<key id="f_8_body" value="{0} только что получил ведро монет в Звездном Ферма, и он хочет поделиться своим счастьем с вами!"/>
+<key id="f_8_title" value="Самый звук золотых монет!"/>
+<key id="f_9_body" value="Star Farm организует деятельность, чтобы поздравлять своих 200,000 фанов, миллионы алмазов будут получены бесплатно! Я уже получил 5 алмазов. Станите фанатом для получения алмазов!"/>
+<key id="f_9_title" value="Поделись хорошими новостями со своими друзьями!"/>
+<key id="fanpage_LimitError" value="К сожалению, все награды уже были получены, я надеюсь, что вы сосредоточены на стену фанов, чтобы понять следующий шанс!"/>
+<key id="fanpage_RewardMsg" value="Поздравляем, вы успешно получили награды этой деятельности!"/>
+<key id="fanpage_title" value="Поздравляю"/> 
+<key id="farmBeThief" value="Сельскохозяйственное угодье было собрано"/>
+<key id="farm_score" value="Оценка достижения:"/>
+<key id="feedAward" value="Поздравляем, вы успешно получили награды!"/>
+<key id="finishButton" value="Нужно {0}"/>
+<key id="finishConstructButton" value="Завершение строительства"/>
+<key id="finished" value="Завершение"/>
+<key id="finishedQuest" value="Завершить цель!"/>
+<key id="follows" value="Партнер"/>
+<key id="friAlready" value="Другая сторона уже стала вашим другом"/>
+<key id="friend" value="Друг"/>
+<key id="friendGiftInfo" value="Вы получаете следующие подарки"/>
+<key id="friendGiftTitle" value="Подарок"/>
+<key id="friendPanelVisitText" value="Нажмите, чтобы посетить"/>
+<key id="friendReq" value="Заявка о дружбе"/>
+<key id="friendUid" value="Игровой ID друга"/>
+<key id="friendmarket" value="К другу"/>
+<key id="friends" value="Друг"/>
+<key id="fullscreenTooltip" value="Полный экран"/>
+<key id="g_order_info" value="(Вы имеете:"/>
+<key id="g_order_no" value="Очень жаль"/>
+<key id="g_order_title" value="Хороший день! Начните управлении фермы после разминка!"/>
+<key id="g_order_wait" value="Подождите минуточку"/>
+<key id="g_order_yes" value="Хорошо, это вам"/>
+<key id="gameName" value="Star Farm"/>
+<key id="getReward" value="Получение награды в раунде"/>
+<key id="get_reward" value="Получение награды"/>
+<key id="getfromfriend" value="Обратиться к друзьям за помощью"/>
+<key id="getreward" value="Немедленно получить"/>
+<key id="giveUpTrainOrder" value="Вы уверены, что хотите отказаться от заказа на поезд?"/>
+<key id="goatfood" value="Корм для овцы"/>
+<key id="gohome" value="Вернуться домой"/>
+<key id="gohomeTip" value="Вернуться домой"/>
+<key id="govermentPopupUnfinishTitle" value="Нанимать сотрудников на работу для здания"/>
+<key id="govermentShareReminderButton" value="Напомнить друга"/>
+<key id="govermentUseMoneyButton" value="Использование {0}"/>
+<key id="guiBagButton" value="Рюкзак"/>
+<key id="guiBuildButton" value="Купить/ Построить"/>
+<key id="guiCancelButton" value="Отмена"/>
+<key id="guiHandleButton" value="Операция"/>
+<key id="guiInviteFriendButton" value="Пригласить друга"/>
+<key id="guiReturnhomeButton" value="Возвращение домой"/>
+<key id="guiSkillSearchButton" value="Разработка"/>
+<key id="guiStrengthenButton" value="Укрепление"/>
+<key id="hasBeenBuilded" value="Был построен"/>
+<key id="helpStatusbuild" value="Строится"/>
+<key id="helpStatusclean" value="В убирании"/>
+<key id="helpStatusharvest" value="В урожае"/>
+<key id="helpStatusrevive" value="В поливе"/>
+<key id="helpStatusspeedup" value="В ускорении"/>
+<key id="hours" value="Час"/>
+<key id="hungry" value="Голод"/>
+<key id="increase_storage_to" value="Расширить объем до {0}"/>
+<key id="industryBuildingTips" value="Нажмите для получения больше операций"/>
+<key id="industryProducePannelProduce" value="Доход"/>
+<key id="industryProducePannelResource" value="Вложить"/>
+<key id="invite" value="Пригласить"/>
+<key id="inviteTooltip" value="Пригласить друга"/>
+<key id="islandDetail" value="Деталь"/>
+<key id="jinxu" value="Только нужно"/>
+<key id="levelNotEnough" value="Нужно уровня {0}"/>
+<key id="levelTooltip" value="{0}/{1}"/>
+<key id="levelUp" value="Вы улучшили"/>
+<key id="levelUpButton" value="Улучшение"/>
+<key id="levelUpInfo" value="{0}"/>
+<key id="levelUpUnlock" value="Получить следующие награды"/>
+<key id="licenseStamp" value="Печать Разрешения"/>
+<key id="loading" value="В загрузке, подождите минуточку"/>
+<key id="locked" value="Был заблокирован"/>
+<key id="lockedAction" value="Таинственный ящик заблокирован, вы можете использовать алмазы, чтобы открыть его."/>
+<key id="locked_space_halt" value="Эта земля не получила права на расширение."/>
+<key id="locked_space_unrelease" value="Эта земля не получила права на расширение, пожалуйста подождите."/>
+<key id="logindays" value="{0} день"/>
+<key id="make_action" value="Производить {0}{1}"/>
+<key id="marketPopupAd" value="Реклама: 3 часа"/>
+<key id="marketPopupAdCool" value="Реклама откроется:"/>
+<key id="marketPopupAddAll" value="Добавить все"/>
+<key id="marketPopupConfirm" value="Подтверждение"/>
+<key id="marketPopupCreateTip" value="Добавить новые товары"/>
+<key id="marketPopupForBuy" value="Корзина"/>
+<key id="marketPopupForSale" value="Продать"/>
+<key id="marketPopupMyItems" value="Мой предмет"/>
+<key id="marketPopupNewsButton" value="Добавление"/>
+<key id="marketPopupNewsTip" value="Реклама в газете"/>
+<key id="marketPopupPriceTip" value="Цена"/>
+<key id="marketPopupQuantity" value="Количество"/>
+<key id="marketPopupRemove" value="Удаление"/>
+<key id="marketPopupSelectItem" value="Выберите предмет"/>
+<key id="marketPopupSelectedButton" value="Выбор"/>
+<key id="marketPopupTitle" value="Придорожный рынок"/>
+<key id="marketPopupTotalCost" value="Общая цена"/>
+<key id="marketTradeInfoTitle" value="Редакция"/>
+<key id="materialStorageFullInfo" value="Товарный склад заполнен, вы можете улучшить его для увеличения объема"/>
+<key id="materialStorageFullToClick" value="Товарный склад заполнен"/>
+<key id="materialStorageMaxInfo" value="Товарный склад заполнен, очистите его прежде всего"/>
+<key id="maxLevelError" value="Вы уже дошли до самого высокого уровня"/>
+<key id="max_energy_tips" value="Уже превысили верхний предел {energy}."/>
+<key id="mei" value="Каждый"/>
+<key id="milk" value="Молоко"/>
+<key id="minutes" value="Минута"/>
+<key id="moneyNotEnough" value="Нехватает алмазов"/>
+<key id="moneyNotEnoughTips" value="У вас не хватает {points}, нажмите для покупки {points}."/>
+<key id="monkeyAimedTip" value="Вы не можете ничего сделать пока обезьянка играется тут"/>
+<key id="monkeyLeftTime" value="Побег оставшееся время"/>
+<key id="move" value="Передвижение"/>
+<key id="moveOnfriendinvadeiconTip" value="Нужна помощь"/>
+<key id="musicTooltip" value="Музыка"/>
+<key id="myGameUid" value="Ваш игровой ID: {0}"/>
+<key id="mymarket" value="Мой"/>
+<key id="nail" value="Чертежная кнопка"/>
+<key id="need expanded" value="Нужно расширение"/>
+<key id="needNewVersions" value="Слишком старая версия, обновите"/>
+<key id="needToRepairTrain" value="Вам необходимо ремонтировать поезд, потом вы можете использовать платформу!"/>
+<key id="need_resource" value="Нужно больше ресурсов"/>
+<key id="need_resource_buy" value="Потратить {0}"/>
+<key id="need_resource_dynic" value="Сообщить другу"/>
+<key id="need_resource_explain" value="Попросить о помощи у друга или прямо купить"/>
+<key id="needmore" value="Нужно больше $$"/>
+<key id="newItem" value="Новый предмет"/>
+<key id="newShopPopupTitle" value="Магазин"/>
+<key id="newspaper_sendfeed" value="Послать"/>
+<key id="next" value="Следующий шаг"/>
+<key id="nextTrainOrder" value="Дать заказ на поезд"/>
+<key id="noAdvertisement" value="Нет обновления сейчас, пожалуйста, проверьте позже"/>
+<key id="noFeed" value="Ваш запрос о подарке был отправлен, следующий подарок будет готов после {0}."/>
+<key id="not enough storage" value="В складе не хватает мест"/>
+<key id="notFriend" value="Вы не друзья, лучше добавить друг друга в друзья!"/>
+<key id="not_placeable" value="Невозможно поместить"/>
+<key id="ok" value="Да"/>
+<key id="onCheckingPay" value="Проверка оплаты..."/>
+<key id="onStartPay" value="В оплате..."/>
+<key id="openLevel" value="Функция откроется только когда уровень достигнет {0}"/>
+<key id="orderActivityEndTime1" value="Время деятельности: с сегодняшнего дня и до 2013/05/15"/>
+<key id="orderActivityEndTime2" value="Время деятельности: с сегодняшнего дня и до 2013/05/23"/>
+<key id="orderActivityInfo1" value="В процессе деятельности,завершите необходимое количество NPC миссий чтобы получить прекрасные призы! Каждый день разные призы. Ваше количество выполненных заданий будет сбрасываться каждые 24 часа. У вас есть шанс выйграть  бриллианты каждый день!"/>
+<key id="orderActivityInfo2" value="В ходе деятельности по выполнению заказов указанного количества, вы можете получить богатые награды! Алмазы вас ждут каждый день! Просто запустите ваш грузовик!"/>
+<key id="orderActivityItemTip" value="Выполните {0} заданий чтобы получить это. Вы выполнили {1} заданий"/>
+<key id="orderActivityNextRefreshTime" value="Количество выполненных заданий и обратный отсчет для сборса приза"/>
+<key id="orderActivityTitle1" value="Заказать Карнавал"/>
+<key id="orderActivityTitle2" value="История грузовиков"/>
+<key id="orderBuild" value="Заказ"/>
+<key id="order_action" value="Завершение заказов на {0} раз"/>
+<key id="order_waitInfo" value="Этот приказ временно не может быть использован, пожалуйста, подождите или ускорите!"/>
+<key id="order_waitTime" value="Подождите..."/>
+<key id="ownCount" value="Иметь:"/>
+<key id="own_action" value="Иметь {1} {0}"/>
+<key id="packTitle" value="Рюкзак"/>
+<key id="packagehave" value="Существующие предметы в рюкзаке:"/>
+<key id="patureBeThief" value="Животное было собрано"/>
+<key id="peddlersBackBtntext" value="Не выбрать"/>
+<key id="peddlersBackCntText" value="Оставшееся время для использования: {0}"/>
+<key id="peddlersBackInfoText" value="Это все, что я нашел, какое вам нужно?"/>
+<key id="peddlersBeginBtnText" value="Хорошо, я попробую"/>
+<key id="peddlersBeginInfoText" value="Здравствуйте! Я Том, я буду служить вам, я вас жду на придорожном рынке"/>
+<key id="peddlersBuyTimesInfoText" value="Вы хотите, чтобы нанять меня снова?"/>
+<key id="peddlersBuyTimesThankCellText" value="Нет, спасибо"/>
+<key id="peddlersBuyTimesbuyCellText" value="{0} день"/>
+<key id="peddlersChooseBtnText" value="Начать найти"/>
+<key id="peddlersChooseTitleText" value="Что вы хотите найти?"/>
+<key id="peddlersRestInfoText" value="Zzz... Мне действительно нужно отдохнуть"/>
+<key id="peddlersRestTimeText" value="Время для использования снова: {0}"/>
+<key id="peopleTooltip" value="Население /Предел населения"/>
+<key id="petProducePannelResource" value="Потребление ресурсов"/>
+<key id="pickaxe" value="Мотыга Расширения"/>
+<key id="pigfood" value="Корм для свиньи"/>
+<key id="pillageBuff" value="Увеличить выдачу здания на {0}%"/>
+<key id="place" value="Поместить"/>
+<key id="plank" value="Доска"/>
+<key id="points" value="Сапфир"/>
+<key id="popularizeInfo" value="Всемирно известный Star Farm придет к вам сегодня!Честь стать великим владелец фермы находится прямо перед вами. Приходите и создать свой славу здесь!"/>
+<key id="popularizeInfo2" value="Оставьте шумный город позади и насладитесь тихой и мирной время. Добро пожаловать в Star ферму! Собирать алмазы и жить той жизнью, ферма отдыха!"/>
+<key id="population" value="Население"/>
+<key id="populationText" value="{0}/{1}"/>
+<key id="population_max" value="Верхний предел населения"/>
+<key id="population_now" value="Текущее население"/>
+<key id="populationmaxNotEnough" value="Предел населения низок"/>
+<key id="produce" value="Производить"/>
+<key id="producePannelProduceTime" value="Время производства"/>
+<key id="produceing" value="В производстве"/>
+<key id="questUpdateNotice" value="{0} {1}/{2}"/>
+<key id="quest_get" value="Есть новое задание"/>
+<key id="quest_remind" value="Хороший прогресс"/>
+<key id="rabbitfood" value="Корм для зайца"/>
+<key id="raidMoreCount" value="Больше чисел раз"/>
+<key id="raidPopupCount" value="Сегодняшнее оставшееся число раз"/>
+<key id="raidPopupEnter" value="Войти"/>
+<key id="raidPopupTitle" value="Войти в подземелье"/>
+<key id="raidTips" value="Нажмите, чтобы входить {0}"/>
+<key id="raidUserMoneyToMoreCount" value="Использование {0}{points} для увеличения на 1 раз"/>
+<key id="ready to collect" value="Готов для урожая"/>
+<key id="recharge" value="Пополнение счета"/>
+<key id="recharge_cash0" value="Куча сапфиров"/>
+<key id="recharge_cash1" value="Сумка сапфиров"/>
+<key id="recharge_cash2" value="Мешок сапфиров"/>
+<key id="recharge_cash3" value="Коробка сапфиров"/>
+<key id="recharge_cash4" value="Шкаф сапфиров"/>
+<key id="recharge_cash5" value="Ящик сапфиров"/>
+<key id="recharge_coin0" value="Куча золотых монет"/>
+<key id="recharge_coin1" value="Сумка золотых монет"/>
+<key id="recharge_coin2" value="Мешок золотых монет"/>
+<key id="recharge_coin3" value="Коробка золотых монет"/>
+<key id="recharge_coin4" value="Шкаф золотых монет"/>
+<key id="recharge_coin5" value="Ящик золотых монет"/>
+<key id="recharge_title_cash" value="Пополнение счета сапфиров"/>
+<key id="recharge_title_coin" value="Обмен золотых монет"/>
+<key id="refresh_game" value="Обновите игру"/>
+<key id="refuse" value="Отказать"/>
+<key id="renwujieshou" value="Задание"/>
+<key id="requesttofriend" value="Помощь друга"/>
+<key id="requireExitGame" value="Вы уверены, чтобы выйти из игры?"/>
+<key id="require_explain" value="Вам нужно больше $$, вы можете обратиться к друзьям за помощью, или купить {points}."/>
+<key id="requires" value="Нужно"/>
+<key id="requiresBuildingLevel" value="Нужен {0} уровень {1}"/>
+<key id="requiresLevel" value="уровень:"/>
+<key id="requiresOwn" value="Вы должны иметь"/>
+<key id="requires_item" value="Расходный предмет:"/>
+<key id="resource not enough" value="{0} не хватает"/>
+<key id="resourceIsLast" value="Это последние культуры, хотите ли вы произвести?"/>
+<key id="resourceNotEnough" value="У вас нехватает ресурсов,.вы можете купить ресурсы для завершения операции."/>
+<key id="reward" value="Награда"/>
+<key id="rubyX10" value="Олово x10"/>
+<key id="saw" value="Пила"/>
+<key id="screw" value="Маленький винт"/>
+<key id="secondes" value="Секунда"/>
+<key id="seedStorageFullInfo" value="Хлебный амбар заполнен, вы можете улучшить его для увеличения объема.Или вы можете продать некоторые в придорожных стенда."/>
+<key id="seedStorageFullToClick" value="Хлебный амбар заполнен"/>
+<key id="seedStorageMaxInfo" value="Хлебный амбар заполнен, очистите его прежде всего"/>
+<key id="select" value="Выбор"/>
+<key id="selectFeed" value="Нажмите здесь, чтобы выбрать подарок, который вы хотите получить от друзей!"/>
+<key id="sell" value="Проданный"/>
+<key id="sell_coin" value="Получить"/>
+<key id="sell_confirm" value="Подтвердить продажу"/>
+<key id="server_error" value="Извините, это ошибка сети, обновите игру."/>
+<key id="setting" value="Устройство"/>
+<key id="settingsTooltip" value="Устройство"/>
+<key id="shareBtn" value="продолжать"/>
+<key id="sheepfood" value="Корм для овцы"/>
+<key id="shouchong" value="При пополнении счета любой суммы, игроки получат богатые пакеты"/>
+<key id="shouchongtitle" value="Пакет для первого пополнения счета"/>
+<key id="shovel" value="Лопата"/>
+<key id="skillBuySkillButton" value="Купить"/>
+<key id="soundTooltip" value="Звук"/>
+<key id="speedtext" value="Ускорение"/>
+<key id="startAction" value="Выполнение"/>
+<key id="startGrub" value="Начать рыть"/>
+<key id="stateNot" value="Кто-то помог мне, вы можете помочь другим друзьям."/>
+<key id="stealInfo" value="В автономном режиме в течение маленькая обезьянка украла {0} "/> 
+<key id="stealInfoOnline" value="Обезьянка убежит после того как украдет 1 {0}"/>
+<key id="steal_action" value="Украсть {0}{1}"/>
+<key id="stopWorkButton" value="Остановить работать"/>
+<key id="stopWorkPopup" value="Если вы остановили производить это здание, вы потеряете затраченных ресурсов"/>
+<key id="storageCapacity" value="Объем склада: {0}/{1}"/>
+<key id="subtext01" value="Представление проблемы"/>
+<key id="subtext02" value="Советы: Пожалуйста, кратко опишите проблему в игре, так что мы можем проверить и исправить его без промедления. Спасибо!"/>
+<key id="subtext03" value="Тип проблемы"/>
+<key id="subtext04" value="Описание проблемы игры"/>
+<key id="subtext05" value="Почтовый ящик"/>
+<key id="subtext06" value="Представить"/>
+<key id="subtext07" value="Введите ваше описание проблемы здесь"/>
+<key id="subtext09" value="Формат почты неверен"/>
+<key id="subtext10" value="Описание проблемы не может быть пустым"/>
+<key id="swanfood" value="Корм для лебедя"/>
+<key id="tape" value="Лента"/>
+<key id="thiefItemBtnTF" value="Приходите на ферму друга"/>
+<key id="thiefItemTimeTF" value="Время для получения: {0}"/>
+<key id="thiefItemTitle" value="Ферма {0}"/>
+<key id="thiefLevel" value="Необходимо достичь уровня {0}, чтобы получить предметы, лучше быстро повысить свой уровень!"/>
+<key id="thiefTitle" value="Информация игрока"/>
+<key id="ticketNotEnough" value="Купонный недостаточно"/>
+<key id="timeDay" value="День"/>
+<key id="timeHour" value="Час"/>
+<key id="timeMinute" value="Минута"/>
+<key id="timeSencond" value="Секунда"/>
+<key id="topazX10" value="Железо x10"/>
+<key id="total" value="В целом"/>
+<key id="tutorial_1" value="Добро пожаловать в Star Farm, важно, чтобы узнать базовые знания по управлению фермой, прежде чем начать жизнь здесь!"/>
+<key id="tutorial_2" value="Теперь у вас достаточно денег, идите в магазин и купите машину."/>
+<key id="tutorial_2" value="Теперь у вас достаточно денег. Прогуляйтесь по магазинам, чтобы купить новую машину."/>
+<key id="tutorial_3" value="У вас есть ощущение того что не хватает жизненности? Заходите в магазин и купите курицу, для богатой ферменной жизни!"/>
+<key id="tutorial_3_1" value="У вас не хватает корма, вам лучше купить кормовую машину в магазине, чтобы производить корма."/>
+<key id="tutorial_3_2" value="Девочка на ферме нуждается в вашей помощи, помогите ее как можно скорее!"/>
+<key id="tutorial_4" value="Успешное выполнение заказов грузовиков принесет вам опыт и монеты, пойти и попробовать!"/>
+<key id="tutorial_5" value="На рынке ваши товары могут быть проданы, вы также покупаете вам нужные предметы!"/>
+<key id="tutorial_5_1" value="Теперь вы знакомы с основными операциями на ферме. Ожидаем вас стать новым фермером!"/>
+<key id="tutorial_Buy" value="Купить"/>
+<key id="tutorial_ChickFeed" value="Кормление"/>
+<key id="tutorial_ChickHarvest" value="Усиление"/>
+<key id="tutorial_FarmHarvest" value="Пожинать"/>
+<key id="tutorial_FarmSeed" value="Cеять"/>
+<key id="tutorial_Produce" value="Обработать"/>
+<key id="tutorial_intro" value="Добро пожаловать на главную ферму. Прежде, чем я передать ферму к вам, я научу тебя некоторые из основных навыков, которые Вы будете нуждаться. Теперь давайте начнем!"/>
+<key id="unLockatlevel" value="Разблокировка на уровне {0}"/>
+<key id="unLockformoney" value="Оплата для разблокировки"/>
+<key id="unlockTrainConfirm" value="Поезд приносит хороший доход, вам лучше ремонтировать его немедленно!Нужно потратить 16 000 монет для ремонта"/>
+<key id="unlock_battle" value="Нужно победить {0}"/>
+<key id="upgradeToLevel" value="Достичь уровня {0}"/>
+<key id="user_sealed_forever" value="К сожалению, ваш счет был заморожен"/>  
+<key id="visitFriendButton" value="Посещение"/>
+<key id="waiting" value="Подождите..."/>
+<key id="warn" value="Предупреждение"/>
+<key id="wood" value="Древесина"/>
+<key id="wool" value="Шерсть"/>
+<key id="workInProgressPopupAsk" value="Пригласите друга, чтобы помочь вам ускорить"/>
+<key id="workInProgressPopupFinish" value="Завершить немедленно при использовании {0}{points}"/>
+<key id="workInProgressPopupFinish1" value="Завершить сразу"/>
+<key id="workInProgressPopupOr" value="Или"/>
+<key id="workshopIsFull" value="Строй машины для обработки заполнен"/>
+<key id="workshopRipeFull" value="Обработанные продукты достигают верхнего предела, соберите их прежде всего"/>
+<key id="xinshoutitle" value="Пакет для новичка"/>
+<key id="zanInfo" value="Вы прекрасно провели время в игре? Вы можете нажать &quot;Мне нравится&quot; в верхнем левом углу страницы игры или в правом верхнем углу фан-страницы, чтобы поболеть за нас, спасибо за вашу поддержку!"/>
+<key id="zanInfo2" value="Спасибо за вашу поддержку, с сегодняшнего дня до 28-го апреля, нажмите &quot;нравится&quot;, потом вы получите сюрприз! Почему бы не действовать сейчас!"/>
+<key id="zanTitle" value="Говорите &quot;Мне нравится&quot;!"/>
+<key id="zoomInTooltip" value="Усиление"/>
+<key id="zoomOutTooltip" value="Уменьшение"/>
+<key id="LackResources" value="Нехватка ресурсов"/>
+<key id="EnergyAddPopouInfo" value="Добавить силы! Помощь друзей собрать урожай, вы можете получить сверхприбыли."/>
+<key id="EnergyAddPopouTitle" value="Добавить силы"/>
+<key id="isVisitText" value="в гости к друзьям"/>
+<key id="Windmill" value="ветряная мельница"/>
+<key id="ChildrenBallon" value="Чик шар"/>
+<key id="Swing" value="качели для детей"/>
+<key id="ChildrenSwing" value="Осень Свинг"/>
+<key id="feed_230013_1_body" value="Хлеб {0} сделал распродан."/>
+<key id="feed_230013_2_body" value="Просто есть один кусок хлеба, сделанного {0}, вы никогда не забудете его."/>
+<key id="feed_230013_3_body" value="Хлеб {0} сделал заставляет вас нежно вспомнить вашу мать."/>
+		 
+<key id="feed_230012_1_body" value="{0} производится подачи мелких животных очень много."/>
+<key id="feed_230012_2_body" value="Ага! Кабаны стал таким толстым и здоровым из-за еды корм из {0}."/>
+<key id="feed_230012_3_body" value="После еды канал {0} производится, кошки и собаки скажет вам, как они себя чувствуют."/>
+		 
+<key id="feed_230014_1_body" value="Масло {0} сделал это очень хорошо."/>
+<key id="feed_230014_2_body" value="Если у вас есть масло {0} производиться постоянно придерживаться 5214 недель, вы будете жить, чтобы быть 100 лет."/>
+<key id="feed_230014_3_body" value="Секретарь хотел! Вы должны вести себя как леди, но думать, как человек."/>
+		 
+<key id="feed_230034_1_body" value="{0} не может помочь пить слишком много."/>
+<key id="feed_230034_2_body" value="Пиво {0} внесенные в верхней по всему миру."/>
+<key id="feed_230034_3_body" value="Вино {0} сделал рукой поколениям."/>
+<key id="feed_230034_4_body" value="{0} передается из Кир Рояль, на вкус фантастическим."/>
+		 
+<key id="feed_230015_1_body" value="С помощью {0}, мы дважды заработать."/>
+<key id="feed_230015_2_body" value="Сахар {0}, произведенные чтобы вы чувствовали себя чистым."/>
+<key id="feed_230015_3_body" value="{0} сказал, что нет никакого инвентаря! Спешите, чтобы произвести!"/>
+		 
+<key id="feed_230016_1_body" value="{0} ремонт попкорна, и мы можем производить вкусные попкорн снова."/>
+<key id="feed_230016_2_body" value="Попкорн {0} производится матч этот фильм лучше."/>
+<key id="feed_230016_3_body" value="{0} поставить попкорн продается по всему миру."/>
+		 
+<key id="feed_230017_1_body" value="{0} выиграл первый в еде конкуренции в Звездном Farm."/>
+<key id="feed_230017_2_body" value="Так ест гамбургер {0} Производство, теперь я предпочитаю его на другой пищи каждый день."/>
+<key id="feed_230017_3_body" value="{0} сказал:'мясо, которое мы купили свежие и здоровые, добро пожаловать на мою ферму, чтобы вкус!'"/>
+		 
+<key id="feed_230018_1_body" value="{0} обещает вам дешевый и быструю доставку домой."/>
+<key id="feed_230018_2_body" value="Запеченные печенье {0} из лучше, а также здоровым."/>
+<key id="feed_230018_3_body" value="{0} только что закончил уборку, добро пожаловать на мою ферму!"/>
+<key id="feed_230018_4_body" value="{0} может предоставить вам вкусный пирог в вашем доме."/>
+		 
+<key id="feed_230024_1_body" value="Оденьте разработан {0} на дисплее на Неделе моды в Париже."/>
+<key id="feed_230024_2_body" value="Clotheing разработан {0} принести вам краски мира!"/>
+<key id="feed_230024_3_body" value="Clotheing разработан {0} подходит для любых важных событий."/>
+<key id="feed_230024_4_body" value="{0} сказал:'Черт возьми Мое платье стало туго снова!'"/>
+		 
+<key id="feed_230031_1_body" value="Баклажаны пироги {0} из более сладкий, чем моя первая любовь."/>
+<key id="feed_230031_2_body" value="Я даже не могу оторвать глаз от яйцевидной пироги {0} сделал."/>
+<key id="feed_230031_3_body" value="{0} желает яйцо-смолы не будут проданы, так что он мог наслаждаться всеми яйцевидной смол."/>
+		 
+<key id="feed_230032_1_body" value="С нашей духов, {0} нашел красивый парень."/>
+<key id="feed_230032_2_body" value="Духи сделаны {0} привлекает противоположный пол легко, кроме того, с духами приходит с книгой о самообороне."/>
+<key id="feed_230032_3_body" value="Духи сделаны {0} продолжительный."/>
+<key id="feed_230032_4_body" value="{0} сказал, что если ваш муж не будет покупать вам духи, найти другой народ!"/>
+<key id="feed_230032_5_body" value="Пожалуйста, не приставать макияжа женщина случайно, так как она, вероятно, будет ваша бабушка!"/>
+		 
+<key id="feed_230035_1_body" value="Это совершенно невероятно, что {0} сделал из пряных вкусом конфет."/>
+<key id="feed_230035_2_body" value="Монетный двор конфеты {0} производится сделать каждый ваш поцелуй совершенным."/>
+<key id="feed_230035_3_body" value="Бог знает, что лучшие конфеты приходят от {0} 'руками."/>
+<key id="feed_230035_4_body" value="{0} сказал, что работать делает людей счастливыми! Вы хотите попробовать?"/>
+		 
+<key id="feed_230033_1_body" value="С помощью {0}, то двойное количество продукции."/>
+<key id="feed_230033_2_body" value="{0} нашли редкий вид руды."/>
+<key id="feed_230033_3_body" value="{0} найдено лучшее руды."/>
+<key id="feed_230033_4_body" value="{0} был назван лучшим котельщикзвезда фермы."/>
+		 
+<key id="feed_230039_1_body" value="{0} делает жареные IceCream.Come и наслаждаться вместе с нами!"/>
+<key id="feed_230039_2_body" value="Лучшее мороженое сделано {0} только для любимых людей."/>
+<key id="feed_230039_3_body" value="Приходите и посетите мой ферму, если вы свободны."/>
+<key id="feed_230039_4_body" value="Любовь его / ее затем пригласить ее / его съесть самый знаменитый мороженое, сделанное {0}."/>
+		 
+<key id="feed_230040_1_body" value="Соки {0} лучше проданы по всему миру."/>
+<key id="feed_230040_2_body" value="Вы пить последнюю каплю соков, сделанных {0}."/>
+<key id="feed_230040_3_body" value="Сок сделан {0} находится за пределами вашего вообразить."/>
+<key id="feed_230040_4_body" value="{0} готов для вас в качестве свободного частного адвоката."/>
+
+<!--  新增 职位  -->
+<key id="crew_230013_1"  value="Хлеб Masters"/>
+<key id="crew_230013_2"  value="Хлеб Ученики"/>
+<key id="crew_230013_3"  value="Хлебобулочные менеджер"/>
+				
+<key id="crew_230012_1"  value="Кормление Работники"/>
+<key id="crew_230012_2"  value="Работники пакет"/>
+<key id="crew_230012_3"  value="поток рецептур"/>
+				
+<key id="crew_230014_1"  value="Качество инспектор"/>
+<key id="crew_230014_2"  value="Менеджер по закупкам"/>
+<key id="crew_230014_3"  value="секретарь"/>
+				
+<key id="crew_230034_1"  value="сомелье"/>
+<key id="crew_230034_2"  value="Менеджер По Продажам"/>
+<key id="crew_230034_3"  value="Виноделы"/>
+<key id="crew_230034_4"  value="бармен"/>
+				
+<key id="crew_230015_1"  value="Сахар режиссер-постановщик"/>
+<key id="crew_230015_2"  value="Сахар Технологи"/>
+<key id="crew_230015_3"  value="заведующий складом"/>
+				
+<key id="crew_230016_1"  value="Механическая разделение установка"/>
+<key id="crew_230016_2"  value="ФИНАНСОВЫЙ ДИРЕКТОР"/>
+<key id="crew_230016_3"  value="Продажи людей"/>
+				
+<key id="crew_230017_1"  value="Супер едоков"/>
+<key id="crew_230017_2"  value="Барбекю Master"/>
+<key id="crew_230017_3"  value="Менеджер по закупкам"/>
+				
+<key id="crew_230018_1"  value="учет"/>
+<key id="crew_230018_2"  value="Запеченные Pie Masters"/>
+<key id="crew_230018_3"  value="Очистители"/>
+<key id="crew_230018_4"  value="Deliveryman"/>
+				
+<key id="crew_230024_1"  value="Одежда Руководитель производства"/>
+<key id="crew_230024_2"  value="Цвет Designer"/>
+<key id="crew_230024_3"  value="Дизайн одежды"/>
+<key id="crew_230024_4"  value="Руководство одежда Магазины"/>
+				
+<key id="crew_230031_1"  value="Исследователи рынка"/>
+<key id="crew_230031_2"  value="Оборудование техник по обслуживанию"/>
+<key id="crew_230031_3"  value="Пироги продавец"/>
+				
+<key id="crew_230032_1"  value="Красота Аромат консультант"/>
+<key id="crew_230032_2"  value="Духи Модель"/>
+<key id="crew_230032_3"  value="Духи Развертывание дивизии"/>
+<key id="crew_230032_4"  value="Счетчик торговый руководство"/>
+<key id="crew_230032_5"  value="визажист"/>
+				
+<key id="crew_230035_1"  value="Главный операционный директор"/>
+<key id="crew_230035_2"  value="Финансовый менеджер"/>
+<key id="crew_230035_3"  value="продавец"/>
+<key id="crew_230035_4"  value="Менеджер по персоналу человек"/>
+				
+<key id="crew_230033_1"  value="Механическая Отдел Ремонт"/>
+<key id="crew_230033_2"  value="Рудные оценщиков"/>
+<key id="crew_230033_3"  value="Руда Директор по закупкам"/>
+<key id="crew_230033_4"  value="котельщик"/>
+				
+<key id="crew_230039_1"  value="Десерт кондитерских Отдел"/>
+<key id="crew_230039_2"  value="Haagen Ученик"/>
+<key id="crew_230039_3"  value="официант"/>
+<key id="crew_230039_4"  value="Необычные Мороженое Ученик"/>
+				
+<key id="crew_230040_1"  value="Сок R &amp; D менеджер"/>
+<key id="crew_230040_2"  value="Менеджер по логистике"/>
+<key id="crew_230040_3"  value="Развертывание Вкус отдела"/>
+<key id="crew_230040_4"  value="консультант по юридическим вопросам"/>
+
+<key id="crew_friends"  value="Чтобы нанять другу"/>
+<key id="crew_friends_title"  value="Друзья занятости"/>
+<key id="hire"  value="прокат"/>
+<key id="need_hire"  value="Количество требуемых занятости:{0}"/>
+<key id="help_people"  value="{0} говорит: {1} Мне нужно рабочей силы , и искренне надеюсь, что вы можете прийти помощь！"/>
+<key id="needCrew" value="Эта машина потребности сотрудников , пригласить друзей, чтобы стать вашим сотрудникам правый!"/>
+<key id="uncollected"  value="Несобранные"/>
+<key id="SevendaysReward"  value="награда Войти"/>
+<key id="RechargeActivities"  value="Пополнение деятельность"/>
+<key id="RechargeActivitiesText"  value="Пополнение любую сумму вы можете получить дополнительную 50 %"/>
+<key id="lastTime"  value="оставшееся время:"/>
+	</module>
+</root>

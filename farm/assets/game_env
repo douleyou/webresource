@@ -1,0 +1,8 @@
+assets_url=/assets/
+maps_url=/assets/maps/$.jpg
+tilesets_url=/assets/tilesets/$.swf
+sound_assets_url=/assets/sounds/$.mp3
+bgaudio_assets_url=/assets/audio/music/mp3/$.mp3
+quest_url=/assets/quest/
+use_synchronous_only=false
+building_assets_url=/assets/buildings/$.swf

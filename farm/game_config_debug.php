@@ -1,0 +1,86 @@
+<?php
+
+////////////////////////////////配置参数开始//////////////////////////////////////////
+
+$cdn_server_domain = 'cdndouleyou.r.worldssl.net';//'cdn.douleyou.com';//
+
+$gameSWFUrl = 'GameMain240.swf';
+
+
+$cdnDict = array(
+	'default'=>'https://' .$cdn_server_domain . '/farm/',
+);
+
+
+// base service
+$baseSVCDict = array(
+    'default'=>'https://starfarm.douleyou.com/farmfb/www/amf/gateway.php'
+);
+
+$assetUrlDict = array(
+	'default'=>''// 多语言
+);
+////////////////////////////////配置参数结束//////////////////////////////////////////
+
+
+require_once './app_config.php';
+$locale = 'en_US';
+$unreport_events='game_actions';
+
+if(empty($appId) || empty($dict[$appId])){
+	// return;
+}
+
+//////////////////////////////////////////////////////////////////////////
+$locale = $dict[$appId]['locale'];
+if(isset($_REQUEST['language']) && !empty($_REQUEST['language']) &&$_REQUEST['language'] != 'null'){
+	/*$localeArr = explode("_",$_REQUEST['language']);
+	if(count($localeArr)==2){
+		$locale = $localeArr[0];
+	}*/
+    $locale = $_REQUEST['language'];
+}
+
+
+$citycdn = $cdnDict['default'];
+
+if(!empty($cdnDict[$appId])){
+	$citycdn=$cdnDict[$appId];
+}
+
+
+file_put_contents('/tmp/starfarmtwo/language' . date('Ymd'). '.log', "Locale:\t$locale\t Request:{$_REQUEST['language']}\r\n",FILE_APPEND);
+
+$sns = $dict[$appId]['sns'];// sns id
+
+
+/////////////////////////////////////////////////////////////////////////////////
+
+
+
+///////////////////////////////////////  主swf ///////////////////////////////////////////////////
+$game_url = $gameSWFUrl;
+
+$game_url = $citycdn.$game_url;
+
+
+////////////////////////////////////////////////////////////////////////////////
+
+
+////////////////////////////////////////////////////////////////////////////////
+
+//////////////////////////////// 活动参数 配置  ////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+
+
+//////////////////////////////// 后台地址 配置  ////////////////////////////////////////////////
+$service_base=$baseSVCDict['default'];
+
+// 对app设置服务器
+if(!empty($baseSVCDict[$appId])){
+	$service_base=$baseSVCDict[$appId];
+}
+
+////////////////////////////////////////////////////////////////////////////////
+?>

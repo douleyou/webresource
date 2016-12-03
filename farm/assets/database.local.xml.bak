@@ -1,0 +1,930 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<happyfarm:database xmlns:happyfarm="http://www.elex-tech.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<!-- 动物 -->
+	<!-- <Animal id="id" name="名称" coin_cost="购买需要花费的金币" speed_cash="加速生产需要花费的宝石数目" base_cache_key="对应美术资源" grow_second="收获时间(单位是秒)" output="产物物品id：count" input_id="饲料"/> -->
+	<Group id="Animal">
+		<Animal id="10002" name="Chick" type="animal" show_scale="0.5" coin_cost="10" number_cost="0:10,6:140,12:270" speed_cash="2" base_cache_key="Chick" in_store="1" grow_second="1200" output="100003:1" input_id="333006" grid="1_1" unlock_level="3"
+			hungry="1_42" 
+			grow="1_80" 
+			harvest="1_20" 
+			harvesting="" 
+			eat="" 
+			walk=""			
+			version="20130909"/>
+		<Animal id="10001" name="Cow" type="animal" show_scale="1.0"  coin_cost="50" number_cost="0:50,5:600,10:3000" speed_cash="4" base_cache_key="Cow" in_store="1"   grow_second="3600" output="100002:1" input_id="333005" grid="1_1" unlock_level="5" 
+			hungry="1_26"
+			grow="1_54"
+			harvest="1_26" 			
+			harvesting="" 
+			eat="" 
+			walk=""
+			version="20130909"/>
+		<Animal id="10003" name="Pig" type="animal" show_scale="1.0" coin_cost="500" number_cost="0:500,5:1400" speed_cash="7" base_cache_key="Pig" in_store="1"   grow_second="14400" output="100014:1" input_id="333007" grid="1_1" unlock_level="10" 
+			hungry="1_50" 
+			grow="1_42" 
+			harvest="1_26" 
+			harvesting="" 	
+			eat="" 
+			walk="" 
+			version="20130910"/>
+		<Animal id="10004" name="Sheep" type="animal" show_scale="1.0" coin_cost="800" number_cost="0:800,5:2300"  speed_cash="8" base_cache_key="Sheep" in_store="1"   grow_second="21600" output="100015:1" input_id="333008" grid="1_1" unlock_level="16" 
+			hungry="1_26" 
+			grow="1_62" 
+			harvest="1_14" 
+			harvesting="" 	
+			eat="" 
+			walk=""	
+			version="20130909"/>
+		<Animal id="10005" name="Dog" type="animal" show_scale="1"   ticket_cost="100023:3,100024:2"  buy_method="ticket"  base_cache_key="Dog" in_store="1"   grow_second="28800"  input_id="100014" grid="1_1" unlock_level="15" output_exp="20" map_item_id="230037"
+			idle="1_5_1_X5,6_9,9X3,10_11_10,9X2,12_16,16X3,17_18_17,16X2,15_12,8_6,1_5_1_X8,19_22,22_28_X5,22_19" 
+			sleep="1_6_1" 
+			harvest="" 
+			harvesting="" 	
+			eat="1_7,7X3,8_11,11_15_X5,11_8,7X3,7_1" 
+			walk=""	/>
+		<Animal id="10006" name="Cat" type="animal" show_scale="1"   ticket_cost="100023:8,100025:4"  buy_method="ticket"  base_cache_key="Cat" in_store="1"   grow_second="28800"  input_id="100002" grid="1_1" unlock_level="24" output_exp="30" map_item_id="230038"
+			idle="1_7_1_X8,8_14,15_20_X3,1_7_1_X8,21_24,24X5,25_27_25,24X2,24_21" 
+			sleep="1_7_1" 
+			harvest="" 
+			harvesting="" 	
+			eat="1_21_1" 
+			walk=""	/>
+		<Animal id="10007" name="Goat" type="animal" show_scale="1.0"  coin_cost="3150"  speed_cash="10" base_cache_key="Goat" in_store="1"   grow_second="28800" output="100019:1" input_id="333009" grid="1_1" unlock_level="32" 
+			hungry="1_40" 
+			grow="1_70" 
+			harvest="1_74" 
+			harvesting=""  
+			eat="" 
+			version="20130909"/>
+		<Animal id="10008" name="Swan" type="animal" show_scale="0.8"  ticket_cost="100023:3,100024:2"  buy_method="ticket" speed_cash="9" base_cache_key="Swan" in_store="1" grow_second="25200" output="100030:1" input_id="333010" grid="1_1" unlock_level="25" 
+			hungry="1_22" 
+			grow="1_126" 
+			harvest="1_18" 
+			harvesting="" 	
+			eat="" 
+			version="20130909"/>
+	<!--	<Animal id="10009" name="Squirrel" type="animal" show_scale="1"   ticket_cost="100023:10,100026:10"  buy_method="ticket"   base_cache_key="Squirrel" in_store="1"   grow_second="28800"  input_id="320012" grid="1_1" unlock_level="24" output_exp="30" map_item_id="230041"
+			idle="1X5,2_3_4_5,6X8,7_8_9,10X6,11,10X5,12_13_14_15,16X5,17,16X6,15_14_13_12,10X5,11,10X6,9_8_7_8_9,10X4,9_8_7,6X5,5_4_3_2,1X6,18,1X5,19_20,1,21_22,1,19_20,1,21_22,1X5,23_24_25,26X6,27,26X7,25_24_23,1,2_3_4_5,6X8,7_8_9,10X6,9_8_7_8_9_8_7_8_9,10X5,11,10X6" 
+			sleep="1X2_2X2_3X2_2X2" 
+			harvest="" 
+			harvesting="" 	
+			eat="1_2,3X2,4_3_X3,5X3,6_7_8,9X2,10_11_X10,10X3,9_8_7_6" 
+			walk=""	
+			version="20130911"/>   
+		<Animal id="10010" name="Rabbit" type="animal" show_scale="0.8"  coin_cost="2500"  number_cost="0:2500,5:5000" speed_cash="12" base_cache_key="Rabbit" in_store="1"   grow_second="32400" output="100035:1" input_id="333011" grid="1_1" unlock_level="46" 
+			hungry="1_4_2_X2,1X8,5_15,15X6,15_18_16X2,15X7,15_5,1X8,19_26,26X2,26_29_27_X4,26_19" 
+			grow="1_15_X3,1_8,16_22,1_15_X2,1,23_36,37X5,37_40_38_X2,37X8,41_43,44X8,44_47_45_X2,44X6,48_55,56X7,56_59_57_X2,56X5,56_48,44X5,43_41,60_62,63X4,63_70_X4,63_60,37X8,36_23,1_15_X4,1_8,16_22,1_15_X3,1,71_81,82X8,82_85_83_X2,82X5,86_98_X4,82X5,82,99_101_99,82,99_101_99,82X8,81_71" 
+			harvest="1_19_X3,1,20_26,27_34_X4,27_20,1_19_X5,1,35_48,49_53_50_X3,49_53,48_35" 
+			harvesting=""  
+			eat="" />       -->
+	</Group>
+	<Group id="Chest">
+		<Chest id="110001" name="ClosedChest" type="chest" base_cache_key="ClosedChest" grid="2_2"/>
+	</Group>
+	<!-- 物品 可以放在背包里的物品  -->
+	<!--Item id="id" name="物品名称" 
+	type="物品类型" : data_type=Package  data_type=material(仓库) or seed(粮仓)
+	base_cache_key="物品对应图标" sell_coin="市场售卖价格" 
+	little="少量的数量" medium="中量得数量" large="大量的数量" 
+	number="单位数量" cash_cost="购买单位数量消耗现金数"
+	data_type="Package" : 放入背包的
+	data_type="Account" : 加到账户的,只记数值
+	-->
+	<Group id="Item">
+		<!-- 城市币,金币,经验 -->
+		<Item id="100020" name="points" type="points" base_cache_key="hayday.ui.CashIcon" sell_coin="200" little="2" medium="6" large="10" number="1" maxsell_coin="1" data_type="Account"/>
+		<Item id="100021" name="coin" type="coin" base_cache_key="elex.skin.icon.CoinIcon" sell_coin="0" little="10" medium="50" large="100" number="1" maxsell_coin="0.008" data_type="Account"/>
+		<Item id="100022" name="exp" type="exp" base_cache_key="elex.skin.icon.ExpIcon" sell_coin="0" little="0" medium="0" large="0" number="1" maxsell_coin="1" data_type="Account"/>
+		
+		<Item id="100023" name="GreenTicket" type="ticket" base_cache_key="elex.skin.icon.GreenTicket" sell_coin="0" cash_cost="15" little="0" medium="0" large="0" number="1" maxsell_coin="1" data_type="ticket"/>
+		<Item id="100024" name="BlueTicket" type="ticket" base_cache_key="elex.skin.icon.BlueTicket" sell_coin="0" cash_cost="30" little="0" medium="0" large="0" number="1" maxsell_coin="1" data_type="ticket"/>
+		<Item id="100025" name="PinkTicket" type="ticket" base_cache_key="elex.skin.icon.PinkTicket" sell_coin="0" cash_cost="50" little="0" medium="0" large="0" number="1" maxsell_coin="1" data_type="ticket"/>
+		<Item id="100026" name="GoldTicket" type="ticket" base_cache_key="elex.skin.icon.GoldTicket" sell_coin="0" cash_cost="80" little="0" medium="0" large="0" number="1" maxsell_coin="1" data_type="ticket"/>
+		<Item id="100029" name="trainScore" type="trainScore" base_cache_key="elex.skin.icon.TrainScore" sell_coin="0" little="0" medium="0" large="0" number="1" maxsell_coin="1" data_type="Account"/>
+
+		<Item id="100003" name="egg" base_cache_key="hayday.icon.EggIconMC" maxsell_coin="18" sell_coin="5" cash_cost="4" type="machine" data_type="material" unlock_level="3" order_weight="4" order_coin="5"/>
+		<Item id="100002" name="milk" base_cache_key="hayday.icon.MilkIconMC" maxsell_coin="32" sell_coin="9" cash_cost="6" type="machine" data_type="material" unlock_level="5" order_weight="4" order_coin="9"/>
+		<Item id="100014" name="bacon" base_cache_key="hayday.icon.BaconIconMC" maxsell_coin="50" sell_coin="14" cash_cost="10" unlock_level="10" type="machine" data_type="material" order_weight="10" order_coin="14"/>
+ 		<Item id="100015" name="wool" base_cache_key="hayday.icon.WoolIconMC" maxsell_coin="50" sell_coin="14" cash_cost="11" unlock_level="16" type="machine" data_type="material" order_weight="11"  order_coin="15"/>
+ 		<Item id="100019" name="GoatMilk" base_cache_key="hayday.icon.GoatIconMC" grow_second="28800" maxsell_coin="64" sell_coin="18" cash_cost="15" unlock_level="32" type="machine" data_type="material" order_weight="5" order_coin="18" />
+		<Item id="100030" name="SwanFeather" base_cache_key="hayday.icon.FeatherIconMC" grow_second="25200" maxsell_coin="59" sell_coin="16" cash_cost="13" unlock_level="25" type="machine" data_type="material" order_weight="18" order_coin="16" />
+		<Item id="100035" name="RabbitFur" base_cache_key="hayday.icon.RabbitFurIconMC" grow_second="32400" maxsell_coin="72" sell_coin="20" cash_cost="17" unlock_level="46" type="machine" data_type="material" order_weight="18" order_coin="18" />
+				
+		<!-- 升级材料 -->
+		<Item id="100004" name="nail" base_cache_key="hayday.icon.NailIconMC"  maxsell_coin="270" sell_coin="75" cash_cost="8" type="machine" data_type="material" />
+		<Item id="100005" name="screw" base_cache_key="hayday.icon.ScrewIconMC" maxsell_coin="270" sell_coin="75" cash_cost="8" type="machine" data_type="material" />
+		<Item id="100006" name="plank" base_cache_key="hayday.icon.PlankIconMC" maxsell_coin="270" sell_coin="75" cash_cost="8" type="machine" data_type="material" />
+		<Item id="100007" name="wood" base_cache_key="hayday.icon.WoodIconMC" maxsell_coin="270" sell_coin="75" cash_cost="8" type="machine" data_type="material" />
+		<Item id="100008" name="bolt" base_cache_key="hayday.icon.BoltIconMC" maxsell_coin="270" sell_coin="75" cash_cost="8" type="machine" data_type="material" />
+		<Item id="100009" name="tape" base_cache_key="hayday.icon.TapeIconMC" maxsell_coin="270" sell_coin="75" cash_cost="8" type="machine" data_type="material" />
+		
+		<!-- 铲除场景杂物工具 -->
+		<Item id="100010" name="axe" base_cache_key="hayday.icon.AxeIconMC" maxsell_coin="36" sell_coin="10" cash_cost="4" type="machine" data_type="material"  order_weight="16" order_coin="10" order_type="2"/>
+		<Item id="100011" name="saw" base_cache_key="hayday.icon.SawIconMC" maxsell_coin="54" sell_coin="15" cash_cost="5" type="machine" data_type="material"  order_weight="17" order_coin="15"  order_type="2"/>
+		<Item id="100012" name="explosive" base_cache_key="hayday.icon.ExplosiveIconMC" maxsell_coin="25" sell_coin="7" cash_cost="3" type="machine" data_type="material"  order_weight="15" order_coin="7"  order_type="2"/>
+		<Item id="100013" name="bomb" base_cache_key="hayday.icon.BombIconMC" maxsell_coin="72" sell_coin="20" cash_cost="7" type="machine" data_type="material"  order_weight="17" order_coin="20" order_type="2" />
+		<Item id="100016" name="shovel" base_cache_key="hayday.icon.ShovelIconMC" maxsell_coin="108" sell_coin="30" cash_cost="10" type="machine" data_type="material" order_weight="18" order_coin="30" order_type="2" />
+		<Item id="100031" name="licenseStamp" base_cache_key="hayday.icon.LicenseStampMC" maxsell_coin="108" sell_coin="30" cash_cost="10" type="machine" data_type="material" order_weight="18" order_coin="30" order_type="2"/>
+		<Item id="100032" name="application" base_cache_key="hayday.icon.ApplicationMC" maxsell_coin="108" sell_coin="30" cash_cost="10" type="machine" data_type="material" order_weight="18" order_coin="30" order_type="2" />
+		<Item id="100033" name="pickaxe" base_cache_key="hayday.icon.PickaxeMC" maxsell_coin="108" sell_coin="30" cash_cost="10" type="machine" data_type="material" order_weight="0" order_coin="30" order_type="2" />
+		<Item id="100034" name="wood_package" base_cache_key="hayday.icon.PackageMC" cash_cost="4" type="itempackage" product_id="100007:1" start_time="" end_time="2013-09-13" data_type="material"/>
+
+		<!-- 果树复活工具 -->
+		<Item id="100017" name="horn" base_cache_key="hayday.icon.HornIconMC" type="fruittool" data_type="material" />
+		<Item id="100018" name="reliveicon" base_cache_key="hayday.icon.ReliveiconIconMC" type="fruittool" data_type="material" />
+		
+		<!-- 饲料加工机产物-->
+		<!-- id="id" name="名称" base_cache_key="对应美术资源" make_num_onetime为一次加工出来的数量  menuitem_key="menu中对应美术资源" type="类型" input_id="需要材料：数量" map_item_id="230012" second_to_output="产出时间" fade="600"  coin_cost="15" data_type="material" cash_cost="3" output_item1_id="产出物品id" output_item1_qty="115" output_item2_id="0" output_item2_qty="0" output_qty_wither="40" second_to_wither="259200" output_exp="1" unlock_level="0" building_level="1"-->
+		<Item id="333006" name="chickfood" make_num_onetime="3" base_cache_key="hayday.icon.ChickFoodIconMC" input_id="320001:2,320002:1" map_item_id="230012" second_to_output="300" maxsell_coin="7" sell_coin="2" coin_cost="15" cash_cost="2" speed_cash="1" output_exp="1" unlock_level="3" building_level="1" type="machine" data_type="material"/>
+		<Item id="333005" name="cowfood" make_num_onetime="3" base_cache_key="hayday.icon.CowFoodIconMC" input_id="320002:1,320004:2" map_item_id="230012" second_to_output="600" maxsell_coin="14" sell_coin="4" coin_cost="15" cash_cost="3" speed_cash="2" output_exp="2" unlock_level="5" building_level="1" type="machine" data_type="material"/>
+		<Item id="333007" name="pigfood" make_num_onetime="3" base_cache_key="hayday.icon.PigFoodIconMC" input_id="320003:2,320004:1" map_item_id="230012" second_to_output="1200" maxsell_coin="14" sell_coin="4" coin_cost="15" cash_cost="3" speed_cash="2" output_exp="2" unlock_level="10" building_level="1" type="machine" data_type="material"/>
+		<Item id="333008" name="sheepfood" make_num_onetime="3" base_cache_key="hayday.icon.SheepFoodIconMC" input_id="320001:3,320004:1" map_item_id="230012" second_to_output="1800" maxsell_coin="14" sell_coin="4" coin_cost="15" cash_cost="3" speed_cash="3" output_exp="3" unlock_level="16" building_level="1" type="machine" data_type="material"/>
+		<Item id="333009" name="goatfood"    make_num_onetime="3"  base_cache_key="hayday.icon.GoatFoodIconMC"  input_id="320001:1,320002:1,320003:2" map_item_id="230012" second_to_output="2400" maxsell_coin="14" sell_coin="4" coin_cost="15" cash_cost="3" speed_cash="3" output_exp="3" unlock_level="32" building_level="1" type="machine" data_type="material"/>
+ 		<Item id="333010" name="swanfood"    make_num_onetime="3"  base_cache_key="hayday.icon.SwanFoodIconMC"  input_id="320002:1,320004:2,320003:2" map_item_id="230012" second_to_output="2100" maxsell_coin="14" sell_coin="4" coin_cost="15" cash_cost="3" speed_cash="3" output_exp="3" unlock_level="25" building_level="1" type="machine" data_type="material"/>
+ 		<Item id="333011" name="rabbitfood"    make_num_onetime="3"  base_cache_key="hayday.icon.RabbitFoodIconMC"  input_id="320002:2,320003:3" map_item_id="230012" second_to_output="3600" maxsell_coin="18" sell_coin="5" coin_cost="15" cash_cost="4" speed_cash="4" output_exp="4" unlock_level="46" building_level="1" type="machine" data_type="material"/>
+		<!-- 面包加工机产物 -->
+		<Item id="334005" name="Bread" make_num_onetime="1" base_cache_key="hayday.icon.BreadIconMC" menuitem_key="hayday.menu.BreadIconMC" input_id="320001:3" map_item_id="230013" second_to_output="300" fade="600" maxsell_coin="21" sell_coin="6" coin_cost="15" cash_cost="4" speed_cash="1" unlock_level="2" building_level="1" output_exp="3" type="machine" data_type="material" order_weight="8" order_coin="6"/>
+		<Item id="334006" name="Tortillas" make_num_onetime="1" base_cache_key="hayday.icon.TortillasIconMC" menuitem_key="hayday.menu.TortillasIconMC" input_id="320002:2,100003:2" map_item_id="230013" second_to_output="1800" fade="600" maxsell_coin="72" sell_coin="20" coin_cost="15" cash_cost="13" speed_cash="3" unlock_level="7" building_level="1" output_exp="8" type="machine" data_type="material" order_weight="5" order_coin="20"/>
+		<Item id="334008" name="Cookies" make_num_onetime="1" base_cache_key="hayday.icon.CookiesIconMC" menuitem_key="hayday.menu.CookiesIconMC" input_id="320001:2,100003:2,335005:1" map_item_id="230013" second_to_output="3600" fade="600" maxsell_coin="104" sell_coin="29" coin_cost="15" cash_cost="19" speed_cash="4" unlock_level="10" building_level="1" output_exp="13" type="machine" data_type="material" order_weight="11" order_coin="29"/>
+		<Item id="334009" name="RaspberryBread" make_num_onetime="1" base_cache_key="hayday.icon.CookiesIconMC" menuitem_key="hayday.menu.CookiesIconMC" input_id="330002:2,100003:1,320001:2" map_item_id="230013" second_to_output="2700" fade="600" maxsell_coin="140" sell_coin="39" coin_cost="15" cash_cost="27" speed_cash="3" unlock_level="19" building_level="1" output_exp="17" type="machine" data_type="material" order_weight="13" order_coin="39"/>
+		<Item id="334010" name="BlackberryBread" make_num_onetime="1" base_cache_key="hayday.icon.CookiesIconMC" menuitem_key="hayday.menu.CookiesIconMC" input_id="330004:2,100003:2,320001:1" map_item_id="230013" second_to_output="2700" fade="600" maxsell_coin="226" sell_coin="63" coin_cost="15" cash_cost="44" speed_cash="3" unlock_level="26" building_level="1" output_exp="27" type="machine" data_type="material" order_weight="15" order_coin="63"/>
+		<Item id="334011" name="Toaster" make_num_onetime="1" base_cache_key="hayday.icon.ToasterIconMC" menuitem_key="hayday.menu.ToasterIconMC" input_id="334005:2,347005:2,335007:1" map_item_id="230013" second_to_output="30600" fade="600" maxsell_coin="850" sell_coin="260" coin_cost="15" cash_cost="75" speed_cash="17" unlock_level="58" building_level="1" output_exp="60" type="machine" data_type="material" order_weight="15" order_coin="300"/>
+		<!-- 甘蔗（制糖）机产物 -->
+		<Item id="335005" name="BrownSugar" make_num_onetime="1" base_cache_key="hayday.icon.BrownSugarIconMC" menuitem_key="hayday.menu.BrownSugarIconMC" input_id="320005:1" map_item_id="230015" second_to_output="1200" fade="600" maxsell_coin="32" sell_coin="9" coin_cost="15" cash_cost="5" speed_cash="2" unlock_level="7" building_level="1" output_exp="4" type="machine" data_type="material" order_weight="5" order_coin="9"/>
+		<Item id="335006" name="WhiteSugar" make_num_onetime="1" base_cache_key="hayday.icon.WhiteSugarIconMC" menuitem_key="hayday.menu.WhiteSugarIconMC" input_id="320005:2" map_item_id="230015" second_to_output="2400" fade="600" maxsell_coin="50" sell_coin="14" coin_cost="15" cash_cost="9" speed_cash="3" unlock_level="13" building_level="1" output_exp="6" type="machine" data_type="material" order_weight="5" order_coin="14"/>
+		<Item id="335007" name="Syrup" make_num_onetime="1" base_cache_key="hayday.icon.SyrupIconMC" menuitem_key="hayday.menu.SyrupIconMC" input_id="320005:4" map_item_id="230015" second_to_output="5400" fade="600" maxsell_coin="90" sell_coin="25" coin_cost="15" cash_cost="17" speed_cash="4" unlock_level="18" building_level="1" output_exp="11" type="machine" data_type="material" order_weight="10" order_coin="25"/>
+		<!-- 烤派加工机产物 -->
+		<Item id="336005" name="CarrotPie" make_num_onetime="1" base_cache_key="hayday.icon.CarrotPieIconMC" menuitem_key="hayday.menu.CarrotPieIconMC" input_id="320003:3,100003:1,320001:2" map_item_id="230018" second_to_output="3600" fade="600" maxsell_coin="82" sell_coin="23" coin_cost="15" cash_cost="16" speed_cash="4" unlock_level="14" building_level="1" output_exp="10" type="machine" data_type="material" order_weight="17" order_coin="23"/>
+		<Item id="336006" name="PumpkinPie" make_num_onetime="1" base_cache_key="hayday.icon.PumpkinPieIconMC" menuitem_key="hayday.menu.PumpkinPieIconMC" input_id="320007:3,100003:1,320001:2" map_item_id="230018" second_to_output="7200" fade="600" maxsell_coin="158" sell_coin="44" coin_cost="15" cash_cost="29" speed_cash="4" unlock_level="15" building_level="1" output_exp="19" type="machine" data_type="material" order_weight="14" order_coin="44"/>
+		<Item id="336007" name="BaconPie" make_num_onetime="1" base_cache_key="hayday.icon.BaconPieIconMC" menuitem_key="hayday.menu.BaconPieIconMC" input_id="100014:3,100003:1,320001:2" map_item_id="230018" second_to_output="10800" fade="600" maxsell_coin="219" sell_coin="61" coin_cost="15" cash_cost="42" speed_cash="6" unlock_level="18" building_level="1" output_exp="26" type="machine" data_type="material" order_weight="18" order_coin="61"/>
+		<Item id="336009" name="GoatPie" make_num_onetime="1"  base_cache_key="hayday.icon.GoatPieIconMC"  menuitem_key="hayday.menu.GoatPieIconMC" input_id="339007:1,100003:1,320001:2" map_item_id="230018" second_to_output="5400" fade="600" maxsell_coin="223" sell_coin="62" coin_cost="15" cash_cost="34" speed_cash="5" unlock_level="34" building_level="1" output_exp="26" type="machine" data_type="material" order_weight="25" order_coin="62"  />
+		<Item id="336008" name="ApplePie" make_num_onetime="1" base_cache_key="hayday.icon.ApplePieIconMC" menuitem_key="hayday.menu.ApplePieIconMC" input_id="330001:3,100003:1,320001:2,339006:1" map_item_id="230018" second_to_output="9000" fade="600" maxsell_coin="270" sell_coin="75" coin_cost="15" cash_cost="50" speed_cash="3" unlock_level="16" building_level="1" output_exp="32" type="machine" data_type="material" order_weight="20" order_coin="75"/>
+		<Item id="336010" name="PotatoPie" make_num_onetime="1"  base_cache_key="hayday.icon.PotatoPieIconMC"  menuitem_key="hayday.menu.PotatoPieIconMC" input_id="320001:4,320015:3,100003:3" map_item_id="230018" second_to_output="28800" fade="600" maxsell_coin="760" sell_coin="220" coin_cost="15" cash_cost="70" speed_cash="15" unlock_level="56" building_level="1" output_exp="57" type="machine" data_type="material" order_weight="23" order_coin="260"  />
+		<!-- 烤肉架产物 -->
+		<Item id="337004" name="Hamburger" make_num_onetime="1" base_cache_key="hayday.icon.HamburgerIconMC" menuitem_key="hayday.menu.HamburgerIconMC" input_id="334005:2,100014:2" map_item_id="230017" second_to_output="1800" fade="600" maxsell_coin="100" sell_coin="28" coin_cost="15" cash_cost="36" speed_cash="5" unlock_level="18" building_level="1" output_exp="22" type="machine" data_type="material" order_weight="18" order_coin="47"/>
+		<Item id="337005" name="Pizza" make_num_onetime="1" base_cache_key="hayday.icon.PizzaIconMC" menuitem_key="hayday.menu.PizzaIconMC" input_id="100003:3,335005:1" map_item_id="230017" second_to_output="1800" fade="600" maxsell_coin="100" sell_coin="28" coin_cost="15" cash_cost="22" speed_cash="3" unlock_level="9" building_level="1" output_exp="13" type="machine" data_type="material" order_weight="3" order_coin="28"/>
+		<Item id="337006" name="BaconEgg" make_num_onetime="1" base_cache_key="hayday.icon.BaconEggIconMC" menuitem_key="hayday.menu.BaconEggIconMC" input_id="100003:4,100014:2" map_item_id="230017" second_to_output="3600" fade="600" maxsell_coin="201" sell_coin="56" coin_cost="15" cash_cost="40" speed_cash="4" unlock_level="11" building_level="1" output_exp="24" type="machine" data_type="material" order_weight="13" order_coin="56"/>
+		<Item id="337007" name="BakedTomato" make_num_onetime="1" base_cache_key="hayday.icon.BakedTomatoIconMC" menuitem_key="hayday.menu.BakedTomatoMC" input_id="320011:2" map_item_id="230017" second_to_output="5400" fade="600" maxsell_coin="118" sell_coin="33" coin_cost="15" cash_cost="45" speed_cash="5" unlock_level="30" building_level="1" output_exp="14" type="machine" data_type="material" order_weight="20" order_coin="33"/>
+		<Item id="337008" name="MashedPotato" make_num_onetime="1" base_cache_key="hayday.icon.MashedPotatoIconMC" menuitem_key="hayday.menu.MashedPotatoMC" input_id="339006:1,320015:2,100014:3" map_item_id="230017" second_to_output="28800" fade="600" maxsell_coin="820" sell_coin="240" coin_cost="15" cash_cost="73" speed_cash="16" unlock_level="56" building_level="1" output_exp="57" type="machine" data_type="material" order_weight="22" order_coin="250"/>
+		<!-- 爆米花机产物 -->
+		<Item id="338005" name="Popcorn" make_num_onetime="1" base_cache_key="hayday.icon.PopcornIconMC" menuitem_key="hayday.menu.PopcornIconMC" input_id="320002:2" map_item_id="230016" second_to_output="1800" fade="600" maxsell_coin="100" sell_coin="28" coin_cost="15" cash_cost="5" speed_cash="3" unlock_level="8" building_level="1" output_exp="4" type="machine" data_type="material" order_weight="14" order_coin="9"/>
+		<Item id="338006" name="ButterPopcorn" make_num_onetime="1" base_cache_key="hayday.icon.ButterPopcornIconMC" menuitem_key="hayday.menu.ButterPopcornIconMC" input_id="320002:2,339005:1" map_item_id="230016" second_to_output="3600" fade="600" maxsell_coin="126" sell_coin="35" coin_cost="15" cash_cost="21" speed_cash="4" unlock_level="16" building_level="1" output_exp="15" type="machine" data_type="material" order_weight="8" order_coin="35"/>
+		<Item id="338007" name="ChilliPopcorn" make_num_onetime="1" base_cache_key="hayday.icon.ChilliPopcornIconMC" menuitem_key="hayday.menu.ChilliPopcornIconMC" input_id="320002:2,320010:2" map_item_id="230016" second_to_output="7200" fade="600" maxsell_coin="122" sell_coin="34" coin_cost="15" cash_cost="21" speed_cash="5" unlock_level="25" building_level="1" output_exp="15" type="machine" data_type="material" order_weight="9" order_coin="34"/>
+		<!-- 制奶机产物 -->
+		<Item id="334007" name="Cream" make_num_onetime="1" base_cache_key="hayday.icon.CreamIconMC" menuitem_key="hayday.menu.CreamIconMC" input_id="100002:1" map_item_id="230014" second_to_output="1200" fade="600" maxsell_coin="50" sell_coin="14" coin_cost="15" cash_cost="8" speed_cash="2" unlock_level="5" building_level="1" output_exp="6" type="machine" data_type="material" order_weight="7" order_coin="14"/>
+		<Item id="339005" name="Butter" make_num_onetime="1" base_cache_key="hayday.icon.ButterIconMC" menuitem_key="hayday.menu.ButterIconMC" input_id="100002:2" map_item_id="230014" second_to_output="1800" fade="600" maxsell_coin="82" sell_coin="23" coin_cost="15" cash_cost="15" speed_cash="3" unlock_level="9" building_level="1" output_exp="10" type="machine" data_type="material" order_weight="12" order_coin="23"/>
+		<Item id="339006" name="Cheese" make_num_onetime="1" base_cache_key="hayday.icon.CheeseIconMC" menuitem_key="hayday.menu.CheeseIconMC" input_id="100002:3" map_item_id="230014" second_to_output="3600" fade="600" maxsell_coin="122" sell_coin="34" coin_cost="15" cash_cost="22" speed_cash="4" unlock_level="12" building_level="1" output_exp="15" type="machine" data_type="material" order_weight="8" order_coin="34"/>
+		<Item id="339007" name="GoatCheese" make_num_onetime="1"  base_cache_key="hayday.icon.GoatCheeseIconMC"  menuitem_key="hayday.menu.GoatCheeseIconMC" input_id="100019:2" map_item_id="230014" second_to_output="5400" fade="600" maxsell_coin="162" sell_coin="45" coin_cost="15" cash_cost="25" speed_cash="5" unlock_level="33" building_level="1" output_exp="19" type="machine" data_type="material" order_weight="12" order_coin="45"/>
+		<!-- 纺织机产物 -->
+		<Item id="340004" name="Sweater" make_num_onetime="1" base_cache_key="hayday.icon.SweaterIconMC" menuitem_key="hayday.menu.SweaterIconMC" input_id="100015:2" map_item_id="230024" second_to_output="7200" fade="600" maxsell_coin="151" sell_coin="42" coin_cost="15" cash_cost="27" speed_cash="5" unlock_level="17" building_level="1" output_exp="18" type="machine" data_type="material" order_weight="11" order_coin="42"/>
+		<Item id="340005" name="BlueWoollyHat" make_num_onetime="1" base_cache_key="hayday.icon.BlueWoollyHatIconMC" menuitem_key="hayday.menu.BlueWoollyHatIconMC" input_id="100015:1,320006:1" map_item_id="230024" second_to_output="3600" fade="600" maxsell_coin="100" sell_coin="28" coin_cost="15" cash_cost="20" speed_cash="4" unlock_level="19" building_level="1" output_exp="13" type="machine" data_type="material" order_weight="9" order_coin="31"/>
+		<Item id="340006" name="BlueSweater" make_num_onetime="1" base_cache_key="hayday.icon.BlueSweaterIconMC" menuitem_key="hayday.menu.BlueSweaterIconMC" input_id="100015:4,320006:4" map_item_id="230024" second_to_output="10800" fade="600" maxsell_coin="201" sell_coin="56" coin_cost="15" cash_cost="35" speed_cash="6" unlock_level="20" building_level="1" output_exp="24" type="machine" data_type="material" order_weight="16" order_coin="51"/>
+		<Item id="340007" name="Gloves" make_num_onetime="1"  base_cache_key="hayday.icon.GlovesIconMC"  menuitem_key="hayday.menu.GlovesIconMC" input_id="100030:1,320006:2" map_item_id="230024" second_to_output="5400" fade="600" maxsell_coin="130" sell_coin="36" coin_cost="15" cash_cost="28" speed_cash="5" unlock_level="25" building_level="1" output_exp="20" type="machine" data_type="material" order_weight="20" order_coin="36"/>
+		<Item id="340008" name="Scarf" make_num_onetime="1"  base_cache_key="hayday.icon.ScarfIconMC"  menuitem_key="hayday.menu.ScarfIconMC" input_id="100030:2,320006:3" map_item_id="230024" second_to_output="10800" fade="600" maxsell_coin="210" sell_coin="59" coin_cost="15" cash_cost="44" speed_cash="6" unlock_level="27" building_level="1" output_exp="28" type="machine" data_type="material" order_weight="22" order_coin="59"/>
+		<Item id="340009" name="Shawl" make_num_onetime="1"  base_cache_key="hayday.icon.ShawlIconMC"  menuitem_key="hayday.menu.ShawlIconMC" input_id="100035:3,100030:2" map_item_id="230024" second_to_output="25200" fade="600" maxsell_coin="576" sell_coin="160" coin_cost="15" cash_cost="65" speed_cash="13" unlock_level="46" building_level="1" output_exp="50" type="machine" data_type="material" order_weight="22" order_coin="70"/>
+		<Item id="340010" name="SnowBoots" make_num_onetime="1"  base_cache_key="hayday.icon.SnowBootsIconMC"  menuitem_key="hayday.menu.SnowBootsIconMC" input_id="100035:3,320014:2" map_item_id="230024" second_to_output="27000" fade="600" maxsell_coin="720" sell_coin="200" coin_cost="15" cash_cost="70" speed_cash="15" unlock_level="48" building_level="1" output_exp="52" type="machine" data_type="material" order_weight="22" order_coin="75"/>
+		<!-- 蛋糕机产物 -->
+		<Item id="342001" name="CarrotCake" make_num_onetime="1" base_cache_key="hayday.icon.CarrotCakeIconMC" menuitem_key="hayday.menu.CarrotCakeIconMC" input_id="320003:2,335005:1,339005:1" map_item_id="230031" second_to_output="5400" fade="600" maxsell_coin="165" sell_coin="46" coin_cost="15" cash_cost="29" speed_cash="5" unlock_level="21" building_level="1" output_exp="20" type="machine" data_type="material" order_weight="11" order_coin="46"/>
+		<Item id="342002" name="CreamCake" make_num_onetime="1" base_cache_key="hayday.icon.CreamCakeIconMC" menuitem_key="hayday.menu.CreamCakeIconMC" input_id="320001:5,335006:1,334007:1" map_item_id="230031" second_to_output="10800" fade="600" maxsell_coin="219" sell_coin="61" coin_cost="15" cash_cost="36" speed_cash="6" unlock_level="23" building_level="1" output_exp="26" type="machine" data_type="material" order_weight="11" order_coin="61"/>
+		<Item id="342003" name="CherryCake" make_num_onetime="1" base_cache_key="hayday.icon.CherryCakeIconMC" menuitem_key="hayday.menu.CherryCakeIconMC" input_id="330002:1,100002:1,100003:1,330003:2" map_item_id="230031" second_to_output="3600" fade="600" maxsell_coin="255" sell_coin="71" coin_cost="15" cash_cost="49" speed_cash="4" unlock_level="23" building_level="1" output_exp="31" type="machine" data_type="material" order_weight="11" order_coin="71"/>
+		<Item id="342004" name="CheeseCake" make_num_onetime="1" base_cache_key="hayday.icon.CheeseCakeIconMC" menuitem_key="hayday.menu.CheeseCakeIconMC" input_id="334008:1,339006:1" map_item_id="230031" second_to_output="14400" fade="600" maxsell_coin="284" sell_coin="79" coin_cost="15" cash_cost="65" speed_cash="7" unlock_level="24" building_level="1" output_exp="34" type="machine" data_type="material" order_weight="16" order_coin="79"/>
+		<Item id="342005" name="BlackberryCake" make_num_onetime="1" base_cache_key="hayday.icon.CheeseCakeIconMC" menuitem_key="hayday.menu.CheeseCakeIconMC" input_id="330004:2,100003:1,339005:1" map_item_id="230031" second_to_output="7200" fade="600" maxsell_coin="266" sell_coin="74" coin_cost="15" cash_cost="51" speed_cash="6" unlock_level="27" building_level="1" output_exp="36" type="machine" data_type="material" order_weight="16" order_coin="74"/>
+		<Item id="342006" name="StrawberryCake" make_num_onetime="1" base_cache_key="hayday.icon.CheeseCakeIconMC" menuitem_key="hayday.menu.CheeseCakeIconMC" input_id="320001:3,335006:1,334007:1,320012:2" map_item_id="230031" second_to_output="10800" fade="600" maxsell_coin="316" sell_coin="88" coin_cost="15" cash_cost="80" speed_cash="6" unlock_level="35" building_level="1" output_exp="36" type="machine" data_type="material" order_weight="18" order_coin="88"/>
+		<Item id="342007" name="DoubleLayerCake" make_num_onetime="1" base_cache_key="hayday.icon.DoubleLayerCakeIconMC" menuitem_key="hayday.menu.DoubleLayerIconMC" input_id="342002:1,342006:1" map_item_id="230031" second_to_output="21600" fade="600" maxsell_coin="432" sell_coin="120" coin_cost="15" cash_cost="48" speed_cash="10" unlock_level="44" building_level="1" output_exp="47" type="machine" data_type="material" order_weight="18" order_coin="95"/>
+		<!-- 香水机产物 -->
+		<Item id="343001" name="RosePerfume" make_num_onetime="1" base_cache_key="hayday.icon.RosePerfumeIconMC" menuitem_key="hayday.menu.RosePerfumeIconMC" input_id="320008:3" map_item_id="230032" second_to_output="7200" fade="600" maxsell_coin="150" sell_coin="40" coin_cost="15" cash_cost="25" speed_cash="6" unlock_level="22" building_level="1" output_exp="24" type="machine" data_type="material" order_weight="15" order_coin="40"/>
+		<Item id="343002" name="LavenderPerfume" make_num_onetime="1" base_cache_key="hayday.icon.LavenderPerfumeIconMC" menuitem_key="hayday.menu.LavenderPerfumeIconMC" input_id="320006:3,320008:1" map_item_id="230032" second_to_output="10800" fade="600" maxsell_coin="112" sell_coin="31" coin_cost="15" cash_cost="30" speed_cash="6" unlock_level="25" building_level="1" output_exp="26" type="machine" data_type="material" order_weight="17" order_coin="31"/>
+		<Item id="348007" name="GrapeLemonJuice" make_num_onetime="1" input_id="330006:2,330005:2"	map_item_id="230032" second_to_output="10800" fade="600" maxsell_coin="390" sell_coin="108" coin_cost="15" cash_cost="35" speed_cash="8" unlock_level="34" building_level="1" output_exp="28" type="machine" data_type="material"  order_weight="24" order_coin="108"/>
+		<Item id="343003" name="LilyPerfume" make_num_onetime="1" base_cache_key="hayday.icon.LilyPerfumeIconMC" menuitem_key="hayday.menu.LilyPerfumeIconMC" input_id="320006:1,320014:3" map_item_id="230032" second_to_output="23400" fade="600" maxsell_coin="504" sell_coin="140" coin_cost="15" cash_cost="60" speed_cash="12" unlock_level="45" building_level="1" output_exp="49" type="machine" data_type="material" order_weight="17" order_coin="50"/>
+		<!-- 酿酒机产物 -->
+		<Item id="345001" name="Beer" make_num_onetime="1" base_cache_key="hayday.icon.BeerIconMC" menuitem_key="hayday.menu.BeerIconMC" input_id="320009:3" map_item_id="230034" second_to_output="1800" fade="600" maxsell_coin="53" sell_coin="15" coin_cost="15" cash_cost="10" speed_cash="3" unlock_level="6" building_level="1" output_exp="6" type="machine" data_type="material" order_weight="12" order_coin="15"/>
+		<Item id="345002" name="Ale" make_num_onetime="1" base_cache_key="hayday.icon.AleIconMC" menuitem_key="hayday.menu.AleIconMC" input_id="320009:2,320001:3" map_item_id="230034" second_to_output="7200" fade="600" maxsell_coin="40" sell_coin="11" coin_cost="15" cash_cost="20" speed_cash="5" unlock_level="15" building_level="1" output_exp="12" type="machine" data_type="material" order_weight="10" order_coin="11"/>
+		<Item id="348006" name="GrapeJuice" make_num_onetime="1" input_id="330006:3"	map_item_id="230034" second_to_output="10800" fade="600" maxsell_coin="324" sell_coin="90" coin_cost="15" cash_cost="30" speed_cash="6" unlock_level="34" building_level="1" output_exp="15" type="machine" data_type="material"  order_weight="22" order_coin="90"/>
+		<Item id="348008" name="Cocktail" make_num_onetime="1" input_id="320013:3,330005:3,348006:1"	map_item_id="230034" second_to_output="21600" maxsell_coin="756" sell_coin="210" coin_cost="150" cash_cost="76" speed_cash="10" unlock_level="40" building_level="1" output_exp="20" type="machine" data_type="material"  order_weight="20" order_coin="210"/>		
+		<!-- 冶炼厂产物 -->
+		<Item id="344001" name="SilverBar" make_num_onetime="1" input_id="341001:3" map_item_id="230033" second_to_output="28800" fade="600" maxsell_coin="118" sell_coin="33" coin_cost="15" cash_cost="19" speed_cash="10" unlock_level="24" building_level="1" output_exp="14" type="machine" data_type="material" order_weight="17" order_coin="33" order_type="3"/>
+		<Item id="344002" name="GoldBar" make_num_onetime="1" input_id="341002:3" map_item_id="230033" second_to_output="43200" fade="600" maxsell_coin="147" sell_coin="41" coin_cost="15" cash_cost="24" speed_cash="12" unlock_level="24" building_level="1" output_exp="18" type="machine" data_type="material" order_weight="18" order_coin="41" order_type="3"/>
+		<Item id="344003" name="PlatinumBar" make_num_onetime="1" input_id="341003:3" map_item_id="230033" second_to_output="57600" fade="600" maxsell_coin="176" sell_coin="49" coin_cost="15" cash_cost="28" speed_cash="14" unlock_level="24" building_level="1" output_exp="21" type="machine" data_type="material" order_weight="19" order_coin="49" order_type="3"/>
+		<!-- 糖果机产物 -->
+		<Item id="346001" name="Caramel" make_num_onetime="1" base_cache_key="hayday.icon.CaramelIconMC" menuitem_key="hayday.menu.CaramelIconMC" input_id="100002:2,335006:1" map_item_id="230035" second_to_output="7200" fade="600" maxsell_coin="216" sell_coin="60" coin_cost="15" cash_cost="35" speed_cash="5" unlock_level="23" building_level="1" output_exp="25" type="machine" data_type="material" order_weight="10" order_coin="60"/>
+		<Item id="346002" name="Sugus" make_num_onetime="1" base_cache_key="hayday.icon.SugusIconMC" menuitem_key="hayday.menu.SugusIconMC" input_id="330001:1,330002:1,330003:1,335006:2" map_item_id="230035" second_to_output="10800" fade="600" maxsell_coin="260" sell_coin="72" coin_cost="15" cash_cost="45" speed_cash="6" unlock_level="24" building_level="1" output_exp="30" type="machine" data_type="material" order_weight="13" order_coin="72"/>
+		<Item id="346003" name="RainbowCandy" make_num_onetime="1" base_cache_key="hayday.icon.RainbowCandyIconMC" menuitem_key="hayday.menu.RainbowCandyIconMC" input_id="330001:2,330003:2,335007:1" map_item_id="230035" second_to_output="5400" fade="600" maxsell_coin="292" sell_coin="81" coin_cost="15" cash_cost="55" speed_cash="5" unlock_level="25" building_level="1" output_exp="35" type="machine" data_type="material" order_weight="19" order_coin="81"/>
+		<Item id="346004" name="MintSugar" make_num_onetime="1" base_cache_key="hayday.icon.MintSugarIconMC" menuitem_key="hayday.menu.MintSugarIconMC" input_id="320013:3,335006:2" map_item_id="230035" second_to_output="21600" fade="600" maxsell_coin="475" sell_coin="210" coin_cost="15" cash_cost="58" speed_cash="8" unlock_level="41" building_level="1" output_exp="40" type="machine" data_type="material" order_weight="18" order_coin="76"/>		
+		<Item id="346005" name="Chocolate" make_num_onetime="1" base_cache_key="hayday.icon.ChocolateIconMC" menuitem_key="hayday.menu.ChocolateIconMC" input_id="330007:3,335006:3" map_item_id="230035" second_to_output="27000" fade="600" maxsell_coin="760" sell_coin="220" coin_cost="15" cash_cost="70" speed_cash="15" unlock_level="53" building_level="1" output_exp="54" type="machine" data_type="material" order_weight="18" order_coin="190"/>		
+		<!-- 冰淇淋机产物 -->
+		<Item id="347001" name="VanillaIceCream" make_num_onetime="1" base_cache_key="hayday.icon.VanillaIceCreamIconMC" menuitem_key="hayday.menu.VanillaIceCreamIconMC" input_id="334007:1,335006:1,100002:1" map_item_id="230039" second_to_output="7200" fade="600" maxsell_coin="172" sell_coin="48" coin_cost="15" cash_cost="28" speed_cash="5" unlock_level="29" building_level="1" output_exp="20" type="machine" data_type="material" order_weight="15" order_coin="48"/>
+		<Item id="347002" name="LemonPopsicle" make_num_onetime="1" base_cache_key="hayday.icon.LemonPopsicleIconMC" menuitem_key="hayday.menu.LemonPopsicleIconMC" input_id="330005:3,335007:1" map_item_id="230039" second_to_output="10800" fade="600" maxsell_coin="352" sell_coin="98" coin_cost="15" cash_cost="28" speed_cash="6" unlock_level="33" building_level="1" output_exp="42" type="machine" data_type="material" order_weight="17" order_coin="98"/>
+		<Item id="347003" name="StrawberryIceCream" make_num_onetime="1" base_cache_key="hayday.icon.StrawberryIceCreamIconMC" menuitem_key="hayday.menu.StrawberryIceCreamIconMC" input_id="334007:1,335006:1,100002:1,320012:3" map_item_id="230039" second_to_output="14400" fade="600" maxsell_coin="331" sell_coin="92" coin_cost="15" cash_cost="42" speed_cash="7" unlock_level="34" building_level="1" output_exp="40" type="machine" data_type="material" order_weight="20" order_coin="92"/>
+		<Item id="347004" name="MintJelly" make_num_onetime="1" base_cache_key="hayday.icon.StrawberryIceCreamIconMC" menuitem_key="hayday.menu.StrawberryIceCreamIconMC" input_id="346004:1,335006:2,100002:3,100003:3" map_item_id="230039" second_to_output="21600" fade="600" maxsell_coin="475" sell_coin="132" coin_cost="15" cash_cost="44" speed_cash="10" unlock_level="42" building_level="1" output_exp="40" type="machine" data_type="material" order_weight="20" order_coin="132"/>
+		<Item id="347005" name="ChocolateIceCream" make_num_onetime="1" base_cache_key="hayday.icon.ChocolateIceCreamIconMC" menuitem_key="hayday.menu.ChocolateIceCreamIconMC" input_id="335007:1,334007:2,346005:2,100002:3" map_item_id="230039" second_to_output="28800" fade="600" maxsell_coin="820" sell_coin="240" coin_cost="15" cash_cost="73" speed_cash="16" unlock_level="53" building_level="1" output_exp="55" type="machine" data_type="material" order_weight="22" order_coin="260"/>
+		<!-- 果汁机产物 -->
+		<Item id="348001" name="CarrotJuice" make_num_onetime="1" input_id="320003:3"	map_item_id="230040" second_to_output="1800" fade="600" maxsell_coin="46" sell_coin="13" coin_cost="15" cash_cost="19" speed_cash="3" unlock_level="35" building_level="1" output_exp="6" type="machine" data_type="material" order_weight="15" order_coin="13"/>
+		<Item id="348002" name="AppleJuice" make_num_onetime="1" input_id="330001:2"	map_item_id="230040" second_to_output="7200" fade="600" maxsell_coin="129" sell_coin="36" coin_cost="15" cash_cost="21" speed_cash="5" unlock_level="35" building_level="1" output_exp="15" type="machine" data_type="material"  order_weight="20" order_coin="36"/>
+		<Item id="348003" name="CherryJuice" make_num_onetime="1" input_id="330003:2"	map_item_id="230040" second_to_output="9000" fade="600" maxsell_coin="216" sell_coin="60" coin_cost="15" cash_cost="32" speed_cash="6" unlock_level="35" building_level="1" output_exp="26" type="machine" data_type="material"  order_weight="20" order_coin="60"/>
+		<Item id="348004" name="TomatoJuice" make_num_onetime="1" input_id="320011:3"	map_item_id="230040" second_to_output="5400" fade="600" maxsell_coin="162" sell_coin="45" coin_cost="15" cash_cost="29" speed_cash="4" unlock_level="36" building_level="1" output_exp="19" type="machine" data_type="material" order_weight="22" order_coin="45"/>
+		<Item id="348005" name="BerryJuice" make_num_onetime="1" input_id="330002:1,330004:1"	map_item_id="230040" second_to_output="10800" fade="600" maxsell_coin="205" sell_coin="57" coin_cost="15" cash_cost="38" speed_cash="6" unlock_level="37" building_level="1" output_exp="24" type="machine" data_type="material"  order_weight="22" order_coin="57"/>
+        <!-- 制笼机产物 -->
+		<Item id="350001" name="Cage" make_num_onetime="1" input_id="100004:1,100007:1,100010:1" map_item_id="230101" second_to_output="1800" fade="600" maxsell_coin="362" sell_coin="100" coin_cost="0" cash_cost="15" speed_cash="3" unlock_level="10" building_level="1" output_exp="10" type="machine" data_type="material" order_weight="0" order_coin="1"/>
+        <!-- 矿洞产物 -->
+		<Item id="341001" name="SilverOre" make_num_onetime="1" input_id="100012:1" map_item_id="230025" second_to_output="0" fade="600" maxsell_coin="14" sell_coin="4" coin_cost="15" cash_cost="3" unlock_level="24" building_level="1" output_exp="3" type="machine" data_type="material"  />
+		<Item id="341002" name="GoldOre" make_num_onetime="1" input_id="100013:1" map_item_id="230025" second_to_output="0" fade="600" maxsell_coin="18" sell_coin="5" coin_cost="15" cash_cost="4" unlock_level="24" building_level="1" output_exp="4" type="machine" data_type="material"  />
+		<Item id="341003" name="PlatinumOre" make_num_onetime="1" input_id="100016:1" map_item_id="230025" second_to_output="0" fade="600" maxsell_coin="25" sell_coin="7" coin_cost="15" cash_cost="5" unlock_level="24" building_level="1" output_exp="5" type="machine" data_type="material" />
+												
+		<!-- <Product id="id" name="名称" type="类型" speed_cash="加速花费的宝石数目" base_cache_key="对应美术资源" grow_second="生长时间(单位是秒)" output_exp="收获经验" unlock_level="解锁等级" coin_cost="金币单价" cash_cost="cash单价，加速价格"  /> -->
+		<Item id="320001" name="Wheat" 		coin_cost="0" speed_cash="1" maxsell_coin="3" 	sell_coin="1" cash_cost="1" grow_second="120" 	output_exp="1" unlock_level="0" base_cache_key="hayday.icon.WheatIconMC" 		type="crop" data_type="seed" order_weight="1" order_coin="1"  version="20130619" />
+		<Item id="320002" name="Corn" 		coin_cost="0" speed_cash="1" maxsell_coin="7" 	sell_coin="2" cash_cost="1" grow_second="300" 	output_exp="1" unlock_level="2" base_cache_key="hayday.icon.CornIconMC" 		type="crop" data_type="seed" order_weight="2" order_coin="2"  version="20130917"/>
+		<Item id="320003" name="Carrot" 	coin_cost="0" speed_cash="2" maxsell_coin="7" 	sell_coin="2" cash_cost="2" grow_second="600" 	output_exp="2" unlock_level="9" base_cache_key="hayday.icon.CarrotIconMC" 		type="crop" data_type="seed" order_weight="3" order_coin="2"  version="20130917"/>	
+		<Item id="320004" name="Soybean" 	coin_cost="0" speed_cash="2" maxsell_coin="10" 	sell_coin="3" cash_cost="2" grow_second="1200" 	output_exp="2" unlock_level="4" base_cache_key="hayday.icon.SoybeanIconMC" 		type="crop" data_type="seed" order_weight="2" order_coin="3" version="20130922"/>		
+		<Item id="320005" name="Cane" 		coin_cost="0" speed_cash="2" maxsell_coin="14" 	sell_coin="4" cash_cost="3" grow_second="1800" 	output_exp="3" unlock_level="7" base_cache_key="hayday.icon.CaneIconMC" 		type="crop" data_type="seed" order_weight="3" order_coin="4" version="20130917"/>		
+		<Item id="320006" name="Lavender" 	coin_cost="0" speed_cash="2" maxsell_coin="25" 	sell_coin="7" cash_cost="5" grow_second="7200" 	output_exp="5" unlock_level="13" base_cache_key="hayday.icon.LavenderIconMC" 	type="crop" data_type="seed" order_weight="8" order_coin="7" version="20130917"/>
+		<Item id="320007" name="Pumpkin" 	coin_cost="0" speed_cash="2" maxsell_coin="32" 	sell_coin="9" cash_cost="6" grow_second="10800" output_exp="6" unlock_level="15" base_cache_key="hayday.icon.PumpkinIconMC" 	type="crop" data_type="seed" order_weight="6" order_coin="9" version="201309222"/>
+		<Item id="320008" name="Rose" 		coin_cost="0" speed_cash="6" maxsell_coin="34" 	sell_coin="10" cash_cost="6" grow_second="14400" output_exp="6" unlock_level="22" base_cache_key="hayday.icon.RoseIconMC" 	type="crop" data_type="seed" order_weight="7" order_coin="9" version="20130922"/>
+    	<Item id="320009" name="Lupulus" 	coin_cost="0" speed_cash="2" maxsell_coin="12" 	sell_coin="4" cash_cost="2" grow_second="1500" output_exp="2" unlock_level="6" base_cache_key="hayday.icon.LupulusIconMC" 	type="crop" data_type="seed" order_weight="7" order_coin="4" version="20130922"/>
+    	<Item id="320010" name="Capsicum" 	coin_cost="0" speed_cash="7" maxsell_coin="36" 	sell_coin="10" cash_cost="7" grow_second="14400" output_exp="7" unlock_level="25" base_cache_key="hayday.icon.CapsicumIconMC" 	type="crop" data_type="seed" order_weight="7" order_coin="10" version="20130917"/>
+    	<Item id="320011" name="Tomato" 	coin_cost="0" speed_cash="8" maxsell_coin="43" 	sell_coin="12" cash_cost="8" grow_second="21600" output_exp="8" unlock_level="30" base_cache_key="hayday.icon.TomatoIconMC" 	type="crop" data_type="seed" order_weight="11" order_coin="12"/>    	
+		<Item id="320012" name="Strawberry" coin_cost="0" speed_cash="10" maxsell_coin="50" sell_coin="14" cash_cost="10" grow_second="28800" output_exp="10" unlock_level="34" base_cache_key="hayday.icon.StrawberryMC" type="crop" data_type="seed" order_weight="15" order_coin="14" version="20130922"/>
+		<Item id="320013" name="Mintgrass" 	coin_cost="0" speed_cash="12" maxsell_coin="58" sell_coin="16" cash_cost="12" grow_second="39600" output_exp="12" unlock_level="40" base_cache_key="hayday.icon.MintgrassMC"		type="crop" data_type="seed" order_weight="15" order_coin="14" version="20130922"/>
+	    <Item id="320014" name="Lily"		coin_cost="0" speed_cash="14" maxsell_coin="65" sell_coin="18" cash_cost="14" grow_second="46800" output_exp="14" unlock_level="45" base_cache_key="hayday.icon.LilyMC"		type="crop" data_type="seed" order_weight="15" order_coin="18"/>
+		<Item id="320015" name="Potato"	 	coin_cost="0" speed_cash="16" maxsell_coin="70" sell_coin="20" cash_cost="16" grow_second="50400" output_exp="16" unlock_level="56" base_cache_key="hayday.icon.PotatoMC"		type="crop" data_type="seed" order_weight="14" order_coin="20"/>
+		<!-- 水果 -->
+	<!--	<Item id="350011" name="Banana" second_to_output="0" coin_cost="0" speed_cash="0" maxsell_coin="225" sell_coin="63" cash_cost="20" output_exp="0" unlock_level="10" base_cache_key="hayday.icon.BananaIconMC" type="crop" data_type="fruit" order_weight="0" order_coin="0" order_type="3"/>-->
+		<Item id="330001" name="Apple" coin_cost="0" speed_cash="13" maxsell_coin="39" sell_coin="11" cash_cost="7" output_exp="7" unlock_level="15" base_cache_key="hayday.icon.AppleIconMC" type="crop" data_type="fruit" in_order="10" order_weight="8" order_coin="12"/>
+		<Item id="330002" name="Raspberry" coin_cost="0" speed_cash="14" maxsell_coin="46" sell_coin="13" cash_cost="9" output_exp="9" unlock_level="19" base_cache_key="hayday.icon.RaspberryIconMC" type="crop" data_type="fruit" in_order="12" order_weight="12" order_coin="13"/>
+		<Item id="330003" name="Cherry" coin_cost="0" speed_cash="17" maxsell_coin="68" sell_coin="19" cash_cost="13" output_exp="13" unlock_level="22" base_cache_key="hayday.icon.CherryIconMC" type="crop" data_type="fruit" in_order="12" order_weight="12" order_coin="19"/>
+		<Item id="330004" name="Blackberry" coin_cost="0" speed_cash="18" maxsell_coin="82" sell_coin="23" cash_cost="16" output_exp="16" unlock_level="26" base_cache_key="hayday.icon.BlackberryIconMC" type="crop" data_type="fruit" in_order="15" order_weight="16" order_coin="23"/>
+	    <Item id="330005" name="Citruslimon" coin_cost="0" speed_cash="19" maxsell_coin="86" sell_coin="24" cash_cost="16" output_exp="16" unlock_level="32" base_cache_key="hayday.icon.CitruslimonIconMC" type="crop" data_type="fruit" in_order="17" order_weight="17" order_coin="24"/>
+		<Item id="330006" name="Grape" coin_cost="0" speed_cash="18" maxsell_coin="108" sell_coin="30" cash_cost="20" output_exp="15" unlock_level="34" base_cache_key="hayday.icon.GrapeIconMC" type="crop" data_type="fruit" order_weight="22" order_coin="30"/>
+		<Item id="330007" name="Coco" coin_cost="0" speed_cash="22" maxsell_coin="120" sell_coin="34" cash_cost="20" output_exp="18" unlock_level="53" base_cache_key="hayday.icon.CocoIconMC" type="crop" data_type="fruit" order_weight="22" order_coin="34"/>
+	</Group>
+	<!--建筑物-->
+	<!--Building id="id" name="名称" type="建筑类型" base_cache_key="建筑对应美术资源" build_exp="建造每一步获得经验值" total_construct_step="建造所需步骤数" coin_destroy="铲除建筑获得金币数" population_limit_add="人口上限增加量" build_energy_cost="点击修建一次消耗精力数" input_id="product的id" max_ownable="最多拥有的数量" level_exp="政府建筑升级所需经验" population_add="增加真实人口的数量" harvest_energy_cost="收获消耗精力数" invade_reward="侵略奖励" be_help_id="帮助对应id"-->
+	<Group id="Building">
+		<!--农田--> 
+		<Building id="220001" name="Farm" type="farmland" in_store="0" base_cache_key="CropLand_Piece" coin_cost="10" cash_cost="0" input_id="320001,320002,320004,320009,320005,320003,320006,320007,320008,320010,320011,320012,320013,320014" be_help_id="500003" grid="1_1" upgrade="1,2,3,4,5"/>
+		<!--鸡舍 input_id=10002,10002 该畜棚可以养的动物 -->
+		<Building id="220007" name="ChickHouse" type="pasture" coin_cost="5" in_store="0" base_cache_key="Chick_House" input_id="10002" grid="3_3" input_max="6" unlock_level="3" input_id2="333006" output_exp="1"/>
+		<!--牛棚 input_id=10001,10001 该畜棚可以养的动物 -->
+		<Building id="220008" name="CowHouse" type="pasture" coin_cost="20" in_store="0" base_cache_key="Cow_House" input_id="10001" grid="5_5" input_max="5" unlock_level="5" input_id2="333005" output_exp="1"/>
+		<!-- 猪圈 -->
+		<Building id="220009" name="PigHouse" type="pasture" coin_cost="150" in_store="0" base_cache_key="Pig_House" input_id="10003" grid="5_5" input_max="5" unlock_level="10" input_id2="333007" output_exp="1"/>
+		<!-- 羊棚 -->
+		<Building id="220010" name="SheepHouse" type="pasture" coin_cost="300" in_store="0" base_cache_key="Sheep_House" input_id="10004" grid="5_5" input_max="5" unlock_level="16" input_id2="333008" output_exp="1"/>
+		<!-- 山羊院 -->
+		<Building id="220011" name="GoatHouse" type="pasture" coin_cost="1500" in_store="0" base_cache_key="Goat_House" input_id="10007" grid="5_5" input_max="4" unlock_level="32" input_id2="333009" output_exp="2"/>
+		<!-- 天鹅湖 -->
+		<Building id="220012" name="SwanLake" type="pasture" coin_cost="3000" in_store="0" base_cache_key="Swan_Lake" input_id="10008" grid="5_5" input_max="4" unlock_level="25" input_id2="333010" output_exp="3"/>
+		<!-- 兔子窝 -->
+	<!--	<Building id="220013" name="RabbitHouse" type="pasture" coin_cost="5000" in_store="0" base_cache_key="Rabbit_House" input_id="10010" grid="5_5" input_max="5" unlock_level="46" input_id2="333011" output_exp="3"/>  -->
+		
+		<!--面包加工机， input_id=334005,334007可以生产的产品, build_time为加工机建筑时间（s）speed_cash为建造冷却时间加速 output_exp为建造完成给的经验奖励
+		ripeX、ripeY为加工产物容器坐标-->
+		<Building id="230013" name="Bakery" type="workshop" in_store="2" build_time="2" base_cache_key="Machine_Bakery" coin_cost="20" cash_cost="0" input_id="334005,334006,334008,334009,334010,334011" be_help_id="500003" grid="3_3" upgrade="0" input_max="2" unlock_level="2" speed_cash="1" output_exp = "3" support_rotate="1"
+		ripeX="-70" ripeY="80"
+			skin="MultiBitmap"
+			base="mc14,mc13,mc6,mc12,mc11,mc10,mc9,mc8,mc7,mc5,mc4,mc3,mc2,mc1"
+			working="mc1:15_45,mc2:1,mc3:1,mc4:1,mc5:1,mc6:15_45,mc7:15_45,mc8:15_45,mc9:15_45,mc10:15_45,mc11:15_45,mc12:15_45,mc13:1,mc14:1"
+			close="mc2:1,mc3:1,mc4:1,mc5:1,mc6:1,mc8:1,mc9:1,mc11:1,mc13:1,mc14:1"			
+			open="mc2:1,mc3:1_14,mc4:1_14,mc5:1_14,mc6:1_14,mc8:1,mc9:1_14,mc11:1_14,mc13:1,mc14:1"
+			version="20130516"/>	
+		<!--饲料加工机， input_id=333005,333006 可以生产的产品-->
+		<Building id="230012" name="FeedMill" type="workshop" in_store="2" build_time="40" base_cache_key="Machine_Feed" coin_cost="5" number_cost="0:5,1:7600" cash_cost="0" input_id="333006,333005,333007,333008,333009,333010,333011" be_help_id="500002" grid="3_3" upgrade="0" input_max="2" unlock_level="3" speed_cash="1" output_exp = "4" support_rotate="1"
+		ripeX="-70" ripeY="80"
+			skin="MultiBitmap"
+			base="mc14,mc13,mc12,mc11,mc10,mc9,mc8,mc7,mc6,mc5,mc4,mc3,mc2,mc1"	
+			working="mc1:15_27,mc2:15_27,mc3:15_27,mc4:15_27,mc5:15_27,mc6:15_15,mc7:15_27,mc8:15_27,mc9:15_27,mc10:15_27,mc11:15_15,mc12:15_15,mc13:15_15,mc14:1"
+			close="mc1:1,mc2:1,mc3:1,mc4:1,mc5:1,mc6:1,mc7:1,mc8:1,mc9:1,mc10:1,mc11:1,mc12:1,mc13:1,mc14:1"			
+			open="mc3:1_14,mc4:1_14,mc5:1_14,mc6:1_14,mc7:1_14,mc8:1_14,mc9:1_14,mc10:1_14,mc11:1_14,mc12:1_14,mc13:1_14,mc14:1"
+			version="20130516"/>
+		<!-- 制奶厂-->		
+		<Building id="230014" name="Dairy" type="workshop" in_store="2" build_time="1200" base_cache_key="Machine_Dairy" coin_cost="50" cash_cost="0" input_id="334007,339005,339006,339007" be_help_id="500004" grid="4_4" upgrade="0" input_max="2" unlock_level="5" speed_cash="5" output_exp = "8" support_rotate="1"
+ 		ripeX="-150" ripeY="100"
+			skin="MultiBitmap"
+			base="mc12,mc11,mc10,mc9,mc13,mc8,mc7,mc6,mc5,mc4,mc3,mc2,mc1"
+			working="mc1:18_40,mc2:25_40,mc3:15_40,mc4:15_40,mc5:15_40,mc6:1,mc7:15_40,mc8:15_40,mc13:1_1,mc19:15_40,mc10:15_40,mc11:15_45.mc12:1"
+			close="mc3:1,mc8:1,mc4:1,mc5:1,mc6:1,mc7:1,mc8:1,mc13:1,mc19:1,mc10:1,mc3:1,mc2:1,mc11:1,mc12:1"			
+			open="mc3:1_14,mc4:1_14,mc6:1,mc7:1_14,mc8:1_14,mc13:1,mc9:1_14,mc10:1_14,mc11:1_14,mc12:1"
+			version="20130516"/>	
+		<!-- 啤酒机 -->
+		<Building id="230034" name="BeerMaker" type="workshop" in_store="2" build_time="3600" base_cache_key="Machine_BeerMaker" coin_cost="200" cash_cost="0" input_id="345001,345002,348006,348008" be_help_id="500009" grid="3_3" upgrade="0" input_max="2" unlock_level="6" speed_cash="6" output_exp = "10" support_rotate="1"
+		ripeX="-70" ripeY="80"
+			skin="MultiBitmap"
+			base="mc14,mc13,mc12,mc11,mc10,mc9,mc8,mc7,mc6,mc5,mc4,mc3,mc2,mc1"
+			working="mc1:15_45,mc2:12_24,mc3:15_45,mc4:15_45,mc5:15_45,mc6:2_45,mc7:15_45,mc8:15_45,mc9:15_45,mc10:15_45,mc11:15_45,mc12:25_45,mc13:15_45,mc14:1"
+			close="mc1:1,mc2:1,mc3:1,mc4:1,mc5:1,mc6:1,mc7:1,mc9:1,mc10:1,mc11:1,mc13:1,mc14:1"			
+			open="mc2:1_14,mc3:1_14,mc4:1_15,mc7:1_14,mc9:1,mc10:1_14,mc13:1_14,mc14:1"
+			version="20130516"/>
+		<!-- 甘蔗（制糖）机-->	
+		<Building id="230015" name="SugarMill" type="workshop" in_store="2" build_time="21600" base_cache_key="Machine_Sugar" coin_cost="350" cash_cost="0" input_id="335005,335006,335007" be_help_id="500005" grid="3_3" upgrade="0" input_max="2" unlock_level="7" speed_cash="8" output_exp = "13" support_rotate="1"
+		ripeX="-70" ripeY="80"
+			skin="MultiBitmap"	
+			base="mc13,mc12,mc11,mc10,mc9,mc8,mc7,mc6,mc5,mc4,mc3,mc2,mc1"
+			working="mc1:15_44,mc2:15_44,mc3:1_44,mc4:1_44,mc5:1_44,mc6:1,mc7:1_44,mc8:15_44,mc9:1_44,mc10:1,mc11:1,mc12:15_15,mc13:1"
+			close="mc4:1,mc5:1,mc6:1,mc7:1,mc9:1,mc10:1,mc11:1,mc12:1,mc13:1"			
+			open="mc3:1,mc4:1,mc5:1,mc6:1_1,mc7:1_1,mc9:1,mc10:1,mc11:1_14,mc12:1_14,mc13:1"
+			version="20130516"/>
+		<!-- 爆米花机 -->						
+		<Building id="230016" name="PopcornPot" type="workshop" in_store="2" build_time="28800" base_cache_key="Machine_Popcorn" coin_cost="1180" cash_cost="0" input_id="338005,338006,338007" be_help_id="500006" grid="3_3" upgrade="0" input_max="2" unlock_level="8" speed_cash="10" output_exp = "14" support_rotate="1"
+		ripeX="-70" ripeY="80"
+			skin="MultiBitmap"
+			base="mc13,mc12,mc11,mc10,mc9,mc8,mc7,mc6,mc5,mc4,mc3,mc2,mc1"
+			working="mc1:15_45,mc2:15_45,mc3:15_45,mc4:15_45,mc5:15_45,mc6:15_45,mc8:2_20,mc9:15_45,mc10:15_45,mc11:1,mc12:15_45,mc13:1"
+			close="mc3:1,mc4:1,mc5:1,mc6:1,mc7:1,mc8:1,mc10:1,mc11:1,mc12:1,mc13:1"			
+			open="mc3:1_14,mc4:1_14,mc5:1_14,mc6:1_14,mc7:1_9,mc10:1_14,mc11:1,mc12:1,mc13:1"
+			version="20130516"/>
+		<!-- 烤肉架 -->
+		<Building id="230017" name="BBQGrill" type="workshop" in_store="2" build_time="28800" base_cache_key="Machine_BBQ" coin_cost="730" cash_cost="0" input_id="337005,337006,337004,337007,337008" be_help_id="500007" grid="3_3" upgrade="0" input_max="2" unlock_level="9" speed_cash="10" output_exp = "14" support_rotate="1"
+		ripeX="-70" ripeY="80"
+			skin="MultiBitmap"
+			base="mc18,mc17,mc16,mc15,mc14,mc13,mc12,mc11,mc10,mc9,mc8,mc7,mc6,mc5,mc4,mc3,mc2,mc1"
+			working="mc1:1_35,mc2:15_35,mc3:1_35,mc4:1_35,mc5:1_35,mc6:15_35,mc7:15_35,mc8:15_35,mc9:15_35,mc10:2_35,mc11:15_35,mc12:15_35,mc13:15_35,mc14:15_35,mc15:15_35,mc16:15_35,mc17:1,mc18:15_35"
+			close="mc2:1,mc4:1,mc5:1,mc6:1,mc8:1,mc10:1,mc7:1,mc9:1,mc10:1,mc11:1,mc12:1,mc13:1,mc14:1,mc15:1,mc16:1,mc17:1"			
+			open="mc2:1_14,mc5:1_9,mc6:1_14,mc7:1,mc9:1_14,mc10:1,mc11:1_14,mc12:1_14,mc13:1_14,mc14:1_14,mc15:1_14,mc16:1_14,mc17:1"
+			version="20130516"/>
+		<!-- 派加工机 -->
+		<Building id="230018" name="PieOven" type="workshop" in_store="2" build_time="43200" base_cache_key="Machine_Pie" coin_cost="3100" cash_cost="0" input_id="336005,336006,336007,336008,336009,336010" be_help_id="500008" grid="3_3" upgrade="0" input_max="2" unlock_level="14" speed_cash="12" output_exp = "17" support_rotate="1"
+		ripeX="-70" ripeY="80"
+			skin="MultiBitmap"
+			base="mc18,mc17,mc16,mc15,mc14,mc13,mc12,mc11,mc10,mc9,mc8,mc7,mc6,mc5,mc4,mc3,mc2,mc1"
+			working="mc1:15_45,mc2:15_45,mc3:15_45,mc4:15_45,mc5:15_45,mc6:26_45,mc7:17_25,mc8:15_45,mc9:15_15,mc10:1_45,mc11:15_45,mc12:1_1,mc13:15_15,mc14:15_15,mc15:15_15,mc16:15_45,mc17:1,mc18:1"
+			close="mc1:1,mc2:1,mc3:1,mc4:1,mc6:1,mc8:1,mc9:1,mc10:1,mc11:1,mc12:1,mc13:1,mc14:1,mc15:1,mc17:1,mc18:1"			
+			open="mc1:1_1,mc2:1_1,mc3:1,mc4:1_10,mc6:1_18,mc9:1_14,mc10:1,mc12:1_14,mc13:1,mc14:1_14,mc15:1_14,mc17:1,mc18:1"
+			version="20130516"/>
+			
+		<!-- 纺织机 -->
+		<Building id="230024" name="Loom" type="workshop" in_store="2" build_time="86400" base_cache_key="Machine_Loom" coin_cost="4800" cash_cost="0" input_id="340004,340005,340006,340007,340008,340009,340010" be_help_id="500009" grid="3_3" upgrade="0" input_max="2" unlock_level="17" speed_cash="16" output_exp = "24" support_rotate="1"
+		ripeX="-70" ripeY="80"
+			skin="MultiBitmap"
+			base="mc23,mc22,mc21,mc20,mc19,mc18,mc17,mc16,mc15,mc14,mc13,mc12,mc11,mc10,mc9,mc8,mc7,mc6,mc5,mc4,mc3,mc2,mc1"
+			working="mc1:1_30,mc2:19_30,mc3:19_30,mc4:15_30,mc5:15_30,mc6:15_30,mc7:15_30,mc8:1,mc9:1_1,mc10:1,mc11:1,mc12:1,mc13:1,mc14:1,mc15:1,mc16:15_30,mc17:15_30,mc18:15_30,mc19:15_30,mc20:1,mc21:1,mc22:1mc23:1_14"
+			close="mc1:1,mc2:1,mc4:1,mc5:1,mc8:1,mc9:1,mc10:1,mc11:1,mc12:1,mc13:1,mc14:1,mc15:1,mc16:1,mc18:1,mc20:1,mc21:1,mc22:1,mc23:1"			
+			open="mc4:1,mc5:1,mc8:1,mc9:1_14,mc10:1_14,mc11:1_14,mc12:1_14,mc13:1_14,mc14:1,mc15:1,mc16:1,mc18:1,mc20:1,mc21:1,mc22:1,mc23:1"
+			version="20130516"/>
+			
+		<!-- 蛋糕机 -->
+		<Building id="230031" name="CakeOven" type="workshop" in_store="2" build_time="86400" base_cache_key="Machine_CakeOven" coin_cost="14200" cash_cost="0" input_id="342001,342002,342003,342004,342005,342006,342007" be_help_id="500009" grid="3_3" upgrade="0" input_max="2" unlock_level="21" speed_cash="16" output_exp = "24" support_rotate="1"
+		ripeX="-70" ripeY="80"
+			skin="MultiBitmap"
+			base="mc23,mc22,mc21,mc20,mc19,mc18,mc17,mc16,mc15,mc14,mc13,mc12,mc11,mc10,mc9,mc8,mc7,mc6,mc5,mc4,mc3,mc2,mc1"
+			working="mc1:20_45,mc2:2_45,mc3:15_45,mc4:15_45,mc5:15_45,mc6:15_45,mc7:15_45,mc8:15_45,mc9:15_45,mc10:15_45,mc11:15_45,mc12:18_45,mc13:18_45,mc14:15_45,mc15:15_45,mc17:18_45,mc18:18_45,mc19:18_45,mc20:15_45,mc21:15_45,mc22:15_45"
+			close="mc1:1,mc2:1,mc3:1,mc4:1,mc5:1,mc6:1,mc9:1,mc10:1,mc11:1,mc13:1,mc14:1,mc15:1,mc16:1,mc20:1,mc21:1,mc22:1,mc23:1"			
+			open="mc1:1_15,mc2:1_1,mc3:1_18,mc5:1,mc6:1_19,mc9:1_14,mc10:1_14,mc11:1_14,mc13:1,mc14:1_14,mc15:1_14,mc16:1,mc20:1,mc21:1_14,mc22:1_14"
+			version="20130516"/>	
+		<!-- 香水机 -->
+		<Building id="230032" name="PerfumeMaker" type="workshop" in_store="2" build_time="43200" base_cache_key="Machine_PerfumeMaker" coin_cost="18000" cash_cost="0" input_id="343001,343002,348007,343003" be_help_id="500009" grid="3_3" upgrade="0" input_max="2" unlock_level="22" speed_cash="12" output_exp = "17" support_rotate="1"
+		ripeX="-70" ripeY="80"
+			skin="MultiBitmap"
+			base="mc15,mc14,mc13,mc6,mc12,mc11,mc10,mc9,mc8,mc7,mc5,mc4,mc3,mc2,mc1"
+			working="mc1:15_45,mc2:1,mc3:1,mc4:1,mc5:1,mc6:15_45,mc7:15_45,mc8:15_45,mc9:15_45,mc10:15_45,mc11:15_45,mc12:15_45,mc13:1,mc14:1,mc15:1"
+			close="mc2:1,mc3:1,mc4:1,mc5:1,mc6:1,mc8:1,mc9:1,mc11:1,mc13:1,mc14:1,mc15:1"			
+			open="mc2:1,mc3:1_14,mc4:1_14,mc5:1_14,mc6:1_14,mc8:1,mc9:1_14,mc11:1_14,mc13:1,mc14:1,mc15:1"
+			version="20130516"/>	
+		<!-- 糖果机 -->
+		<Building id="230035" name="CandyMachine" type="workshop" in_store="2" build_time="108000" base_cache_key="Machine_CandyMachine" coin_cost="22500" cash_cost="0" input_id="346001,346002,346003,346004,346005" be_help_id="500009" grid="3_3" upgrade="0" input_max="2" unlock_level="23" speed_cash="18" output_exp = "28" framegap ="4" support_rotate="1"
+		ripeX="-70" ripeY="80"
+			skin="MultiBitmap"
+			base="mc11,mc10,mc9,mc8,mc7,mc6,mc5,mc4,mc3,mc2,mc1"
+			working="mc1:15_45,mc2:15_15,mc3:25_45,mc4:15_45,mc5:1_1,mc6:15_45,mc7:15_45,mc8:15_45,mc9:20_45,mc10:15_45,mc11:1"
+			close="mc1:1,mc2:1,mc3:1,mc4:1,mc5:1,mc6:1,mc7:1,mc8:1,mc10:1,mc11:1"			
+			open="mc1:1_14,mc2:1_14,mc3:1_24,mc4:1_14,mc5:1_1,mc6:1_1,mc7:1_14,mc7:1_14,mc10:1_14,mc11:1"
+			version="20130516"/>		
+		<!-- 冶炼厂 -->
+		<Building id="230033" name="Smelter" type="workshop" in_store="2" build_time="64800" base_cache_key="Machine_Smelter" coin_cost="25000" number_cost="0:25000,1:44000,2:63000,3:82000,4:101000" cash_cost="0" input_id="344001,344002,344003" be_help_id="500009" grid="3_3" upgrade="0" input_max="1" unlock_level="24" speed_cash="14" output_exp = "21" support_rotate="1"
+		ripeX="-70" ripeY="80"
+			skin="MultiBitmap"
+			base="mc12,mc11,mc10,mc9,mc8,mc7,mc6,mc5,mc4,mc3,mc2,mc1"
+			working="mc1:15_45,mc2:15_45,mc3:1,mc4:15_45,mc5:15_45,mc6:15_45,mc7:15_45,mc8:15_45,mc9:1,mc10:1,mc11:15_45,mc12:1"
+			close="mc1:1,mc3:1,mc2:1,mc4:1,mc5:1,mc8:1,mc9:1,mc10:1,mc12:1"			
+			open="mc1:1_14,mc3:1,mc2:1_12,mc9:1,mc10:1,mc12:1"
+			version="20130516"/>
+		<!-- 冰淇淋机 -->
+		<Building id="230039" name="IceCreamMaker" type="workshop" in_store="2" build_time="111600" base_cache_key="Machine_IceCreamMaker" coin_cost="42200" cash_cost="0" input_id="347001,347002,347003,347004,347005" be_help_id="500009" grid="3_3" upgrade="0" input_max="2" unlock_level="29" speed_cash="18" output_exp="27" framegap="2" ripeX="-70" ripeY="80" skin="MultiBitmap"  support_rotate="1"
+		base="mc15,mc14,mc13,mc12,mc11,mc10,mc9,mc8,mc7,mc6,mc5,mc4,mc3,mc2,mc1" 
+		working="mc1:23_50,mc2:15_50,mc3:15_50,mc4:15_50,mc5:23_50,mc6:15_50,mc7:15_50,mc8:27_50,mc9:1,mc10:15_50,mc11:15_50,mc12:15_50,mc13:15_50,mc15:1,mc14:15_50" 
+		close="mc2:1,mc8:1,mc9:1,mc10:1,mc11:1,mc12:1,mc13:1,mc14:1,mc15:1" 
+		open="mc2:1_14,mc3:1_1_1,mc8:1_14,mc9:1_14,mc10:1_14,mc11:1_14,mc12:1_14,mc13:1_14,mc14:1,mc15:1_14" 
+		version="20130516"/>
+		<!-- 果汁机 -->
+		<Building id="230040" name="FruitJuice" type="workshop" in_store="2" build_time="126000" base_cache_key="Machine_FruitJuice" coin_cost="46800" cash_cost="0" input_id="348001,348002,348003,348004,348005" be_help_id="500009" grid="3_3" upgrade="0" input_max="2" unlock_level="35" speed_cash="20" output_exp = "30"
+		ripeX="-70" ripeY="80" support_rotate="1"
+			skin="MultiBitmap"
+			base="mc19,mc18,mc17,mc16,mc15,mc14,mc13,mc12,mc11,mc10,mc9,mc8,mc7,mc6,mc5,mc4,mc3,mc2,mc1"
+			working="mc1:15_51,mc2:15_51,mc3:15_51,mc4:15_51,mc5:15_51,mc6:15_51,mc7:15_51,mc9:15_51,mc9:15_51,mc10:15_51,mc11:15_51,mc12:15_51,mc13:15_51,mc14:15_51,mc15:1,mc16:15_51,mc17:15_51,mc18:15_51,mc19:1"
+			close="mc1:1,mc2:1,mc3:1,mc3:1,mc4:1,mc5:1,mc6:1,mc7:1,mc8:1,mc12:1,mc14:1,mc15:1,mc17:1,mc15:1,mc17:1,mc18:1,mc19:1"			
+			open="mc1:1_14,mc2:1_14,mc3:1_14,mc4:1_14,mc5:1_14,mc6:1_14,mc7:1_15,mc8:1_14,mc12:1_14,mc13:1_14,mc14:1_14,mc15:1,mc17:1_14,mc18:1_14,mc19:1"
+			/>	
+		<!-- 制笼机 -->
+	<!--		<Building id="230101" name="CageMaker" type="workshop" in_store="2" build_time="3600" base_cache_key="Machine_CageMaker" coin_cost="800" cash_cost="0" input_id="350001" be_help_id="500009" grid="3_3" upgrade="0" input_max="1" unlock_level="10" speed_cash="6" output_exp="15"
+		ripeX="-140" ripeY="70"
+			skin="MultiBitmap"
+			base="basemc8,mc7,mc6,mc5,basemc4,mc3,mc2,basemc1"
+			working="mc2:1X3_2X3_3X3_4X3_5X3_6X3_7X2_8X2_9X2_10X2_11X2_12X2_13X2_14X2_0X5,mc3:3_4_5,mc5:1X3_2X3_3X3_4X3_5X3_6X3_7X2_8X2_9X2_10X2_0X13,mc6:1X5_2X2_3X2_4X2,mc7:1_1"
+			close="basemc1:1,mc2:0,mc3:1,basemc4:1,mc5:0,mc6:1,mc7:1,basemc8:1"			
+			open="mc2:0_0,mc3:1X2_2X2_1X2,mc5:0_0,mc6:1X4_2X1_1X2,mc7:1X2_2X2_3X2_4X2X1_1X2X1"
+			/>
+		-->	
+		<!--矿洞-->	
+		<Building id="230025" name="Ore" type="workshop" base_cache_key="Mine_Open" build_time="126000" input_id="100012,100013,100016" be_help_id="500009" coin_cost="26000" speed_cash="19" input_max="0" grid="3_3" upgrade="0" unlock_level="24" ripeX="0" ripeY="80"/>
+
+		<!--宠物窝-->
+		<Building id="230037" name="DogHouse" type="pethouse" coin_cost="2000" in_store="0" base_cache_key="DogHouse" input_id="10005" grid="4_4" input_max="3" unlock_level="15" feed_item="100014" output_exp="1" support_rotate="1"/>
+		<Building id="230038" name="CatHouse" type="pethouse" coin_cost="4000" in_store="0" base_cache_key="CatHouse" input_id="10006" grid="4_4" input_max="3" unlock_level="24" feed_item="100002" output_exp="1" support_rotate="1"/>
+	<!--	<Building id="230041" name="SquirrelHouse" type="pethouse" coin_cost="3000" in_store="0" base_cache_key="SquirrelHouse" input_id="10009" grid="4_4" input_max="3" unlock_level="24" feed_item="320012" output_exp="1" support_rotate="1" version="20130911"/>  -->
+		
+		 
+		<!--火车-->
+		<Building id="230036"  name="Train" type="workshop" base_cache_key="Train" build_time="126000" input_id="" be_help_id="500009" coin_cost="16000" speed_cash="19" input_max="0" grid="4_3" upgrade="0" unlock_level="19" ripeX="0" ripeY="80"/>
+		
+		<!-- 果树 -->
+		<Building id="210001" name="AppleTree" type="fruit" in_store="3" coin_cost="200" speed_cash="8" base_cache_key="AppleTree" output_id="330001" grid="1_1" harvest_cycle="2,3,4" unlock_level="15" output_exp="7" second_to_output="57600" input_id="100011" version="20130527" support_rotate="1"/>
+		<Building id="210002" name="StrawberryTree" type="fruit" in_store="3" coin_cost="250" speed_cash="14" base_cache_key="StrawberryTree" output_id="330002" grid="1_1" harvest_cycle="2,3,4" unlock_level="19" output_exp="9" second_to_output="64800" input_id="100010" version="20130527" support_rotate="1"/>
+		<Building id="210003" name="CherryTree" type="fruit" in_store="3" coin_cost="420" speed_cash="17" base_cache_key="CherryTree" output_id="330003" grid="1_1" harvest_cycle="2,3,4" unlock_level="22" output_exp="13" second_to_output="97200" input_id="100011" version="20130527" support_rotate="1"/>
+		<Building id="210004" name="BlackberryTree" type="fruit" in_store="3" coin_cost="550" speed_cash="18" base_cache_key="BlackberryTree" output_id="330004" grid="1_1" harvest_cycle="2,3,4" unlock_level="26" output_exp="16" second_to_output="111600" input_id="100010" version="20130527" support_rotate="1"/>
+		<Building id="210005" name="CitruslimonTree" type="fruit" in_store="3" coin_cost="500" speed_cash="19" base_cache_key="CitruslimonTree" output_id="330005" grid="1_1" harvest_cycle="2,3,4" unlock_level="32" output_exp="16" second_to_output="122400" input_id="100011" version="20130527" support_rotate="1"/>
+		<Building id="210006" name="GrapeTree" type="fruit" in_store="3" coin_cost="600" speed_cash="18" base_cache_key="GrapeTree" output_id="330006" grid="1_1" harvest_cycle="2,3,4" unlock_level="34" output_exp="15" second_to_output="108000" input_id="100010" version="20130527" support_rotate="1"/>
+		<Building id="210007" name="CocoTree" type="fruit" in_store="3" coin_cost="750" speed_cash="22" base_cache_key="CocoTree" output_id="330007" grid="1_1" harvest_cycle="2,3,4" unlock_level="53" output_exp="18" second_to_output="122400" input_id="100011" support_rotate="1"/>
+		<!-- 装饰物 -->
+		<Building id="230003" name="GreenHaystack" 	type="decoration" in_store="4" coin_cost="30"  				base_cache_key="GreenHaystack"  grid="2_2" upgrade="0" unlock_level="8" number_cost="0:30,*:5" output_exp = "3" support_rotate="1"/>
+		<Building id="230004" name="Box" 			type="decoration" in_store="4" coin_cost="100"    			base_cache_key="Box" 			grid="1_1" upgrade="0" unlock_level="9" number_cost="0:100,*:50" output_exp = "10" support_rotate="1"/>
+		<Building id="230007" name="YellowHaystack" type="decoration" in_store="4" coin_cost="50"    			base_cache_key="YellowHaystack" grid="2_2" upgrade="0" unlock_level="9" number_cost="0:50,*:10" output_exp = "5" support_rotate="1"/>
+		<Building id="230008" name="Garden" 		type="decoration" in_store="4" coin_cost="350"    			base_cache_key="Garden"  		grid="2_2" upgrade="0" unlock_level="11" number_cost="0:350,*:150" output_exp = "15" support_rotate="1"/>
+		<Building id="230009" name="Scarecrow" 		type="decoration" in_store="4" coin_cost="0" cash_cost="5" 	base_cache_key="Scarecrow"  	grid="1_1" upgrade="0" unlock_level="11" output_exp = "5" support_rotate="1"/>
+		<Building id="230010" name="Bucket" 		type="decoration" in_store="4" coin_cost="200"    			base_cache_key="Bucket"  		grid="1_1" upgrade="0" unlock_level="12" number_cost="0:200,*:50" output_exp = "10" support_rotate="1"/>
+		<Building id="230011" name="StoreRoad" 		type="decoration" in_store="4" coin_cost="30"    			base_cache_key="StoreRoad"  	grid="1_1" upgrade="0" unlock_level="12" number_cost="0:30,*:5" output_exp = "3" support_rotate="1"/> 
+		<Building id="230019" name="Wheelbarrow" 	type="decoration" in_store="4" coin_cost="0" cash_cost="20" base_cache_key="Wheelbarrow"  	grid="2_2" upgrade="0" unlock_level="13" output_exp = "20" support_rotate="1"/>
+		<Building id="230020" name="Cactus" 		type="decoration" in_store="4" coin_cost="165"    			base_cache_key="Cactus"  		grid="1_1" upgrade="0" unlock_level="13" number_cost="0:165,*:50" output_exp = "10" support_rotate="1"/>
+		<Building id="230021" name="StoreWall" 		type="decoration" in_store="4" coin_cost="50"    			base_cache_key="StoreWall"  	grid="1_2" upgrade="0" unlock_level="13" number_cost="0:50,*:10" output_exp = "5" support_rotate="1"/>
+		<Building id="230022" name="StreetLamp" 	type="decoration" in_store="4" coin_cost="180"    			base_cache_key="StreetLamp"  	grid="1_1" upgrade="0" unlock_level="14" number_cost="0:180,*:50" output_exp = "10" support_rotate="1"/>
+		<Building id="230023" name="FountainPool" 	type="decoration" in_store="4" coin_cost="0" cash_cost="30" base_cache_key="FountainPool"  	grid="1_1" upgrade="0" unlock_level="15" output_exp = "30" support_rotate="1"/>
+
+		<Building id="230026" name="FlowerPot" 	type="decoration" in_store="4" coin_cost="45" cash_cost="0" base_cache_key="FlowerPot"  	grid="1_1" upgrade="0" unlock_level="16" number_cost="0:45,*:10" output_exp = "5" support_rotate="1"/>
+		<Building id="230027" name="BambooFence" 	type="decoration" in_store="4" coin_cost="20" cash_cost="0" base_cache_key="BambooFence"  	grid="4_1" upgrade="0" unlock_level="17" number_cost="0:20,*:5" output_exp = "3" support_rotate="1"/>
+		<Building id="230028" name="FreshHay" 	type="decoration" in_store="4" coin_cost="0" cash_cost="10" base_cache_key="FreshHay"  	grid="2_2" upgrade="0" unlock_level="18" output_exp = "10" support_rotate="1"/>
+		<Building id="230029" name="Pavilion" 	type="decoration" in_store="4" coin_cost="0" cash_cost="30" base_cache_key="Pavilion"  	grid="2_2" upgrade="0" unlock_level="19" output_exp = "30" support_rotate="1"/>
+		<Building id="230030" name="Bench" 	type="decoration" in_store="4" coin_cost="350" cash_cost="0" base_cache_key="Bench"  	grid="2_1" upgrade="0" unlock_level="20" number_cost="0:350,*:150" output_exp = "15" support_rotate="1"/>
+		<Building id="230048" name="HopGarden" 	type="decoration" in_store="4" coin_cost="800" cash_cost="0" base_cache_key="HopGarden"  	grid="1_1" upgrade="0" unlock_level="32" number_cost="0:800,*:300" output_exp="15" support_rotate="1"/>
+		<Building id="230050" name="RoundBed" 	type="decoration" in_store="4" cash_cost="15" base_cache_key="RoundBed"  	grid="2_2" upgrade="0" unlock_level="32" output_exp="15" support_rotate="1"/>
+		<Building id="230053" name="WisteriaRoseFrame" 	type="decoration" in_store="4" ticket_cost="100025:2,100026:1" base_cache_key="WisteriaRoseFrame"  	grid="4_3" upgrade="0" unlock_level="35" output_exp="12" support_rotate="1"/>
+
+		<!-- 粮仓/仓库 -->
+		<Building id="230001" name="SeedStorage"     type="decoration" coin_cost="50"  base_cache_key="SeedStorage"     grid="2_2" upgrade="0"  version="20130619" support_rotate="1"/>
+		<Building id="230002" name="MaterialStorage" type="decoration" coin_cost="50"  base_cache_key="MaterialStorage" grid="4_4" upgrade="0" version="20130619" support_rotate="1"/>
+		
+		<!-- 不可移动类建筑 -->
+		<!-- 贸易小摊 -->
+		<Building id="200001" name="TradeShop" 	type="government" 	base_cache_key="TradeShop" grid="4_5" iso_pos="23_18" version="20130624" />	
+		<Building id="200002" name="HomeHouse" 	type="government" 	base_cache_key="HomeHouse" grid="5_7" iso_pos="8_12" version="20130701" />
+		<Building id="200003" name="Board" 		type="government"	base_cache_key="Board"     grid="3_1" iso_pos="16_10" version="20130917" />
+		<Building id="200004" name="MailBox" 	type="government" 	base_cache_key="MailBox" grid="1_1" iso_pos="27_10" />	
+		<Building id="200005" name="PeddlersBox" 	type="government" 	base_cache_key="MailBox" grid="1_1" iso_pos="55_15" />	
+	    <Building id="200006" name="SlotMachine" 	type="government" 	base_cache_key="SlotMachine" grid="3_3" iso_pos="65_20" />	
+		<Building id="200007" name="TrainStation" 	type="government" 	base_cache_key="TrainStation" grid="5_4" iso_pos="-14_-5"/>
+		<Building id="200008" name="TrainBoard" 	type="government" 	base_cache_key="TrainBoard" grid="3_1" iso_pos="-9_-5"/>
+	</Group>
+
+	<Group id="Garbage">
+		<!--input_id为使用何种工具清除垃圾-->
+		<Garbage id="600001" name="SmallNormalTree" type="garbage" base_cache_key="SmallNormalTree" input_id="100010" clean_output="exp:4" grid="1_1" version="20130425"/>
+		<Garbage id="600002" name="BigNormalTree" 	type="garbage" base_cache_key="BigNormalTree" 	input_id="100011" clean_output="exp:8" grid="1_1" version="20130425"/>
+		<Garbage id="600003" name="SmallPinTree" 	type="garbage" base_cache_key="SmallPinTree" 	input_id="100010" clean_output="exp:4" grid="1_1" version="20130425"/>
+		<Garbage id="600004" name="BigPinTree" 		type="garbage" base_cache_key="BigPinTree" 		input_id="100011" clean_output="exp:8" grid="1_1" version="20130425"/>
+		<!--沼泽-->
+		<Garbage id="600005" name="Pool" 			type="garbage" base_cache_key="Pool" 			input_id="100016" clean_output="exp:15" grid="3_3" version="20130425"/>
+		<Garbage id="600006" name="SheepBone" 		type="garbage" base_cache_key="SheepBone" 		input_id="100016" clean_output="exp:4" grid="2_1" version="20130425"/>
+		<Garbage id="600007" name="SmallStone" 		type="garbage" base_cache_key="SmallStone" 		input_id="100012" clean_output="exp:4" grid="1_1" version="20130425"/>
+		<Garbage id="600008" name="BigStone" 		type="garbage" base_cache_key="BigStone" 		input_id="100013" clean_output="exp:8" grid="1_1" version="20130425"/>
+		<Garbage id="600009" name="MiddleNormalTree" 	type="garbage" base_cache_key="MiddleNormalTree" 	input_id="100011" clean_output="exp:6" grid="1_1" version="20130425"/>				
+		
+		
+		<!-- 锁定的土地 -->
+		<Garbage id="600010" name="LockedSpace_1" 	type="garbage" base_cache_key="LockedSpace_1" 	input_id="100031:10,100032:10,100033:10,coin:80000" clean_output="" grid="9_5"/>
+		<Garbage id="600011" name="LockedSpace_2" 	type="garbage" base_cache_key="LockedSpace_2" 	input_id="100031:10,100032:10,100033:10,coin:80000" clean_output="" grid="9_4" unlock_after="600010"/>				
+		<Garbage id="600012" name="LockedSpace_3" 	type="garbage" base_cache_key="LockedSpace_3" 	input_id="100031:10,100032:10,100033:10,coin:80000" clean_output="" grid="7_9"/>
+		<Garbage id="600013" name="LockedSpace_4" 	type="garbage" base_cache_key="LockedSpace_4" 	input_id="100031:3,100032:3,100033:3,coin:30000" clean_output="" grid="5_5"/>
+		<Garbage id="600014" name="LockedSpace_5" 	type="garbage" base_cache_key="LockedSpace_5" 	input_id="100031:3,100032:3,100033:3,coin:30000" clean_output="" grid="5_5"/>
+		<Garbage id="600015" name="LockedSpace_6" 	type="garbage" base_cache_key="LockedSpace_6" 	input_id="100031:10,100032:10,100033:10,coin:80000" clean_output="" grid="10_5"  unlock_after="600013,600014"/>				
+		<Garbage id="600016" name="LockedSpace_7" 	type="garbage" base_cache_key="LockedSpace_7" 	input_id="100031:10,100032:10,100033:10,coin:80000" clean_output="" grid="5_10"/>
+
+		<Garbage id="600017" name="LockedSpace_8" 	type="garbage" base_cache_key="LockedSpace_8" 	input_id="100031:999,100032:999,100033:999,coin:99999" clean_output="" grid="10_8" unlock_after="600018"/>
+		<Garbage id="600018" name="LockedSpace_9" 	type="garbage" base_cache_key="LockedSpace_9" 	input_id="100031:999,100032:999,100033:999,coin:99999" clean_output="" grid="10_8"/>				
+		<Garbage id="600019" name="LockedSpace_10" 	type="garbage" base_cache_key="LockedSpace_10" 	input_id="100031:999,100032:999,100033:999,coin:99999" clean_output="" grid="7_15"/>
+		<Garbage id="600020" name="LockedSpace_11" 	type="garbage" base_cache_key="LockedSpace_11" 	input_id="100031:999,100032:999,100033:999,coin:99999" clean_output="" grid="5_11"  unlock_after="600022"/>
+		<Garbage id="600021" name="LockedSpace_12" 	type="garbage" base_cache_key="LockedSpace_12" 	input_id="100031:999,100032:999,100033:999,coin:99999" clean_output="" grid="5_11"  unlock_after="600022"/>
+		<Garbage id="600022" name="LockedSpace_13" 	type="garbage" base_cache_key="LockedSpace_13" 	input_id="100031:999,100032:999,100033:999,coin:99999" clean_output="" grid="10_3"/>				
+		<Garbage id="600023" name="LockedSpace_14" 	type="garbage" base_cache_key="LockedSpace_14" 	input_id="100031:999,100032:999,100033:999,coin:99999" clean_output="" grid="5_15"/><!-- 地格改到6 在从此杭盖 -->
+		<Garbage id="600024" name="LockedSpace_15" 	type="garbage" base_cache_key="LockedSpace_15" 	input_id="100031:999,100032:999,100033:999,coin:99999" clean_output="" grid="4_9"  unlock_after="600026"/>
+		<Garbage id="600025" name="LockedSpace_16" 	type="garbage" base_cache_key="LockedSpace_16" 	input_id="100031:999,100032:999,100033:999,coin:99999" clean_output="" grid="7_6"  unlock_after="600026,600027"/>				
+		<Garbage id="600026" name="LockedSpace_17" 	type="garbage" base_cache_key="LockedSpace_17" 	input_id="100031:999,100032:999,100033:999,coin:99999" clean_output="" grid="4_8"/>
+		<Garbage id="600027" name="LockedSpace_18" 	type="garbage" base_cache_key="LockedSpace_18" 	input_id="100031:999,100032:999,100033:999,coin:99999" clean_output="" grid="4_7"/>
+	</Group>
+<!-- 初始化场景 -->
+<Group id="Init">
+	<Init id="999002" item_id="220001" iso_x="27" iso_y="32" is_complete="0" type="farmland" />
+	<Init id="999003" item_id="220001" iso_x="27" iso_y="34" is_complete="0" type="farmland" />
+	<Init id="999004" item_id="220001" iso_x="27" iso_y="36" is_complete="0" type="farmland" />
+	<Init id="999005" item_id="220007" iso_x="32" iso_y="33" is_complete="0" type="pasture" />
+	<Init id="999130" item_id="230001" iso_x="35" iso_y="18" is_complete="0" type="decoration" />
+	<Init id="999131" item_id="230002" iso_x="43" iso_y="18" is_complete="0" type="decoration" />
+</Group>
+
+<Group id="PlayerGarbageItem">
+	<!-- xull 种树在左边的土地上 以及 成就建筑和左边13号地之后的下半部分之间上 -->
+	<PlayerGarbageItem id="929230" dataid="232" itemid="600002" iso_x="2" iso_y="26"/>
+	<PlayerGarbageItem id="929231" dataid="233" itemid="600004" iso_x="4" iso_y="30"/>
+	<PlayerGarbageItem id="929408" dataid="408" itemid="600001" iso_x="6" iso_y="30"/><!-- tianjia -->
+	<PlayerGarbageItem id="929409" dataid="409" itemid="600007" iso_x="2" iso_y="34"/>
+	<PlayerGarbageItem id="929410" dataid="410" itemid="600003" iso_x="9" iso_y="34"/><!-- 13号地 最右 小尖树 -->
+	<PlayerGarbageItem id="929422" dataid="422" itemid="600008" iso_x="6" iso_y="33"/><!-- 13号地 唯一大石头 -->
+	<PlayerGarbageItem id="929423" dataid="423" itemid="600001" iso_x="3" iso_y="35"/>
+	
+	<PlayerGarbageItem id="929411" dataid="411" itemid="600008" iso_x="-1" iso_y="30"/>
+	
+	<PlayerGarbageItem id="929232" dataid="234" itemid="600002" iso_x="8" iso_y="29"/>
+	<PlayerGarbageItem id="929233" dataid="235" itemid="600002" iso_x="12" iso_y="26"/>
+	
+	
+	<PlayerGarbageItem id="929237" dataid="239" itemid="600002" iso_x="18" iso_y="26"/>
+	<PlayerGarbageItem id="929241" dataid="243" itemid="600004" iso_x="2" iso_y="29"/>
+	<PlayerGarbageItem id="929242" dataid="244" itemid="600004" iso_x="17" iso_y="31"/>
+	<PlayerGarbageItem id="929243" dataid="245" itemid="600003" iso_x="18" iso_y="31"/>
+	<PlayerGarbageItem id="929244" dataid="246" itemid="600002" iso_x="12" iso_y="31"/>
+	<PlayerGarbageItem id="929245" dataid="247" itemid="600003" iso_x="14" iso_y="31"/>
+	<PlayerGarbageItem id="929246" dataid="248" itemid="600004" iso_x="9" iso_y="25"/>
+	
+	
+	<PlayerGarbageItem id="929250" dataid="252" itemid="600002" iso_x="25" iso_y="39"/><!-- 8号地  靠左的  非边角的那个大圆树-->
+	<PlayerGarbageItem id="929251" dataid="253" itemid="600004" iso_x="20" iso_y="36"/>
+	<PlayerGarbageItem id="929252" dataid="254" itemid="600002" iso_x="20" iso_y="31"/>
+	<PlayerGarbageItem id="929253" dataid="255" itemid="600002" iso_x="22" iso_y="45"/><!--  9号地的唯一一颗 大圆树      -->
+	<PlayerGarbageItem id="929254" dataid="256" itemid="600007" iso_x="14" iso_y="39"/>
+	<PlayerGarbageItem id="929255" dataid="257" itemid="600003" iso_x="15" iso_y="35"/><!--原始那五棵树 最右边的小尖树 -->
+	
+	<PlayerGarbageItem id="929256" dataid="258" itemid="600002" iso_x="26" iso_y="34"/><!-- 8号地的  最右边角 的那个大圆树 -->
+	<PlayerGarbageItem id="929257" dataid="259" itemid="600006" iso_x="23" iso_y="35"/><!-- 8号地 的羊骨 -->
+	<PlayerGarbageItem id="929258" dataid="260" itemid="600002" iso_x="16" iso_y="45"/><!--  10号地 最左边的 大圆树      -->
+	<PlayerGarbageItem id="929414" dataid="414" itemid="600003" iso_x="15" iso_y="39"/><!-- 往下 10号地的 中间的  两个 小尖树 -->
+	<PlayerGarbageItem id="929415" dataid="415" itemid="600003" iso_x="16" iso_y="38"/>
+	<PlayerGarbageItem id="929416" dataid="416" itemid="600008" iso_x="20" iso_y="38"/><!-- 往下 8号地的 三块石头 -->
+	<PlayerGarbageItem id="929417" dataid="417" itemid="600007" iso_x="19" iso_y="36"/>
+	<PlayerGarbageItem id="929418" dataid="418" itemid="600007" iso_x="20" iso_y="37"/>
+	
+	
+	<PlayerGarbageItem id="929259" dataid="261" itemid="600007" iso_x="13" iso_y="44"/>
+	<PlayerGarbageItem id="929260" dataid="262" itemid="600003" iso_x="14" iso_y="46"/><!-- 10号地的 最左边 的小尖树 -->
+	<PlayerGarbageItem id="929261" dataid="263" itemid="600002" iso_x="7" iso_y="38"/><!-- 11号地右上角 的大圆树 -->
+	<PlayerGarbageItem id="929262" dataid="264" itemid="600002" iso_x="3" iso_y="40"/>
+	<PlayerGarbageItem id="929403" dataid="403" itemid="600002" iso_x="8" iso_y="42"/><!-- 11号地 最左的大圆树 -->
+	<PlayerGarbageItem id="929419" dataid="419" itemid="600001" iso_x="10" iso_y="41"/><!-- 11号地 靠右的小圆树 -->
+	<PlayerGarbageItem id="929420" dataid="420" itemid="600003" iso_x="9" iso_y="44"/><!-- 11号地 最左 小尖树 -->
+	
+	<PlayerGarbageItem id="929404" dataid="404" itemid="600001" iso_x="7" iso_y="45"/><!-- 11号地 最左的小圆树 -->
+	<PlayerGarbageItem id="929405" dataid="405" itemid="600008" iso_x="8" iso_y="45"/><!-- 11号地 最左 大石头 -->
+	<PlayerGarbageItem id="929406" dataid="406" itemid="600007" iso_x="2" iso_y="43"/>
+	<PlayerGarbageItem id="929407" dataid="407" itemid="600003" iso_x="4" iso_y="43"/><!-- 12号地  第二左 小尖树 -->
+	<PlayerGarbageItem id="929421" dataid="421" itemid="600003" iso_x="4" iso_y="46"/><!-- 12号地 最左 小尖树 -->
+	
+	<PlayerGarbageItem id="929264" dataid="266" itemid="600004" iso_x="-7" iso_y="44"/><!-- 15号地 唯一大尖树      -->
+	<PlayerGarbageItem id="929427" dataid="427" itemid="600002" iso_x="-4" iso_y="49"/><!-- 15号地 外面的那个大圆树 -->
+	
+	<PlayerGarbageItem id="929430" dataid="430" itemid="600001" iso_x="-14" iso_y="36"/><!-- 18号地 小圆树 -->
+	<PlayerGarbageItem id="929429" dataid="429" itemid="600002" iso_x="-15" iso_y="38"/><!-- 18号地 大圆树 -->
+	<PlayerGarbageItem id="929265" dataid="267" itemid="600002" iso_x="-10" iso_y="38"/><!-- 16号地  大圆树 -->
+	<PlayerGarbageItem id="929428" dataid="428" itemid="600008" iso_x="-9" iso_y="36"/><!-- 16号地  大石头 -->
+	
+	<PlayerGarbageItem id="929266" dataid="268" itemid="600003" iso_x="-7" iso_y="42"/><!--15 号地 唯一小尖树       -->
+	<PlayerGarbageItem id="929267" dataid="269" itemid="600002" iso_x="-11" iso_y="46"/><!-- 17号地 唯一大圆树         -->
+	<PlayerGarbageItem id="929431" dataid="431" itemid="600001" iso_x="-11" iso_y="43"/><!-- 17号地 小圆树 -->
+	<PlayerGarbageItem id="929432" dataid="432" itemid="600008" iso_x="-16" iso_y="45"/><!-- 17号地 大石头 -->
+	
+	<PlayerGarbageItem id="929268" dataid="270" itemid="600004" iso_x="-9" iso_y="35"/><!-- 16号地 大尖树 -->
+	<PlayerGarbageItem id="929269" dataid="271" itemid="600003" iso_x="-2" iso_y="39"/><!-- 14号地 最右上的 小尖树 -->
+	<PlayerGarbageItem id="929424" dataid="424" itemid="600008" iso_x="-2" iso_y="40"/><!-- 14号地 最左 大石头 -->
+	
+	<PlayerGarbageItem id="929401" dataid="401" itemid="600004" iso_x="-3" iso_y="41"/><!--   14号地 最左大尖树         -->
+	<PlayerGarbageItem id="929270" dataid="272" itemid="600001" iso_x="-7" iso_y="35"/>
+	<PlayerGarbageItem id="929271" dataid="273" itemid="600004" iso_x="2" iso_y="45"/><!--  12号地 最左 大尖树       -->
+	<PlayerGarbageItem id="929272" dataid="274" itemid="600001" iso_x="-3" iso_y="44"/><!--  14号地 最左 小圆树  -->
+	<PlayerGarbageItem id="929425" dataid="425" itemid="600002" iso_x="-1" iso_y="46"/><!-- 14 号地 最右 小圆树 -->
+	
+	<PlayerGarbageItem id="929273" dataid="275" itemid="600001" iso_x="-3" iso_y="36"/><!--14号地 最右 小圆树 -->
+	<PlayerGarbageItem id="929274" dataid="276" itemid="600004" iso_x="-3" iso_y="34"/><!-- 14号地 最右 大尖树                  -->
+	<PlayerGarbageItem id="929426" dataid="426" itemid="600001" iso_x="-1" iso_y="34"/>
+	
+	<PlayerGarbageItem id="929275" dataid="277" itemid="600002" iso_x="10" iso_y="30"/>
+	
+	<PlayerGarbageItem id="929276" dataid="278" itemid="600002" iso_x="13" iso_y="34"/><!--10号地的 靠上两个 平行 Y轴 的 两个大圆树 原始的那两个 -->
+	<PlayerGarbageItem id="929277" dataid="279" itemid="600008" iso_x="12" iso_y="35"/>
+	<PlayerGarbageItem id="929278" dataid="280" itemid="600002" iso_x="13" iso_y="40"/>
+	<PlayerGarbageItem id="929284" dataid="286" itemid="600001" iso_x="24" iso_y="43"/><!-- 9号地 唯一的一颗 小圆树 -->
+	<PlayerGarbageItem id="929285" dataid="287" itemid="600004" iso_x="26" iso_y="46"/><!-- 9号地的唯一 大尖树 -->
+	
+	
+	<!-- xull 开始摆放右边土地的树木哦 -->
+	<PlayerGarbageItem id="929286" dataid="288" itemid="600002" iso_x="0" iso_y="-53"/>
+	<PlayerGarbageItem id="929287" dataid="289" itemid="600002" iso_x="0" iso_y="-63"/>
+	<PlayerGarbageItem id="929288" dataid="290" itemid="600002" iso_x="3" iso_y="-21"/>
+	<PlayerGarbageItem id="929289" dataid="291" itemid="600002" iso_x="-3" iso_y="-18"/>
+	<PlayerGarbageItem id="929290" dataid="292" itemid="600002" iso_x="2" iso_y="-16"/>
+	
+	<PlayerGarbageItem id="929291" dataid="293" itemid="600001" iso_x="4" iso_y="-15"/>
+	<PlayerGarbageItem id="929292" dataid="294" itemid="600001" iso_x="5" iso_y="-20"/>
+	<PlayerGarbageItem id="929293" dataid="295" itemid="600004" iso_x="8" iso_y="-14"/>
+	<PlayerGarbageItem id="929294" dataid="296" itemid="600003" iso_x="8" iso_y="-16"/>
+	<PlayerGarbageItem id="929295" dataid="297" itemid="600007" iso_x="-4" iso_y="-16"/>
+	
+	<PlayerGarbageItem id="929296" dataid="298" itemid="600002" iso_x="9" iso_y="-19"/>
+	<PlayerGarbageItem id="929297" dataid="299" itemid="600002" iso_x="14" iso_y="-20"/>
+	<PlayerGarbageItem id="929298" dataid="300" itemid="600008" iso_x="11" iso_y="-16"/>
+	
+	<PlayerGarbageItem id="929299" dataid="301" itemid="600002" iso_x="19" iso_y="-17"/>
+	<PlayerGarbageItem id="929300" dataid="302" itemid="600002" iso_x="22" iso_y="-20"/>
+	<PlayerGarbageItem id="929301" dataid="303" itemid="600002" iso_x="24" iso_y="-15"/>
+	<PlayerGarbageItem id="929302" dataid="304" itemid="600003" iso_x="16" iso_y="-15"/>
+	<PlayerGarbageItem id="929412" dataid="412" itemid="600001" iso_x="13" iso_y="-18"/>
+	
+	<PlayerGarbageItem id="929303" dataid="305" itemid="600008" iso_x="-3" iso_y="-16"/>
+	<PlayerGarbageItem id="929413" dataid="413" itemid="600008" iso_x="2" iso_y="-21"/>
+	
+	
+	
+	<!-- look!!!!! -->
+	<!--xull 摆放 在 右边土地和成就建筑之间的 -->
+	<PlayerGarbageItem id="929332" dataid="334" itemid="600004" iso_x="0" iso_y="-10"/><!-- 往下是 间隔的三个大尖树 -->
+	<PlayerGarbageItem id="929333" dataid="335" itemid="600004" iso_x="13" iso_y="-10"/>
+	<PlayerGarbageItem id="929334" dataid="336" itemid="600004" iso_x="26" iso_y="-10"/>
+	<PlayerGarbageItem id="929335" dataid="337" itemid="600002" iso_x="3" iso_y="-11"/><!-- 三个大尖树之间的大圆树们 -->
+	<PlayerGarbageItem id="929336" dataid="338" itemid="600002" iso_x="8" iso_y="-9"/>
+	<PlayerGarbageItem id="929337" dataid="339" itemid="600002" iso_x="11" iso_y="-12"/>
+	<PlayerGarbageItem id="929339" dataid="341" itemid="600002" iso_x="16" iso_y="-10"/>
+	<PlayerGarbageItem id="929340" dataid="342" itemid="600002" iso_x="18" iso_y="-11"/>
+	<PlayerGarbageItem id="929341" dataid="343" itemid="600002" iso_x="21" iso_y="-9"/>
+	<PlayerGarbageItem id="929342" dataid="344" itemid="600002" iso_x="23" iso_y="-10"/>
+	<PlayerGarbageItem id="929343" dataid="345" itemid="600002" iso_x="25" iso_y="-12"/>
+	<PlayerGarbageItem id="929344" dataid="346" itemid="600001" iso_x="5" iso_y="-9"/>
+	<PlayerGarbageItem id="929345" dataid="347" itemid="600004" iso_x="7" iso_y="-5"/><!-- 往下是左边的那个间隔的两个大尖树 -->
+	<PlayerGarbageItem id="929346" dataid="348" itemid="600004" iso_x="20" iso_y="-4"/>
+	<PlayerGarbageItem id="929347" dataid="349" itemid="600002" iso_x="0" iso_y="-4"/><!-- 往下是左边的两个大尖树之间的 大圆树小圆树们 -->
+	<PlayerGarbageItem id="929348" dataid="350" itemid="600001" iso_x="2" iso_y="-4"/>
+	<PlayerGarbageItem id="929349" dataid="351" itemid="600002" iso_x="4" iso_y="-5"/>
+	<PlayerGarbageItem id="929350" dataid="352" itemid="600002" iso_x="10" iso_y="-3"/>
+	<PlayerGarbageItem id="929351" dataid="353" itemid="600001" iso_x="12" iso_y="-4"/>
+
+	<PlayerGarbageItem id="929352" dataid="354" itemid="600002" iso_x="15" iso_y="-5"/>
+	<PlayerGarbageItem id="929353" dataid="355" itemid="600002" iso_x="18" iso_y="-6"/>
+	<PlayerGarbageItem id="929354" dataid="356" itemid="600001" iso_x="22" iso_y="-5"/>
+	<PlayerGarbageItem id="929355" dataid="357" itemid="600002" iso_x="25" iso_y="-4"/>
+	<PlayerGarbageItem id="929356" dataid="358" itemid="600008" iso_x="9" iso_y="-7"/>
+	<PlayerGarbageItem id="929357" dataid="359" itemid="600008" iso_x="9" iso_y="-11"/>
+	<PlayerGarbageItem id="929358" dataid="360" itemid="600007" iso_x="13" iso_y="-4"/>
+	<PlayerGarbageItem id="929359" dataid="361" itemid="600003" iso_x="14" iso_y="-2"/>
+	<PlayerGarbageItem id="929360" dataid="362" itemid="600003" iso_x="16" iso_y="-3"/>
+	<PlayerGarbageItem id="929361" dataid="363" itemid="600005" iso_x="7" iso_y="-3"/>
+	<PlayerGarbageItem id="929362" dataid="364" itemid="600003" iso_x="24" iso_y="-8"/>
+	<PlayerGarbageItem id="929363" dataid="365" itemid="600003" iso_x="25" iso_y="-8"/>
+	
+	
+
+	
+
+	<!-- look末尾！！！ -->
+	<PlayerGarbageItem id="929378" dataid="385" itemid="600002" iso_x="-2" iso_y="0"/><!-- 成就建筑后的 地格上的 那五个间隔的小圆树之间的 大小圆树和大小尖树们 -->
+	<PlayerGarbageItem id="929379" dataid="384" itemid="600004" iso_x="2" iso_y="3"/>
+	<PlayerGarbageItem id="929380" dataid="380" itemid="600001" iso_x="-2" iso_y="5"/>
+	<PlayerGarbageItem id="929381" dataid="381" itemid="600003" iso_x="2" iso_y="7"/>
+	<PlayerGarbageItem id="929382" dataid="382" itemid="600007" iso_x="0" iso_y="8"/>
+	<PlayerGarbageItem id="929383" dataid="383" itemid="600003" iso_x="-3" iso_y="10"/>
+	<PlayerGarbageItem id="929384" dataid="384" itemid="600002" iso_x="3" iso_y="9"/>
+	<PlayerGarbageItem id="929385" dataid="385" itemid="600006" iso_x="4" iso_y="10"/>
+	
+	<PlayerGarbageItem id="929386" dataid="386" itemid="600005" iso_x="1" iso_y="11"/>
+	<PlayerGarbageItem id="929387" dataid="387" itemid="600002" iso_x="-2" iso_y="12"/>
+	<PlayerGarbageItem id="929388" dataid="388" itemid="600003" iso_x="2" iso_y="14"/>
+	<PlayerGarbageItem id="929389" dataid="389" itemid="600006" iso_x="0" iso_y="15"/>
+	<PlayerGarbageItem id="929390" dataid="390" itemid="600007" iso_x="-3" iso_y="14"/>
+	<PlayerGarbageItem id="929391" dataid="391" itemid="600002" iso_x="-7" iso_y="16"/>
+	<PlayerGarbageItem id="929392" dataid="392" itemid="600004" iso_x="-4" iso_y="18"/>	
+	
+	<PlayerGarbageItem id="929393" dataid="393" itemid="600006" iso_x="6" iso_y="18"/>
+	<PlayerGarbageItem id="929394" dataid="394" itemid="600002" iso_x="5" iso_y="19"/>
+	<PlayerGarbageItem id="929395" dataid="395" itemid="600003" iso_x="4" iso_y="20"/>
+	<PlayerGarbageItem id="929396" dataid="396" itemid="600006" iso_x="0" iso_y="19"/>
+	<PlayerGarbageItem id="929397" dataid="397" itemid="600007" iso_x="-3" iso_y="22"/>
+	<PlayerGarbageItem id="929398" dataid="398" itemid="600002" iso_x="-5" iso_y="21"/>
+	<PlayerGarbageItem id="929399" dataid="399" itemid="600004" iso_x="4" iso_y="23"/>		
+	
+	<PlayerGarbageItem id="9293100" dataid="3100" itemid="600006" iso_x="-6" iso_y="-4"/>
+	<PlayerGarbageItem id="9293101" dataid="3101" itemid="600002" iso_x="-5" iso_y="-6"/>
+	<PlayerGarbageItem id="9293102" dataid="3102" itemid="600003" iso_x="-4" iso_y="-3"/>
+	<PlayerGarbageItem id="9293103" dataid="3103" itemid="600006" iso_x="0" iso_y="-7"/>
+	<PlayerGarbageItem id="9293104" dataid="3104" itemid="600007" iso_x="-3" iso_y="-8"/>
+	<PlayerGarbageItem id="9293105" dataid="3105" itemid="600002" iso_x="-5" iso_y="-8"/>
+	<PlayerGarbageItem id="9293106" dataid="3106" itemid="600004" iso_x="-4" iso_y="-7"/>	
+	<PlayerGarbageItem id="9293107" dataid="3107" itemid="600002" iso_x="-5" iso_y="-8"/>
+	<PlayerGarbageItem id="9293108" dataid="3108" itemid="600005" iso_x="-7" iso_y="-2"/>	
+	
+	<PlayerGarbageItem id="9293109" dataid="3109" itemid="600006" iso_x="-4" iso_y="4"/>
+	<PlayerGarbageItem id="9293110" dataid="3110" itemid="600002" iso_x="0" iso_y="5"/>
+	<PlayerGarbageItem id="929311" dataid="3111" itemid="600006" iso_x="0" iso_y="10"/>
+	<PlayerGarbageItem id="9293112" dataid="3112" itemid="600006" iso_x="-7" iso_y="12"/>
+	<PlayerGarbageItem id="9293113" dataid="3113" itemid="600007" iso_x="-8" iso_y="11"/>
+	<PlayerGarbageItem id="9293114" dataid="3114" itemid="600002" iso_x="0" iso_y="19"/>
+	<PlayerGarbageItem id="929315" dataid="3115" itemid="600004" iso_x="-4" iso_y="20"/>	
+	<PlayerGarbageItem id="9293116" dataid="3116" itemid="600002" iso_x="-1" iso_y="23"/>
+	<PlayerGarbageItem id="9293117" dataid="3117" itemid="600005" iso_x="-3" iso_y="25"/>	
+	<PlayerGarbageItem id="9293118" dataid="3118" itemid="600002" iso_x="-2" iso_y="3"/>
+	<PlayerGarbageItem id="9293119" dataid="3119" itemid="600004" iso_x="-1" iso_y="10"/>
+	<PlayerGarbageItem id="9293120" dataid="3120" itemid="600001" iso_x="-5" iso_y="11"/>
+	<PlayerGarbageItem id="9293121" dataid="3121" itemid="600004" iso_x="0" iso_y="9"/>
+	<PlayerGarbageItem id="9293122" dataid="3122" itemid="600001" iso_x="-5" iso_y="26"/>
+	<PlayerGarbageItem id="9293123" dataid="3123" itemid="600004" iso_x="-7" iso_y="26"/>
+	<PlayerGarbageItem id="9293124" dataid="3124" itemid="600002" iso_x="-3" iso_y="29"/>
+	<PlayerGarbageItem id="9293125" dataid="3125" itemid="600003" iso_x="0" iso_y="29"/>
+	<PlayerGarbageItem id="9293126" dataid="3126" itemid="600004" iso_x="-7" iso_y="29"/>
+	<PlayerGarbageItem id="9293127" dataid="3127" itemid="600003" iso_x="-3" iso_y="30"/>
+	<PlayerGarbageItem id="9293128" dataid="3128" itemid="600004" iso_x="-9" iso_y="30"/>
+	<PlayerGarbageItem id="9293129" dataid="3129" itemid="600001" iso_x="-11" iso_y="29"/>
+	<PlayerGarbageItem id="9293130" dataid="3130" itemid="600002" iso_x="-13" iso_y="27"/>
+	<PlayerGarbageItem id="9293131" dataid="3131" itemid="600003" iso_x="-15" iso_y="30"/>
+	<PlayerGarbageItem id="9293129" dataid="3129" itemid="600001" iso_x="5" iso_y="0"/>
+	<PlayerGarbageItem id="9293130" dataid="3130" itemid="600002" iso_x="11" iso_y="1"/>
+	<PlayerGarbageItem id="9293131" dataid="3131" itemid="600003" iso_x="1" iso_y="3"/>
+	
+	
+<!-- 	xull 成就建筑后面的那块地 种树木 <PlayerGarbageItem id="929209" dataid="211" itemid="600001" iso_x="-12" iso_y="-1"/> -->
+	<PlayerGarbageItem id="929304" dataid="306" itemid="600002" iso_x="-12" iso_y="5"/>
+	<PlayerGarbageItem id="929305" dataid="307" itemid="600002" iso_x="-6" iso_y="6"/>
+	<PlayerGarbageItem id="929306" dataid="308" itemid="600002" iso_x="-14" iso_y="9"/>
+	<PlayerGarbageItem id="929307" dataid="309" itemid="600002" iso_x="-12" iso_y="13"/>
+	<PlayerGarbageItem id="929308" dataid="310" itemid="600004" iso_x="-10" iso_y="16"/><!--         -->
+	<PlayerGarbageItem id="929309" dataid="311" itemid="600002" iso_x="-17" iso_y="16"/>
+	<PlayerGarbageItem id="929310" dataid="312" itemid="600002" iso_x="-13" iso_y="18"/>
+	
+	<PlayerGarbageItem id="929311" dataid="313" itemid="600007" iso_x="-13" iso_y="15"/>
+	<PlayerGarbageItem id="929312" dataid="314" itemid="600001" iso_x="-17" iso_y="23"/><!-- 洞 右上角的那个小圆树 -->
+	
+	<PlayerGarbageItem id="929313" dataid="315" itemid="600004" iso_x="-19" iso_y="21"/>
+	<PlayerGarbageItem id="929314" dataid="316" itemid="600003" iso_x="-17" iso_y="14"/>
+	<PlayerGarbageItem id="929315" dataid="317" itemid="600001" iso_x="-12" iso_y="20"/>
+	<PlayerGarbageItem id="929316" dataid="318" itemid="600002" iso_x="-11" iso_y="23"/>
+	<PlayerGarbageItem id="929317" dataid="319" itemid="600003" iso_x="-11" iso_y="26"/>
+	
+	<PlayerGarbageItem id="929318" dataid="320" itemid="600008" iso_x="-11" iso_y="27"/>
+	
+	
+
+<!-- xull 左边土地和成就建筑之间的树们	 -->
+	<PlayerGarbageItem id="929319" dataid="321" itemid="600002" iso_x="-19" iso_y="18"/>
+	<PlayerGarbageItem id="929320" dataid="322" itemid="600002" iso_x="-13" iso_y="18"/>
+	<PlayerGarbageItem id="929321" dataid="323" itemid="600008" iso_x="-11" iso_y="18"/>
+	<PlayerGarbageItem id="929322" dataid="324" itemid="600004" iso_x="-5" iso_y="23"/>
+	<PlayerGarbageItem id="929323" dataid="325" itemid="600002" iso_x="-16" iso_y="20"/>
+ 	<PlayerGarbageItem id="929324" dataid="326" itemid="600001" iso_x="-18" iso_y="44"/><!-- 17号地 右上 地格外面的那个小圆树 -->
+	
+	<PlayerGarbageItem id="929325" dataid="327" itemid="600002" iso_x="-15" iso_y="50"/><!-- 17号地 左边地格外面的那棵树  -->
+	<PlayerGarbageItem id="929326" dataid="328" itemid="600002" iso_x="-18" iso_y="40"/><!-- 17号地 最右上 低格外面 大圆树树 -->
+	<PlayerGarbageItem id="929402" dataid="402" itemid="600008" iso_x="-14" iso_y="43"/>
+	
+<!--不要 	<PlayerGarbageItem id="929327" dataid="329" itemid="600003" iso_x="-15" iso_y="37"/> -->
+	<PlayerGarbageItem id="929328" dataid="330" itemid="600005" iso_x="-14" iso_y="29"/><!-- 18号地 右下 地格外面的 池塘 -->
+	<PlayerGarbageItem id="929400" dataid="400" itemid="600008" iso_x="-14" iso_y="27"/><!-- 池塘旁边添加一个大石头 -->
+	
+	
+	<PlayerGarbageItem id="929329" dataid="331" itemid="600004" iso_x="-17" iso_y="30"/>
+<!--不要 	<PlayerGarbageItem id="929330" dataid="332" itemid="600003" iso_x="-16" iso_y="34"/> -->
+	<PlayerGarbageItem id="929331" dataid="333" itemid="600002" iso_x="-17" iso_y="27"/>
+	
+	
+	<!-- xull 我自己摆放的 到这之前 -->
+	<PlayerGarbageItem id="929129" dataid="131" itemid="600011" iso_x="18" iso_y="-22" sub_type="LockedSpace"/><!-- 右边1号地 右下开始 -->
+	<PlayerGarbageItem id="929130" dataid="132" itemid="600010" iso_x="18" iso_y="-17" sub_type="LockedSpace"/>
+	<PlayerGarbageItem id="929131" dataid="133" itemid="600012" iso_x="11" iso_y="-22" sub_type="LockedSpace"/><!-- 第三块 -->
+	<PlayerGarbageItem id="929132" dataid="134" itemid="600013" iso_x="6" iso_y="-18" sub_type="LockedSpace"/>
+	<PlayerGarbageItem id="929133" dataid="135" itemid="600014" iso_x="1" iso_y="-18" sub_type="LockedSpace"/>
+	<PlayerGarbageItem id="929134" dataid="136" itemid="600015" iso_x="0" iso_y="-22" sub_type="LockedSpace"/><!-- 第六块 -->
+	<PlayerGarbageItem id="929135" dataid="137" itemid="600016" iso_x="-5" iso_y="-22" sub_type="LockedSpace"/><!-- 右边7号地 -->
+	
+									
+	<PlayerGarbageItem id="929136" dataid="138" itemid="600017" iso_x="18" iso_y="33" sub_type="LockedSpace"/><!-- 左边 最下第1号地 -->
+	<PlayerGarbageItem id="929137" dataid="139" itemid="600018" iso_x="18" iso_y="41" sub_type="LockedSpace"/>
+	<PlayerGarbageItem id="929138" dataid="140" itemid="600019" iso_x="12" iso_y="33" sub_type="LockedSpace"/>
+	<PlayerGarbageItem id="929139" dataid="141" itemid="600020" iso_x="6" iso_y="37" sub_type="LockedSpace"/>
+	<PlayerGarbageItem id="929140" dataid="142" itemid="600021" iso_x="1" iso_y="37" sub_type="LockedSpace"/>
+	<PlayerGarbageItem id="929141" dataid="143" itemid="600022" iso_x="2" iso_y="32" sub_type="LockedSpace"/><!-- 6 -->
+	<PlayerGarbageItem id="929142" dataid="144" itemid="600023" iso_x="-3" iso_y="33" sub_type="LockedSpace"/><!-- 7 第14块-->
+	<PlayerGarbageItem id="929143" dataid="145" itemid="600024" iso_x="-9" iso_y="40" sub_type="LockedSpace"/><!-- 15 -->
+	<PlayerGarbageItem id="929144" dataid="146" itemid="600025" iso_x="-9" iso_y="33" sub_type="LockedSpace"/><!-- 16 -->
+<!--17号地原始 	<PlayerGarbageItem id="929145" dataid="147" itemid="600026" iso_x="-13" iso_y="41" sub_type="LockedSpace"/> -->
+	<PlayerGarbageItem id="929145" dataid="147" itemid="600026" iso_x="-13" iso_y="40" sub_type="LockedSpace"/><!-- 17 -->
+
+<!-- 18号地原始	<PlayerGarbageItem id="929146" dataid="148" itemid="600027" iso_x="-13" iso_y="34" sub_type="LockedSpace"/> -->
+<PlayerGarbageItem id="929146" dataid="148" itemid="600027" iso_x="-15" iso_y="33" sub_type="LockedSpace"/>
+</Group>
+
+<Group id="LockedSpaceIds">
+	<LockedSpaceIds id="1" dataids="131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148"/>
+</Group>
+
+<!--游戏等级定义-->
+	<!--<Level id="id" levelupexp="升级所需经验" power="精力值上限" maxinvadenum="被侵略数量上限" petnum="当侵略者和被侵略者等级差为此id时侵略者能上场的宠物数量"/>-->
+	<Group id="Level">
+		<Level id="1" levelupexp="3" maxVisitEnergy="5" reward="" rewardItem="" unlockItem="" unlock="0"/>
+		<Level id="2" levelupexp="10" maxVisitEnergy="5" reward="100020:1" rewardItem="320002:3" unlockItem="230013,334005" unlock="0"/>
+		<Level id="3" levelupexp="24" maxVisitEnergy="5" reward="100020:1" rewardItem="333006:3" unlockItem="230012,220007,10002" unlock="0"/>
+		<Level id="4" levelupexp="54" maxVisitEnergy="5" reward="100020:1" rewardItem="320004:3,100011:1" unlockItem="" unlock="0"/>
+		<Level id="5" levelupexp="104" maxVisitEnergy="5" reward="100020:1" rewardItem="333005:5,100009:3" unlockItem="220008,10001,230014" unlock="0"/>
+		<Level id="6" levelupexp="374" maxVisitEnergy="5" reward="100020:1" rewardItem="320009:3" unlockItem="230034" unlock="0"/>
+		<Level id="7" levelupexp="768" maxVisitEnergy="5" reward="100020:1" rewardItem="320005:3" unlockItem="230015,334008,334006,335005" unlock="0"/>
+		<Level id="8" levelupexp="1274" maxVisitEnergy="5" reward="100020:1" rewardItem="100011:1" unlockItem="230003,230016,338005,335006" unlock="0"/>
+		<Level id="9" levelupexp="2165" maxVisitEnergy="5" reward="100020:1" rewardItem="320003:3" unlockItem="230004,230007" unlock="0"/>
+		<Level id="10" levelupexp="3429" maxVisitEnergy="5" reward="100020:1" rewardItem="333007:5" unlockItem="220009,10003,100014,336007,337004,337006" unlock="0"/>
+		<Level id="11" levelupexp="4988" maxVisitEnergy="7" reward="100020:2" rewardItem="" unlockItem="230008,230009" unlock="0"/>
+		<Level id="12" levelupexp="6755" maxVisitEnergy="7" reward="100020:2" rewardItem="100013:1" unlockItem="230010,230011" unlock="0"/>
+		<Level id="13" levelupexp="9217" maxVisitEnergy="7" reward="100020:2" rewardItem="320006:3" unlockItem="230019,230020,230021" unlock="0"/>
+		<Level id="14" levelupexp="11939" maxVisitEnergy="7" reward="100020:2" rewardItem="" unlockItem="230022,336005,230018" unlock="0"/>
+		<Level id="15" levelupexp="15571" maxVisitEnergy="7" reward="100020:2" rewardItem="320007:3" unlockItem="230023,336006,230037,10005" unlock="0"/>
+		<Level id="16" levelupexp="19824" maxVisitEnergy="7" reward="100020:2" rewardItem="100013:1,333008:3" unlockItem="10004,220010" unlock="0"/>
+		<Level id="17" levelupexp="25778" maxVisitEnergy="7" reward="100020:2" rewardItem="" unlockItem="" unlock="0"/>
+		<Level id="18" levelupexp="32629" maxVisitEnergy="7" reward="100020:2" rewardItem="" unlockItem="335007" unlock="0"/>
+		<Level id="19" levelupexp="40685" maxVisitEnergy="7" reward="100020:2" rewardItem="" unlockItem="" unlock="0"/>
+		<Level id="20" levelupexp="49833" maxVisitEnergy="7" reward="100020:2" rewardItem="" unlockItem="" unlock="0"/>
+		<Level id="21" levelupexp="61078" maxVisitEnergy="9" reward="100020:2" rewardItem="" unlockItem="342001,230031" unlock="0"/>
+		<Level id="22" levelupexp="73666" maxVisitEnergy="9" reward="100020:2" rewardItem="320008:3" unlockItem="343001,230032" unlock="0"/>
+		<Level id="23" levelupexp="88838" maxVisitEnergy="9" reward="100020:2" rewardItem="" unlockItem="230035" unlock="0"/>
+		<Level id="24" levelupexp="105627" maxVisitEnergy="9" reward="100020:2" rewardItem="" unlockItem="230033,10006,230038" unlock="0"/>
+		<Level id="25" levelupexp="125538" maxVisitEnergy="9" reward="100020:2" rewardItem="320010:3" unlockItem="220012,10008,333010" unlock="0"/>
+		<Level id="26" levelupexp="147368" maxVisitEnergy="9" reward="100020:2" rewardItem="" unlockItem="" unlock="0"/>
+		<Level id="27" levelupexp="172907" maxVisitEnergy="9" reward="100020:2" rewardItem="" unlockItem="" unlock="0"/>
+		<Level id="28" levelupexp="200689" maxVisitEnergy="9" reward="100020:2" rewardItem="" unlockItem="" unlock="0"/>
+		<Level id="29" levelupexp="234105" maxVisitEnergy="9" reward="100020:2" rewardItem="" unlockItem="230039" unlock="0"/>
+		<Level id="30" levelupexp="271502" maxVisitEnergy="9" reward="100020:2" rewardItem="320011:3" unlockItem="" unlock="0"/>
+		<Level id="31" levelupexp="315680" maxVisitEnergy="11" reward="100020:2" rewardItem="" unlockItem="" unlock="0"/>
+		<Level id="32" levelupexp="362992" maxVisitEnergy="11" reward="100020:2" rewardItem="" unlockItem="210005,220011,10007,333009,230048,230050" unlock="0"/>
+		<Level id="33" levelupexp="416517" maxVisitEnergy="11" reward="100020:2" rewardItem="" unlockItem="339007,10009,230041" unlock="0"/>
+		<Level id="34" levelupexp="473585" maxVisitEnergy="11" reward="100020:2" rewardItem="320012:3" unlockItem="336009,210006" unlock="0"/>
+		<Level id="35" levelupexp="535799" maxVisitEnergy="11" reward="100020:2" rewardItem="" unlockItem="230040,230053" unlock="0"/>
+		<Level id="36" levelupexp="601933" maxVisitEnergy="11" reward="100020:2" rewardItem="" unlockItem="" unlock="0"/>		
+		<Level id="37" levelupexp="677911" maxVisitEnergy="11" reward="100020:2" rewardItem="" unlockItem="" unlock="0"/>		
+		<Level id="38" levelupexp="760504" maxVisitEnergy="11" reward="100020:2" rewardItem="" unlockItem="" unlock="0"/>		
+		<Level id="39" levelupexp="854437" maxVisitEnergy="11" reward="100020:2" rewardItem="" unlockItem="" unlock="0"/>		
+		<Level id="40" levelupexp="955845" maxVisitEnergy="11" reward="100020:2" rewardItem="320013:2" unlockItem="320013" unlock="0"/>		
+		<Level id="41" levelupexp="1070190" maxVisitEnergy="11" reward="100020:2" rewardItem="" unlockItem="" unlock="0"/>		
+		<Level id="42" levelupexp="1192921" maxVisitEnergy="11" reward="100020:2" rewardItem="" unlockItem="" unlock="0"/>		
+		<Level id="43" levelupexp="1359722" maxVisitEnergy="11" reward="100020:2" rewardItem="" unlockItem="" unlock="0"/>
+		<Level id="44" levelupexp="1537871" maxVisitEnergy="11" reward="100020:2" rewardItem="" unlockItem="342007" unlock="0"/>
+		<Level id="45" levelupexp="1735975" maxVisitEnergy="11" reward="100020:2" rewardItem="320014:3" unlockItem="343003,320014" unlock="0"/>
+		<Level id="46" levelupexp="1946656" maxVisitEnergy="11" reward="100020:2" rewardItem="" unlockItem="220013,10010,333011,340009" unlock="0"/>
+		<Level id="47" levelupexp="2179598" maxVisitEnergy="11" reward="100020:2" rewardItem="" unlockItem="" unlock="0"/>
+		<Level id="48" levelupexp="2417896" maxVisitEnergy="11" reward="100020:2" rewardItem="" unlockItem="340010" unlock="0"/>
+		<Level id="49" levelupexp="2680344" maxVisitEnergy="11" reward="100020:2" rewardItem="" unlockItem="" unlock="0"/>
+		<Level id="50" levelupexp="2957810" maxVisitEnergy="11" reward="100020:2" rewardItem="" unlockItem="" unlock="0"/>
+		<Level id="51" levelupexp="3252145" maxVisitEnergy="13" reward="100020:3" rewardItem="" unlockItem="" unlock="0"/>
+		<Level id="52" levelupexp="3552674" maxVisitEnergy="13" reward="100020:3" rewardItem="" unlockItem="" unlock="0"/>
+		<Level id="53" levelupexp="3870761" maxVisitEnergy="13" reward="100020:3" rewardItem="" unlockItem="346005,347005,330007,210007" unlock="0"/>
+		<Level id="54" levelupexp="4195274" maxVisitEnergy="13" reward="100020:3" rewardItem="" unlockItem="" unlock="0"/>
+		<Level id="55" levelupexp="4538033" maxVisitEnergy="13" reward="100020:3" rewardItem="" unlockItem="" unlock="0"/>
+		<Level id="56" levelupexp="4887446" maxVisitEnergy="13" reward="100020:3" rewardItem="320015:3" unlockItem="336010,337008,320015" unlock="0"/>
+		<Level id="57" levelupexp="5255794" maxVisitEnergy="13" reward="100020:3" rewardItem="" unlockItem="" unlock="0"/>
+		<Level id="58" levelupexp="5631026" maxVisitEnergy="13" reward="100020:3" rewardItem="" unlockItem="334011" unlock="0"/>
+		<Level id="59" levelupexp="6025881" maxVisitEnergy="13" reward="100020:3" rewardItem="" unlockItem="" unlock="0"/>
+		<Level id="60" levelupexp="6427850" maxVisitEnergy="13" reward="100020:3" rewardItem="" unlockItem="" unlock="0"/>
+	</Group> 
+<!-- 都需要在协议完成时再校验 -->
+<Group id="Achievement">
+	<!-- 收鸡蛋 -->
+	<Achievement id="40001" name="achievement1" action="command:building/PastureHarvest,itemid:10002" actionType="collect" actionItem="egg" stages="20,500,1500" updateCount="1" updateScore="2" rewards="exp:40,points:1;exp:120,points:2;exp:240,points:3"/>
+	<!-- 收牛奶 -->
+	<Achievement id="40002" name="achievement2" action="command:building/PastureHarvest,itemid:10001" actionType="collect" actionItem="milk" stages="20,500,1500" updateCount="1" rewards="exp:60,points:1;exp:160,points:2;exp:320,points:3"/>
+	<!-- 完成n次卡车订单 -->
+	<Achievement id="40003" name="achievement3" action="command:order/OrderFinish,ordertype:1" actionType="order" stages="20,500,1500" updateCount="1" rewards="exp:80,points:1;exp:180,points:2;exp:350,points:3" />
+	<!-- 制作鸡饲料 -->
+	<Achievement id="40004" name="achievement4" action="command:building/WorkshopAdd,itemid:333006" actionType="make" actionItem="chickfood" stages="60,1500,4500" updateCount="3" rewards="exp:30,points:1;exp:110,points:2;exp:220,points:3"/>
+	<!-- 制作牛饲料 -->
+	<Achievement id="40005" name="achievement5" action="command:building/WorkshopAdd,itemid:333005" actionType="make" actionItem="cowfood" stages="60,1500,4500" updateCount="3" rewards="exp:60,points:1;exp:150,points:2;exp:290,points:3"/>
+	<!-- 收集小麦 -->
+	<Achievement id="40006" name="achievement6" action="command:building/FarmlandHarvest,itemid:320001" actionType="collect" actionItem="Wheat" stages="20,500,1500" updateCount="2" rewards="exp:30,points:1;exp:110,points:2;exp:220,points:3"/>
+	<!-- 收集玉米 -->
+	<Achievement id="40007" name="achievement7" action="command:building/FarmlandHarvest,itemid:320002" actionType="collect" actionItem="Corn" stages="20,500,1500" updateCount="2" rewards="exp:50,points:1;exp:140,points:2;exp:280,points:3"/>
+	<!-- 收集萝卜 -->
+	<Achievement id="40008" name="achievement8" action="command:building/FarmlandHarvest,itemid:320003" actionType="collect" actionItem="Carrot" stages="20,500,1500" updateCount="2" rewards="exp:60,points:1;exp:150,points:2;exp:290,points:3"/>
+	<!-- 收集面包 -->
+	<Achievement id="40009" name="achievement9" action="command:building/WorkshopHarvest,itemid:334005" actionType="collect" actionItem="Bread" stages="20,500,1500" updateCount="1" rewards="exp:70,points:1;exp:160,points:2;exp:300,points:3"/>
+	<!-- 收集奶油 -->
+	<Achievement id="40010" name="achievement10" action="command:building/WorkshopHarvest,itemid:334007" actionType="collect" actionItem="Cream" stages="20,500,1500" updateCount="1" rewards="exp:80,points:1;exp:180,points:2;exp:350,points:3"/>
+	<!-- 建造商业建筑 -->
+	<Achievement id="40011" name="achievement11" action="command:building/Buy,itemtype:workshop" actionType="buyMachine" stages="10" updateCount="1" rewards="exp:300,points:3"/>
+	<!-- 和来访的NPC完成n次交易 -->
+	<Achievement id="40012" name="achievement12" action="command:order/OrderFinish,ordertype:2" actionType="deal" stages="10,200,1000" updateCount="1" rewards="exp:100,points:1;exp:210,points:2;exp:450,points:3"/>
+	<!-- 从小市场赚取金币 -->
+	<Achievement id="40013" name="achievement13" action="command:order/TradeCmd,action:getTradeReward" actionType="earn" stages="500,5000,50000" updateCount="price" rewards="exp:40,points:1;exp:210,points:2;exp:450,points:3"/>
+	<!-- 拥有好友数量 -->
+	<Achievement id="40014" name="achievement14" action="command:GetFriendList,result:count" actionType="own" actionItem="friends" stages="5,25,50" updateCount="1" rewards="exp:10,points:1;exp:15,points:2;exp:20,points:3"/>
+	<!-- 偷取好友家鸡蛋 -->
+	<Achievement id="40015" name="achievement15" action="command:building/PastureFriendHarvest,itemid:10002" actionType="steal" actionItem="egg" stages="10,300,500" updateCount="1" rewards="exp:5,points:2;exp:50,points:10;exp:100,points:15"/>
+	<!-- 偷取好友家牛奶 -->
+	<Achievement id="40016" name="achievement16" action="command:building/PastureFriendHarvest,itemid:10001" actionType="steal" actionItem="milk" stages="10,200,400" updateCount="1" rewards="exp:5,points:2;exp:50,points:10;exp:100,points:15"/>
+	<!-- 偷取好友家培根 -->
+	<Achievement id="40017" name="achievement17" action="command:building/PastureFriendHarvest,itemid:10003" actionType="steal" actionItem="bacon" stages="10,150,350" updateCount="1" rewards="exp:5,points:2;exp:50,points:10;exp:100,points:15"/>
+	<!-- 偷取好友家作物 -->
+	<Achievement id="40018" name="achievement18" action="command:building/FarmlandFriendHarvest,itemtype:farmland" actionType="steal" actionItem="crop" stages="10,500,1000" updateCount="1" rewards="exp:5,points:2;exp:300,points:20;exp:500,points:30"/>
+</Group>
+
+</happyfarm:database>

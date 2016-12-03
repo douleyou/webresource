@@ -1,0 +1,918 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root locale="zh_test" revision="1">
+	<module name="All">	                                 	
+		<key id="gameName" value="해피팜"/>
+		<key id="workshopIsFull" value="가공기 대열이 가득찼습니다."/>
+		<key id="workshopRipeFull" value="제품 가공이 상한에 도달했습니다. 우선 납품해주십시오."/>
+		<key id="energyTooltip" value="{0}/{1}"/>
+		<key id="levelTooltip" value="{0}/{1}"/>
+		<key id="coinTooltip" value="골드:{0}"/>
+		<key id="essenceTooltip" value="음식:{0}"/>
+		<key id="zoomInTooltip" value="확대"/>
+		<key id="zoomOutTooltip" value="축소"/>
+		<key id="fullscreenTooltip" value="풀 스크린"/>
+		<key id="settingsTooltip" value="설치"/>
+		<key id="musicTooltip" value="음악"/>
+		<key id="soundTooltip" value="음효"/>
+		<key id="populationText" value="{0}/{1}"/>
+		<key id="points" value="청옥"/>
+		<key id="coin" value="금화"/>
+		<key id="Farm" value="논밭"/>
+		<key id="CowHouse" value="외양간"/>
+		<key id="ChickHouse" value="닭우리"/>
+		<key id="PigHouse" value="돈사"/>
+		<key id="SheepHouse" value="양우리"/>
+		<key id="FeedMill" value="사료가공기"/>
+		<key id="Bakery" value="빵 가공기"/>
+		<key id="Dairy" value="우유제품 제조공방"/>
+		<key id="SugarMill" value="사탕가공기"/>
+		<key id="PopcornPot" value="팝콘가공기"/>
+		<key id="BBQGrill" value="숯불구이틀"/>
+		<key id="PieOven" value="가공기 보내기"/>
+		<key id="Loom" value="방직기"/>
+		<key id="Ore" value="광동"/>
+		<key id="CakeOven" value="케익기계"/>
+		<key id="PerfumeMaker" value="향수기"/>
+		<key id="Smelter" value="광석기"/>
+		<key id="BeerMaker" value="양주기"/>
+		<key id="GreenHaystack" value="녹색풀더미"/>
+		<key id="Box" value="박스"/>
+		<key id="YellowHaystack" value="노랑 풀더미"/>
+		<key id="Garden" value="꽃밭"/>
+		<key id="Scarecrow" value="허수아비"/>
+		<key id="Bucket" value="술통"/>
+		<key id="StoreRoad" value="자갈길"/>
+		<key id="Wheelbarrow" value="외바퀴차"/>
+		<key id="Cactus" value="선인장"/>
+		<key id="StoreWall" value="돌담벽"/>
+		<key id="StoreWallRight" value="돌담벽"/>
+		<key id="StreetLamp" value="가로등"/>
+		<key id="FountainPool" value="분수지"/>
+		<key id="FlowerPot" value="화분"/>
+		<key id="BambooFence" value="대나무울타리"/>
+		<key id="BambooFenceRight" value="대나무울타리"/>
+		<key id="FreshHay" value="신선한 건초"/>
+		<key id="Pavilion" value="정자"/>
+		<key id="Bench" value="벤치"/>
+		<key id="Cow" value="젖소"/>
+		<key id="Chick" value="앎닭"/>
+		<key id="Pig" value="돼지"/>
+		<key id="Sheep" value="면양"/>
+		<key id="cowfood" value="소여물"/>
+		<key id="chickfood" value="닭사료"/>
+		<key id="pigfood" value="돼지사료"/>
+		<key id="sheepfood" value="양사료"/>
+		<key id="egg" value="계란"/>
+		<key id="milk" value="우유"/>
+		<key id="bacon" value="베이컨"/>
+		<key id="wool" value="양모"/>
+		<key id="Bread" value="보통빵"/>
+		<key id="Cream" value="크림버터"/>
+		<key id="Tortillas" value="옥수수떡"/>
+		<key id="Cookies" value="쿠키"/>
+		<key id="BrownSugar" value="흑당"/>
+		<key id="WhiteSugar" value="설탕"/>
+		<key id="Syrup" value="엿"/>
+		<key id="CarrotPie" value="홍당무 파이"/>
+		<key id="PumpkinPie" value="호박파이"/>
+		<key id="BaconPie" value="베이컨파이"/>
+		<key id="ApplePie" value="사과 파이"/>
+		<key id="Hamburger" value="햄버거"/>
+		<key id="Pizza" value="전병"/>
+		<key id="BaconEgg" value="베이컨계란"/>
+		<key id="Popcorn" value="팝콘"/>
+		<key id="ButterPopcorn" value="버터팝콘"/>
+		<key id="Butter" value="버터"/>
+		<key id="Cheese" value="치즈"/>
+		<key id="Sweater" value="흰 세타"/>
+		<key id="BlueWoollyHat" value="보라색 비로드 모자"/>
+		<key id="BlueSweater" value="보라색 스웨터"/>
+		<key id="CarrotCake" value="홍당무 케익"/>
+		<key id="RosePerfume" value="장미향수"/>
+		<key id="SilverBar" value="은괴"/>
+		<key id="GoldBar" value="금괴"/>
+		<key id="PlatinumBar" value="백금괴"/>
+		<key id="SilverOre" value="은 광석"/>
+		<key id="GoldOre" value="금광석"/>
+		<key id="PlatinumOre" value="백금광석"/>
+		<key id="Beer" value="맥주"/>
+		<key id="Wheat" value="소밀"/>
+		<key id="Corn" value="옥수수"/>
+		<key id="Carrot" value="당근"/>
+		<key id="Soybean" value="청대콩"/>
+		<key id="Cane" value="사탕수수"/>
+		<key id="Lavender" value="라벤더"/>
+		<key id="Pumpkin" value="호박"/>
+		<key id="Rose" value="장미"/>
+		<key id="Lupulus" value="홉"/>
+		<key id="Apple" value="사과"/>
+		<key id="Strawberry" value="산딸기"/>
+		<key id="Cherry" value="복숭아 나무"/>
+		<key id="Blackberry" value="블랙베리"/>
+		<key id="Cocoa" value="코코아"/>
+		<key id="AppleTree" value="사과 나무"/>
+		<key id="StrawberryTree" value="딸기 얼기"/>
+		<key id="CherryTree" value="복숭아 나무"/>
+		<key id="BlackberryTree" value="블랙 베리 콩"/>
+		<key id="CocoaTree" value="코코아나무"/>
+		<key id="Farm_desc" value="농작물심기"/>
+		<key id="CowHouse_desc" value="젖소를 5마리 키울수 있습니다."/>
+		<key id="ChickHouse_desc" value="닭을 6마리 키울수 있습니다."/>
+		<key id="PigHouse_desc" value="돼지를 5마리 키울수 있습니다."/>
+		<key id="SheepHouse_desc" value="양을 5마리 키울수 있음"/>
+		<key id="cowfood_desc" value="젖소 먹이기"/>
+		<key id="chickfood_desc" value="앎닭 키우기"/>
+		<key id="FeedMill_desc" value="동물 사료의 생산"/>
+		<key id="Bakery_desc" value="구운 제품"/>
+		<key id="Dairy_desc" value="우유제품 생산하기"/>
+		<key id="SugarMill_desc" value="설탕 제품의 생산"/>
+		<key id="PopcornPot_desc" value="팝콘 만들기"/>
+		<key id="BBQGrill_desc" value="구운 식품"/>
+		<key id="PieOven_desc" value="구이 전송"/>
+		<key id="Loom_desc" value="옷 만들기"/>
+		<key id="CakeOven_desc" value="케이크를 구워"/>
+		<key id="PerfumeMaker_desc" value="향수만들기"/>
+		<key id="Smelter_desc" value="광석만들기"/>
+		<key id="BeerMaker_desc" value="맥주 만들기"/>
+		<key id="GreenHaystack_desc" value="팜 장식"/>
+		<key id="Box_desc" value="팜 장식"/>
+		<key id="YellowHaystack_desc" value="팜 장식"/>
+		<key id="Garden_desc" value="팜 장식"/>
+		<key id="Scarecrow_desc" value="팜 장식"/>
+		<key id="Bucket_desc" value="팜 장식"/>
+		<key id="StoreRoad_desc" value="팜 장식"/>
+		<key id="Wheelbarrow_desc" value="팜 장식"/>
+		<key id="Cactus_desc" value="팜 장식"/>
+		<key id="StoreWall_desc" value="팜 장식"/>
+		<key id="StoreWallRight_desc" value="팜 장식"/>
+		<key id="StreetLamp_desc" value="팜 장식"/>
+		<key id="FountainPool_desc" value="팜 장식"/>
+		<key id="FlowerPot_desc" value="팜 장식"/>
+		<key id="BambooFence_desc" value="팜 장식"/>
+		<key id="BambooFenceRight_desc" value="팜 장식"/>
+		<key id="FreshHay_desc" value="팜 장식"/>
+		<key id="Pavilion_desc" value="팜 장식"/>
+		<key id="Bench_desc" value="팜 장식"/>
+		<key id="Cow_desc" value="우유/1시간"/>
+		<key id="Chick_desc" value="계란/20분"/>
+		<key id="Pig_desc" value="베이컨/4시간"/>
+		<key id="Sheep_desc" value="양털/6시간"/>
+		<key id="Bread_desc" value="매출가능"/>
+		<key id="Cream_desc" value="매출가능"/>
+		<key id="AppleTree_desc" value="세 번 수집"/>
+		<key id="StrawberryTree_desc" value="세 번 수집"/>
+		<key id="CherryTree_desc" value="세 번 수집"/>
+		<key id="BlackberryTree_desc" value="세 번 수집"/>
+		<key id="CocoaTree_desc" value="세 번 수집"/>
+		<key id="nail" value="압핀"/>
+		<key id="screw" value="작은 나사못"/>
+		<key id="plank" value="널판"/>
+		<key id="wood" value="목재"/>
+		<key id="bolt" value="큰 나사못"/>
+		<key id="tape" value="테이프"/>
+		<key id="axe" value="도끼"/>
+		<key id="saw" value="톱"/>
+		<key id="explosive" value="화약"/>
+		<key id="bomb" value="폭탄"/>
+		<key id="shovel" value="삽"/>
+		<key id="SeedStorage" value="양식창고"/>
+		<key id="MaterialStorage" value="화물창고"/>
+		<key id="crop" value="농작물"/>
+		<key id="FACEBOOK-CONNECT" value="페이스북에 연결"/>
+		<key id="CHANGE FARM NAME" value="농장이름을 고칠수 있습니다."/>
+		<key id="HELP AND FEEDBACK" value="헬프와 피드백"/>
+		<key id="setting" value="설치"/>
+		<key id="About" value="about"/>
+		<key id="Language" value="언어 선택하기"/>
+		<key id="AboutContent" value="저작권자:ELEX\n  개발자:Higame팀"/>
+		<key id="friends" value="친구"/>
+		<key id="follows" value="파트너"/>
+		<key id="Follow Count" value="친구수량"/>
+		<key id="Here you will find people following you!" value="이곳에서 당신을 따라갈 사람을 만나게 될 것입니다!"/>
+		<key id="marketPopupCreateTip" value="신상품 추가"/>
+		<key id="marketPopupPriceTip" value="가격"/>
+		<key id="marketPopupNewsButton" value="추가"/>
+		<key id="marketPopupAd" value="광고투입시간:3시간"/>
+		<key id="marketPopupAdCool" value="광고 투입히간:"/>
+		<key id="marketPopupNewsTip" value="신문에 광고 내기"/>
+		<key id="marketTradeInfoTitle" value="편집"/>
+		<key id="Sold" value="매출"/>
+		<key id="levelNotEnough" value="레벨{0}이 필요함"/>
+		<key id="openLevel" value="{0}레벨에 도달해야 열수 있습니다."/>
+		<key id="exp" value="경험"/>
+		<key id="levelUp" value="업그레이드!"/>
+		<key id="levelUpInfo" value="{0}레벨에 도달하셨습니다, 축하드립니다!"/>
+		<key id="levelUpUnlock" value="다음과같은 보수를 획득"/>
+		<key id="comingSoon" value="곧 개방"/>
+		<key id="energyall" value="에너지 충만하기"/>
+		<key id="packagehave" value="배낭 내용물:"/>
+		<key id="requires_item" value="소모물품:"/>
+		<key id="diamondX10" value="금*10"/>
+		<key id="agateX10" value="은*10"/>
+		<key id="crystalX10" value="동*10"/>
+		<key id="topazX10" value="철*10"/>
+		<key id="rubyX10" value="석*10"/>
+		<key id="coinX200" value="골드*200"/>
+		<key id="essenceX100" value="양식*100"/>
+		<key id="accountNotice" value="{0}이 {1}증가"/>
+		<key id="questUpdateNotice" value="{0} {1}/{2}"/>
+		<key id="achievement1" value="계란이 제일 좋아요~"/>
+		<key id="achievement2" value="나는 우유를 좋아해요."/>
+		<key id="achievement3" value="주문달인"/>
+		<key id="achievement4" value="나는 닭 키우는 걸 좋아해요."/>
+		<key id="achievement5" value="나는 소 키우는 걸 좋아해요."/>
+		<key id="achievement6" value="나는 밀의 달인"/>
+		<key id="achievement7" value="옥수수폭탄"/>
+		<key id="achievement8" value="나한테는 무우머리가 하나 있어요~"/>
+		<key id="achievement9" value="빵은 생길 것이예요"/>
+		<key id="achievement10" value="크림이 너무 맛있어요!"/>
+		<key id="achievement11" value="전체 농장"/>
+		<key id="achievement12" value="재미있는 농장주인"/>
+		<key id="achievement13" value="상인"/>
+		<key id="achievement14" value="다정한 농장친구들"/>
+		<key id="achievement15" value="대량 계란"/>
+		<key id="achievement16" value="대량 우유"/>
+		<key id="achievement17" value="대량 베이컨"/>
+		<key id="achievement18" value="대량 농작물"/>
+		<key id="collect_action" value="{0}를 {1}개 모으기"/>
+		<key id="make_action" value="{0}를 {1}개 만들기"/>
+		<key id="steal_action" value="{0}을 {1}개 가져오기"/>
+		<key id="order_action" value="주문을 {0}차 완성하기"/>
+		<key id="buyMachine_action" value="기계를 {0}대 만들기"/>
+		<key id="deal_action" value="찾아온 NPC와 무역을 {0}차 완성하기"/>
+		<key id="earn_action" value="길가의 작은 시장에서 {0}골드 벌기"/>
+		<key id="own_action" value="{0}를 {1}개 보유하고있음"/>
+		<key id="completed" value="완성량:"/>
+		<key id="farm_score" value="성취점수:"/>
+		<key id="get_reward" value="보너스 수령,"/>
+		<key id="canReward" value="축하합니다, 당신은 성취 상을받을 수 있습니다"/>
+		<key id="building_click_collect" value="수집"/>
+		<key id="building_click_finish" value="즉시로 완성"/>
+		<key id="building_click_move" value="이동"/>
+		<key id="building_click_upgrade" value="업그레이드"/>
+		<key id="skillBuySkillButton" value="구입"/>
+		<key id="levelUpButton" value="업그레이드"/>
+		<key id="guiBuildButton" value="구입/건축"/>
+		<key id="guiSkillSearchButton" value="연구개발"/>
+		<key id="guiInviteFriendButton" value="친구 초청"/>
+		<key id="guiReturnhomeButton" value="집에 돌아가다."/>
+		<key id="guiBagButton" value="배낭"/>
+		<key id="guiStrengthenButton" value="강화"/>
+		<key id="guiHandleButton" value="조작"/>
+		<key id="guiCancelButton" value="취소"/>
+		<key id="stopWorkButton" value="작업중지"/>
+		<key id="askForhelpButton" value="도움 요구하기"/>
+		<key id="finishButton" value="{0}필요함"/>
+		<key id="govermentUseMoneyButton" value="{0}를 사용하기"/>
+		<key id="govermentShareReminderButton" value="친구한테 알리기"/>
+		<key id="dontStopWorkButton" value="계속해"/>
+		<key id="StopBuildingWorkButton" value="생산중지"/>
+		<key id="finishConstructButton" value="건축 완료"/>
+		<key id="visitFriendButton" value="방문"/>
+		<key id="collectButton" value="수집"/>
+		<key id="need_resource" value="더욱 많은 자원이 필요함"/>
+		<key id="need_resource_explain" value="친구한테 요구하거나 직접 구입하기"/>
+		<key id="need_resource_dynic" value="친구한테 자랑하기"/>
+		<key id="need_resource_buy" value="소비{0}"/>
+		<key id="total" value="총"/>
+		<key id="buyEnergyBtn" value="{energy}구입"/>
+		<key id="pillageBuff" value="건물의 생산량을 {0}%향상시킴"/>
+		<key id="chooseCardWin" value="아직 추천기회가 1차 있습니다."/>
+		<key id="chooseCardLose" value="추천기회가 0차 있습니다."/>
+		<key id="clickToCollectTip" value="클릭하여{1}을 {0}개 수확하기"/>
+		<key id="clickToMoveTip" value="클릭하여 이동"/>
+		<key id="clickToDestroyTip" value="클릭하여 파기"/>
+		<key id="clickToPlantTip" value="클릭하여 농작물 심기"/>
+		<key id="clickToEsTip" value="클릭하여 {essence}생산하기"/>
+		<key id="clickToWoodTip" value="클릭하여 벌목 시작"/>
+		<key id="clickToGemTip" value="클릭하여 광석 생산하기"/>
+		<key id="clickToRepairTip" value="클릭하여 복구"/>
+		<key id="clickToSpeedupTip" value="틀릭하여 가속 완성"/>
+		<key id="clickToCleanupTip" value="클릭하여 마른 농작물을 청소하기"/>
+		<key id="clickToSellTip" value="클릭하여 팔 물건을 선택"/>
+		<key id="clickToCleanTip" value="클릭하여 지면쓰레기를 청소하기"/>
+		<key id="clickToStartProtectTip" value="틀릭하여 보호시간을 시작하거나 연장"/>
+		<key id="moveOnfriendinvadeiconTip" value="협조가 필요함"/>
+		<key id="gohomeTip" value="집으로 돌아가기"/>
+		<key id="buildingNotReadyToClick" value="건물 건축중"/>
+		<key id="industryBuildingTips" value="클릭하여 더욱 많은 조작을 획득하기"/>
+		<key id="clickToHelpbuildTip" value="클릭하여 건축을 도와주기"/>
+		<key id="clickToHelpSpeedupTip" value="클릭하여 가속 설명하기"/>
+		<key id="clickToHelpCollectTip" value="클릭하여 수확을 도와주기"/>
+		<key id="clickToHelpReviveTip" value="클릭하여 부활 도와주기"/>
+		<key id="clickToHelpCleanTip" value="클릭하여 지면쓰레기 청소를 도와주기"/>
+		<key id="stopWorkPopup" value="해당 건축의 생산을 중지하면 이미 소모한 자원을 잃게 됩니다."/>
+		<key id="workInProgressPopupAsk" value="친구를 초대하여 가속 도움을 받으시죠"/>
+		<key id="workInProgressPopupFinish" value="{0}{points}를 소모하여 즉시완료"/>
+		<key id="workInProgressPopupFinish1" value="즉시로 완성"/>
+		<key id="workInProgressPopupOr" value="혹은"/>
+		<key id="marketPopupForSale" value="매출 제한"/>
+		<key id="marketPopupForBuy" value="쇼핑 카트"/>
+		<key id="marketPopupRemove" value="제거"/>
+		<key id="marketPopupQuantity" value="개수"/>
+		<key id="marketPopupAddAll" value="전부첨가"/>
+		<key id="marketPopupConfirm" value="확인"/>
+		<key id="marketPopupTotalCost" value="총 가격"/>
+		<key id="marketPopupMyItems" value="내 물품"/>
+		<key id="marketPopupSelectItem" value="한가지 물건을 선택하기"/>
+		<key id="mymarket" value="내것"/>
+		<key id="friendmarket" value="친구것"/>
+		<key id="marketPopupTitle" value="길옆의 작은 시장"/>
+		<key id="newShopPopupTitle" value="상점"/>
+		<key id="marketPopupSelectedButton" value="선택"/>
+		<key id="govermentPopupUnfinishTitle" value="건물을 위해 직원 모집하기"/>
+		<key id="expasionPopuptitle" value="신구역 탐색하기"/>
+		<key id="expasionPopupCoin" value="{0}{coin}필요함"/>
+		<key id="expasionPopupBond" value="{0}레벨이 필요함"/>
+		<key id="PvePopupProgress" value="{0}/{1}"/>
+		<key id="raidPopupTitle" value="부본으로"/>
+		<key id="raidPopupEnter" value="진입"/>
+		<key id="raidPopupCount" value="오늘 잉여 차수"/>
+		<key id="raidTips" value="클릭하여 {0}로 가기"/>
+		<key id="raidMoreCount" value="더욱 많은 차수"/>
+		<key id="buyAllUseMoney" value="{0}를 전부 구입"/>
+		<key id="raidUserMoneyToMoreCount" value="{0}{points}로 차수를 1차 증가"/>
+		<key id="close" value="닫기"/>
+		<key id="finished" value="완성"/>
+		<key id="accept" value="접수"/>
+		<key id="islandDetail" value="디테일"/>
+		<key id="continue" value="계속하기"/>
+		<key id="move" value="이동"/>
+		<key id="clear" value="삭제"/>
+		<key id="cancel" value="취소"/>
+		<key id="ok" value="확인"/>
+		<key id="and" value="와"/>
+		<key id="requireExitGame" value="게임에서 로그아웃 할것을 확인하십니까?"/>
+		<key id="next" value="다음"/>
+		<key id="select" value="선택"/>
+		<key id="invite" value="초청"/>
+		<key id="inviteTooltip" value="친구 초청"/>
+		<key id="peopleTooltip" value="인구/인구상한"/>
+		<key id="friend" value="친구"/>
+		<key id="back" value="뒤로"/>
+		<key id="ask_help" value="친구돕기"/>
+		<key id="buy" value="상점"/>
+		<key id="packTitle" value="배낭"/>
+		<key id="not_placeable" value="배치 불가"/>
+		<key id="loading" value="로드중, 잠시만..."/>
+		<key id="access_waring" value="유저가 가득찼습니다!!!!"/>
+		<key id="defensingHours" value="+6시간"/>
+		<key id="canNotHelpToday" value="오늘은 더 도와줄수 없습니다."/>
+		<key id="buildingStatusGetting" value="캐치중"/>
+		<key id="buildingStatusHarvesting" value="수확중"/>
+		<key id="buildingStatusClearing" value="작업중"/>
+		<key id="buildingStatusPouring" value="건축중"/>
+		<key id="buildingStatusFinishing" value="건축마무리중"/>
+		<key id="buildingStatusProducting" value="준비완료"/>
+		<key id="helpStatusbuild" value="건축중"/>
+		<key id="helpStatusspeedup" value="가속중"/>
+		<key id="helpStatusharvest" value="수확중"/>
+		<key id="helpStatusrevive" value="물주고있음"/>
+		<key id="helpStatusclean" value="청소중"/>
+		<key id="essence5" value="보석조각"/>
+		<key id="essence6" value="보통 보석"/>
+		<key id="essence7" value="번쩍이는 보석"/>
+		<key id="essence8" value="완벽한 보석"/>
+		<key id="friendPanelVisitText" value="클릭하여 방문하기"/>
+		<key id="produce" value="생산"/>
+		<key id="produceing" value="생산중"/>
+		<key id="producePannelProduceTime" value="생산시간"/>
+		<key id="petProducePannelResource" value="자원소모"/>
+		<key id="petProducePannelProfession" value="상쇄관계"/>
+		<key id="industryProducePannelResource" value="투입"/>
+		<key id="industryProducePannelProduce" value="수입"/>
+		<key id="timeSencond" value="초빙완료"/>
+		<key id="timeMinute" value="분간"/>
+		<key id="timeHour" value="시간"/>
+		<key id="timeDay" value="일"/>
+		<key id="default" value="디폴드"/>
+		<key id="reward" value="보상"/>
+		<key id="server_error" value="네트외크 오류가 생겼습니다. 게임을 새로고침 해주십시오."/>
+		<key id="needNewVersions" value="너무 낮은 버전임니다. 지금 업데이트 해주십시오."/>
+		<key id="refresh_game" value="새로고침을 부탁드립니다."/>
+		<key id="getfromfriend" value="친구한테 요구하기"/>
+		<key id="buyforcash1" value="{points}로 구입하기"/>
+		<key id="buyformoney" value="소비"/>
+		<key id="extendButton" value="개척"/>
+		<key id="buyforresource" value="구입"/>
+		<key id="unLockformoney" value="열기에 소모"/>
+		<key id="requires" value="필요"/>
+		<key id="population" value="인구"/>
+		<key id="unlock_battle" value="{0}를 격파해야 함"/>
+		<key id="requiresLevel" value="필요한레벨:"/>
+		<key id="ownCount" value="보유:"/>
+		<key id="discardConfirm" value="{0}를 버릴것을 확인합니까? 반납은 없을 것입니다."/>
+		<key id="discard" value="버리기"/>
+		<key id="buyMineConfirm" value="광굴에서는 화약, 폭탄과 삽으로 광석을 채굴할수 있습니다. 광굴 열기에는 금화를 26000개 소모하게 됩니다."/>
+		<key id="startGrub" value="발굴하기"/>
+		<key id="requiresBuildingLevel" value="{0}레벨의 {1}가 필요함"/>
+		<key id="maxLevelError" value="최고레벨에 도달하였습니다."/>
+		<key id="hasBeenBuilded" value="이미 건축했음"/>
+		<key id="requiresOwn" value="필요한것:"/>
+		<key id="place" value="배치"/>
+		<key id="allalreayplaced" value="전부 배치완료"/>
+		<key id="getReward" value="스테이지보수를 영입하기"/>
+		<key id="population_now" value="현재인구"/>
+		<key id="population_max" value="인구 한도"/>
+		<key id="mei" value="매"/>
+		<key id="needmore" value="더욱 많은 $$가 필요함"/>
+		<key id="require_explain" value="더욱 많은 $$가 필요합니다. 친구한테서 받으시든지 {point}구입을 통해 구입하세요."/>
+		<key id="askforfriend" value="친구한테 요구하기"/>
+		<key id="requesttofriend" value="친구도움"/>
+		<key id="buyForSomeMoney" value="{0}"/>
+		<key id="buySomeResource" value="{0}의 {1}을 구입"/>
+		<key id="populationmaxNotEnough" value="인구상한이 부족합니다"/>
+		<key id="moneyNotEnoughTips" value="{points}가 부족합니다. {points}를 구입해주십시오."/>
+		<key id="finishedQuest" value="목표 달성!"/>
+		<key id="addPet" value="새로추가"/>
+		<key id="max_energy_tips" value="{energy}상한을 초과하였습니다."/>
+		<key id="build" value="상점"/>
+		<key id="orderBuild" value="주문"/>
+		<key id="achievements" value="성적"/>
+		<key id="friendReq" value="친구신청"/>
+		<key id="myGameUid" value="당신의 게임아이디:{0}"/>
+		<key id="friendUid" value="친구의 게임아이디:"/>
+		<key id="agree" value="접수"/>
+		<key id="refuse" value="거절"/>
+		<key id="addFriendSuccess" value="친구신청 송신 성공"/>
+		<key id="addFriendfail" value="해당 친구 아이디를 찾을수 없습니다."/>
+		<key id="addFriend" value="친구 첨가"/>
+		<key id="MyFarm" value="나의 농장"/>
+		<key id="noAdvertisement" value="업데이트 내용이 없습니다. 잠시후에 다시 확인하세요."/>
+		<key id="buildSheetText_0" value="밭/외양간"/>
+		<key id="buildSheetText_1" value="씨앗/어린동물"/>
+		<key id="buildSheetText_2" value="창고/가공기"/>
+		<key id="buildSheetText_3" value="과수나무"/>
+		<key id="buildSheetText_4" value="장식"/>
+		<key id="bagsheet_1" value="건축"/>
+		<key id="bagsheet_2" value="장식"/>
+		<key id="bagsheet_6" value="광석"/>
+		<key id="bagsheet_7" value="자료"/>
+		<key id="bagsheet_8" value="배낭"/>
+		<key id="renwujieshou" value="미션"/>
+		<key id="100035_tips" value="{coin} 200개"/>
+		<key id="100036_tips" value="{essence}100개"/>
+		<key id="220001_tips" value="농사를 지으면 당신한테 수익이 생기게 됩니다."/>
+		<key id="Blacksmith_1" value="빵집"/>
+		<key id="bonusCoinText" value="보수:+{0}{coin}！"/>
+		<key id="combo1" value="보수!"/>
+		<key id="combo2" value="화이팅!"/>
+		<key id="combo3" value="참 좋았어요!"/>
+		<key id="combo4" value="헉!"/>
+		<key id="combo5" value="짱이네!"/>
+		<key id="combo6" value="뭐!!"/>
+		<key id="combo7" value="세상에!"/>
+		<key id="combo8" value="상상할수 없어요!"/>
+		<key id="combo9" value="전혀 비교가 안되네!"/>
+		<key id="combo10" value="천하의 대작!"/>
+		<key id="cleanupText" value="{0}을 치워{1}{coin}을 획득할수 있습니다."/>
+		<key id="buycash" value="유감스럽게도 나미지 {points}로는 이번 구입을 지불하기에 부족합니다.충전 할가요?"/>
+		<key id="friendGiftTitle" value="선물"/>
+		<key id="friendGiftInfo" value="다음과같은 선물을 받으셨습니다."/>
+		<key id="quest_remind" value="잘나가고있네요"/>
+		<key id="quest_get" value="새로운 임무가 있습니다."/>
+		<key id="expansion_info" value="클릭하여 확장"/>
+		<key id="battleMapInition" value="준비중"/>
+		<key id="gohome" value="집으로 돌아가기"/>
+		<key id="Paycash" value="{0}{points}지불하기"/>
+		<key id="Paycash1" value="물자를 보충하는데 {0}소모함"/>
+		<key id="ArenaTime" value="영입시간"/>
+		<key id="TheArenaRewards" value="랭킹보수"/>
+		<key id="CurrentRank" value="현재랭킹"/>
+		<key id="ArenaTop" value="랭킹"/>
+		<key id="Level" value="레벨"/>
+		<key id="ArenaStart" value="도전"/>
+		<key id="UnitConfiguration_1" value="설치를 저장하기"/>
+		<key id="ArenaStart2" value="더 많은 기회"/>
+		<key id="ArenaStart3" value="시간 단축"/>
+		<key id="Name" value="유저이름"/>
+		<key id="Receive" value="수령"/>
+		<key id="Received" value="수령완료"/>
+		<key id="Page up" value="뒤로"/>
+		<key id="Next page" value="다음"/>
+		<key id="exchange" value="교환"/>
+		<key id="TOPlevel" value="랭킹 20위이내"/>
+		<key id="logindays" value="{0}일째"/>
+		<key id="upgradeToLevel" value="{0}레벨에 도달"/>
+		<key id="ReceiveSuc" value="영입성공"/>
+		<key id="ActivityPay1" value="충전 보너스"/>
+		<key id="ActivityPay2" value="누적 충전금액:"/>
+		<key id="ActivityPay3" value="{0}{points}"/>
+		<key id="ActivityPay4" value="충전설명충전설명충전설명"/>
+		<key id="errorCode1201" value="레벨이 부족합니다"/>
+		<key id="errorCode1202" value="이하보다 {coin}"/>
+		<key id="errorCode1203" value="이하보다 {points}"/>
+		<key id="errorCode1204" value="이하보다 {energy}"/>
+		<key id="errorCode1205" value="이하보다 {essence}"/>
+		<key id="errorCode1210" value="오늘 영입 완료"/>
+		<key id="errorCode1301" value="잠금해제 조건 미달"/>
+		<key id="errorCode1302" value="해당 건물수량이 상한에 도달하였습니다."/>
+		<key id="errorCode1303" value="건물을 찾을수 없습니다."/>
+		<key id="errorCode1304" value="건물을 찾을수 없습니다."/>
+		<key id="errorCode1308" value="수확시간이 아직 오지 않았습니다."/>
+		<key id="errorCode1309" value="생산중"/>
+		<key id="errorCode1311" value="제품을 찾을수 없습니다."/>
+		<key id="sell" value="매출"/>
+		<key id="sell_confirm" value="매출확인"/>
+		<key id="sell_coin" value="획득"/>
+		<key id="recharge" value="충전"/>
+		<key id="shouchong" value="유저님께서는 임의 금액을 충전하는것으로 대박 보너스를 영입하실수 있습니다."/>
+		<key id="jinxu" value="필요량:"/>
+		<key id="xinshoutitle" value="신인보너스"/>
+		<key id="shouchongtitle" value="첫 충전 보너스"/>
+		<key id="seedStorageFullInfo" value="곡식창고가 가득찼습니다. 곡식창고를 업그레이드하여 더욱 큰 볼륨을 획득하시죠"/>
+		<key id="materialStorageFullInfo" value="창고가 가득찼습니다. 창고를 업그레이드하여 더욱 큰 볼륨을 획득할수 있습니다."/>
+		<key id="seedStorageMaxInfo" value="곡식창고가 최대용량에 도달하였습니다. 우선 곡식창고를 비워내신후 수확해 주십시오."/>
+		<key id="materialStorageMaxInfo" value="화물창고 용량이 최대용량에 도달하였습니다. 우선 화물창고를 비워낸후 수확을 재시도해주십시오."/>
+		<key id="seedStorageFullToClick" value="양식창고가 가득찼습니다."/>
+		<key id="materialStorageFullToClick" value="화물창고가 가득찼음."/>
+		<key id="FoodNotEnoughTip" value="사료가 부족하여 먹이를 줄수 없습니다,"/>
+		<key id="hungry" value="굶주림"/>
+		<key id="ready to collect" value="수확준비"/>
+		<key id="need expanded" value="확장이 필요함"/>
+		<key id="clickToPlantTip" value="움직여 심기"/>
+		<key id="empty" value="여가"/>
+		<key id="waiting" value="잠시만..."/>
+		<key id="speedtext" value="가속"/>
+		<key id="cowfood" value="소여물"/>
+		<key id="days" value="일"/>
+		<key id="hours" value="시간"/>
+		<key id="minutes" value="분간"/>
+		<key id="secondes" value="초빙완료"/>
+		<key id="coinNotEnough" value="골드 부족"/>
+		<key id="moneyNotEnough" value="다이아몬드 미만"/>
+		<key id="resourceNotEnough" value="자원의 부족, 당신은 구입하여 작업을 완료 할 수 있습니다"/>
+		<key id="resourceIsLast" value="오직 마지막 자르기, 생산을 결정?"/>
+		<key id="startAction" value="집행"/>
+		<key id="warn" value="경고"/>
+		<key id="resource not enough" value="{0}부족"/>
+		<key id="newItem" value="새로운 아이템"/>
+		<key id="not enough storage" value="창고 빈자리가 부족합니다."/>
+		<key id="storageCapacity" value="창고용량:{0}/{1}"/>
+		<key id="increase_storage_to" value="볼륨을 {0}로 확장"/>
+		<key id="cashChestAction" value="보물함 열기"/>
+		<key id="locked" value="잠금완료!"/>
+		<key id="lockedAction" value="찾아낸 미스테리 보물함이 잠겨져있습니다. 다이아몬드를 소모하여야만 열수 있습니다."/>
+		<key id="onStartPay" value="지불중..."/>
+		<key id="onCheckingPay" value="지불검증..."/>
+		<key id="recharge_title_coin" value="골드바꾸기"/>
+		<key id="recharge_coin0" value="골드 한줌"/>
+		<key id="recharge_coin1" value="골드 한주머니"/>
+		<key id="recharge_coin2" value="골드 한주머니"/>
+		<key id="recharge_coin3" value="골드 한통"/>
+		<key id="recharge_coin4" value="골드 한궤짝"/>
+		<key id="recharge_coin5" value="골드 한박스"/>
+		<key id="recharge_title_cash" value="다이아몬드 충전"/>
+		<key id="recharge_cash0" value="다이아몬드의 더미"/>
+		<key id="recharge_cash1" value="다이아몬드 패키지"/>
+		<key id="recharge_cash2" value="다이아몬드의 가방"/>
+		<key id="recharge_cash3" value="다이아몬드의 상자"/>
+		<key id="recharge_cash4" value="다이아몬드의 장"/>
+		<key id="recharge_cash5" value="다이아몬드의 상자"/>
+		<key id="order_waitTime" value="잠시만..."/>
+		<key id="order_waitInfo" value="해당 주문은 잠시 사용할수 없습니다. 기다리시거나 가속해 주십시오."/>
+		<key id="g_order_title" value="재료를 구입하기"/>
+		<key id="g_order_info" value="(소유물:"/>
+		<key id="g_order_yes" value="그럼 드리죠"/>
+		<key id="g_order_no" value="송구스럽네요"/>
+		<key id="g_order_wait" value="잠간만..."/>
+		<key id="peddlersBeginInfoText" value="안녕하세요!톰입니다. 오늘부터 당신을 도와드릴 조수입니다. 길옆의 작은 시장으로 오시면 저희를 찾을수 있습니다."/>
+		<key id="peddlersBeginBtnText" value="그럼 해볼가요"/>
+		<key id="peddlersBackInfoText" value="이런것들을 찾았습니다. 어느것이 필요한가요?"/>
+		<key id="peddlersBackCntText" value="남은 사용시간:{0}"/>
+		<key id="peddlersBackBtntext" value="선택안함"/>
+		<key id="peddlersBuyTimesInfoText" value="다시한번 저희를 써줄것입니까?"/>
+		<key id="peddlersBuyTimesbuyCellText" value="{0}일"/>
+		<key id="peddlersBuyTimesThankCellText" value="아니요, 감사합니다"/>
+		<key id="peddlersChooseTitleText" value="무얼 찾아드릴가요?"/>
+		<key id="peddlersChooseBtnText" value="찾기 시작하기"/>
+		<key id="peddlersRestInfoText" value="Zzz...휴식이 너무나 필요해..."/>
+		<key id="peddlersRestTimeText" value="다음 사용시간:{0}"/>
+		<key id="tutorial_intro" value="해피팜에서 만나게되여 반갑습니다! 농장을 맡겨받기 전에 우선 농사짓는데 관한 공부를 약간 해야겠죠? 그럼 지금부터 저희의 설명을 들어주시죠."/>
+		<key id="tutorial_2" value="새로운 기계를 구입하기에는 충분한 돈을 가지고 계시네요. 상점으로 가보시죠."/>
+		<key id="notFriend" value="해당 유저님과 아직 친구가 아닙니다. 어서 친구로 첨가하세요!"/>
+		<key id="energyNotEnough" value="체력치가 부족하네요!"/>
+		<key id="cantThief" value="얼마 안남었어, 나한테도 좀 남겨둬!"/>
+		<key id="stateNot" value="난 이미 여러번이나 도둑맞았어, 더는 훔쳐갈게 없어!"/>
+		<key id="thiefLevel" value="{0}레벨에 도달해야 훔치기를 할수 있어요, 빨리 업그레이드 하세요~"/>
+		<key id="thiefTitle" value="유저 훔치기 정보"/>
+		<key id="thiefItemTitle" value="{0}의 농장"/>
+		<key id="thiefItemBtnTF" value="친구의 농장으로"/>
+		<key id="thiefItemTimeTF" value="훔치기 시간:{0}"/>
+		<key id="achievement15" value="대량 계란"/>
+		<key id="achievement16" value="대량 우유"/>
+		<key id="achievement17" value="대량 베이컨"/>
+		<key id="achievement18" value="대량 농작물"/>
+		<key id="steal_action" value="{0}을 {1}개 가져오기"/>
+		<key id="crop" value="농작물"/>
+		<key id="f_1_title" value="캘릭터 업그레이드"/>
+		<key id="f_1_body" value="{0}님의 캘릭터가 {1}레벨로 업그레이드 했어요, 위대한 농장주를 위해 박수를 드리시죠!"/>
+		<key id="f_2_title" value="창고 업그레이드"/>
+		<key id="f_2_body" value="{0}의 창고가 업그레이드 했습니다. 인제는 더욱 많은 물건을 저장할수 있게 되였습니다."/>
+		<key id="f_3_title" value="마일표 보수수령"/>
+		<key id="f_3_body" value="{0}님께서 해피팜에서 한가지 업적을 완성했습니다. 이런 감동적인 시각에 친구들의 축하까지 있어야 완벽하죠! 축하드리시죠!"/>
+		<key id="f_4_title" value="양식창고 업그레이드"/>
+		<key id="f_4_body" value="{0}님의 양식창고가 업그레이드 했습니다. 인제는 수확한 농작물의 저장공간으로 고민하지 않아도 되겠어요!"/>
+		<key id="getreward" value="Get reward"/>
+		<key id="popularizeInfo" value="The world famous happy farm will come to you today! The honor of becoming a great farm owner is right in front of you. Come and create  your glory here!"/>
+		<key id="askFeedmsg" value="선물 요청"/>
+		<key id="selectFeed" value="클릭하여 친구한테서 받고 싶은 선물을 선택하세요!"/>
+		<key id="noFeed" value="선물요청을 이미 발송하였습니다. 다음 선물은 {0} 후에 준비됩니다."/>
+		<key id="feedAward" value="보너스영입성공을축하드립니다!"/>
+		<key id="f_5_title" value="선물 요청"/>
+		<key id="f_5_body" value="친구 {0}님이 happy farm에서 선물을 요청하고 있습니다. 빨리 클릭하여 친구에게 선물을 보내주세요! 만약 happy farm유저일 경우 자신도 선물을 받을 수 있어요!"/>
+		<key id="f_6_title" value="선물 요청"/>
+		<key id="f_6_body" value="친구 {0}님이 happy farm에서 선물을 요청하고 있습니다. 빨리 클릭하여 친구에게 선물을 보내주세요! 만약 happy farm유저일 경우 자신도 선물을 받을 수 있어요!"/>
+		<key id="f_7_title" value="선물 요청"/>
+		<key id="f_7_body" value="친구 {0}님이 happy farm에서 선물을 요청하고 있습니다. 빨리 클릭하여 친구에게 선물을 보내주세요! 만약 happy farm유저일 경우 자신도 선물을 받을 수 있어요!"/>
+		<key id="zanInfo" value="게임화면 왼쪽 상단 혹은 팬페이지 오른쪽 상단의 “좋아요”를 클릭하여 주시기 바랍니다. 더 좋은 서비스를 위하여 노력하겠습니다."/>
+		<key id="zanInfo2" value="감사의 마음을 보답하기 위하여 오늘부터 4월 28일까지 “좋아요”를 클릭하면 선물을 드립니다. "/>
+		<key id="zanTitle" value="“좋아요”클릭!"/>
+		<key id="f_8_title" value="코인 받아가세요!"/>
+		<key id="f_8_body" value="{0}님이 해피팜 에서 대량의 코인을 획득하여 기쁜 소식을 공유합니다."/>
+		<key id="subtext01" value="문의제출"/>
+		<key id="subtext02" value="알림: 게임에서 발생한 문제를 간략하게 입력하여 주시기 바랍니다. 저희가 최대한 빨리 확인하여 드리겠습니다. 감사합니다."/>
+		<key id="subtext03" value="문의유형"/>
+		<key id="subtext04" value="게임문의내용"/>
+		<key id="subtext05" value="메일"/>
+		<key id="subtext06" value="제출"/>
+		<key id="subtext07" value="여기에 문의 내용을 입력하세요."/>
+		<key id="subtext09" value="메일 주소의 형식이 정확하지 않습니다."/>
+		<key id="subtext10" value="내용을 입력하여 주세요."/>
+		<key id="farmBeThief" value="논밭을 이미 수확하였어요."/>
+		<key id="patureBeThief" value="동물을 이미 수확하였어요."/>
+		<key id="newspaper_sendfeed" value="발신"/>
+		<key id="orderActivityEndTime1" value="이벤트기간: 2013/05/15까지"/>
+		<key id="orderActivityInfo1" value="이벤트 기간, 매일 일정한 수량의 NPC미션을 완성하는것으로 푸짐한 보상을 받을수 있습니다!보상은 매일 서로 다르며 24시에 완성한 주문수가 리테트 됩니다. 그외 매일과같이 다이아몬드를 수령할수 있는 기회가 차례집니다!"/>
+		<key id="orderActivityTitle1" value="주문카니발"/>
+		<key id="orderActivityEndTime2" value="이벤트기간:지금으로부터 2013/05/23까지"/>
+		<key id="orderActivityInfo2" value="이벤트 기간, 매일 일정한 자동차 주문수를 완성하면 대박 보상을 영입할수 있습니다! 매일 서로 다른 보상과 다이아몬드가 당신을 기다리고 있습니다! 어서 자동차를 달려보시죠!"/>
+		<key id="orderActivityTitle2" value="런닝카"/>
+		<key id="orderActivityNextRefreshTime" value="완성한 주문수 및 보상 리세트 카운터다운"/>
+		<key id="orderActivityItemTip" value="주문을 {0}번 완성하여 수령할수 있음. 현재 완성후{1}번."/>
+		<key id="LevelUpNewsStr" value="new!"/>
+		<key id="currentFans" value="팬의 현재 수 : {0}"/>	
+		<key id="HTFansInfo1" value="300000팬 총 집결!"/>
+		<key id="HTFansInfo2" value="이벤트 기간:팬 인수가 300000을 돌파한 당일부터 2일내에 수령 가능"/>
+		<key id="HTFansInfo3" value="사랑하는 파머 여러분, 해피팜은 곧 30만 팬인수를 돌파하게 되였습니다! 이 감격적인 시각을 맞이하며, 저희들은 팬 여러분의 지지와 도움을 더욱 새삼스레 느끼게 됩니다. 여러분들의 기대에 어긋나지 않도록 저희들은 부단히 노력하여 해피팜을 보다 재미나는 게임으로 만들어가기 위해 새로운 기능과 이벤트들을 육속 발표할 것입니다! 해피팜과 저희들의 팬페이지를 주목해 주십시오!"/>
+		<key id="HTFansInfo5" value="이 감동을 더욱 많은 친구분들한테 전해드리시죠!"/>
+		<key id="HTFansInfo6" value="인사"/>
+		<key id="shareBtn" value="공유"/>
+		<key id="cooling" value="냉각"/>
+		<key id="f_9_title" value="희소식을 어서 친구분한테 전해드리시죠!"/>
+		<key id="f_9_body" value="행복 농장이 팬에게 200.000 활동을 실시하고 있으며, 다이아몬드 무료 받는가, 돈도 무료로 오오 놀 수 없다!나는 어서 다이아몬드 바를받을 수 팬되기 5 다이아몬드를 받았습니다!"/>
+		<key id="f_10_title" value="2013년 여성유저분들의 사랑을 가장 많이 받고있는 게임"/>
+		<key id="f_10_body" value="2013년 놓칠수 없는 소셜경영게임, 온라인 테스트기간 여성유저님들의 사랑을 많이 받아왔던 게임! 해피 팜으로 어서오세요, 대박 보너스가 기다리고 있습니다!"/>
+		<key id="ActivityLoginTime" value="이벤트기간 : 2013/05/16——2013/05/30"/>
+		<key id="ActivityLoginAwardTitle" value="누적로그인"/>
+		<key id="ActivityLoginday" value="{0}일"/>
+		<key id="ActivityLoginlevel" value="{0}레벨"/>
+		<key id="ActivityLoginGetAward" value="수령"/>
+		<key id="ActivityLoginMsg" value="새로와진 해피팜★포켓농장★참신 출시!  이벤트 기간, 일정한 조건을 달성하는것으로 대박 보너스 획득! 어서 귀족스타일 파머생활을 시작해보시죠!"/>
+		<key id="tutorial_ChickFeed" value="먹이를 주다"/>
+		<key id="tutorial_ChickHarvest" value="수확"/>
+		<key id="tutorial_FarmSeed" value="재배"/>
+		<key id="tutorial_FarmHarvest" value="수확"/>
+		<key id="tutorial_Buy" value="구입"/>
+		<key id="tutorial_Produce" value="가공"/>
+		<key id="tutorial_1" value="해피팜에서 만나게되여 반갑습니다! 즐거운 농장생활을 시작하시기 전에 우선 농사에 관한 기초지식을 갖춰야 하죠!"/>
+		<key id="tutorial_2" value="코인을 무척 저금했네요, 상점으로 다가가 새 기계를 한대 사들이시죠!"/>
+		<key id="tutorial_3" value="활력이 약간 부족한건 아닐까요? 상점으로 가서 암닭 한마리 사와 농장생활을 더욱 재미나게 만들어보시죠!"/>
+		<key id="tutorial_3_1" value="피드가 실행되고, 사료를 구입하는 가게에 가서, 당신은 피드를 생성 가서 체험 할 수 있습니다!"/>
+		<key id="tutorial_3_2" value="여러분의 도움을 기다리고 농장 소녀, 가서 살펴보고 도움을 제공합니다!"/>
+		<key id="tutorial_4" value="자동차 주문 완료 아, 경험과 금화를 얻기 가서 그것을 시도를 줄 수 있습니다!"/>
+		<key id="tutorial_5" value="여러분의 상품을 판매하는 작은 시장에, 당신은 당신이 필요로하는 품목을 살 수있다!"/>
+		<key id="tutorial_5_1" value="지금, 당신은 아 농부의 새로운 세대에 기대 이미 팜의 기본 조작에 익숙!"/>
+		<key id="alertInfo" value="다이아몬드를 {0}개 소비할것을 확인하십니까?"/>
+		<key id="fanpage_RewardMsg" value="이벤트 보상 수령 성공! 축하드립니다!"/>
+		<key id="fanpage_LimitError" value="유감스럽게도 보상이 이미 전부 수령되였습니다. 팬페이지로 자주 와주신다면 다음에 꼭 기회가 있을 것입니다!"/>
+		<key id="fanpage_title" value="축하드립니다"/>
+		<key id="BakedTomato" value="구운 토마토"/>
+		<key id="ChilliPopcorn" value="고추 팝콘"/>
+		<key id="CreamCake" value="크림 케이크"/>
+		<key id="CherryCake" value="체리 케이크"/>
+		<key id="CheeseCake" value="치즈 케이크"/>
+		<key id="Caramel" value="우유사탕"/>
+		<key id="Sugus" value="스위스사탕"/>
+		<key id="RainbowCandy" value="무지개사탕"/>
+		<key id="Capsicum" value="고추"/>
+		<key id="Tomato" value="토마토"/>
+		<key id="Raspberry" value="복분자"/>
+		<key id="Cherry" value="체리"/>
+		<key id="Blackberry" value="블랙베리"/>
+		<key id="Candy Machine" value="사탕 박스"/>
+		<key id="Candy Machine_desc" value="사탕만들기"/>
+		<key id="BlackberryCake" value="블랙 베리 케이크"/>
+		<key id="CityActivity1" value="HappyFarm에 오신것을 환영합니다~"/>
+		<key id="CityActivity2" value="획득 가능 다이아몬드 수량"/>
+		<key id="CityActivity3" value="이번 획득 아이템"/>
+		<key id="CityActivity3_2" value="다음번 획득 아이템"/>
+		<key id="CityActivity4" value="다음번 획득까지 남은 시간:"/>
+		<key id="CityActivityInfo" value="City Life 유저여러분~  더욱 좋은 게임 체험을 위하여 유저분들께 다이아몬드선물세트를 준비하였습니다. 기간 놓치지 말고 수령하세요~"/>
+		<key id="CityActivityBtnTip" value="City Life선물세트"/>
+		<key id="CityActivityEnd" value="다이아몬드선물세트를 모두 수령하였어요. 어서 농장 건설에 사용하세요!"/>
+		<key id="user_sealed_forever" value="죄송합니다. 계정이 영구 정지되었습니다!"/>  
+		<key id="Coming Soon" value="기대해 주세요!"/>
+		<key id="unLockatlevel" value="{0}레벨 오픈"/>
+		<key id="Preferential_1" value="빅 세일"/>
+		<key id="Preferential_2" value="할인가로 아래 아이템을 획득할 수 있습니다."/>
+		<key id="Preferential_3" value="알림: 8레벨전에 구매 가능."/>
+		<key id="Preferential_4" value="원가$20，할인가는…"/>
+		<key id="Preferential_5" value="바로 구매"/>
+		<key id="UpgradePackage_1" value="업그레이드 선물세트"/>
+		<key id="UpgradePackage_2" value="지금부터 지정 레벨에 도달하면 업그레이드 선물세트를 획득할 수 있습니다."/>
+		<key id="FanPageRewardInfo" value="팬 게시판에서 공유한 후 해당 문장을 클릭 하는것으로 보상을 수령할수 있습니다!" /> 
+		<key id="FanPageRewardTitle" value="일일보상!" /> 
+		<key id="FanPageRewardBtn" value="수령" />
+		<key id="TicketPopouTitle" value="교환권"/>
+		<key id="TicketPopouInfo" value="보물함을 열거나 특수 주문을 완성하여 교환권을 수집할 수 있습니다. 교환권으로 특수 아이템을 교환할 수 있습니다."/>
+		<key id="ticketNotEnough" value="교환권이 부족합니다."/>
+		<key id="DogHouse" value="개집"/>
+		<key id="DogHouse_desc" value="강아지 3마리 키울 수 있습니다."/>
+		<key id="CatHouse" value="고양이 집"/>
+		<key id="CatHouse_desc" value="고양이 3마리 키울 수 있습니다."/>
+		<key id="Dog" value="사냥개"/>
+		<key id="Dog_desc" value="경험치를 획득할 수 있습니다."/>
+		<key id="Cat" value="얼룩 고양이"/>
+		<key id="Cat_desc" value="경험치를 획득할 수 있습니다."/>
+		<key id="Ale" value="에일"/>
+		<key id="Strawberry" value="딸기"/>
+		<key id="CitruslimonTree" value="레몬나무"/>
+		<key id="CitruslimonTree_desc" value="3번 수집하기"/>
+		<key id="IceCreamMaker" value="아이스크림기"/>
+		<key id="IceCreamMaker_desc" value="아이스크림 생산하기"/>
+		<key id="Citruslimon" value="레몬"/>
+		<key id="VanillaIceCream" value="바닐라 아이스크림"/>
+		<key id="LemonPopsicle" value="레몬 아이스크림"/>
+		<key id="StrawberryIceCream" value="딸기 아이스크림"/>
+		<key id="LavenderPerfume" value="라벤더 향수"/>
+		<key id="StrawberryCake" value="딸기 케익"/>
+		<key id="RaspberryBread" value="복분자빵"/>
+		<key id="BlackberryBread" value="블랙 베리 빵"/>
+		<key id="MobileActivity_1" value="초청코드 이벤트"/>
+		<key id="MobileActivity_2" value="공유"/>
+		<key id="MobileActivity_3" value="입력"/>
+		<key id="MobileActivity_4" value="수령"/>
+		<key id="MobileActivity_5" value="현재부터  Android 버전 【해피팜】에 【{0}】을(를) 입력하면 특별 선물을 받을 수 있습니다."/>
+		<key id="MobileActivity_6" value="【해피팜】을 다운한 후 친구를 입력하여 초청코드를 공유하면 특별 선물을 획득할 수 있어요~"/>
+		<key id="MobileActivity_8" value="초청코드가 1회 사용되어 아래 아이템을 획득합니다:"/>
+		<key id="MobileActivity_9" value="초청코드 사용 횟수를 더 많이 획득할 수 있습니다!"/>
+		<key id="MobileActivity_times" value="성공적으로 {0}번 사용"/>
+		<key id="MobileActivity_copyBtn" value="복사"/>
+		<key id="MobileActivity_copyOK" value="복사 성공"/>
+		<key id="MobileActivity_stateBtn" value="나의 초청 상황 보기"/>
+		<key id="f_11_title" value="해피팜 초청코드 대방출"/>
+		<key id="f_11_body" value="지금 바로 해피팜 을 다운하세요! 초청코드를 입력하면 특별선물세트를 받을 수 있습니다!"/>
+		<key id="doNotShowTipThisTime" value="게임에 재접속하기 전, 소비내역을 다시 알려드리지 않음"/>
+		<key id="unlockTrainConfirm" value="기차를 이용하여 수익을 얻을 수 있습니다. 어서 기차를 수리하세요~복구하는 16000 동전을 보낼 필요가"/>
+		<key id="giveUpTrainOrder" value="정말 이번 기차 주문을 취소하시겠어요?"/>
+		<key id="needToRepairTrain" value="기차를 수리한 후 기차역을 사용하실 수 있습니다."/>
+		<key id="nextTrainOrder" value="다음 기차 주문"/>
+		<key id="LoadCargo" value="물품을 싣기"/>
+		<key id="TrainLeave" value="기차가 떠났어요"/>
+		<key id="AskForHelp" value="도움 요구하기"/>
+		<key id="CompleteOrder" value="보상 완료"/>
+		<key id="GetNow" value="Get Now"/>
+		<key id="TrainRepair" value="회복"/>
+		<key id="TrainScoreTitle" value="포인트 랭킹" />
+		<key id="TrainScoreFriR" value="친구 랭킹" />
+		<key id="TrainScoreSevR" value="전체유저 랭킹" />
+		<key id="TrainScoreInfo" value="Sun에서 상" />
+		<key id="TrainScoreInfo2" value="높은 순위 더 나은 보상" />
+		<key id="CarrotJuice" value="당근 쥬스"/>
+		<key id="AppleJuice" value="사과 쥬스"/>
+		<key id="CherryJuice" value="앵두 쥬스"/>
+		<key id="TomatoJuice" value="토마토 쥬스"/>
+		<key id="BerryJuice" value="과일 쥬스"/>
+		<key id="GrapeJuice" value="와인"/>
+		<key id="GrapeLemonJuice" value="포도향수"/>
+		<key id="Grape" value="포도"/>
+		<key id="GrapeTree" value="포도 가지"/>
+		<key id="FruitJuice" value="쥬스기"/>
+		<key id="FruitJuice_desc" value="쥬스 만들기"/>
+		<key id="Goat" value="염소"/>
+		<key id="Goat_desc" value="염소우유/8시간"/>
+		<key id="GoatHouse" value="양우리"/>
+		<key id="GoatHouse_desc" value="염소 4마리 키울 수 있습니다"/>
+		<key id="goatfood" value="염소사료"/>
+		<key id="GoatMilk" value="염소우유"/>
+		<key id="GoatCheese" value="염소치즈"/>
+		<key id="GoatPie" value="염소치즈파이"/>
+		<key id="Swan" value="백조"/>
+		<key id="Swan_desc" value="비로드/7시간"/>
+		<key id="SwanLake" value="백조 호수"/>
+		<key id="SwanLake_desc" value="백조 4마리 키울 수 있습니다."/>
+		<key id="swanfood" value="백조사료"/>
+		<key id="SwanFeather" value="비로드"/>
+		<key id="Gloves" value="장갑"/>
+		<key id="Scarf" value="스카프"/>
+		<key id="SwanAnnounce_text_0" value="백조를 맞이하기"/>
+		<key id="SwanAnnounce_text_1" value="25레벨에 도달"/>
+		<key id="SwanAnnounce_text_2" value="백조 오픈"/>
+		<key id="SwanAnnounce_text_3" value="수확하기"/>
+		<key id="GrapeJuice" value="와인"/>
+		<key id="GrapeLemonJuice" value="포도향수"/>
+		<key id="GrapeTree" value="포도 가지"/>
+		<key id="GrapeTree_desc" value="세 번 수집"/>
+		<key id="Grape" value="포도"/>
+		<key id="RoundBed" value="원형 꽃밭"/>
+		<key id="HopGarden" value="맥주통 꽃밭"/>
+		<key id="WisteriaRoseFrame" value="자릉 가지"/>
+		<key id="RoundBed_desc" value="팜 장식"/>
+		<key id="HopGarden_desc" value="팜 장식"/>
+		<key id="WisteriaRoseFrame_desc" value="팜 장식"/>
+		<key id="f_12_title" value="농장이 너무 아름다워요~"/>
+		<key id="f_12_body" value="아름다운 백조들이 농장에 머물게 됩니다. 어서 맞이할 준비를 하세요~"/>
+		<key id="locked_space_halt" value="아직 확장할 수 없는 토지입니다. "/>
+		<key id="locked_space_unrelease" value="아직 확장할 수 없는 토지입니다. 기다려 주세요."/>
+		<key id="expand_popup_title" value="농장을 확장하세요!"/>
+		<key id="expand_popup_info" value="아래 아이템을 모집하면 토지를 확장할 수 있습니다."/>
+		<key id="f_13_title" value="농장 확장"/>
+		<key id="f_13_body" value="{0}님이 농장에서 새로운 토지를 확장하려 합니다. 어서 도와주세요~"/>
+		<key id="Mintgrass" value="박하"/>
+		<key id="Cocktail" value="칵테일"/>
+		<key id="MintJelly" value="박하푸드"/>
+		<key id="MintSugar" value="박하사탕"/>
+		<key id="licenseStamp" value="허가 도장"/>
+		<key id="pickaxe" value="확장용 괭이"/>
+		<key id="application" value="확장 신청서"/>
+		
+		<key id="Discount0904_text_0" value="빅할인 이벤트"/>
+		<key id="Discount0904_text_1" value="남은 시간:"/>
+		<key id="Discount0904_text_2" value="일"/>
+		<key id="Discount0904_text_3" value="원가:8"/>
+		<key id="Discount0904_text_4" value="할인가:"/>
+		<key id="Discount0904_text_5" value="4"/>
+		<key id="Discount0904_buy_btn" value="바로 구매"/>
+		
+		<key id="energNotEnough" value="에너지가 부족하여 원숭이를 쫓아낼 수 없습니다."/>
+		<key id="stealInfo" value="게임에 접속하지 않은 동안에 원숭이가 {0}을(를) 훔쳐갔습니다."/> 
+		<key id="Banana" value="바나나"/>
+		<key id="CageMaker_desc" value="우리 만들기"/>
+		<key id="Cage" value="우리"/>
+		<key id="CageMaker" value="제작실"/>
+		<key id="monkeyAimedTip" value="원숭이가 여기에서 놀고 있을 땐 작업을 진행할 수 없습니다."/>
+		<key id="monkeyLeftTime" value="도망가는데 남은 시간:"/>
+		<key id="stealInfoOnline" value="원숭이가 {0}을(를) 훔치고 도망갔습니다."/>
+		<key id="Leaving" value="원숭이가 아이템을 훔치려 합니다. 게임에 접속하여 원숭이를 잡으세요!"/>
+		<key id="Coming" value="장난끼 많은 원숭이가 곧 농장으로 방문하게 됩니다."/>
+		
+		<key id="Squirrel" value="다람쥐"/>
+		<key id="SquirrelHouse" value="나무 집"/>
+		<key id="Squirrel_desc" value="경험치를 획득할 수 있습니다."/>
+		<key id="SquirrelHouse_desc" value="나무 집"/>
+		
+		<key id="f_14_title" value="원숭이 잡기!"/>
+		<key id="f_14_body" value="{0}님이 농장에서 원숭이 1마리 잡았습니다. 자유를 얻기 위한 원숭이가 선물을 바쳤는데 안에 좋은 물건이 있네요~"/>
+		<key id="f_15_title" value="{0}님의 농장이 보호받고 있습니다."/>
+		<key id="f_15_body" value="{0}님! 원숭이 잡기 이벤트에서 좋은 성과를 거두어 푸짐만 보상을 받으셨어요!"/>
+
+		<key id="monkey_act_title" value="원숭이 잡기 이벤트"/>
+		<key id="monkey_act_remain" value="남은 시간:"/>
+		<key id="monkey_btn_text1" value="이벤트 설명"/>
+		<key id="monkey_btn_text2" value="친구 랭킹"/>
+		<key id="monkey_btn_text3" value="이벤트 보상"/>
+		<key id="monkey_tab1_text1" value="장난끼 넘치는 원숭이들이 농장에 침입하여 기계를 점령하고 아이템도 훔치고 있습니다. 농장에 들어가 그들을 잡아 넣으세요!"/>
+		<key id="monkey_tab1_text2" value="이벤트 규칙:"/>
+		<key id="monkey_tab1_text3" value="1. 원숭이는 농장에 30분 동안 남아있습니다. 30분내에 상자를 만들어 그들을 잡아 넣으세요!&#0A;2. 원숭이를 성공적으로 잡은 후 랜덤으로 보상을 받게 됩니다.&#0A;3. 잡은 원숭이 수량으로 친구들과의 랭킹순위를 정합니다.&#0A;4. 친구랭킹은 매일 0:00에 자동으로 리셋됩니다.&#0A;5. 이벤트 종료 후, 원숭이를 35, 55마리 이상 잡은 유저 대상으로 이벤트 선물을 지급합니다."/>
+		<key id="monkey_tab2_text1" value="랭킹"/>
+		<key id="monkey_tab2_text2" value="레벨"/>
+		<key id="monkey_tab2_text3" value="유저이름"/>
+		<key id="monkey_tab2_text4" value="원숭이 수량"/>
+		<key id="monkey_tab3_text1" value="획득 아이템:"/>
+		<key id="monkey_tab3_text2" value="보너스 수령,"/>
+		
+		<key id="RabbitHouse" value="토끼우리"/>
+		<key id="RabbitHouse_desc" value="토끼 5마리 키울수 있음"/>
+		<key id="Rabbit" value="토끼"/>
+		<key id="Rabbit_desc" value="토끼털/9시간"/>
+		<key id="RabbitFur" value="토끼털"/>
+		<key id="rabbitfood" value="토끼사료"/>
+		<key id="SnowBoots" value="어그부츠"/>
+		<key id="Shawl" value="망토"/>
+		<key id="LilyPerfume" value="백합향수"/>
+		<key id="DoubleLayerCake" value="2층케이크"/>
+		<key id="Lily" value="흰백합"/>
+		<key id="EndInvite_text_0" value="다운 초대 코드의 활동을 알"/>
+		<key id="EndInvite_text_1" value="초대코드 후에 종료됩니다. 종료되기 전에 모바일 해피팜  친구들에게 초대코드를 공유하세요~ 초대코드를  사용하면 자신과 친구가 모두 푸짐한 선물을 받게 됩니다. 많은 친구들에게 공유할 수록 더 많은 선물을 얻을 수 있어요~"/>
+		<key id="EndInvite_text_2" value="공유"/>
+		<key id="EndInvite_text_3" value="입력"/>
+		<key id="EndInvite_text_4" value="수령"/>
+		<key id="EndInvite_text_5" value="1. PC버전 해피팜 초대코드 복사하기"/>
+		<key id="EndInvite_text_6" value="2. 모바일 해피팜 친구들에게 공유하기"/>
+		<key id="EndInvite_text_7" value="3. 선물 수령"/>
+		<key id="EndInvite_text_8" value="남은 시간:"/>
+		<key id="EndInvite_text_9" value="일"/>
+		
+		<key id="Potato" value="감지"/>
+		<key id="CocoTree" value="코코아나무"/>
+		<key id="CocoTree_desc" value="3번 수집하기"/>
+		<key id="Coco" value="코코아"/>
+		<key id="ChocolateIceCream" value="초콜릿 아이스크림"/>
+		<key id="Chocolate" value="초콜릿"/>
+		<key id="MashedPotato" value="치즈 감자 샐러드"/>
+		<key id="PotatoPie" value="고구마칩"/>
+		<key id="Toaster" value="토스트"/>
+	</module>
+</root>
+

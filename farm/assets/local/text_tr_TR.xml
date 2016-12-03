@@ -1,0 +1,1049 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root locale="zh_test" revision="1">
+	<module name="All">
+		<key id="100035_tips" value="200 {coin}"/>
+<key id="100036_tips" value="100 {essence}"/>
+<key id="220001_tips" value="Sen arazileri Dikim bazı Kar alabilirsiniz."/>
+<key id="About" value="Hakkımızda"/>
+<key id="AboutContent" value="Doule hakları saklıdır.\ StarTech takımı tarafından geliştirilmiştir."/>
+<key id="ActivityLoginAwardTitle" value="Biriken Giriş"/>
+<key id="ActivityLoginGetAward" value="Al"/>
+<key id="ActivityLoginMsg" value="Yıldız Çiftliği geliyor! Faaliyet sırasında, belirli gereksinimleri ulaşan size büyük ödüller kazanacak! Hemen çiftlik hayatı başlayın!"/>
+<key id="ActivityLoginTime" value="Etkinlik zamanı: 16/05/2013 - 30/05/2013"/>
+<key id="ActivityLoginday" value="{0} gün"/>
+<key id="ActivityLoginlevel" value="Sv {0}"/>
+<key id="ActivityPay1" value="Yükleme hediye paketi"/>
+<key id="ActivityPay2" value="Toplam yüklemeniz."/>
+<key id="ActivityPay3" value="{0} {points}"/>
+<key id="ActivityPay4" value="Yükleme açıklaması Yükleme açıklaması Yükleme açıklaması"/>
+<key id="Ale" value="Bira"/>
+<key id="Apple" value="Elma"/>
+<key id="AppleJuice" value="Elma suyu"/>
+<key id="ApplePie" value="Elmalı turta"/>
+<key id="AppleTree" value="Elma ağacı"/>
+<key id="AppleTree_desc" value="3 defa al"/>
+<key id="ArenaStart" value="Meydan oku"/>
+<key id="ArenaStart2" value="Daha çok şans"/>
+<key id="ArenaStart3" value="Zamanı kısalt"/>
+<key id="ArenaTime" value="Zaman alın"/>
+<key id="ArenaTop" value="Sıralama"/>
+<key id="AskForHelp" value="Yardım iste"/>
+<key id="BBQGrill" value="Barbekü"/>
+<key id="BBQGrill_desc" value="Mangal ürünü"/>
+<key id="BaconEgg" value="Biftek yumurta"/>
+<key id="BaconPie" value="Pastırmalı börek"/>
+<key id="BakedTomato" value="Fırında domates"/>
+<key id="Bakery" value="Ekmek makinesi"/>
+<key id="Bakery_desc" value="Hamur işleri"/>
+<key id="BambooFence" value="Bambu çit"/>
+<key id="BambooFence_desc" value="Çiftlik süslemeleri"/>
+<key id="Banana" value="Muz"/>
+<key id="Beer" value="Bira"/>
+<key id="BeerMaker" value="Bira makinesi"/>
+<key id="BeerMaker_desc" value="Bira üret"/>
+<key id="Bench" value="Bank"/>
+<key id="Bench_desc" value="Çiftlik süslemeleri"/>
+<key id="BerryJuice" value="Böğürtlen suyu"/>
+<key id="Blackberry" value="Böğürtlen"/>
+<key id="BlackberryBread" value="Blackberry Ekmek"/>
+<key id="BlackberryCake" value="Böğürtlenli kek"/>
+<key id="BlackberryTree" value="Böğürtlenli tartı"/>
+<key id="BlackberryTree_desc" value="3 defa al"/>
+<key id="Blacksmith_1" value="Fırın"/>
+<key id="BlueSweater" value="Mavi kazak"/>
+<key id="BlueWoollyHat" value="Mavi kadife şapka"/>
+<key id="Box" value="Sandık"/>
+<key id="Box_desc" value="Çiftlik süslemeleri"/>
+<key id="Bread" value="Ekmek"/>
+<key id="Bread_desc" value="Satılabilir"/>
+<key id="BrownRailings" value="BrownRailings"/>
+<key id="BrownSugar" value="Kahverengi şeker"/>
+<key id="Bucket" value="Kova"/>
+<key id="Bucket_desc" value="Çiftlik süslemeleri"/>
+<key id="Butter" value="Tereyağı"/>
+<key id="ButterPopcorn" value="Tereyağlı patlamış mısır"/>
+<key id="CHANGE FARM NAME" value="Çiftlik ismini değiştir"/>
+<key id="HayStack" value="kuru ot yığını"/>
+<key id="HayStack_desc" value="Çiftlik süslemeleri"/>
+<key id="Cage" value="Kafes"/>
+<key id="CageMaker" value="Üretim Odası"/>
+<key id="CageMaker_desc" value="Üretim kafes"/>
+<key id="CakeOven" value="Kek makinesi"/>
+<key id="CakeOven_desc" value="Helva"/>
+<key id="Camp" value="Camp"/>
+<key id="CandyMachine" value="Şeker makinesi"/>
+<key id="CandyMachine_desc" value="Şeker üret"/>
+<key id="Cane" value="Şeker kamışı"/>
+<key id="Capsicum" value="Biber"/>
+<key id="Caramel" value="Sütlü şeker"/>
+<key id="Carrot" value="Havuç"/>
+<key id="CarrotCake" value="Havuç keki"/>
+<key id="CarrotJuice" value="Havuç suyu"/>
+<key id="CarrotPie" value="Havuç turtası"/>
+<key id="Cat" value="Tekir kedi"/>
+<key id="CatHouse" value="Kedi yuvası"/>
+<key id="CatHouse_desc" value="3 kediye sahip olabilirsin"/>
+<key id="Cat_desc" value="Tecrübe alınabilir"/>
+<key id="Cheese" value="Peynir"/>
+<key id="CheeseCake" value="Peynirli kek"/>
+<key id="Cherry" value="Kiraz ağacı"/>
+<key id="Cherry" value="Kiraz"/>
+<key id="CherryCake" value="Kirazlı kek"/>
+<key id="CherryJuice" value="Kiraz suyu"/>
+<key id="CherryTree" value="Kiraz ağacı"/>
+<key id="CherryTree_desc" value="3 defa al"/>
+<key id="Chick" value="Tavuk"/>
+<key id="ChickHouse" value="Tavuk kümesi"/>
+<key id="ChickHouse_desc" value="6 tavuk bakılabilir"/>
+<key id="Chick_desc" value="Yumurta/ 20 dakika"/>
+<key id="ChilliPopcorn" value="Acılı patlamış mısır"/>
+<key id="Chocolate" value="Çikolata"/>
+<key id="ChocolateIceCream" value="Çikolatalı dondurma"/>
+<key id="Citruslimon" value="Limon"/>
+<key id="CitruslimonTree" value="Limon Ağacı"/>
+<key id="CitruslimonTree_desc" value="3 defa al"/>
+<key id="CityActivity1" value="Mutlu Çiftlik'e hoşgeldiniz"/>
+<key id="CityActivity2" value="Uygun olan toplam mücevherler:"/>
+<key id="CityActivity3" value="Bu seferki mücevherler:"/>
+<key id="CityActivity3_2" value="Sonraki mücevherler:"/>
+<key id="CityActivity4" value="Sonraki başlangıç zamanı:"/>
+<key id="CityActivityBtnTip" value="Şehir Hayatı için özel hediyeler"/>
+<key id="CityActivityEnd" value="Tüm elmas paketlerini zaten aldınız, hemen çiftlik binalarına yatırıma git!"/>
+<key id="CityActivityInfo" value="Hayal marketindeki saygılı oyuncu, kırsal hayattan daha fazla zevk almanız için size özel elmas hediyesini hazırladık! Almayı unutmayın."/>
+<key id="Cocktail" value="Kokteyl"/>
+<key id="Coco" value="Kakao"/>
+<key id="CocoTree" value="Kakao ağacı"/>
+<key id="CocoTree_desc" value="3 defa al"/>
+<key id="Cocoa" value="Kakao"/>
+<key id="CocoaTree" value="Kakao ağacı"/>
+<key id="CocoaTree_desc" value="3 defa al"/>
+<key id="Coming Soon" value="Lütfen bekle"/>
+<key id="Coming" value="Yaramaz maymun çiftliğine geliyor!"/>
+<key id="CompleteOrder" value="Ödül"/>
+<key id="Cookies" value="Bisküviler"/>
+<key id="Corn" value="Mısır"/>
+<key id="Cow" value="İnek"/>
+<key id="CowHouse" value="Mandıra"/>
+<key id="CowHouse_desc" value="5 İnek bakılabilir"/>
+<key id="Cow_desc" value="Süt/1 saat"/>
+<key id="Cream" value="Krema"/>
+<key id="CreamCake" value="Tereyağı keki"/>
+<key id="Cream_desc" value="Satılabilir"/>
+<key id="CurrentRank" value="Şimdiki Sıralama"/>
+<key id="Dairy" value="Süt ürünleri atölyesi"/>
+<key id="Dairy_desc" value="Günlük ürün üretin."/>
+<key id="Decoration_desc" value="Çiftliğini süsle"/>
+<key id="Discount0904_buy_btn" value="Şimdi satın al"/>
+<key id="Discount0904_text_0" value="Büyük İndirim"/>
+<key id="Discount0904_text_1" value="Sadece:"/>
+<key id="Discount0904_text_2" value="gün kaldı"/>
+<key id="Discount0904_text_3" value="Orijinal fiyatı:8"/>
+<key id="Discount0904_text_4" value="Şimdiki ücret:"/>
+<key id="Discount0904_text_5" value="4"/>
+<key id="Dog" value="Av köpeği"/>
+<key id="DogHouse" value="Köpek kulübesi"/>
+<key id="DogHouse_desc" value="3 köpeğe sahip olabilirsin"/>
+<key id="Dog_desc" value="Tecrübe alınabilir"/>
+<key id="DoubleLayerCake" value="Çift Katmanlı Kek"/>
+<key id="EndInvite_text_0" value="Altınızdaki davet kodu aktivite dikkat edin"/>
+<key id="EndInvite_text_1" value="Davetiye Kodunun etkinliği günde bitecek. Mutlu Çiftlik in telefon versiyonunu oynayan arkadaşlarınla Davetiye Kodunu patlaşmayı unutma. Davetiye Kodu başarıyla eklendiğinde hem sen hem de arkadaşın büyük ödül alacak! Davetiye Kodu ne kadar çok paylaşılırsa o kadar çok ödül alacaksın!"/>
+<key id="EndInvite_text_2" value="Paylaş"/>
+<key id="EndInvite_text_3" value="Yaz"/>
+<key id="EndInvite_text_4" value="Al"/>
+<key id="EndInvite_text_5" value="1. Mutlu Çiftlik in PC versiyonundan Davetiye Kodunu kopyala"/>
+<key id="EndInvite_text_6" value="2. Mutlu Çiftlik in telefon versiyonunu oynayan arkadaşlarınla paylaş"/>
+<key id="EndInvite_text_7" value="3. Ödülleri al"/>
+<key id="EndInvite_text_8" value="Sadece:"/>
+<key id="EndInvite_text_9" value="gün kaldı"/>
+<key id="FACEBOOK-CONNECT" value="Facebook'a bağlan."/>
+<key id="FanPageRewardBtn" value="Al" />
+<key id="FanPageRewardInfo" value="Duvar, bizim yazı paylaşmak, ve sonra ödül alacak, sonrası uygun bağlantıyı tıklayın Hayranları girin! " /> 
+<key id="FanPageRewardTitle" value="Günlük Ödül!" /> 
+<key id="Farm" value="Tarla"/>
+<key id="Farm_desc" value="Ekin ekme"/>
+<key id="FeedMill" value="Yem makinesi"/>
+<key id="FeedMill_desc" value="Hayvan yemi üret"/>
+<key id="FlowerCar" value="Şamandıralar"/>
+<key id="FlowerPot" value="Saksı"/>
+<key id="FlowerPot_desc" value="Çiftlik süslemeleri"/>
+<key id="Follow Count" value="Partner sayısı"/>
+<key id="FoodNotEnoughTip" value="Yem yetersiz, beslenemez."/>
+<key id="FreshHay" value="Taze saman"/>
+<key id="FlowerPot_desc" value="Çiftlik süslemeleri"/>
+<key id="FruitJuice" value="Meyve suyu makinesi"/>
+<key id="FruitJuice_desc" value="Meyve suyu üret"/>
+<key id="Garden" value="Fidanlık"/>
+<key id="FlowerPot_desc" value="Çiftlik süslemeleri"/>
+<key id="GetNow" value="Şimdi al"/>
+<key id="Gloves" value="Eldiven"/>
+<key id="Goat" value="Keçi"/>
+<key id="GoatCheese" value="Keçi peyniri"/>
+<key id="GoatHouse" value="Keçi çiti"/>
+<key id="GoatHouse_desc" value="4 keçi yetiştirebilir"/>
+<key id="GoatMilk" value="Keçi sütü"/>
+<key id="GoatPie" value="Keçi peyniri keki"/>
+<key id="Goat_desc" value="Keçi Sütü  / 8 saat"/>
+<key id="GoldBar" value="Atlın Külçe"/>
+<key id="GoldOre" value="Altın cevheri"/>
+<key id="Grape" value="Üzüm"/>
+<key id="GrapeJuice" value="Şarap (III)"/>
+<key id="GrapeLemonJuice" value="Üzümlü limon parfümü"/>
+<key id="GrapeTree" value="Üzüm asması"/>
+<key id="GrapeTree_desc" value="Üç kez toplanan"/>
+<key id="GreenHaystack" value="Yeşil saman"/>
+<key id="GreenHaystack_desc" value="Çiftlik süslemeleri"/>
+<key id="GreenStack" value="GreenStack"/>
+<key id="HELP AND FEEDBACK" value="Yardım ve Destek"/>
+<key id="HTFansInfo1" value="200,000 hayran için kutlama"/>
+<key id="HTFansInfo2" value="Etkinlik zamanı: 2 gün içinde hayran sayısı 200,000'e ulaştığı sürece"/>
+<key id="HTFansInfo3" value="Sevgili dostlar, Yıldız Çiftliği No'lu 300.000 fan ağırlıyor! Eğer heyecanlı mısınız? Destek ile, biz Yıldız Farm fonksiyonlarını optimize tutmak. "/>
+<key id="HTFansInfo5" value="Mutlu Çiftlik'i daha fazla arkadaşlara tanıtman bizi çok memnun etti!"/>
+<key id="HTFansInfo6" value="Selam"/>
+<key id="Hamburger" value="Hamburger"/>
+<key id="Here you will find people following you!" value="Takipçilerinizi burada bulacaksınız!"/>
+<key id="RomanPillar" value="RomaSütun"/>
+<key id="RomanPillar_desc" value="Çiftlik süslemeleri"/>
+<key id="IceCreamMaker" value="Dondurma Makinesi"/>
+<key id="IceCreamMaker_desc" value="Dondurma üret"/>
+<key id="Language" value="Dil seç"/>
+<key id="Lavender" value="Lavanta çiçeği"/>
+<key id="LavenderPerfume" value="Lavanta parfüm"/>
+<key id="Leaving" value="Küçük maymun mallarını çalacak! Git ve onu durdur!"/>
+<key id="LemonPopsicle" value="Limonlu buz çubuk"/>
+<key id="Level" value="Seviye"/>
+<key id="LevelUpNewsStr" value="Yeni!"/>
+<key id="Lily" value="Beyaz Zambak"/>
+<key id="LilyPerfume" value="Zambak Parfümü"/>
+<key id="LoadCargo" value="Malları yükle"/>
+<key id="Loom" value="Tekstil makinesi"/>
+<key id="Loom_desc" value="Elbise ör"/>
+<key id="Lupulus" value="Şerbetçi otu"/>
+<key id="MashedPotato" value="Fırında patates püresi"/>
+<key id="MaterialStorage" value="Depo"/>
+<key id="MintJelly" value="Nane jeli"/>
+<key id="MintSugar" value="Nane şekeri"/>
+<key id="Mintgrass" value="Nane"/>
+<key id="MobileActivity_1" value="Davetiye numarası etkinliği"/>
+<key id="MobileActivity_2" value="Paylaş"/>
+<key id="MobileActivity_3" value="Yaz"/>
+<key id="MobileActivity_4" value="Al"/>
+<key id="MobileActivity_5" value="Hemen Android sürümlerinde 【Mutlu Çiftlik】【{0}】gir ve hemen çok değerli ödül kazan!"/>
+<key id="MobileActivity_6" value="【Mutlu Çiftlik】'in telefon sürümünü indir, arkadaşının paylaştığı davetiye kodunu gir ve hemen çok değerli ödül al!"/>
+<key id="MobileActivity_8" value="Davetiye numaran bir defa kullanıldı, şunu kazandın:"/>
+<key id="MobileActivity_9" value="Biriken davetiye numarasını kullan, daha fazla elde et!"/>
+<key id="MobileActivity_copyBtn" value="Kopyala"/>
+<key id="MobileActivity_copyOK" value="Başarıyı tekrarlamak"/>
+<key id="MobileActivity_stateBtn" value="Daveti durumumu göster"/>
+<key id="MobileActivity_times" value="{0} defa başarıyla kullanıldı"/>
+<key id="MyFarm" value="benim çiftlik"/>
+<key id="Name" value="Oyuncu niki"/>
+<key id="Next page" value="Sonraki sayfa"/>
+<key id="Ore" value="Maden"/>
+<key id="Page up" value="Önceki sayfa"/>
+<key id="Pavilion" value="Köşk"/>
+<key id="Pavilion_desc" value="Çiftlik süslemeleri"/>
+<key id="Paycash" value="{0}{points} ödeyin."/>
+<key id="Paycash1" value="Malzeme yapım ücreti {0}."/>
+<key id="PerfumeMaker" value="Parfüm makinesi"/>
+<key id="PerfumeMaker_desc" value="Parfüm yap"/>
+<key id="PieOven" value="Pasta işleme makinesi"/>
+<key id="PieOven_desc" value="Fırında pasta"/>
+<key id="Pig" value="Domuz"/>
+<key id="PigHouse" value="Domuz ahırı"/>
+<key id="PigHouse_desc" value="5 domuz bakılabilir"/>
+<key id="Pig_desc" value="Biftek/ 4 saat"/>
+<key id="Pizza" value="Pizza"/>
+<key id="PlatinumBar" value="Platinyum Külçe"/>
+<key id="PlatinumOre" value="Platinyum Cevheri"/>
+<key id="Popcorn" value="Patlamış mısır"/>
+<key id="PopcornPot" value="Patlamış mısır makinesi"/>
+<key id="PopcornPot_desc" value="Patlamış mısır yap"/>
+<key id="Potato" value="Patates"/>
+<key id="PotatoPie" value="Patates böreği"/>
+<key id="Preferential_1" value="Büyük fırsat"/>
+<key id="Preferential_2" value="Aşağıdaki tüm ürünleri elde etmek çok ucuz"/>
+<key id="Preferential_3" value="Not: Seviye 8'den önce alınabilir."/>
+<key id="Preferential_4" value="Orjinali $10, şimdi sadece..."/>
+<key id="Preferential_5" value="Şimdi satın al"/>
+<key id="Pumpkin" value="Balkabağı"/>
+<key id="PumpkinPie" value="Balkabağı pastası"/>
+<key id="PvePopupProgress" value="{0} / {1}"/>
+<key id="Rabbit" value="Tavşan"/>
+<key id="RabbitFur" value="Tavşan tüyü"/>
+<key id="RabbitHouse" value="Tavşan Kafesi"/>
+<key id="RabbitHouse_desc" value="5 Tavşan bakılabilir"/>
+<key id="Rabbit_desc" value="Tavşan tüyü/9 saat"/>
+<key id="RainbowCandy" value="Kahverengi şeker"/>
+<key id="Raspberry" value="Ahududu"/>
+<key id="RaspberryBread" value="Ahududu ekmeği"/>
+<key id="Receive" value="Al"/>
+<key id="ReceiveSuc" value="Başarıyla alındı"/>
+<key id="Received" value="Alınmış"/>
+<key id="Rose" value="Gül"/>
+<key id="RosePerfume" value="Gül Parfümü"/>
+<key id="RoundBed" value="Yuvarlak çiçek yatağı"/>
+<key id="RoundBed_desc" value="Çiftlik süslemeleri"/>
+<key id="RubberDuck" value="RubberDuck"/>
+<key id="Scarecrow" value="Korkuluk"/>
+<key id="Scarecrow_desc" value="Çiftlik süslemeleri"/>
+<key id="Scarf" value="Sustur"/>
+<key id="SeedStorage" value="Tahıl ambarı"/>
+<key id="Shawl" value="Şal"/>
+<key id="Sheep" value="Koyun"/>
+<key id="SheepHouse" value="Koyun ahırı"/>
+<key id="SheepHouse_desc" value="5 koyun bakılabilir."/>
+<key id="Sheep_desc" value="Yün/ 6 saat"/>
+<key id="SilverBar" value="Gümüş Külçe"/>
+<key id="SilverOre" value="Gümüş cevher"/>
+<key id="Slides" value="Slides"/>
+<key id="SmallChair" value="SmallChair"/>
+<key id="Smelter" value="Cevher işleme makinesi"/>
+<key id="Smelter_desc" value="Cevher oluştur"/>
+<key id="SnowBoots" value="Kar Botu"/>
+<key id="Sold" value="Sat"/>
+<key id="Soybean" value="Yeşil soya fasulyesi"/>
+<key id="Squirrel" value="Sincap"/>
+<key id="SquirrelHouse" value="Ağaç ev"/>
+<key id="SquirrelHouse_desc" value="Ağaç ev"/>
+<key id="Squirrel_desc" value="Tecrübe alınabilir"/>
+<key id="StopBuildingWorkButton" value="Üretimi durdur"/>
+<key id="StoreRoad" value="Çakıl yol"/>
+<key id="StoreRoad_desc" value="Çiftlik süslemeleri"/>
+<key id="StoreWall" value="Taş çit"/>
+<key id="StoreWall_desc" value="Çiftlik süslemeleri"/>
+<key id="Straw" value="Straw"/>
+<key id="Strawberry" value="Ahududu"/>
+<key id="Strawberry" value="Çilek"/>
+<key id="StrawberryCake" value="Çilekli kek"/>
+<key id="StrawberryIceCream" value="Çilekli dondurma"/>
+<key id="StrawberryTree" value="Ahududu tartısı"/>
+<key id="StrawberryTree_desc" value="3 defa al"/>
+<key id="StreetLamp" value="Sokak lambası"/>
+<key id="StreetLamp_desc" value="Çiftlik süslemeleri"/>
+<key id="SugarMill" value="Şeker makinesi"/>
+<key id="SugarMill_desc" value="Şeker ürünlerini üret"/>
+<key id="Sugus" value="İsviçre şekeri"/>
+<key id="Swan" value="Kuğu"/>
+<key id="SwanAnnounce_text_0" value="Kuğuya hoşgeldin"/>
+<key id="SwanAnnounce_text_1" value="25.seviyeye ulaş"/>
+<key id="SwanAnnounce_text_2" value="Kuğunun kilidini aç"/>
+<key id="SwanAnnounce_text_3" value="Ürün topla"/>
+<key id="SwanFeather" value="Kadife"/>
+<key id="SwanLake" value="Kuğu gölü"/>
+<key id="SwanLake_desc" value="4 Kuğu besleyebilirsin"/>
+<key id="Swan_desc" value="Kuğu kadifesi/7 saat"/>
+<key id="Sweater" value="Beyaz kazak"/>
+<key id="Syrup" value="Şurup"/>
+<key id="TOPlevel" value="En iyi 20"/>
+<key id="TheArenaRewards" value="Sıralama ödülü"/>
+<key id="TicketPopouInfo" value =" Fişler özel Kamyon siparişleri hazine sandıkları açarak ve terbiye ile var olabilir ve fişleri kullanarak özel öğeleri alışverişi yapabilirsiniz."/>
+<key id="TicketPopouTitle" value="Kupon"/>
+<key id="Toaster" value="Kalın Tost"/>
+<key id="Tomato" value="Domates"/>
+<key id="TomatoJuice" value="Domates suyu"/>
+<key id="Tortillas" value="Mısır ekmeği"/>
+<key id="TrainLeave" value="Tren ayrıldı"/>
+<key id="TrainRepair" value="Tamir et"/>
+<key id="TrainScoreFriR" value="Arkadaş Sıralaması" />
+<key id="TrainScoreInfo" value="Sun olabilir ödül" />
+<key id="TrainScoreInfo2" value="Yüksek rütbe daha iyi ödül" />
+<key id="TrainScoreSevR" value="Toplam Sıralama" />
+<key id="TrainScoreTitle" value="Puan Sıralama Listesi" />
+<key id="TreeHouse" value="TreeHouse"/>
+<key id="UnitConfiguration_1" value="Ayarı kaydet"/>
+<key id="UpgradePackage_1" value="Yükseltme hediye paketi"/>
+<key id="UpgradePackage_2" value="Şimdi belirli bir seviyeye ulaşarak yükseltme hediye paketi alabilirsin."/>
+<key id="VanillaIceCream" value="Vanilyalı dondurma"/>
+<key id="Well" value="Well"/>
+<key id="Wheat" value="Buğday"/>
+<key id="Wheelbarrow" value="El arabası"/>
+<key id="Wheelbarrow_desc" value="Çiftlik süslemeleri"/>
+<key id="WhiteRailings" value="WhiteRailings"/>
+<key id="WhiteSugar" value="Beyaz Şeker"/>
+<key id="YellowHaystack" value="Sarı saman"/>
+<key id="YellowHaystack_desc" value="Çiftlik süslemeleri"/>
+<key id="accept" value="Kabul et"/>
+<key id="access_waring" value="Kullanıcılar dolu!"/>
+<key id="accountNotice" value="{0}'ı {1} yükselt."/>
+<key id="achievement1" value="Yumurtayı çok severim."/>
+<key id="achievement10" value="Lezzetli tereyağı"/>
+<key id="achievement11" value="Tüm çiftlik"/>
+<key id="achievement12" value="Arkadaş Canlısı Çiftlik Sahibi"/>
+<key id="achievement13" value="Tüccar"/>
+<key id="achievement14" value="Sayın Çiftçi arkadaşlar"/>
+<key id="achievement15" value="Çok Yumurta"/>
+<key id="achievement16" value="Çok Süt"/>
+<key id="achievement17" value="Çok sayıda biftek"/>
+<key id="achievement18" value="Çok Hasat"/>
+<key id="achievement2" value="Sütü çok severim."/>
+<key id="achievement3" value="Süper Sipariş Adamı"/>
+<key id="achievement4" value="Tavuklarımı çok seviyorum"/>
+<key id="achievement5" value="İnek yetiştirmeyi çok seviyorum."/>
+<key id="achievement6" value="Ben süper buğday adam"/>
+<key id="achievement7" value="Patlamış Mısır Bombası"/>
+<key id="achievement8" value="Havuç kafalıyım."/>
+<key id="achievement9" value="Er ya da geç ekmek gelecek."/>
+<key id="achievements" value="Başarı"/>
+<key id="addFriend" value="Arkadaş olarak ekle"/>
+<key id="addFriendSuccess" value="Arkadaş isteği başarıyla gönderildi."/>
+<key id="addFriendfail" value="Bu arkadaş ID'si yok."/>
+<key id="addPet" value="Yeni eklendi."/>
+<key id="addToFriend" value="Arkadaş Ekle"/>
+<key id="agateX10" value="Gümüş x10"/>
+<key id="agree" value="Kabul et"/>
+<key id="alertInfo" value="{0} mücevher harcamaya emin misiniz?"/>
+<key id="allalreayplaced" value="Zaten hepsi yerleştirildi."/>
+<key id="and" value="ve"/>
+<key id="application" value="Genişletme Başvuru Formu"/>
+<key id="askFeedmsg" value="Hediye iste"/>
+<key id="askForhelpButton" value="Yardım iste"/>
+<key id="ask_help" value="Arkadaşların yardımı"/>
+<key id="askforfriend" value="Arkadaşına istekte bulun"/>
+<key id="axe" value="Balta"/>
+<key id="back" value="Geri dön"/>
+<key id="bacon" value="Biftek"/>
+<key id="bagsheet_1" value="Yapı"/>
+<key id="bagsheet_2" value="Dekorasyon"/>
+<key id="bagsheet_6" value="Maden"/>
+<key id="bagsheet_7" value="Malzeme"/>
+<key id="bagsheet_8" value="Sırt çantası"/>
+<key id="battleMapInition" value="Hazırlanıyor"/>
+<key id="bolt" value="Büyük Vida"/>
+<key id="bomb" value="Bomba"/>
+<key id="bonusCoinText" value="Ödüller: +{0}{coin}!"/>
+<key id="build" value="Mağaza"/>
+<key id="buildSheetText_0" value="Çiftlik/ Hayvan Ahırı"/>
+<key id="buildSheetText_1" value="Tohum/ Küçük hayvanlar"/>
+<key id="buildSheetText_2" value="Depo/ İşleme Makinesi"/>
+<key id="buildSheetText_3" value="meyve ağacı"/>
+<key id="buildSheetText_4" value="Dekorasyon"/>
+<key id="buildingNotReadyToClick" value="Bu bina inşa halinde."/>
+<key id="buildingStatusClearing" value="Çalışıyor"/>
+<key id="buildingStatusFinishing" value="İnşaat tamamlanıyor."/>
+<key id="buildingStatusGetting" value="Alınıyor"/>
+<key id="buildingStatusHarvesting" value="Hasat ediliyor."/>
+<key id="buildingStatusPouring" value="İnşa ediliyor"/>
+<key id="buildingStatusProducting" value="Hazır"/>
+<key id="building_click_collect" value="Topla"/>
+<key id="building_click_finish" value="Hemen bitir"/>
+<key id="building_click_move" value="Taşınabilir"/>
+<key id="building_click_upgrade" value="Yükselt"/>
+<key id="building_click_upgrade2" value="pazar"/>
+<key id="buy" value="Mağaza"/>
+<key id="buyAllUseMoney" value="{0}'ın tamamını al."/>
+<key id="buyEnergyBtn" value="{energy} al."/>
+<key id="buyForSomeMoney" value="{0}"/>
+<key id="buyMachine_action" value="{0} makine inşa edin"/>
+<key id="buyMineConfirm" value="Madende küçük patlayıcı, büyük patlayıcı ve kürek kullanarak cevher alabilirsin! Maden açmak için 26000 altın jeton gerekir!"/>
+<key id="buySomeResource" value="{0}{1} satın al"/>
+<key id="buycash" value="Üzgünüm, yeterli {points}'ınız yok, şimdi biraz yüklemek ister misiniz?"/>
+<key id="buyforcash1" value="{points} ile satın alın."/>
+<key id="buyformoney" value="Harcama"/>
+<key id="buyforresource" value="Satın al"/>
+<key id="canNotHelpToday" value="Yarın arkadaşını Yardım"/>
+<key id="canReward" value="Tebrikler! Başarı Ödülü alabilirsiniz."/>
+<key id="cancel" value="İptal et"/>
+<key id="cantThief" value="Şimdilik yardım etmek gerek teşekkür ederiz."/>
+<key id="cashChestAction" value="Hazine kutusunu aç"/>
+<key id="chickfood" value="Tavuk yemi"/>
+<key id="chickfood_desc" value="Tavuk besle"/>
+<key id="chooseCardLose" value="0 alım şansınız var."/>
+<key id="chooseCardWin" value="1 defa çekme şansınız vardır."/>
+<key id="cleanupText" value="{0}'i kaldırmak {1}{coin} kazandıracak."/>
+<key id="clear" value="Sil"/>
+<key id="clickToCleanTip" value="Yeri temizlemek için tıklayın."/>
+<key id="clickToCleanupTip" value="Solmuş hasatları temizlemek için tıklayın."/>
+<key id="clickToCollectTip" value="Hasat etmek için tıklayın {0}{1}."/>
+<key id="clickToDestroyTip" value="Yok etmek için tıklayın."/>
+<key id="clickToEsTip" value="Üretmek için tıklayın {essence}"/>
+<key id="clickToGemTip" value="Cevher üretmek için tıklayın."/>
+<key id="clickToHelpCleanTip" value="Yerdeki çöplüğü temizlemeye yardım etmek için tıklayın."/>
+<key id="clickToHelpCollectTip" value="Hasat için tıklayın."/>
+<key id="clickToHelpReviveTip" value="Canlandırmak için tıklayın."/>
+<key id="clickToHelpSpeedupTip" value="Hızlandırmak için tıklayın."/>
+<key id="clickToHelpbuildTip" value="İnşa etmeye yardım etmek için tıklayın."/>
+<key id="clickToMoveTip" value="Taşı'ya tıklayın"/>
+<key id="clickToPlantTip" value="Ekim için tıklayın."/>
+<key id="clickToRepairTip" value="İyileştirmek için tıklayın."/>
+<key id="clickToSellTip" value="Satılacak ürünleri seçmek için tıklayın."/>
+<key id="clickToSpeedupTip" value="Hızlandırmak için tıklayın."/>
+<key id="clickToStartProtectTip" value="Koruma zamanını başlatmak veya uzatmak için tıklayın."/>
+<key id="clickToWoodTip" value="Kereste için tıklayın."/>
+<key id="close" value="Kapat"/>
+<key id="coin" value="Altın"/>
+<key id="coinNotEnough" value="Altın yetersiz"/>
+<key id="coinTooltip" value="Altın jeton: {0}"/>
+<key id="coinX200" value="Altın jeton x200"/>
+<key id="collectButton" value="Topla"/>
+<key id="collect_action" value="{1} {0} toplayın."/>
+<key id="combo1" value="Ödüller!"/>
+<key id="combo10" value="Süper bir başyapıt!"/>
+<key id="combo2" value="Hadi!"/>
+<key id="combo3" value="Que bom!"/>
+<key id="combo4" value="Harika!"/>
+<key id="combo5" value="Bravo!"/>
+<key id="combo6" value="Ne!"/>
+<key id="combo7" value="Aman tanrım!"/>
+<key id="combo8" value="İnanılmaz!"/>
+<key id="combo9" value="Açıklanamaz!"/>
+<key id="comingSoon" value="Yakın zamanda açılacak."/>
+<key id="completed" value="Bitti:"/>
+<key id="continue" value="Devam et"/>
+<key id="cooling" value="Em resfriamento"/>
+<key id="cowfood" value="İnek yemi"/>
+<key id="cowfood_desc" value="İnek besle"/>
+<key id="crop" value="Ekin"/>
+<key id="crystalX10" value="Bakır x10"/>
+<key id="currentFans" value="Şimdiki hayran sayısı：{0}"/>
+<key id="days" value="Gün"/>
+<key id="deal_action" value="NPC'yi ziyaret ederek {0} ticaretini tamamlayın."/>
+<key id="default" value="Varsayılan"/>
+<key id="defaultNPCFriendName" value="Lily"/>
+<key id="defensingHours" value="+6 saat"/>
+<key id="diamondX10" value="Altın x10"/>
+<key id="discard" value="Düşür"/>
+<key id="discardConfirm" value="{0}'dan vazgeçmeye emin misiniz? Eğer vazgeçerseniz geri iade yapılmayacak."/>
+<key id="doNotShowTipThisTime" value="Tekrar oyuna girmeden önce tekrar ücreti bildirme"/>
+<key id="dontStopWorkButton" value="Durma"/>
+<key id="earn_action" value="Yol kenarı marketinden {0} altın jeton kazanın."/>
+<key id="egg" value="Yumurta"/>
+<key id="empty" value="Boş"/>
+<key id="energNotEnough" value="Yetersiz enerjin olduğundan küçük maymunu kovamazsın"/>
+<key id="energyNotEnough" value="Enerji eksikliği!"/>
+<key id="energyTooltip" value="{0} / {1}"/>
+<key id="energyall" value="Enerji dolu"/>
+<key id="errorCode1201" value="Seviyeniz yetersiz"/>
+<key id="errorCode1202" value="{coin} yetersiz"/>
+<key id="errorCode1203" value="{points} yetersiz"/>
+<key id="errorCode1204" value="{energy} yetersiz"/>
+<key id="errorCode1205" value="{essence} yetersiz"/>
+<key id="errorCode1210" value="Bugün zaten toplandı."/>
+<key id="errorCode1301" value="Kilidi açmak için gerekenler henüz yapılmamış."/>
+<key id="errorCode1302" value="Bina sayısı üst sınıra ulaştı."/>
+<key id="errorCode1303" value="Bina yok."/>
+<key id="errorCode1304" value="Bina yok."/>
+<key id="errorCode1308" value="Bu hasat zamanı değil."/>
+<key id="errorCode1309" value="Zaten koruma altında."/>
+<key id="errorCode1311" value="Ürün yok."/>
+<key id="essence5" value="Küçük elmas"/>
+<key id="essence6" value="Normal elmas"/>
+<key id="essence7" value="Parlayan elmas"/>
+<key id="essence8" value="Mükemmel elmas"/>
+<key id="essenceTooltip" value="Yemek: {0}"/>
+<key id="essenceX100" value="Tahıl x100"/>
+<key id="exchange" value="Takas et"/>
+<key id="exp" value="Tecrübe"/>
+<key id="expand_popup_info" value="Başarıyla yeni alanları genişletmek için şuradaki öğelere ihtiyacın var!"/>
+<key id="expand_popup_title" value="Çiftliğini genişlet"/>
+<key id="expansion_info" value="Genişletmek için tıklayın."/>
+<key id="expasionPopupBond" value="Seviye {0} olması gerekir."/>
+<key id="expasionPopupCoin" value="{0}{coin} gerekir."/>
+<key id="expasionPopuptitle" value="Yeni Region keşfi."/>
+<key id="explosive" value="Bomba"/>
+<key id="extendButton" value="Sömür"/>
+<key id="f_10_body" value="Mutlu Çiftlik, 2013 yılıdaki kaçırmak istemeyeceğin SIM oyunu. Çevrimiçi beta bayan oyuncuların büyük beğenisini elde etti. Gel ve Mutlu Çiftlik'e katılarak büyük ödül al!"/>
+<key id="f_10_title" value="2013 yılındaki kızlar arasındaki en popüler oyun"/>
+<key id="f_11_body" value="Hemen şimdi Mutlu Çiftlik'in telefon sürümünü indir, davetiye kodunu gir ve çok değerli büyük ödül al!"/>
+<key id="f_11_title" value="Mutlu Çiftlik telefon sürümünün davetiye numarasının büyük gönderimi"/>
+<key id="f_12_body" value="Güzel kuğu sürüsü çiftliğine gelecek. Varışları için hazırlan!"/>
+<key id="f_12_title" value="Çiftliğin git gide güzelleşti!"/>
+<key id="f_13_body" value="{0} yeni alanı genişletmeni istiyor ve yardımın için çok minnettar olacak!"/>
+<key id="f_13_title" value="Çiftlik Genişleme"/>
+<key id="f_14_body" value="{0} kendi çiftliğinde bir yaramaz maymun yakaladı! Maymun özgür kalmak için hediye bağışladı, gerçekten olağandışı şaşırtıcı bir durum!"/>
+<key id="f_14_title" value="Yaramaz maymunları yakala!"/>
+<key id="f_15_body" value="Maymun yakalama etkinliğinde, {0} öncü başarı gösterdi ve sonuç olarak büyük ödül aldı!"/>
+<key id="f_15_title" value="{0} 'ın çiftliği koruma altına alınmıştır!"/>
+<key id="f_1_body" value="Tebrikler, karakter seviye  {1}'e yükselti.Hadi büyük çiftlik sahibimiz ile beraber kutlayalım!"/>
+<key id="f_1_title" value="Karakteri yükselt"/>
+<key id="f_2_body" value="{0}'ın deposu başarıyla yükseltildi! Şimdi daha fazla ürünler saklanabilir!"/>
+<key id="f_2_title" value="Depoyu yükselt"/>
+<key id="f_3_body" value="{0} Mutlu Çiftlik içinde amacını başardı, arkadaşı olarak bu heyecanlı anı nasıl kaçırırsın? Gel ve onu tebrik et!"/>
+<key id="f_3_title" value="Ödülleri Mil taşından al"/>
+<key id="f_4_body" value="{0}'ın ahırı başarıyla yüksetildi! Şimdi hasatlarını nereye koyacağından endişelenmene gerek yok!"/>
+<key id="f_4_title" value="Ahırı yükselt"/>
+<key id="f_5_body" value="Arkadaşınız  {0} Mutlu Çiftlik içinde sizi bekliyor. Lütfen göndermek için buraya tıklayın! Eğer Mutlu Çiftlik oynuyorsanız bir süprizle karşılaşacaksınız."/>
+<key id="f_5_title" value="Hediye iste"/>
+<key id="f_6_body" value="Arkadaşınız  {0} Mutlu Çiftlik içinde sizi bekliyor. Lütfen göndermek için buraya tıklayın! Eğer Mutlu Çiftlik oynuyorsanız bir süprizle karşılaşacaksınız."/>
+<key id="f_6_title" value="Hediye iste"/>
+<key id="f_7_body" value="Arkadaşınız  {0} Mutlu Çiftlik içinde sizi bekliyor. Lütfen göndermek için buraya tıklayın! Eğer Mutlu Çiftlik oynuyorsanız bir süprizle karşılaşacaksınız."/>
+<key id="f_7_title" value="Hediye iste"/>
+<key id="f_8_body" value="{0} sadece Yıldız Farm sikke bir kova kazanmıştır, ve o sizinle yaptığı mutluluğu paylaşmak istiyor!"/>
+<key id="f_8_title" value="Altın jetonlar çan gibi çalıyor"/>
+<key id="f_9_body" value="Mutlu Çiftlik 200,000 hayranların etkinliğini tutuyor. Ücretsiz mücevher elde et ve oyunun tadını ücretsiz çıkar! 5 mücevher aldım bile. Gel ve hayran olarak mücevherini al!"/>
+<key id="f_9_title" value="İyi haberleri arkadaşlarınızla paylaşın!"/>
+<key id="fanpage_LimitError" value="Ne yazık, ödülün hepsi alınmış, hayran duvarına fazladan bakarak sonraki fırsatı kaçırma!"/>
+<key id="fanpage_RewardMsg" value="Tebikler! Başarıyla ödülleri aldınız!"/>
+<key id="fanpage_title" value="Tebrikler"/>
+<key id="farmBeThief" value="Bu çiftlik alanı zaten hasat edilmiş."/>
+<key id="farm_score" value="Başarı puanı:"/>
+<key id="feedAward" value="Tebrikler, ödülü başarıyla aldınız!"/>
+<key id="finishButton" value="{0} gerekir."/>
+<key id="finishConstructButton" value="İnşaatı tamamla"/>
+<key id="finished" value="Tamamla"/>
+<key id="finishedQuest" value="Amaca ulaşın!"/>
+<key id="follows" value="Arkadaş"/>
+<key id="friAlready" value="Hedef zaten arkadaşınız"/>
+<key id="friend" value="Arkadaş"/>
+<key id="friendGiftInfo" value="Şuradaki hediyeleri aldınız."/>
+<key id="friendGiftTitle" value="Hediye"/>
+<key id="friendPanelVisitText" value="Ziyaret etmek için tıklayın"/>
+<key id="friendReq" value="Arkadaş isteği"/>
+<key id="friendUid" value="Arkadaşın Oyun ID'si"/>
+<key id="friendmarket" value="Arkadaşın"/>
+<key id="friends" value="Arkadaş"/>
+<key id="fullscreenTooltip" value="Tam ekran"/>
+<key id="g_order_info" value="(Sizde olanlar:"/>
+<key id="g_order_no" value="Üzgünüm"/>
+<key id="g_order_title" value="Güzel bir gün! Devreye alma limbering sonra çiftlik yönetmek!"/>
+<key id="g_order_wait" value="Lütfen bekleyin."/>
+<key id="g_order_yes" value="İyi, burada"/>
+<key id="gameName" value="Star Farm"/>
+<key id="getReward" value="Seviye atlama ödülü alın."/>
+<key id="get_reward" value="Ödül alımı"/>
+<key id="getfromfriend" value="Arkadaşına istekte bulun"/>
+<key id="getreward" value="Şimdi al"/>
+<key id="giveUpTrainOrder" value="Bu seferki tren siparişinden vazgeçmek istediğinizden emin misiniz?"/>
+<key id="goatfood" value="Keçi yemi"/>
+<key id="gohome" value="Eve dön"/>
+<key id="gohomeTip" value="Eve dön"/>
+<key id="govermentPopupUnfinishTitle" value="Bina için işçileri işe al."/>
+<key id="govermentShareReminderButton" value="Arkadaşına hatırlat"/>
+<key id="govermentUseMoneyButton" value="{0} kullan"/>
+<key id="guiBagButton" value="Sırt çantası"/>
+<key id="guiBuildButton" value="Satın al/ İnşa et"/>
+<key id="guiCancelButton" value="İptal et"/>
+<key id="guiHandleButton" value="İşlem"/>
+<key id="guiInviteFriendButton" value="Arkadaş davet et"/>
+<key id="guiReturnhomeButton" value="Eve dön"/>
+<key id="guiSkillSearchButton" value="İncele"/>
+<key id="guiStrengthenButton" value="Geliştir"/>
+<key id="hasBeenBuilded" value="Zaten inşa edildi."/>
+<key id="helpStatusbuild" value="İnşa ediliyor"/>
+<key id="helpStatusclean" value="Temizleniyor"/>
+<key id="helpStatusharvest" value="Hasat ediliyor."/>
+<key id="helpStatusrevive" value="Sulanıyor"/>
+<key id="helpStatusspeedup" value="Hızlandırılıyor"/>
+<key id="hours" value="Saat"/>
+<key id="hungry" value="Aç"/>
+<key id="increase_storage_to" value="Kapasiteyi {0}'e genişletin."/>
+<key id="industryBuildingTips" value="Daha fazla işlem için tıklayın."/>
+<key id="industryProducePannelProduce" value="Gelir"/>
+<key id="industryProducePannelResource" value="Koy"/>
+<key id="invite" value="Davet et"/>
+<key id="inviteTooltip" value="Arkadaş davet et"/>
+<key id="islandDetail" value="Detaylar"/>
+<key id="jinxu" value="Sadece gereken"/>
+<key id="levelNotEnough" value="Seviye {0} gerekir."/>
+<key id="levelTooltip" value="{0} / {1}"/>
+<key id="levelUp" value="Seviye artırdınız"/>
+<key id="levelUpButton" value="Yükselt"/>
+<key id="levelUpInfo" value="{0}"/>
+<key id="levelUpUnlock" value="Şuradaki ödülleri kazanın."/>
+<key id="licenseStamp" value="İzin Mühürü"/>
+<key id="loading" value="Yükleniyor, lütfen bekleyin."/>
+<key id="locked" value="Kilitli"/>
+<key id="lockedAction" value="Bulduğunuz gizemli sandık kilitli, elmas kullanarak onu açabilirsiniz."/>
+<key id="locked_space_halt" value="Bu yer genişletmek için nitelikli değil."/>
+<key id="locked_space_unrelease" value="Bu yer genişletmek için nitelikli değil, lütfen bekleyin."/>
+<key id="logindays" value="{0}. gün"/>
+<key id="make_action" value="{1} {0} yapın."/>
+<key id="marketPopupAd" value="Reklam yayını: 3 saat"/>
+<key id="marketPopupAdCool" value="Reklam açılacak:"/>
+<key id="marketPopupAddAll" value="Hepsini ekle"/>
+<key id="marketPopupConfirm" value="Onayla"/>
+<key id="marketPopupCreateTip" value="Yeni ürünleri ekleyin."/>
+<key id="marketPopupForBuy" value="Alışveriş arabası"/>
+<key id="marketPopupForSale" value="Sat"/>
+<key id="marketPopupMyItems" value="Ürünlerim"/>
+<key id="marketPopupNewsButton" value="Ekle"/>
+<key id="marketPopupNewsTip" value="Gazetede yayınla"/>
+<key id="marketPopupPriceTip" value="Ücret"/>
+<key id="marketPopupQuantity" value="Miktar"/>
+<key id="marketPopupRemove" value="Kaldırmak"/>
+<key id="marketPopupSelectItem" value="Bir ürün seçin"/>
+<key id="marketPopupSelectedButton" value="Seç"/>
+<key id="marketPopupTitle" value="Yol üstündeki market"/>
+<key id="marketPopupTotalCost" value="Toplam ücret"/>
+<key id="marketTradeInfoTitle" value="Düzenle"/>
+<key id="materialStorageFullInfo" value="Depo dolu, yükselterek depo kapasitesini artırabilirsiniz"/>
+<key id="materialStorageFullToClick" value="Depo dolu."/>
+<key id="materialStorageMaxInfo" value="Depo dolu, lütfen depoyu temizledikten sonra ürünü al."/>
+<key id="maxLevelError" value="Zaten en yüksek seviyede."/>
+<key id="max_energy_tips" value="{energy} üst sınırı aşıldı."/>
+<key id="mei" value="Her"/>
+<key id="milk" value="Süt"/>
+<key id="minutes" value="dakikalar"/>
+<key id="moneyNotEnough" value="Elmas yetersiz"/>
+<key id="moneyNotEnoughTips" value="Yetersiz {points}, lütfen satın almak için tıklayın."/>
+<key id="monkeyAimedTip" value="Küçük maymun burada oynarken işlem yapamazsın"/>
+<key id="monkeyLeftTime" value="Kaçmak için kalan zaman"/>
+<key id="move" value="Taşınabilir"/>
+<key id="moveOnfriendinvadeiconTip" value="Yardım gerekir"/>
+<key id="musicTooltip" value="Müzik"/>
+<key id="myGameUid" value="Oyun ID'niz:{0}"/>
+<key id="mymarket" value="Benim"/>
+<key id="nail" value="Raptiye"/>
+<key id="need expanded" value="Genişletmek gerekir."/>
+<key id="needNewVersions" value="Bu versiyon çok eski, lütfen hemen güncelleyin."/>
+<key id="needToRepairTrain" value="Alanı kullanmadan önce treni tamir etmeniz gerekir!"/>
+<key id="need_resource" value="Daha fazla kaynak gerekir."/>
+<key id="need_resource_buy" value="Ücret {0}"/>
+<key id="need_resource_dynic" value="Arkadaşlarınıza anlatın."/>
+<key id="need_resource_explain" value="Arkadaşlardan yardım iste veya doğrudan al."/>
+<key id="needmore" value="Daha çok $$ gerekir."/>
+<key id="newItem" value="Yeni ürün"/>
+<key id="newShopPopupTitle" value="Mağaza"/>
+<key id="newspaper_sendfeed" value="Gönder"/>
+<key id="next" value="Sonraki"/>
+<key id="nextTrainOrder" value="Sonraki tren siparişi"/>
+<key id="noAdvertisement" value="Hiçbir güncelleştirmeleri şimdi için, lütfen daha sonra tekrar"/>
+<key id="noFeed" value="İsteğiniz gönderildi. Sonraki hediye {0} içinde hazır olacak."/>
+<key id="not enough storage" value="Depodaki alan yetersiz"/>
+<key id="notFriend" value="Henüz arkadaş değilsiniz, şimdi arkadaş isteği gönderin!"/>
+<key id="not_placeable" value="Buraya konulamaz."/>
+<key id="ok" value="Onayla"/>
+<key id="onCheckingPay" value="Ödeme doğrulaması..."/>
+<key id="onStartPay" value="Ödeniyor..."/>
+<key id="openLevel" value="Bu özelliği aktifleştirmek için seviye {0}  gerekir."/>
+<key id="orderActivityEndTime1" value="Etkinlik süresi: Bugünden 15 Mayıs, 2013'e"/>
+<key id="orderActivityEndTime2" value="Etkinlik zamanı: Bugünden 23/5/2013'e kadar"/>
+<key id="orderActivityInfo1" value="Etkinlik sırasında gerekli sayıda NPC görevlerini bitirerek büyük ödül al! Ödüller hergün değişir. Tamamlanmış sipariş numaraları her 24 saatte sıfırlanır. Hergün elmas kazanma şansın vardır!"/>
+<key id="orderActivityInfo2" value="Etkinlik sırasında belirli oranda Kamyon siparişlerini tamamlayarak çok ödül alabilirsin! Kamyonlarını harekete geçir!"/>
+<key id="orderActivityItemTip" value="Almak için {0} sipariş bitir. {1} sipariş bitirdiniz."/>
+<key id="orderActivityNextRefreshTime" value="Ödülü sıfırlamak için tamamlanmış sipariş sayısı ve geri sayım"/>
+<key id="orderActivityTitle1" value="Sipariş Karnavalı"/>
+<key id="orderActivityTitle2" value="Kamyonun Hikayesi"/>
+<key id="orderBuild" value="Sipariş"/>
+<key id="order_action" value="{0} defa sipariş tamamlayın."/>
+<key id="order_waitInfo" value="Bu sipariş şu anda verilemez, lütfen bekleyin veya hızlandırın!"/>
+<key id="order_waitTime" value="Lütfen bekleyin..."/>
+<key id="ownCount" value="Sahip olunanlar:"/>
+<key id="own_action" value="{1} {0}'e sahip olun."/>
+<key id="packTitle" value="Sırt çantası"/>
+<key id="packagehave" value="Şu anda çantanda bulunan ürünler:"/>
+<key id="patureBeThief" value="Hayvanlar hasat edildi."/>
+<key id="peddlersBackBtntext" value="Seçme"/>
+<key id="peddlersBackCntText" value="Kullanmak için kalan  zaman: {0}"/>
+<key id="peddlersBackInfoText" value="Bulduklarımız bunlar, hangisine ihtiyacınız var?"/>
+<key id="peddlersBeginBtnText" value="Tamam, deneyeceğim."/>
+<key id="peddlersBeginInfoText" value="Merhaba! Ben Tom, size hizmet edeceğim, yol üstündeki markette sizi bekliyorum"/>
+<key id="peddlersBuyTimesInfoText" value="Tekrar beni işe almak ister misiniz?"/>
+<key id="peddlersBuyTimesThankCellText" value="Hayır, teşekkürler"/>
+<key id="peddlersBuyTimesbuyCellText" value="{0} gün"/>
+<key id="peddlersChooseBtnText" value="Aramayı başlat"/>
+<key id="peddlersChooseTitleText" value="Ne aramamı istersiniz?"/>
+<key id="peddlersRestInfoText" value="Zzz...Gerçekten dinlenmeye ihtiyacım var."/>
+<key id="peddlersRestTimeText" value="Yeniden kullanım zamanı:{0}"/>
+<key id="peopleTooltip" value="Nüfus/ Nüfus Üst Sınırı"/>
+<key id="petProducePannelResource" value="Kaynak tükemini"/>
+<key id="pickaxe" value="Genişletme Çapası"/>
+<key id="pigfood" value="Domuz yemi"/>
+<key id="pillageBuff" value="Binanın üretimini {0}% artır."/>
+<key id="place" value="Yerleştir"/>
+<key id="plank" value="Tahta"/>
+<key id="points" value="Safir"/>
+<key id="popularizeInfo" value="Dünyaca ünlü Yıldız Çiftliği, bugün size gelecektir! Büyük bir çiftlik sahibi olma onuru doğru önünüzde olduğunu. Gel ve burada zafer oluşturmak!"/>
+<key id="popularizeInfo2" value="Geride kalabalık şehri terk ve sakin ve huzurlu vakit. Yıldız Farm hoşgeldiniz! Elmas toplamak ve eğlence çiftlik hayatı yaşamak!"/>
+<key id="population" value="Nüfus"/>
+<key id="populationText" value="{0} / {1}"/>
+<key id="population_max" value="Maksimum Nüfus"/>
+<key id="population_now" value="Şimdiki nüfus"/>
+<key id="populationmaxNotEnough" value="Nüfus üst sınırı yetersiz"/>
+<key id="produce" value="Üret"/>
+<key id="producePannelProduceTime" value="Üretim zamanı"/>
+<key id="produceing" value="Üretiliyor"/>
+<key id="questUpdateNotice" value="{0} {1}/{2}"/>
+<key id="quest_get" value="Yeni görev"/>
+<key id="quest_remind" value="Gerçekten iyi yapıyorsun."/>
+<key id="rabbitfood" value="Tavşan Yemi"/>
+<key id="raidMoreCount" value="Daha fazla"/>
+<key id="raidPopupCount" value="Bugün geriye kalan"/>
+<key id="raidPopupEnter" value="Giriş Yap"/>
+<key id="raidPopupTitle" value="Portala gir"/>
+<key id="raidTips" value="Girmek için tıklayın {0}."/>
+<key id="raidUserMoneyToMoreCount" value="{0}{points} ile fazladan 1 defa ekle."/>
+<key id="ready to collect" value="Hasat için hazırlanın."/>
+<key id="recharge" value="Doldur"/>
+<key id="recharge_cash0" value="Mavi elmas yığını"/>
+<key id="recharge_cash1" value="Mavi elmas dolu bir çanta."/>
+<key id="recharge_cash2" value="Mavi elmas dolu bir çuval"/>
+<key id="recharge_cash3" value="Bir kutu mavi elmas."/>
+<key id="recharge_cash4" value="Mavi elmas dolu bir kabin."/>
+<key id="recharge_cash5" value="Mavi elmas dolu bir sandık."/>
+<key id="recharge_coin0" value="Altın jeton yığını"/>
+<key id="recharge_coin1" value="Altın jeton dolu bir çanta"/>
+<key id="recharge_coin2" value="Altın jeton dolu bir çuval"/>
+<key id="recharge_coin3" value="Bir paket altın jeton"/>
+<key id="recharge_coin4" value="Bir kabin Altın"/>
+<key id="recharge_coin5" value="Altın jeton dolu bir sandık"/>
+<key id="recharge_title_cash" value="Mavi elmasları yükleyin."/>
+<key id="recharge_title_coin" value="Altın jeton için takas edin."/>
+<key id="refresh_game" value="Lütfen oyunu yenileyin."/>
+<key id="refuse" value="Reddet"/>
+<key id="renwujieshou" value="Görev"/>
+<key id="requesttofriend" value="Arkadaşların yardımı"/>
+<key id="requireExitGame" value="Oyundan çıkmaya emin misiniz?"/>
+<key id="require_explain" value="Daha fazla $$ gerekir, arkadaşlardan isteyebilirsiniz veya {points} satın alma ile elde edebilirsiniz ."/>
+<key id="requires" value="Gerekli"/>
+<key id="requiresBuildingLevel" value="Seviye {1} {0} gerekir."/>
+<key id="requiresLevel" value="Seviye"/>
+<key id="requiresOwn" value="Sahip olmanız gerekir."/>
+<key id="requires_item" value="Harcanan ürünler:"/>
+<key id="resource not enough" value="{0} yetersiz"/>
+<key id="resourceIsLast" value="Sadece son ürün kaldı, üretmeye emin misin?"/>
+<key id="resourceNotEnough" value="Kaynak yetersiz,.satın alarak işlemi tamamlayabilirsiniz."/>
+<key id="reward" value="Ödül"/>
+<key id="rubyX10" value="Kalay x10"/>
+<key id="saw" value="Testere"/>
+<key id="screw" value="Küçük Vida"/>
+<key id="secondes" value="saniye"/>
+<key id="seedStorageFullInfo" value="Tahıl ambarı dolu, tahıl ambarını yükselterek kapasitesini artırabilirsin.Yoksa Yol Stand bazı satabilirsiniz."/>
+<key id="seedStorageFullToClick" value="Tahıl ambarı dolu"/>
+<key id="seedStorageMaxInfo" value="Tahıl ambarı dolu, lütfen depoyu temizledikten sonra ürünü al."/>
+<key id="select" value="Seç"/>
+<key id="selectFeed" value="İstediğiniz hediyeyi seçmek için burayı tıklayın!"/>
+<key id="sell" value="Sat"/>
+<key id="sell_coin" value="Elde edildi"/>
+<key id="sell_confirm" value="Satışı onayla"/>
+<key id="server_error" value="Üzgünüm, İnternet hatası, lütfen oyunu yenileyin."/>
+<key id="setting" value="Ayarlar"/>
+<key id="settingsTooltip" value="Ayarlar"/>
+<key id="shareBtn" value="sürdürmek"/>
+<key id="sheepfood" value="Koyun yemi"/>
+<key id="shouchong" value="Herhangi miktarda para yüklemek süper değerli hediye paketi kazandırabilir."/>
+<key id="shouchongtitle" value="Birinci Yükleme Hediye Paketi"/>
+<key id="shovel" value="Kürek"/>
+<key id="skillBuySkillButton" value="Satın al"/>
+<key id="soundTooltip" value="Müzik efekti"/>
+<key id="speedtext" value="Hızlandır"/>
+<key id="startAction" value="Uygula"/>
+<key id="startGrub" value="Kazmaya başla"/>
+<key id="stateNot" value="Biri diğer arkadaşlar yardımcı olabilir, bana yardımcı oldu."/>
+<key id="stealInfo" value="Çevrimdışı zamanda küçük maymun {0} çaldı"/> 
+<key id="stealInfoOnline" value="Küçük maymun 1 {0} çaldıktan sonra kaçıyor"/>
+<key id="steal_action" value="{1} {0} çalın"/>
+<key id="stopWorkButton" value="Çalışmayı durdur"/>
+<key id="stopWorkPopup" value="Binanın üretimini durdurursanız, kullanılan kaynaklar ziyan olur."/>
+<key id="storageCapacity" value="Deponun kapasitesi: {0}/{1}"/>
+<key id="subtext01" value="Sorun bildirimi"/>
+<key id="subtext02" value="İpuçları: kısaca oyunda sorunu açıklayın lütfen, bu yüzden kontrol ve gecikmeden çözebilirsiniz. Teşekkürler!"/>
+<key id="subtext03" value="Soru türü"/>
+<key id="subtext04" value="Sorunun açıklaması"/>
+<key id="subtext05" value="E-posta"/>
+<key id="subtext06" value="Teslim et"/>
+<key id="subtext07" value="Lütfen buraya sorunun açıklamasını girin"/>
+<key id="subtext09" value="E-posta biçimi hatalı"/>
+<key id="subtext10" value="Sorunun açıklaması boş olamaz"/>
+<key id="swanfood" value="Kuğu yemi"/>
+<key id="tape" value="Yapışkan bant"/>
+<key id="thiefItemBtnTF" value="Arkadaşının çiftliğine git"/>
+<key id="thiefItemTimeTF" value="Alınacak Zaman: {0}"/>
+<key id="thiefItemTitle" value="{0}'ın çiftliği"/>
+<key id="thiefLevel" value="Sadece {0}.seviyeye ulaştıktan sonra alınabilir, hemen seviyeyi yükselt!"/>
+<key id="thiefTitle" value="Oyuncu iletisi"/>
+<key id="ticketNotEnough" value="Yetersiz kupon"/>
+<key id="timeDay" value="Gün"/>
+<key id="timeHour" value="Saat"/>
+<key id="timeMinute" value="dakikalar"/>
+<key id="timeSencond" value="saniye"/>
+<key id="topazX10" value="Demir x10"/>
+<key id="total" value="Toplam"/>
+<key id="tutorial_1" value="Yıldız Farm Hoşgeldiniz, size burada hayat başlamadan önce bir çiftlik yönetme temel bilgileri öğrenmek için önemlidir!"/>
+<key id="tutorial_2" value="Şimdi yeterli paran var, markete giderek yeni makine al ve mağazaya görerek gözat."/>
+<key id="tutorial_2" value="Şimdi yeterli paran var. Git ve marketten yeni bir makine al!"/>
+<key id="tutorial_3" value="Daha fazla enerji mi istiyorsun? Marketten bir tavuk alarak çiftliğine eğlence ekle!"/>
+<key id="tutorial_3_1" value="Yem yetersiz, markete giderek yem makinesi alın, böylece yem yapabilirsiniz, hadi hemen deneyin!"/>
+<key id="tutorial_3_2" value="Çiftlikteki küçük kız yardımını bekliyor, hemen gidip bak ve yardım tedarik al!"/>
+<key id="tutorial_4" value="Kamyon siparişleri başarılı gerçekleşmesi size deneyim ve sikkeler, gidip bir deneyin getirmek!"/>
+<key id="tutorial_5" value="Markette ürününü satabilirsin, aynı zamanda gerekli ürünleri de alabilirsin!"/>
+<key id="tutorial_5_1" value="Şimdi temel çiftlik sistemine aşina oldunuz. Bir sonraki çiftlik nesli olmanızı dört gözle bekliyoruz!"/>
+<key id="tutorial_Buy" value="Satın al"/>
+<key id="tutorial_ChickFeed" value="Besle"/>
+<key id="tutorial_ChickHarvest" value="Topla"/>
+<key id="tutorial_FarmHarvest" value="Hasat et"/>
+<key id="tutorial_FarmSeed" value="Ek"/>
+<key id="tutorial_Produce" value="İşle"/>
+<key id="tutorial_intro" value="Yıldız Farm hoşgeldiniz. Sana çiftlik teslim etmeden önce, ben size gereken temel bazı becerileri öğretecek. Şimdi başlayalım!"/>
+<key id="unLockatlevel" value="Seviye {0}'da kilidini aç"/>
+<key id="unLockformoney" value="Kilit açma ücreti"/>
+<key id="unlockTrainConfirm" value="Küçük trenden iyi faydalanabilirsin, hemen onu tamir et!Tamir 16000 para harcamanıza gerek"/>
+<key id="unlock_battle" value="{0}'ı yenmek gerekir."/>
+<key id="upgradeToLevel" value="{0}.seviyeye ulaştın.3"/>
+<key id="user_sealed_forever" value="Üzgünüz, engellendiniz"/>  
+<key id="visitFriendButton" value="Ziyaret et"/>
+<key id="waiting" value="Bekleniyor..."/>
+<key id="warn" value="Uyarı"/>
+<key id="wood" value="Kereste"/>
+<key id="wool" value="Yün"/>
+<key id="workInProgressPopupAsk" value="Hızlandırmak için arkadaşları davet edin."/>
+<key id="workInProgressPopupFinish" value="{0}{points} kullanarak işlemi hemen tamamla"/>
+<key id="workInProgressPopupFinish1" value="Hemen bitir"/>
+<key id="workInProgressPopupOr" value="Veya"/>
+<key id="workshopIsFull" value="Bu makinenin kuyruğu dolu."/>
+<key id="workshopRipeFull" value="İşlenmiş ürün üst sınırda, lütfen önce alın."/>
+<key id="xinshoutitle" value="Başlangıç hediye paketi"/>
+<key id="zanInfo" value="Oyunumuzu seviyorsanız lütfen oyunun söl köşesinde ve hayran sayfasında &quot;beğendim&quot; butonuna tıklayın. Desteğiniz olmadan başaramayız!"/>
+<key id="zanInfo2" value="28 Nisan'a kadar gelen destek için teşekkür ederiz, size bir süprizimiz var! Hemen şimdi hareket et!"/>
+<key id="zanTitle" value="Gel ve bizi &quot;beğen&quot;!"/>
+<key id="zoomInTooltip" value="Büyüt"/>
+<key id="zoomOutTooltip" value="Küçült"/>
+<key id="LackResources" value="kaynak olmaması"/>
+<key id="EnergyAddPopouInfo" value="Gücü ekleyin! Arkadaşlar ekinler hasat Yardım, bir düşeş alabilirsiniz."/>
+<key id="EnergyAddPopouTitle" value="arkadaşlarını ziyaret"/>
+<key id="isVisitText" value="erişim Arkadaş"/>
+<key id="Windmill" value="fırıldak"/>
+<key id="ChildrenBallon" value="civciv Balon"/>
+<key id="Swing" value="çocuk salıncaklar"/>
+<key id="ChildrenSwing" value="Sonbahar salıncak"/>
+<key id="feed_230013_1_body" value="{0} yapılmış ekmek tükendi."/>
+<key id="feed_230013_2_body" value="{0} ekmek yapılan bir giriş, asla unutmak."/>
+<key id="feed_230013_3_body" value="{0} bunu severek annenin tadı hatırlamak yapar ekmek yapma."/>
+		 
+<key id="feed_230012_1_body" value="{0} çok yem küçük hayvanları üretti."/>
+<key id="feed_230012_2_body" value="Haha! {0} Ben şişman ve güçlü domuz haline domuz besleme üretimini yemek."/>
+<key id="feed_230012_3_body" value="{0} yeme yem üretimi, kediler ve köpekler size duygularını anlatacağım."/>
+		 
+<key id="feed_230014_1_body" value="{0} yapılan tereyağı tadı harika."/>
+<key id="feed_230014_2_body" value="Sürekli 5214 hafta uygun üretilen her gün {0} tereyağı yerseniz, 100 yaşında olduğu yaşayacak."/>
+<key id="feed_230014_3_body" value="İşe sekreter, olgun bayan gibi şeyler yapıyor, yetişkin bir adam gibi düşünüyorum."/>
+		 
+<key id="feed_230034_1_body" value="{0} Burada sarhoş yardımcı olamaz."/>
+<key id="feed_230034_2_body" value="{0}, muhtemelen dünyanın en iyi bira bira hazırlanmış."/>
+<key id="feed_230034_3_body" value="{0} şarap yayılmasını demlemek için kullanılır."/>
+<key id="feed_230034_4_body" value="{0} KIR ROYAL (Kraliyet Kiel) dışarı aktarılır, fantastik tadı."/>
+		 
+<key id="feed_230015_1_body" value="{0} ciromuzun yardım ikiye katlandı ile."/>
+<key id="feed_230015_2_body" value="{0} hafifçe temiz bölge size verecektir, şeker üretti."/>
+<key id="feed_230015_3_body" value="{0} hiçbir envanter o var olduğunu söylemek! Için üretim acele edin!"/>
+		 
+<key id="feed_230016_1_body" value="{0} patlamış mısır makinesi tamir ve lezzetli patlamış mısır üretebilirsiniz."/>
+<key id="feed_230016_2_body" value="{0} patlamış mısır ve filmler en çok yapmak."/>
+<key id="feed_230016_3_body" value="{0} Dünyada patlamış mısır satın almak."/>
+		 
+<key id="feed_230017_1_body" value="{0} katılmak yiyiciler Yıldız Farm ilk yarışı kazandı."/>
+<key id="feed_230017_2_body" value="Şimdi{0}üretilen bir hamburger yeme ve beri her gün yemek zorunda."/>
+<key id="feed_230017_3_body" value="{0}şunları söyledi:'Biz taze sağlıklı en tombul et satın alıyor, oh tatma hoş geldiniz!'"/>
+		 
+<key id="feed_230018_1_body" value="{0} ev teslim yardımcı olabilir."/>
+<key id="feed_230018_2_body" value="{0} daha sağlıklı, lezzetli pişmiş pasta yapmak."/>
+<key id="feed_230018_3_body" value="{0} sadece bitmiş temizlik, onu oturup gel!"/>
+<key id="feed_230018_4_body" value="{0} lezzetli bir pasta yapmak için tat eklemek için izin verebilirsiniz."/>
+		 
+<key id="feed_230024_1_body" value="{0} Paris Moda Haftası'nda sergilenen tasarımlarımı."/>
+<key id="feed_230024_2_body" value="{0} giysi tasarımcısı, dünyanın renkleri getirmek için!"/>
+<key id="feed_230024_3_body" value="{0} giysi tasarımcısı, önemli günler katılmak buna bağlıdır."/>
+<key id="feed_230024_4_body" value="{0} Tanrım demek! Yine benim elbiselerimi kaybetti."/>
+		 
+<key id="feed_230031_1_body" value="Yumurta-tarts {0} benim ilk aşk daha tatlı tadı yaptı."/>
+<key id="feed_230031_2_body" value="{0} yumurta tarts, bir aşk, bir görüyorum."/>
+<key id="feed_230031_3_body" value="{0} tüm tart satmak değil istiyor, o yüzden tadını çıkarabilirsiniz."/>
+		 
+<key id="feed_230032_1_body" value="{0} bizim parfüm ile, bir erkek arkadaşım yakında bulabilirsiniz."/>
+<key id="feed_230032_2_body" value="Karşı cinsi çekmek için en güçlü, {0} yapma parfüm satın, bu ürün promosyonlar ve kendini savunma ile bir ders kitabıdır."/>
+<key id="feed_230032_3_body" value="{0} parfüm yapma, bu koku uzun ömürlüdür."/>
+<key id="feed_230032_4_body" value="{0} kocası seni satın veya bir komşu bulmaya istemiyorsanız o!"/>
+<key id="feed_230032_5_body" value="Yaklaştı makyaj kadını {0} olmayın lütfen, o senin büyükanne olabilir."/>
+		 
+<key id="feed_230035_1_body" value="{0} inanılmaz biber aromalı şeker, dışarı yapılır."/>
+<key id="feed_230035_2_body" value="{0} yeme darphane üretilen, her biri daha mükemmel öpücük böylece."/>
+<key id="feed_230035_3_body" value="{0} yapma şeker, Allah bu iyi şeker olduğunu bilir."/>
+<key id="feed_230035_4_body" value="{0} iş denemek ister misiniz! Beni büyüleyen söyledi?"/>
+		 
+<key id="feed_230033_1_body" value="Yardım miktarı ile {0} katına oluşturun."/>
+<key id="feed_230033_2_body" value="{0} nadir cevher buldu"/>
+<key id="feed_230033_3_body" value="{0} iyi cevheri buldum."/>
+<key id="feed_230033_4_body" value="{0} iyi Yıldızlı Çiftliği Boilermakers seçildi."/>
+		 
+<key id="feed_230039_1_body" value="{0} kızarmış dondurma Gelin ve kendinizi zevk yaptı!"/>
+<key id="feed_230039_2_body" value="{0} sadece favori insanlar, yapılmış en iyi dondurma tatlar olduğunu."/>
+<key id="feed_230039_3_body" value="Gel ve özgür iseniz, benim çiftlik ziyaret edin."/>
+<key id="feed_230039_4_body" value="Ona / onu ona sormak Aşk / onu {0} yapılan dondurma yemeye."/>
+		 
+<key id="feed_230040_1_body" value="{0}, dünya çapında satılan suları yaptı."/>
+<key id="feed_230040_2_body" value="{0} suyu yapma, sen ağzına son damla içeceğim."/>
+<key id="feed_230040_3_body" value="Suyu {0} dağıtım, bir daha ve daha tatlı mayonez hatırlıyor."/>
+<key id="feed_230040_4_body" value="{0} size ücretsiz özel avukat yapmaya istekli olduğunu."/>
+
+<!--  新增 职位  -->
+<key id="crew_230013_1" value="ekmek Masters"/>																																																																																																																																																																																																																																																											
+<key id="crew_230013_2" value="ekmek Çıraklar"/>																																																																																																																																																																																																																																																											
+<key id="crew_230013_3" value="Fırın Müdürü"/>																																																																																																																																																																																																																																																											
+
+<key id="crew_230012_1" value="Besleme İşçiler"/>																																																																																																																																																																																																																																																											
+<key id="crew_230012_2" value="İşçi paketi"/>																																																																																																																																																																																																																																																											
+<key id="crew_230012_3" value="yem formülatör"/>																																																																																																																																																																																																																																																											
+
+<key id="crew_230014_1" value="kalite Müfettiş"/>																																																																																																																																																																																																																																																											
+<key id="crew_230014_2" value="satın alma müdürü"/>																																																																																																																																																																																																																																																											
+<key id="crew_230014_3" value="sekreter"/>																																																																																																																																																																																																																																																											
+
+<key id="crew_230034_1" value="sommelier"/>																																																																																																																																																																																																																																																											
+<key id="crew_230034_2" value="satış Müdürü"/>																																																																																																																																																																																																																																																											
+<key id="crew_230034_3" value="şarap üreticileri"/>																																																																																																																																																																																																																																																											
+<key id="crew_230034_4" value="barmen"/>																																																																																																																																																																																																																																																											
+
+<key id="crew_230015_1" value="Şeker üretimi müdürü"/>																																																																																																																																																																																																																																																											
+<key id="crew_230015_2" value="şeker Teknologları"/>																																																																																																																																																																																																																																																											
+<key id="crew_230015_3" value="Depo Müdürü"/>																																																																																																																																																																																																																																																											
+
+<key id="crew_230016_1" value="Mekanik tesisat bölümü"/>																																																																																																																																																																																																																																																											
+<key id="crew_230016_2" value="CFO"/>																																																																																																																																																																																																																																																											
+<key id="crew_230016_3" value="Insanların Satış"/>																																																																																																																																																																																																																																																											
+
+<key id="crew_230017_1" value="Süper yiyiciler"/>																																																																																																																																																																																																																																																											
+<key id="crew_230017_2" value="Barbekü Usta"/>																																																																																																																																																																																																																																																											
+<key id="crew_230017_3" value="satın alma müdürü"/>																																																																																																																																																																																																																																																											
+
+<key id="crew_230018_1" value="muhasebe"/>																																																																																																																																																																																																																																																											
+<key id="crew_230018_2" value="Fırında Pasta Masters"/>																																																																																																																																																																																																																																																											
+<key id="crew_230018_3" value="Temizleyiciler"/>																																																																																																																																																																																																																																																											
+<key id="crew_230018_4" value="dağıtımcı"/>																																																																																																																																																																																																																																																											
+
+<key id="crew_230024_1" value="Giyim Üretim Müdürü"/>																																																																																																																																																																																																																																																											
+<key id="crew_230024_2" value="renk Designer"/>																																																																																																																																																																																																																																																											
+<key id="crew_230024_3" value="moda Tasarımı"/>																																																																																																																																																																																																																																																											
+<key id="crew_230024_4" value="Giyim Alışveriş Rehberi"/>																																																																																																																																																																																																																																																											
+
+<key id="crew_230031_1" value="pazar Araştırmacılar"/>																																																																																																																																																																																																																																																											
+<key id="crew_230031_2" value="Ekipman Bakım Teknisyeni"/>																																																																																																																																																																																																																																																											
+<key id="crew_230031_3" value="Turtalar satış elemanı"/>																																																																																																																																																																																																																																																											
+
+<key id="crew_230032_1" value="Güzellik Parfüm Danışmanı"/>																																																																																																																																																																																																																																																											
+<key id="crew_230032_2" value="parfüm Modeli"/>																																																																																																																																																																																																																																																											
+<key id="crew_230032_3" value="Bölümü Parfüm Dağıtım"/>																																																																																																																																																																																																																																																											
+<key id="crew_230032_4" value="Sayaç alışveriş rehberi"/>																																																																																																																																																																																																																																																											
+<key id="crew_230032_5" value="Makyaj Sanatçı"/>																																																																																																																																																																																																																																																											
+
+<key id="crew_230035_1" value="COO"/>																																																																																																																																																																																																																																																											
+<key id="crew_230035_2" value="Finans Müdürü"/>																																																																																																																																																																																																																																																											
+<key id="crew_230035_3" value="satıcı"/>																																																																																																																																																																																																																																																											
+<key id="crew_230035_4" value="İnsan Kaynakları Müdürü"/>																																																																																																																																																																																																																																																											
+
+<key id="crew_230033_1" value="Mekanik Onarım Bölümü"/>																																																																																																																																																																																																																																																											
+<key id="crew_230033_2" value="cevher Değerleme Uzmanlığı"/>																																																																																																																																																																																																																																																											
+<key id="crew_230033_3" value="Cevher Satınalma Direktörü"/>																																																																																																																																																																																																																																																											
+<key id="crew_230033_4" value="Kotelshchik"/>																																																																																																																																																																																																																																																											
+
+<key id="crew_230039_1" value="Tatlı Pasta Bölümü"/>																																																																																																																																																																																																																																																											
+<key id="crew_230039_2" value="Haagen Çırak"/>																																																																																																																																																																																																																																																											
+<key id="crew_230039_3" value="garson"/>																																																																																																																																																																																																																																																											
+<key id="crew_230039_4" value="Fantezi Dondurma Çırak"/>																																																																																																																																																																																																																																																											
+
+<key id="crew_230040_1" value="Suyu Ar &amp; Ge Müdürü"/>																																																																																																																																																																																																																																																											
+<key id="crew_230040_2" value="Lojistik Müdürü"/>																																																																																																																																																																																																																																																											
+<key id="crew_230040_3" value="Bölümü Tat dağıtım"/>																																																																																																																																																																																																																																																											
+<key id="crew_230040_4" value="hukuk danışmanı"/>																																																																																																																																																																																																																																																											
+
+<key id="crew_friends"  value="Bir arkadaş kiralamak için"/>
+<key id="crew_friends_title"  value="İstihdam arkadaşlar"/>
+<key id="hire"  value="kiralama"/>
+<key id="need_hire"  value="Gerekli istihdam sayısı:{0}"/>
+<key id="help_people"  value="{0} diyor ki: {1} Ben insan gücüne ihtiyaç ve içtenlikle yardım gelebilir umuyoruz！"/>
+<key id="needCrew" value="Çalışanların bu makine ihtiyaçlarını , sağ çalışanları olmak için arkadaşlarınızı davet!"/>
+<key id="uncollected"  value="toplanmamış"/>
+<key id="SevendaysReward"  value="Giriş ödül"/>
+<key id="RechargeActivities"  value="Şarj faaliyetleri"/>
+<key id="RechargeActivitiesText"  value="Eğer fazladan % 50 olsun herhangi bir miktar şarj"/>
+<key id="lastTime"  value="kalan zaman:"/>
+	</module>
+</root>

@@ -1,0 +1,50 @@
+<Group id="helps">
+			       <help id="20001">
+			       		<step id="2000101" npc_teaching="" action_item="ui_main_button_pve" action_type="onclick" trigger_quest="0" panel="0" cursor="1_ui_main_button_pve" enforcement="1_ui_main_button_pve" map_display="0"/>
+					   		<step id="2000102" npc_teaching="" action_item="pveMap:senlin" action_type="onclick" trigger_quest="0" panel="0" cursor="2_pveMap:senlin" enforcement="2_pveMap:se" map_display="0"/>
+								<step id="2000103" npc_teaching="" action_item="island:2000001" action_type="onclick" trigger_quest="0" panel="0" cursor="2_island:2000001" enforcement="2_pveMap:se" map_display="0"/>
+						</help>
+						<help id="901">
+								<step id="90124" npc_teaching="0" action_item="building:220001" action_type="onclick" panel="0" cursor="1_building:220001" enforcement="0" map_display="0"/>
+			  		</help>
+			  		<help id="101">
+								<step id="10101" npc_teaching="0" action_item="building:220001" action_type="onclick" panel="0" cursor="1_building:220001" enforcement="0" map_display="0"/>
+			  		</help>
+			  		<help id="102">
+								<step id="10201" npc_teaching="0" action_item="garbage:600001" action_type="onclick" panel="0" cursor="1_garbage:600001" enforcement="0" map_display="0"/>
+			  		</help>
+            <help id="103">
+								<step id="10301" npc_teaching="0" action_item="building:220007" action_type="onclick" panel="0" cursor="1_building:220007" enforcement="0" map_display="0"/>
+			  		</help>
+			  		<help id="104">
+							<step id="10401" npc_teaching="0" action_item="ui_main_button_build" action_type="onclick" panel="0" cursor="1_ui_main_button_build" enforcement="0" map_display="0"/>
+							<step id="10402" npc_teaching="0" action_item="shopitem:230004" action_type="onclick" panel="0" cursor="1_shopitem:230004" enforcement="0" map_display="0"/>
+            </help>
+			  		<help id="105">
+							<step id="10501" npc_teaching="0" action_item="ui_main_button_build" action_type="onclick" panel="0" cursor="1_ui_main_button_build" enforcement="0" map_display="0"/>
+							<step id="10502" npc_teaching="0" action_item="shopitem:220001" action_type="onclick" panel="0" cursor="1_shopitem:220001" enforcement="0" map_display="0"/>
+            </help>
+            
+            <help id="11005">
+							<step id="1100501" npc_teaching="0" action_item="ui_main_button_map" action_type="onclick" panel="0" cursor="1_ui_main_button_map" enforcement="0" map_display="0"/>
+            </help>
+            
+            <help id="1049">
+							<step id="104901" npc_teaching="0" action_item="inviteFriendBtn" action_type="onclick" panel="0" cursor="1_inviteFriendBtn" enforcement="0" map_display="0"/>
+            </help>
+            <help id="105">
+							<step id="10501" npc_teaching="0" action_item="building:230004" action_type="onclick" panel="0" cursor="1_building:230004" enforcement="0" map_display="0"/>
+							<step id="10502" npc_teaching="0" action_item="ui_produce:920101" action_type="onclick" trigger_quest="0" panel="0" cursor="1_ui_produce:920101" enforcement="1_ui_produce:920101" map_display="0"/>
+						</help>   
+            <help id="11010">
+							<step id="1101001" npc_teaching="0" action_item="HorseRaceIcon" action_type="onclick" panel="0" cursor="1_HorseRaceIcon" enforcement="0" map_display="0"/>
+            </help>
+            
+             <help id="10031">
+							<step id="1003101" npc_teaching="0" action_item="ui_main_button_pvp" action_type="onclick" panel="0" cursor="1_ui_main_button_pvp" enforcement="0" map_display="0"/>
+            </help>
+             <help id="200001">
+							<step id="20000101" npc_teaching="0" action_item="ui_main_button_pve" action_type="onclick" panel="0" cursor="1_ui_main_button_pve" enforcement="0" map_display="0"/>
+            </help>
+     
+	</Group>

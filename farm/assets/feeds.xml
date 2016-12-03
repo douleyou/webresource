@@ -1,0 +1,48 @@
+﻿<Group id="feeds">
+	<!--//	package	类型，feed,request
+//		maxPosts	冷却时间内，最多发送次数
+//		timeTillReset	冷却时间，单位小时
+//		maxHostRewards	最多获得奖励的次数
+//		maxHostRewards	奖励的持续时间
+//		maxHelpers	最多可以有几个人帮助,不同的人
+//		type	奖励物品类型
+//		resource	资源类型
+//		amount	数量
+//		percent	加速的最大时间的百分比
+//		itemName	奖励的道具的id
+//		.....
+//		feedGroup 为feed组号。 具有相同feedGroup 的feed 共用冷却时间 和最多发送次数
+//		
+//		redirectType	回调跳转的页面 -->
+	<feeds id="1" icon="feed0001" type="feed" maxPosts="0" timeTillReset="0" maxHostRewards="5" expirationTime="48" maxHelpers="10" reward="resource" resource="coin" amount="50" percent="0" itemName="0" itemCode="0" reward2="resource" resource2="coin" amount2="50" itemName2="0" itemCode2="0" redirectreward="0" mailType="0"/>
+	<!--升级的feed(升级的时候弹窗关闭自动发送）-->
+	<feeds id="2" icon="feed0002" type="feed" maxPosts="0" timeTillReset="0" maxHostRewards="5" expirationTime="48" maxHelpers="10" reward="resource" resource="coin" amount="50" percent="0" itemName="0" itemCode="0" reward2="resource" resource2="coin" amount2="50" itemName2="0" itemCode2="0" redirectreward="0" mailType="0"/>
+	<!--仓库升级的feed(仓库升级自动发送）-->
+	<feeds id="3" icon="feed0003" type="feed" maxPosts="0" timeTillReset="0" maxHostRewards="5" expirationTime="48" maxHelpers="10" reward="resource" resource="coin" amount="50" percent="0" itemName="0" itemCode="0" reward2="resource" resource2="coin" amount2="50" itemName2="0" itemCode2="0" redirectreward="0" mailType="0"/>
+	<!--里程碑领取的feed(里程碑领取自动发送）-->
+	<feeds id="4" icon="feed0004" type="feed" maxPosts="0" timeTillReset="0" maxHostRewards="5" expirationTime="48" maxHelpers="10" reward="resource" resource="coin" amount="50" percent="0" itemName="0" itemCode="0" reward2="resource" resource2="coin" amount2="50" itemName2="0" itemCode2="0" redirectreward="0" mailType="0"/>
+	<!--粮仓升级的feed(粮仓升级自动发送）-->
+	<feeds id="5" icon="feed0005" type="feed" maxPosts="1" timeTillReset="12" maxHostRewards="1" feedGroup="1" expirationTime="48" maxHelpers="10" reward="resource" resource="item" amount="1" percent="0" itemName="0" itemCode="0" reward2="resource" resource2="coin" amount2="50" itemName2="0" itemCode2="0" redirectreward="0" mailType="0"/>
+	<!--feed(请求材料)-->
+	<feeds id="6" icon="feed0006" type="feed" maxPosts="1" timeTillReset="12" maxHostRewards="6" feedGroup="1" expirationTime="48" maxHelpers="10" reward="resource" resource="item" amount="1" percent="0" itemName="0" itemCode="0" reward2="resource" resource2="coin" amount2="50" itemName2="0" itemCode2="0" redirectreward="0" mailType="0"/>
+	<!--feed(请求作物)-->
+	<feeds id="7" icon="feed0007" type="feed" maxPosts="1" timeTillReset="12" maxHostRewards="3" feedGroup="1" expirationTime="48" maxHelpers="10" reward="resource" resource="item" amount="1" percent="0" itemName="0" itemCode="0" reward2="resource" resource2="coin" amount2="50" itemName2="0" itemCode2="0" redirectreward="0" mailType="0"/>
+	<!--feed(请求加工品)-->
+	<feeds id="8" icon="feed0008" type="feed" maxPosts="1" timeTillReset="12" maxHostRewards="0" expirationTime="48" maxHelpers="10" reward="" resource="" amount="1" percent="0" itemName="0" itemCode="0" reward2="" resource2="" amount2="50" itemName2="0" itemCode2="0" redirectreward="0" mailType="0"/>
+	<!--feed(小市场成功收获后关闭市场时发送)-->
+	<feeds id="9" icon="feed0009" type="feed" maxPosts="0" timeTillReset="0" maxHostRewards="10" expirationTime="48" maxHelpers="10" reward="resource" resource="coin" amount="50" percent="0" itemName="0" itemCode="0" reward2="resource" resource2="coin" amount2="50" itemName2="0" itemCode2="0" redirectreward="0" mailType="0"/>
+	<!--feed(10W粉丝活动领奖后发送feed)-->
+	<feeds id="10" icon="feed0010" type="feed" maxPosts="1" timeTillReset="12" maxHostRewards="10" expirationTime="48" maxHelpers="10" reward="resource" resource="coin" amount="50" percent="0" itemName="0" itemCode="0" reward2="resource" resource2="coin" amount2="50" itemName2="0" itemCode2="0" redirectreward="0" mailType="0"/>
+	<!--feed(10W粉丝活动分享消息)-->
+	<!--feed(推手机激活码feed)-->
+	<feeds id="11" icon="feed0011" type="feed" maxPosts="1" timeTillReset="12" maxHostRewards="10" expirationTime="48" maxHelpers="10" reward="resource" resource="coin" amount="50" percent="0" itemName="0" itemCode="0" reward2="resource" resource2="coin" amount2="50" itemName2="0" itemCode2="0" redirectreward="0" mailType="0"/>
+	<!--feed(推手机激活码)-->
+	<feeds id="12" icon="feed0012" type="feed" maxPosts="1" timeTillReset="12" maxHostRewards="10" expirationTime="48" maxHelpers="10" reward="resource" resource="coin" amount="50" percent="0" itemName="0" itemCode="0" reward2="resource" resource2="coin" amount2="50" itemName2="0" itemCode2="0" redirectreward="0" mailType="0"/>
+	<!--feed(天鹅)-->
+	<feeds id="13" icon="feed0013" type="feed" maxPosts="1" timeTillReset="12" maxHostRewards="3" expirationTime="48" maxHelpers="10" reward="resource" resource="item" amount="1" percent="0" itemName="0" itemCode="0" reward2="resource" resource2="coin" amount2="50" itemName2="0" itemCode2="0" redirectreward="0" mailType="0"/>
+	<!--feed(请求开地材料)-->
+	<feeds id="14" icon="feed0014" type="feed" maxPosts="1" timeTillReset="12" maxHostRewards="10" expirationTime="48" maxHelpers="10" reward="resource" resource="coin" amount="50" percent="0" itemName="0" itemCode="0" reward2="resource" resource2="coin" amount2="50" itemName2="0" itemCode2="0" redirectreward="0" mailType="0"/>
+	<!--成功捕捉猴子-->
+	<feeds id="15" icon="feed0015" type="feed" maxPosts="1" timeTillReset="12" maxHostRewards="10" expirationTime="48" maxHelpers="10" reward="resource" resource="coin" amount="50" percent="0" itemName="0" itemCode="0" reward2="resource" resource2="coin" amount2="50" itemName2="0" itemCode2="0" redirectreward="0" mailType="0"/>
+	<!--领取到抓猴子奖励-->
+</Group>

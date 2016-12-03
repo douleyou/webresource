@@ -1,0 +1,12 @@
+<Debug>
+  <config_url>/assets/game_env</config_url>
+  <game_text_url>/assets/local/text_zh.xml</game_text_url>
+  <game_props_url>/assets/game_setting</game_props_url>
+  <game_database_url>/assets/database.local.xml</game_database_url>
+  <game_ui_url>/assets/gameUI.swf</game_ui_url>
+  <help_url>/assets/help.xml</help_url>
+  <game_feed_url>/assets/feeds.xml</game_feed_url>
+  <game_quest_url>/assets/quest/quest.xml</game_quest_url>
+  <language>ZH</language>
+  <cache_buster>666666</cache_buster>
+</Debug>

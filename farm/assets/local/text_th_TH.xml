@@ -1,0 +1,1049 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root locale="zh_test" revision="1">
+	<module name="All">
+		<key id="100035_tips" value="200 ชิ้น{coin}"/>
+<key id="100036_tips" value="{essence} 100 ชิ้น"/>
+<key id="220001_tips" value="คุณจะได้รับกำไรจากการปลูกเกษตร้"/>
+<key id="About" value="เกี่ยวกับพวกเรา"/>
+<key id="AboutContent" value="ลิขสิทธิ์ของDoule\พัฒนาโดย nStarTech"/>
+<key id="ActivityLoginAwardTitle" value="ล็อคอินสะสม"/>
+<key id="ActivityLoginGetAward" value="ขอรับ"/>
+<key id="ActivityLoginMsg" value="ดาวฟาร์มจะมา! ในช่วงกิจกรรมถึงความต้องการบางอย่างที่คุณจะได้รับผลตอบแทนที่ดี! เริ่มต้นชีวิตในฟาร์มของคุณทันที!"/>
+<key id="ActivityLoginTime" value="ช่วงเวลากิจกรรม: วันที่ 16 พฤษภาคม 2013——วันที่ 30 พฤษภาคม 2013"/>
+<key id="ActivityLoginday" value="{0}วัน"/>
+<key id="ActivityLoginlevel" value="Lv{0}"/>
+<key id="ActivityPay1" value="กล่องของขวัญเติมเงิน"/>
+<key id="ActivityPay2" value="คุณเติมเงินสะสม"/>
+<key id="ActivityPay3" value="{0}{points}"/>
+<key id="ActivityPay4" value="รายละเอียดการเติมเงิน"/>
+<key id="Ale" value="เบียร์"/>
+<key id="Apple" value="แอปเปิ้ล"/>
+<key id="AppleJuice" value="น้ำแอปเปิ้ล"/>
+<key id="ApplePie" value="พายแอปเปิ้ล"/>
+<key id="AppleTree" value="ต้นแอปเปิ้ล"/>
+<key id="AppleTree_desc" value="เก็บสามครั้ง"/>
+<key id="ArenaStart" value="ท้าทาย"/>
+<key id="ArenaStart2" value="โอกาสมากขึ้น"/>
+<key id="ArenaStart3" value="ย่นระยะเวลา"/>
+<key id="ArenaTime" value="เวลารับ"/>
+<key id="ArenaTop" value="อันดับ"/>
+<key id="AskForHelp" value="ขอความช่วยเหล"/>
+<key id="BBQGrill" value="เตาย่างบาร์บีคิว"/>
+<key id="BBQGrill_desc" value="ผลิตอาหารปิ้งย่าง"/>
+<key id="BaconEgg" value="ไข่เบคอน"/>
+<key id="BaconPie" value="เบคอนพาย"/>
+<key id="BakedTomato" value="มะเขือเทศย่าง"/>
+<key id="Bakery" value="เครื่องแปรรูปขนมปัง"/>
+<key id="Bakery_desc" value="ผลิตอาหาร"/>
+<key id="BambooFence" value="รั้วไม้ไผ่"/>
+<key id="BambooFence_desc" value="ตกแต่ง ฟาร์มของคุณ"/>
+<key id="Banana" value="กล้วย"/>
+<key id="Beer" value="เบียร์"/>
+<key id="BeerMaker" value="เครื่องหมักเบียร์"/>
+<key id="BeerMaker_desc" value="ผลิตเบียร์"/>
+<key id="Bench" value="ม้านั่งยาว"/>
+<key id="BerryJuice" value="น้ำเบอร์รี่"/>
+<key id="Blackberry" value="แบล็คเบอร์รี่"/>
+<key id="Blackberry" value="แบล็คเบอร์รี่"/>
+<key id="BlackberryBread" value="ขนมปัง Blackberry"/>
+<key id="BlackberryCake" value="เค้กผลไม้ชนิดหนึ่ง"/>
+<key id="BlackberryTree" value="ต้นแบล็คเบอร์รี่"/>
+<key id="BlackberryTree_desc" value="เก็บสามครั้ง"/>
+<key id="Blacksmith_1" value="เบเกอรี่"/>
+<key id="BlueSweater" value="สเวตเตอร์สี"/>
+<key id="BlueWoollyHat" value="หมวกขนสัตว์สี"/>
+<key id="Box" value="กล่อง"/>
+<key id="Box_desc" value="ตกแต่ง ฟาร์มของคุณ"/>
+<key id="Bread" value="ขนมปัง"/>
+<key id="Bread_desc" value="สามารถขายได้"/>
+<key id="BrownRailings" value="รั้วสีน้ำตาล"/>
+<key id="BrownSugar" value="น้ำตาลแดง"/>
+<key id="Bucket" value="ถังเหล้า"/>
+<key id="Bucket_desc" value="ตกแต่ง ฟาร์มของคุณ"/>
+<key id="Butter" value="เนย"/>
+<key id="ButterPopcorn" value="ป็อปคอร์นเนย"/>
+<key id="CHANGE FARM NAME" value="แก้ไขชื่อเกษตรกร"/>
+<key id="HayStack" value="กองหญ้า"/>
+<key id="HayStack_desc" value="ตกแต่ง ฟาร์มของคุณ"/>
+<key id="Cage" value="กรง"/>
+<key id="CageMaker" value="กำลังสร้าง"/>
+<key id="CageMaker_desc" value="สร้างกรง"/>
+<key id="CakeOven" value="เครื่องอบเค้ก"/>
+<key id="CakeOven_desc" value="ผลิตเค้ก"/>
+<key id="Camp" value="เต็นท์"/>
+<key id="CandyMachine" value="เครื่องผลิตลูกอม"/>
+<key id="CandyMachine_desc" value="ผลิตลูกอม"/>
+<key id="Cane" value="อ้อย"/>
+<key id="Capsicum" value="พริก"/>
+<key id="Caramel" value="ลูกอมนม"/>
+<key id="Carrot" value="แครอท"/>
+<key id="CarrotCake" value="เค้กแครอท"/>
+<key id="CarrotJuice" value="น้ำแครอท"/>
+<key id="CarrotPie" value="พายแครอท"/>
+<key id="Cat" value="แมวลายเสือ"/>
+<key id="CatHouse" value="บ้านแมว"/>
+<key id="CatHouse_desc" value="สามารถเลี้ยงแมว 3 ตัว"/>
+<key id="Cat_desc" value="สามารถเก็บเกี่ยว XP"/>
+<key id="Cheese" value="ชีส"/>
+<key id="CheeseCake" value="ชีสเค้ก"/>
+<key id="Cherry" value="ต้นเชอร์รี่"/>
+<key id="Cherry" value="เชอร์รี่"/>
+<key id="CherryCake" value="เค้กเชอรี่"/>
+<key id="CherryJuice" value="น้ำเชอร์รี่"/>
+<key id="CherryTree" value="ต้นเชอร์รี่"/>
+<key id="CherryTree_desc" value="เก็บสามครั้ง"/>
+<key id="Chick" value="แม่ไก่"/>
+<key id="ChickHouse" value="เล้าไก่"/>
+<key id="ChickHouse_desc" value="สามารถเลี้ยงไก่ 6 ตัว"/>
+<key id="Chick_desc" value="ไข่ไก่/20 นาที"/>
+<key id="ChilliPopcorn" value="ป๊อปคอร์นพริกไทย"/>
+<key id="Chocolate" value="ช็อคโกแลต"/>
+<key id="ChocolateIceCream" value="ไอศกรีมชอคโกแลต"/>
+<key id="Citruslimon" value="มะนาว"/>
+<key id="CitruslimonTree" value="ต้นเลมอน"/>
+<key id="CitruslimonTree_desc" value="เก็บ 3 คร"/>
+<key id="CityActivity1" value="ยินดีต้อนรับเข้าสู่เกมฟาร์มมหาสนุก"/>
+<key id="CityActivity2" value="จำนวนเพชรที่สามารถรับทั้งหมด"/>
+<key id="CityActivity3" value="ครั้งนี้สามารถรับ"/>
+<key id="CityActivity3_2" value="ครั้งต่อไปสามารถรับ"/>
+<key id="CityActivity4" value="ระยะเวลาในการรับครั้งถัดไป:"/>
+<key id="CityActivityBtnTip" value="รางวัลพิเศษเฉพาะ Citylife"/>
+<key id="CityActivityEnd" value="คุณรับเพชรรางวัลไปหมดแล้ว รีบไปสร้างอะไรใหม่ๆ ที่ฟาร์มสิ!"/>
+<key id="CityActivityInfo" value="ท่านเจ้าของฟาร์มที่เคารพ เพื่อให้คุณได้รับความสนุกจากชีวิตชนบทที่แสนสงบ พวกเราจึงได้เตรียมของขวัญสุดพิเศษเป็นเพชรห่อใหญ่ให้กับคุณ! อย่าลืมรีบมารับไปล่ะ~"/>
+<key id="Cocktail" value="ค็อกเทล"/>
+<key id="Coco" value="โกโก้"/>
+<key id="CocoTree" value="ต้นโกโก้"/>
+<key id="CocoTree_desc" value="เก็บ 3 ครั้ง"/>
+<key id="Cocoa" value="โกโก้"/>
+<key id="CocoaTree" value="ต้นโกโก้"/>
+<key id="CocoaTree_desc" value="เก็บสามครั้ง"/>
+<key id="Coming Soon" value="กรุณาติดตามความคืบหน้า"/>
+<key id="Coming" value="ลิงน้อยแสนสนกำลังจะมาเยือนยังฟาร์มของคุณแล้ว"/>
+<key id="CompleteOrder" value="รางวัลความสำเ"/>
+<key id="Cookies" value="คุ๊กกี้"/>
+<key id="Corn" value="ข้าวโพด"/>
+<key id="Cow" value="วัวนม"/>
+<key id="CowHouse" value="คอกวัว"/>
+<key id="CowHouse_desc" value="สามารถเลี้ยงวัวนม 5 ตัว"/>
+<key id="Cow_desc" value="นมวัว/1 ชั่วโมง"/>
+<key id="Cream" value="เนย"/>
+<key id="CreamCake" value="บัตเตอร์เค้ก"/>
+<key id="Cream_desc" value="สามารถขายได้"/>
+<key id="CurrentRank" value="ลำดับที่ขณะนี้"/>
+<key id="Dairy" value="โรงงานทำผลิตภัณฑ์นม"/>
+<key id="Dairy_desc" value="ผลิตผลิตภัณฑ์นม"/>
+<key id="Decoration_desc" value="ตกแต่งบ้านของคุณ"/>
+<key id="Discount0904_buy_btn" value="ซื้อทันที"/>
+<key id="Discount0904_text_0" value="แคมเปญพิเศษ"/>
+<key id="Discount0904_text_1" value="เหลืออีก:"/>
+<key id="Discount0904_text_2" value="วัน"/>
+<key id="Discount0904_text_3" value="ราคาปกติ:8"/>
+<key id="Discount0904_text_4" value="ตอนนี้ราคาแค่:"/>
+<key id="Discount0904_text_5" value="4"/>
+<key id="Dog" value="สุนัขล่าสัตว์"/>
+<key id="DogHouse" value="บ้านสุนัข"/>
+<key id="DogHouse_desc" value="สามารถเลี้ยงสุนัข 3 ตัว"/>
+<key id="Dog_desc" value="สามารถเก็บเกี่ยว XP"/>
+<key id="DoubleLayerCake" value="เค๊กสองชั้น"/>
+<key id="EndInvite_text_0" value="สังเกตดาวน์ไลน์กิจกรรมรหัสเชิญ"/>
+<key id="EndInvite_text_1" value="กิจกรรมรหัสเชิญจะจบวันให้หลัง เพื่อนๆ ทุกคนรีบแบ่งปันรหัสเชิญให้เพื่อนที่เล่น 《เกมฟาร์มมหาสนุก》 เวอร์ชันมือถือสิสิ หลังจากที่ใช้รหัสเชิญเสร็จเรียบร้อยแล้ว ทั้งคุณและเพื่อนก็จะได้รับรางวัลมากมายเลยด้วยนะ! ข้อควรจำ ผู้เล่นทุกคนสามารถใช้รหัสเชิญได้คนละ 1 ครั้งเท่านั้น!~"/>
+<key id="EndInvite_text_2" value="แบ่งปัน"/>
+<key id="EndInvite_text_3" value="กรอก"/>
+<key id="EndInvite_text_4" value="ขอรับ"/>
+<key id="EndInvite_text_5" value="1.ก๊อปปี้รหัสเชิญของ《เกมฟาร์มมหาสนุก》เวอร์ชัน pc"/>
+<key id="EndInvite_text_6" value="2.แบ่งปันให้เพื่อนที่ใช้ 《เกมฟาร์มมหาสนุก》 เวอร์ชันมือถือ"/>
+<key id="EndInvite_text_7" value="3.รับรางวัล"/>
+<key id="EndInvite_text_8" value="เหลืออีก:"/>
+<key id="EndInvite_text_9" value="วัน"/>
+<key id="FACEBOOK-CONNECT" value="เชื่อมต่อกับfacebook"/>
+<key id="FanPageRewardBtn" value="ขอรับ" />
+<key id="FanPageRewardInfo" value="ใส่กำแพงแฟน ๆ ที่จะร่วมกันโพสต์ของเราและคลิกลิงก์ที่เหมาะสมในการโพสต์แล้วคุณจะได้รับรางวัล!" /> 
+<key id="FanPageRewardTitle" value="ของรางวัลทุกวัน!" /> 
+<key id="Farm" value="แปลงเกษตร"/>
+<key id="Farm_desc" value="ปลูกพืช"/>
+<key id="FeedMill" value="เครื่องแปรรูปอาหารสัตว์"/>
+<key id="FeedMill_desc" value="ผลิตอาหารสัตว์"/>
+<key id="FlowerCar" value="ลอยตัว"/>
+<key id="FlowerPot" value="กระถางต้นไม้"/>
+<key id="FlowerPot_desc" value="ตกแต่ง ฟาร์มของคุณ"/>
+<key id="Follow Count" value="จำนวนเพื่อน"/>
+<key id="FoodNotEnoughTip" value="อาหารไม่เพียงพอที่จะเลี้ยง"/>
+<key id="FreshHay" value="ฟางสด"/>
+<key id="FruitJuice" value="เครื่องผลิตน้ำผลไม้"/>
+<key id="FreshHay_desc" value="ตกแต่ง ฟาร์มของคุณ"/>
+<key id="FruitJuice_desc" value="ผลิตน้ำผลไม้"/>
+<key id="Garden" value="แปลงดอกไม้"/>
+<key id="Garden_desc" value="ตกแต่ง ฟาร์มของคุณ"/>
+<key id="GetNow" value="Get Now"/>
+<key id="Gloves" value="ถุงมือ"/>
+<key id="Goat" value="แพะ"/>
+<key id="GoatCheese" value="ชีสนมแพะ"/>
+<key id="GoatHouse" value="คอกแพะ"/>
+<key id="GoatHouse_desc" value="สามารถเลี้ยงแพะได้ "/>
+<key id="GoatMilk" value="นมแพะ"/>
+<key id="GoatPie" value="พายชีสนมแพะ"/>
+<key id="Goat_desc" value="นมแพะ/8 ชั่วโ"/>
+<key id="GoldBar" value="ทองแท่ง"/>
+<key id="GoldOre" value="แร่ทองคำ"/>
+<key id="Grape" value="องุ่น"/>
+<key id="GrapeJuice" value="ไวน์องุ่น"/>
+<key id="GrapeLemonJuice" value="น้ำหอมองุ่นมะนาว"/>
+<key id="GrapeTree" value="เถาองุ่น"/>
+<key id="GrapeTree_desc" value="เก็บสามครั้ง"/>
+<key id="GreenHaystack" value="กองฟางสีเขียว"/>
+<key id="GreenHaystack_desc" value="ตกแต่ง ฟาร์มของคุณ"/>
+<key id="GreenStack" value="กำแพงพุ่มไม้สีเขียว"/>
+<key id="HELP AND FEEDBACK" value="ช่วยเหลือและแนะนำติชม"/>
+<key id="HTFansInfo1" value="การรวมตัวครั้งใหญ่ของแฟนเกม 300,000 คน!"/>
+<key id="HTFansInfo2" value="ช่วงเวลากิจกรรม:เมื่อมีแฟนเกมถึง 300,000 คนสามารถรับรางวัลได้ภายใน 2 วัน"/>
+<key id="HTFansInfo3" value="เพื่อน ๆ ที่รัก, สตาร์ฟาร์มต้อนรับฉบับของ 300,000 แฟน! คุณจะตื่นเต้น? ด้วยการสนับสนุนของคุณเราให้เพิ่มประสิทธิภาพการทำงานของสตาร์ฟาร์ม กรุณาให้ความสนใจใกล้เคียงกับเกมของเราและผนังแฟน
+โปรดติดตามเกมและแฟนเพจของพวกเราต่อไปนะ!"/>
+<key id="HTFansInfo5" value="ถ้าหากคุณรู้สึกตื่นเต้นกับข่าวนี้แล้วล่ะก็ แบ่งปันให้เพื่อนๆ รู้ด้วยสิ!"/>
+<key id="HTFansInfo6" value="แสดงความเคารพ"/>
+<key id="Hamburger" value="แฮมเบอร์เกอร์"/>
+<key id="Here you will find people following you!" value="ที่นี่คุณจะพบคนที่ร่วมเดินทางไปกับคุณ!"/>
+<key id="RomanPillar" value="เสาโรมัน"/>
+<key id="IceCreamMaker" value="เครื่องทำไอศกรีม"/>
+<key id="IceCreamMaker_desc" value="ผลิตไอศกร"/>
+<key id="Language" value="เลือกภาษา"/>
+<key id="Lavender" value="ลาเวนเดอร์"/>
+<key id="LavenderPerfume" value="น้ำหอมดอกลาเวนเดอร์"/>
+<key id="Leaving" value="เจ้าลิงน้อยจะขโมยของของคุณ! รีบไปจับมัน!"/>
+<key id="LemonPopsicle" value="ไอติมมะนาว"/>
+<key id="Level" value="เลเวล"/>
+<key id="LevelUpNewsStr" value="new!"/>
+<key id="Lily" value="ลิลลี่สีขาว"/>
+<key id="LilyPerfume" value="น้ำหอมดอกลิลลี"/>
+<key id="LoadCargo" value="บรรจุสิน"/>
+<key id="Loom" value="เครื่องทอผ้า"/>
+<key id="Loom_desc" value="เสื้อถัก"/>
+<key id="Lupulus" value="ดอกฮอพส์"/>
+<key id="MashedPotato" value="มันบดอบ"/>
+<key id="MaterialStorage" value="โกดัง"/>
+<key id="MintJelly" value="เยลลี่มินท์"/>
+<key id="MintSugar" value="ลูกอมมินท์"/>
+<key id="Mintgrass" value="สะระแหน่"/>
+<key id="MobileActivity_1" value="กิจกรรมรหัสเชิญ"/>
+<key id="MobileActivity_2" value="แบ่งปัน"/>
+<key id="MobileActivity_3" value="กรอก"/>
+<key id="MobileActivity_4" value="ขอรับ"/>
+<key id="MobileActivity_5" value="ตั้งแต่วันนี้เป็นต้นไป กรอกรหัส【{0}】ที่【เกมส์ฟาร์มมหาสนุก】เวอร์ชัน  Android ก็รับของขวัญสุดคุ้มค่าไปได้เลย!"/>
+<key id="MobileActivity_6" value="ดาวโหลดน์【เกมฟาร์มมหาสนุก】เวอร์ชันท์มือถือ, กรอกรหัสเชิญของเพื่อน, รับรางวัลสุดคุ้มค่าไปเลยทันที!"/>
+<key id="MobileActivity_8" value="รหัสเชิญของคุณถูกใช้ไป 1 ครั้ง, คุณได้รับ:"/>
+<key id="MobileActivity_9" value="ยังสามารถรับเพิ่มได้อีกด้วยการสะสมจำนวนครั้งการใช้รหัสเชิญนะ!"/>
+<key id="MobileActivity_copyBtn" value="ทำซ้ำ"/>
+<key id="MobileActivity_copyOK" value="ก้อปปี้สำเร็จ"/>
+<key id="MobileActivity_stateBtn" value="ตรวจสอบรหัสเชิญของฉัน"/>
+<key id="MobileActivity_times" value="ใช้สำเร็จ {0} ครั้ง"/>
+<key id="MyFarm" value="ฟาร์มของฉัน"/>
+<key id="Name" value="ชื่อผู้เล่น"/>
+<key id="Next page" value="หน้าต่อไป"/>
+<key id="Ore" value="แร่"/>
+<key id="Page up" value="หน้าที่แล้ว"/>
+<key id="Pavilion" value="ศาลา"/>
+<key id="Pavilion_desc" value="ตกแต่ง ฟาร์มของคุณ"/>
+<key id="Paycash" value="จ่าย{0}{points}"/>
+<key id="Paycash1" value="เติมวัตถุดิบจ่าย{0}"/>
+<key id="PerfumeMaker" value="เครื่องทำน้ำหอม"/>
+<key id="PerfumeMaker_desc" value="ผลิตน้ำหอม"/>
+<key id="PieOven" value="เครื่องแปรรูปพาย"/>
+<key id="PieOven_desc" value="พายอบ"/>
+<key id="Pig" value="หมู"/>
+<key id="PigHouse" value="คอกหมู"/>
+<key id="PigHouse_desc" value="สามารถเลี้ยงหมู 5 ตัว"/>
+<key id="Pig_desc" value="เบคอน/4 ชั่วโมง"/>
+<key id="Pizza" value="แพนเค้กแบบบาง"/>
+<key id="PlatinumBar" value="แท่งแพลตินั่ม"/>
+<key id="PlatinumOre" value="แร่แพลตินัม"/>
+<key id="Popcorn" value="ป๊อปคอร์น"/>
+<key id="PopcornPot" value="เครื่องแปรรูปป๊อปคอร์น"/>
+<key id="PopcornPot_desc" value="ผลิตป๊อปคอร์น"/>
+<key id="Potato" value="มันฝรั่ง"/>
+<key id="PotatoPie" value="พายมันหวาน"/>
+<key id="Preferential_1" value="ลดพิเศษ"/>
+<key id="Preferential_2" value="รับไอเทมตามรายการด้านล่างนี้ทั้งหมดด้วยราคาถูกสุดๆ"/>
+<key id="Preferential_3" value="แนะนำ:ซื้อได้ก่อนเลเวล 8"/>
+<key id="Preferential_4" value="ราคาเดิม $10, ตอนนี้เพียงแค่..."/>
+<key id="Preferential_5" value="ซื้อทันที"/>
+<key id="Pumpkin" value="ฟักทอง"/>
+<key id="PumpkinPie" value="พายฟักทอง"/>
+<key id="PvePopupProgress" value="{0}/{1}"/>
+<key id="Rabbit" value="กระต่าย"/>
+<key id="RabbitFur" value="ขนกระต่าย"/>
+<key id="RabbitHouse" value="รังกระต่าย"/>
+<key id="RabbitHouse_desc" value="สามารถยกห้ากระต่าย"/>
+<key id="Rabbit_desc" value="ขนกระต่าย/9 ชั่วโมง"/>
+<key id="RainbowCandy" value="น้ำตาลสีรุ้ง"/>
+<key id="Raspberry" value="พุ่มเบอรี่"/>
+<key id="RaspberryBread" value="ขนมปังราสเบอรี่"/>
+<key id="Receive" value="ขอรับ"/>
+<key id="ReceiveSuc" value="รับสำเร็จ"/>
+<key id="Received" value="ได้รับแล้ว"/>
+<key id="Rose" value="ดอกกุหลาบ"/>
+<key id="RosePerfume" value="น้ำหอมดอกกุหลาบ"/>
+<key id="RoundBed" value="แปลงดอกไม้ทรงกลม"/>
+<key id="RoundBed_desc" value="ตกแต่ง ฟาร์มของคุณ"/>
+<key id="RubberDuck" value="เป็ดยาง"/>
+<key id="Scarecrow" value="หุ่นไล่กา"/>
+<key id="Scarecrow_desc" value="ตกแต่ง ฟาร์มของคุณ"/>
+<key id="Scarf" value="ผ้าพันคอ"/>
+<key id="SeedStorage" value="ยุ้งฉาง"/>
+<key id="Shawl" value="ผ้าคลุมไหล่"/>
+<key id="Sheep" value="แกะ"/>
+<key id="SheepHouse" value="คอกแกะ"/>
+<key id="SheepHouse_desc" value="สามารถเลี้ยงแกะ 5 ตัว"/>
+<key id="Sheep_desc" value="ขนแกะ/6 ชั่วโมง"/>
+<key id="SilverBar" value="แท่งเงิน"/>
+<key id="SilverOre" value="แร่เงิน"/>
+<key id="Slides" value="กระดานเลื่อนในสนามเด็กเล่น"/>
+<key id="SmallChair" value="เก้าอี้ริมทาง"/>
+<key id="Smelter" value="เครื่องผลิตแร่"/>
+<key id="Smelter_desc" value="ผลิตแร่"/>
+<key id="SnowBoots" value="รองเท้าลุยหิมะ"/>
+<key id="Sold" value="ขาย"/>
+<key id="Soybean" value="ถั่วแระ"/>
+<key id="Squirrel" value="กระรอก"/>
+<key id="SquirrelHouse" value="บ้านต้นไม้"/>
+<key id="SquirrelHouse_desc" value="บ้านต้นไม้"/>
+<key id="Squirrel_desc" value="สามารถเก็บเกี่ยว XP"/>
+<key id="StopBuildingWorkButton" value="หยุดการผลิต"/>
+<key id="StoreRoad" value="ถนนปูหิน"/>
+<key id="StoreRoad_desc" value="ตกแต่ง ฟาร์มของคุณ"/>
+<key id="StoreWall" value="กำแพงหิน"/>
+<key id="StoreWall_desc" value="ตกแต่ง ฟาร์มของคุณ"/>
+<key id="Straw" value="ฟางข้าว"/>
+<key id="Strawberry" value="สตรอเบอร์รี่"/>
+<key id="Strawberry" value="สตรอเบอร์รี่"/>
+<key id="StrawberryCake" value="เค้กสตอเบอร์รี่"/>
+<key id="StrawberryIceCream" value="ไอศครีมสตรอเบอร์รี่"/>
+<key id="StrawberryTree" value="เมล็ดสตอเบอรี่"/>
+<key id="StrawberryTree_desc" value="เก็บสามครั้ง"/>
+<key id="StreetLamp" value="ไฟถนน"/>
+<key id="StreetLamp_desc" value="ตกแต่ง ฟาร์มของคุณ"/>
+<key id="SugarMill" value="เครื่องแปรรูปน้ำตาล"/>
+<key id="SugarMill_desc" value="ผลิตน้ำตาล"/>
+<key id="Sugus" value="น้ำตาลสวิส"/>
+<key id="Swan" value="หงษ์"/>
+<key id="SwanAnnounce_text_0" value="พบกับหงษ์"/>
+<key id="SwanAnnounce_text_1" value="ถึง 25 ชั่วโมง"/>
+<key id="SwanAnnounce_text_2" value="ปลดล็อคหงษ์"/>
+<key id="SwanAnnounce_text_3" value="เก็บผลผลิต"/>
+<key id="SwanFeather" value="ขนหงษ์"/>
+<key id="SwanLake" value="บึงหงษ์"/>
+<key id="SwanLake_desc" value="สามารถเลี้ยงหงษ์ 4 ตัว"/>
+<key id="Swan_desc" value="กำมะหยี่/7 ชั่วโมง"/>
+<key id="Sweater" value="เสื้อไหมพรมสีขาว"/>
+<key id="Syrup" value="น้ำเชื่อม"/>
+<key id="TOPlevel" value="20 ลำดับแรก"/>
+<key id="TheArenaRewards" value="รางวัลลำดับที่"/>
+<key id="TicketPopouInfo" value="บัตรกำนัลสามารถได้โดยการเปิดหีบสมบัติและจบคำสั่งซื้อรถพิเศษและคุณสามารถแลกเปลี่ยนรายการพิเศษโดยใช้บัตรกำนัล "/>
+<key id="TicketPopouTitle" value="ตั๋วแลกเปลี่ยน"/>
+<key id="Toaster" value="ขนมปังปิ้งแผ่นหนา"/>
+<key id="Tomato" value="มะเขือเทศ"/>
+<key id="TomatoJuice" value="น้ำมะเขือเทศ"/>
+<key id="Tortillas" value="ขนมปังข้าวโพด"/>
+<key id="TrainLeave" value="รถไฟออกเดินทา"/>
+<key id="TrainRepair" value="ซ่อมแซม"/>
+<key id="TrainScoreFriR" value="ลำดับของเพื" />
+<key id="TrainScoreInfo" value="ดวงอาทิตย์อาจจะได้รับ" />
+<key id="TrainScoreInfo2" value="อันดับที่สูงขึ้นดี" />
+<key id="TrainScoreSevR" value="ลำดับรว" />
+<key id="TrainScoreTitle" value="ลำดับคะแน" />
+<key id="TreeHouse" value="บ้านต้นไม้"/>
+<key id="UnitConfiguration_1" value="บันทึกการตั้งค่า"/>
+<key id="UpgradePackage_1" value="รางวัลอัพเกรด"/>
+<key id="UpgradePackage_2" value="ตั้งแต่ตอนนี้เป็นต้นไป แค่มีเลเวลถึงที่กำหนดก็รับของขวัญไปได้เลย"/>
+<key id="VanillaIceCream" value="ไอศครีมวานิลลา"/>
+<key id="Well" value="ฟังก์ชั่นน้ำพุอ"/>
+<key id="Wheat" value="ข้าวสาลี"/>
+<key id="Wheelbarrow" value="รถเข็น"/>
+<key id="Wheelbarrow_desc" value="ตกแต่ง ฟาร์มของคุณ"/>
+<key id="WhiteRailings" value="รั้วสีขาว"/>
+<key id="WhiteSugar" value="น้ำตาลทราย"/>
+<key id="YellowHaystack" value="กองฟางสีเหลือง"/>
+<key id="YellowHaystack_desc" value="ตกแต่ง ฟาร์มของคุณ"/>
+<key id="accept" value="ยอมรับ"/>
+<key id="access_waring" value="ผู้ใช้เต็มแล้ว!!!!"/>
+<key id="accountNotice" value="{0}เพิ่ม{1}"/>
+<key id="achievement1" value="ฉันชอบกินไข่ไก่"/>
+<key id="achievement10" value="เนยแสนอร่อย"/>
+<key id="achievement11" value="ฟาร์มทั้งหมด"/>
+<key id="achievement12" value="ชาวนาผู้มีรัก"/>
+<key id="achievement13" value="พ่อค้า"/>
+<key id="achievement14" value="เพื่อนเกษตรกรของเพื่อน"/>
+<key id="achievement15" value="ไข่ไก่เยอะๆ"/>
+<key id="achievement16" value="น้ำนมเยอะๆ"/>
+<key id="achievement17" value="เบคอนเยอะๆ"/>
+<key id="achievement18" value="ผลผลิตเยอะๆ"/>
+<key id="achievement2" value="ฉันชอบดื่มนมวัว"/>
+<key id="achievement3" value="ผู้เชี่ยวชาญคำสั่ง"/>
+<key id="achievement4" value="ฉันชอบเลี้ยงไก่"/>
+<key id="achievement5" value="ฉันชอบวัว"/>
+<key id="achievement6" value="ฉันคือผู้เชี่ยวชาญข้าวสาลี"/>
+<key id="achievement7" value="ระเบิดข้าวโพด"/>
+<key id="achievement8" value="ฉันมีหัวไชเท้า"/>
+<key id="achievement9" value="ขนมปังน่าจะมี"/>
+<key id="achievements" value="ความสำเร็จ"/>
+<key id="addFriend" value="เพิ่มเพื่อน"/>
+<key id="addFriendSuccess" value="ส่งคำเชิญให้เพื่อนสำเร็จ"/>
+<key id="addFriendfail" value="ไม่มีเพื่อน ID นี้"/>
+<key id="addPet" value="ใหม่"/>
+<key id="addToFriend" value="เพิ่มเพื่อน"/>
+<key id="agateX10" value="เงินx10"/>
+<key id="agree" value="ยอมรับ"/>
+<key id="alertInfo" value="ตกลงใช้{0}เพชร?"/>
+<key id="allalreayplaced" value="วางหมดแล้ว"/>
+<key id="and" value="และ"/>
+<key id="application" value="คำขอขยายพื้นที่"/>
+<key id="askFeedmsg" value="ขอของขวัญ"/>
+<key id="askForhelpButton" value="ขอความช่วยเหลือ"/>
+<key id="ask_help" value="เพื่อนช่วย"/>
+<key id="askforfriend" value="ขอจากเพื่อน"/>
+<key id="axe" value="ขวาน"/>
+<key id="back" value="ย้อนกลับ"/>
+<key id="bacon" value="เบคอน"/>
+<key id="bagsheet_1" value="สิ่งก่อสร้าง"/>
+<key id="bagsheet_2" value="ของตกแต่ง"/>
+<key id="bagsheet_6" value="แร่"/>
+<key id="bagsheet_7" value="วัตถุดิบ"/>
+<key id="bagsheet_8" value="กระเป๋าเป้"/>
+<key id="battleMapInition" value="กำลังเตรียม"/>
+<key id="bolt" value="น็อตตัวใหญ่"/>
+<key id="bomb" value="ลูกระเบิด"/>
+<key id="bonusCoinText" value="รางวัล:+{0}{coin}!"/>
+<key id="build" value="ร้านค้า"/>
+<key id="buildSheetText_0" value="แปลงปลูก/คอกสัตว์"/>
+<key id="buildSheetText_1" value="เมล็ดพันธุ์/สัตว์เลี้ยง"/>
+<key id="buildSheetText_2" value="โกดัง/เครื่องแปรรูป"/>
+<key id="buildSheetText_3" value="ไม้ผล"/>
+<key id="buildSheetText_4" value="ของตกแต่ง"/>
+<key id="buildingNotReadyToClick" value="กำลังก่อสร้างอาคาร"/>
+<key id="buildingStatusClearing" value="กำลังทำงาน"/>
+<key id="buildingStatusFinishing" value="กำลังจบการก่อสร้าง"/>
+<key id="buildingStatusGetting" value="กำลังหยิบ"/>
+<key id="buildingStatusHarvesting" value="กำลังเก็บเกี่ยว"/>
+<key id="buildingStatusPouring" value="กำลังก่อสร้าง"/>
+<key id="buildingStatusProducting" value="พร้อม"/>
+<key id="building_click_collect" value="รวบรวม"/>
+<key id="building_click_finish" value="เสร็จทันที"/>
+<key id="building_click_move" value="ย้าย"/>
+<key id="building_click_upgrade" value="อัพเกรด"/>
+<key id="building_click_upgrade2" value="ตลาด"/>
+<key id="buy" value="ร้านค้า"/>
+<key id="buyAllUseMoney" value="ซื้อทั้งหมด{0}"/>
+<key id="buyEnergyBtn" value="ซื้อ{energy}"/>
+<key id="buyForSomeMoney" value="{0}"/>
+<key id="buyMachine_action" value="สร้างเครื่องจักร {0} เครื่อง"/>
+<key id="buyMineConfirm" value="สามารถใช้ระเบิดเล็ก,ลูกระเบิดและจอบเพื่อหาแร่ที่เหมือง! ใช้ 26000 เหรียญทองเปิดใช้เหมือง!"/>
+<key id="buySomeResource" value="ซื้อ{0}{1}"/>
+<key id="buycash" value="ขออภัย, คุณเหลือ{points}ไม่พอสำหรับการซื้อครั้งนี้, คุณต้องการเติมเงินหรือไม่?"/>
+<key id="buyforcash1" value="ใช้{point}ซื้อ"/>
+<key id="buyformoney" value="ใช้"/>
+<key id="buyforresource" value="ซื้อ"/>
+<key id="canNotHelpToday" value="ช่วยเพื่อนของคุณในวันพรุ่งนี้"/>
+<key id="canReward" value="ยินดีด้วย คุณสามารถรับรางวัลความสำเร็จได้แล้ว"/>
+<key id="cancel" value="ยกเลิก"/>
+<key id="cantThief" value="ขอขอบคุณคุณไม่จำเป็นที่จะช่วยให้สำหรับตอนนี้"/>
+<key id="cashChestAction" value="เปิดหีบสมบัติ"/>
+<key id="chickfood" value="อาหารไก่"/>
+<key id="chickfood_desc" value="เลี้ยงแม่ไก่"/>
+<key id="chooseCardLose" value="คุณมีโอกาสหยิบการ์ด 0 ครั้ง"/>
+<key id="chooseCardWin" value="คุณมีโอกาสเลือกไพ่ 1 ครั้ง"/>
+<key id="cleanupText" value="ขุด{0}ทิ้งได้รับ{1}{coin}แล้ว"/>
+<key id="clear" value="กำจัด"/>
+<key id="clickToCleanTip" value="คลิกจัดการขยะบนพื้น"/>
+<key id="clickToCleanupTip" value="คลิกทำจัดการพืชที่เหี่ยวเฉา"/>
+<key id="clickToCollectTip" value="คลิกเก็บเกี่ยว{0}{1}"/>
+<key id="clickToDestroyTip" value="คลิกทำลาย"/>
+<key id="clickToEsTip" value="คลิกผลิต{essence}"/>
+<key id="clickToGemTip" value="คลิกผลิตแร่"/>
+<key id="clickToHelpCleanTip" value="คลิกช่วยจัดการขยะบนพื้น"/>
+<key id="clickToHelpCollectTip" value="คลิกช่วยเก็บเกี่ยว"/>
+<key id="clickToHelpReviveTip" value="คลิกช่วยฟื้นฟู"/>
+<key id="clickToHelpSpeedupTip" value="คลิกอธิบายการเร่งความเร็ว"/>
+<key id="clickToHelpbuildTip" value="คลิกช่วยสร้าง"/>
+<key id="clickToMoveTip" value="คลิกเพื่อย้าย"/>
+<key id="clickToPlantTip" value="คลิกปลูกพืช"/>
+<key id="clickToRepairTip" value="คลิกซ่อม"/>
+<key id="clickToSellTip" value="คลิกเลือกสินค้าเพื่อเริ่มขาย"/>
+<key id="clickToSpeedupTip" value="คลิกเร่งความเร็วสำเร็จ"/>
+<key id="clickToStartProtectTip" value="คลิกเริ่มหรือยืดเวลาปกป้องออกไปอีก"/>
+<key id="clickToWoodTip" value="คลิกเริ่มตัดไม้"/>
+<key id="close" value="ปิด"/>
+<key id="coin" value="เหรียญทอง"/>
+<key id="coinNotEnough" value="เหรียญทองไม่พอ"/>
+<key id="coinTooltip" value="เหรียญทอง:{0}"/>
+<key id="coinX200" value="เหรียญทองx200"/>
+<key id="collectButton" value="รวบรวม"/>
+<key id="collect_action" value="เก็บ{0} {1}ชิ้น"/>
+<key id="combo1" value="โบนัส!"/>
+<key id="combo10" value="แจ๋วมากๆ เลย!"/>
+<key id="combo2" value="สู้ๆ!"/>
+<key id="combo3" value="เยี่ยมมาก!"/>
+<key id="combo4" value="สุดยอด!"/>
+<key id="combo5" value="ร้ายกาจจริง!"/>
+<key id="combo6" value="อะไรนะ!!"/>
+<key id="combo7" value="พระเจ้า!!"/>
+<key id="combo8" value="คาดไม่ถึง!"/>
+<key id="combo9" value="ไม่เป็นรองใครเลย!"/>
+<key id="comingSoon" value="เปิดใช้เร็วๆ นี้"/>
+<key id="completed" value="เสร็จแล้ว:"/>
+<key id="continue" value="ต่อไป"/>
+<key id="cooling" value="อยู่ระหว่างพักรอ"/>
+<key id="cowfood" value="อาหารวัว"/>
+<key id="cowfood_desc" value="เลี้ยงวัวนม"/>
+<key id="crop" value="ผลผลิต"/>
+<key id="crystalX10" value="ทองแดงx10"/>
+<key id="currentFans" value="ปัจจุบันจำนวนของแฟน ๆ : {0}"/>
+<key id="days" value="วัน"/>
+<key id="deal_action" value="ทำรายการกับ NPC ที่มาหาสำเร็จ {0} ครั้ง"/>
+<key id="default" value="เริ่มต้น"/>
+<key id="defaultNPCFriendName" value="Lily"/>
+<key id="defensingHours" value="+6ชั่วโมง"/>
+<key id="diamondX10" value="ทองx10"/>
+<key id="discard" value="ละทิ้ง"/>
+<key id="discardConfirm" value="คุณตัดสินใจทิ้ง{0}หรือไม่? ไม่สามารถเอาคืนได้แล้วนะ"/>
+<key id="doNotShowTipThisTime" value="ไม่ต้องแสดงเคล็ดลับผู้ใช้เมื่อเข้าสู่เกมอีก"/>
+<key id="dontStopWorkButton" value="อย่าหยุด"/>
+<key id="earn_action" value="รับ{0}เหรียญทองจากแผงขายสินค้า"/>
+<key id="egg" value="ไข่ไก่"/>
+<key id="empty" value="ว่างงาน"/>
+<key id="energNotEnough" value="พลังงานของคุณไม่พอ ไม่สามารถไล่ลิงน้อยไปได้"/>
+<key id="energyNotEnough" value="การขาดพลังงาน!"/>
+<key id="energyTooltip" value="{0}/{1}"/>
+<key id="energyall" value="เติมเต็มพลังงาน"/>
+<key id="errorCode1201" value="ระดับของคุณไม่เพียงพอ"/>
+<key id="errorCode1202" value="{coin} ของคุณน้อยกว่า"/>
+<key id="errorCode1203" value="{points} ของคุณน้อยกว่า"/>
+<key id="errorCode1204" value="{energy} ของคุณน้อยกว่า"/>
+<key id="errorCode1205" value="{essence} ของคุณน้อยกว่า"/>
+<key id="errorCode1210" value="วันนี้รับไปแล้ว"/>
+<key id="errorCode1301" value="เงื่อนไขการปลดล็อคยังไม่สมบูรณ์"/>
+<key id="errorCode1302" value="อาคารชนิดนี้มีจำนวนสูงสุดแล้ว"/>
+<key id="errorCode1303" value="อาคารไม่มีอยู่"/>
+<key id="errorCode1304" value="อาคารไม่มีอยู่"/>
+<key id="errorCode1308" value="ยังไม่ถึงเวลาเก็บเกี่ยว"/>
+<key id="errorCode1309" value="กำลังผลิต"/>
+<key id="errorCode1311" value="ผลิตภัณฑ์ไม่มีอยู่"/>
+<key id="essence5" value="อัญมณีก้อนเล็ก"/>
+<key id="essence6" value="อัญมณีธรรมดา"/>
+<key id="essence7" value="อัญมณีประกายแวววาว"/>
+<key id="essence8" value="อัญมณีสุดเพอร์เฟค"/>
+<key id="essenceTooltip" value="อาหาร:{0}"/>
+<key id="essenceX100" value="อาหารx100"/>
+<key id="exchange"  value="เปลี่ยน"/>
+<key id="exp" value="XP"/>
+<key id="expand_popup_info" value="รวบรวมไอเทมด้านล่างนี้ก็สามารถขยายที่ดินใหม่ได้แล้ว!"/>
+<key id="expand_popup_title" value="ขยายฟาร์มของคุณ"/>
+<key id="expansion_info" value="คลิกขยาย"/>
+<key id="expasionPopupBond" value="ต้องการเลเวล{0}"/>
+<key id="expasionPopupCoin" value="ต้องการ{0}{coin}"/>
+<key id="expasionPopuptitle" value="สำรวจภาคใหม่"/>
+<key id="explosive" value="ระเบิด"/>
+<key id="extendButton" value="ริเริ่ม"/>
+<key id="f_10_body" value="เกมจำลองธุรกิจที่พลาดไม่ได้เลยในปี 2013 นี้, ในช่วงทดลองได้รับความนิยมอย่างสูงจากกลุ่มผู้เล่นหญิง, รีบมาร่วมเล่นเกมฟาร์มมหาสนุก แล้วรับรางวัลมากมายไปเลย!"/>
+<key id="f_10_title" value="เกมที่ได้รับการตอบรับในกลุ่มผู้หญิงสูงที่สุดของปี 2013"/>
+<key id="f_11_body" value="ดาวโหลดน์เกมฟาร์มมหาสนุกเวอร์ชันท์มือถือตอนนี้, แล้วกรอกรหัสเชิญเพื่อรับรางวัลสุดคุ้มค่าสิ!"/>
+<key id="f_11_title" value="รหัสเชิญเกมฟาร์มมหาสนุกเวอร์ชันท์มือถือแจกรางวัล"/>
+<key id="f_12_body" value="ฝูงหงษ์แสนสวยกำลังจะมาพักยังฟาร์มของคุณแล้ว เตรียมตัวต้อนรับพวกมันให้ดีล่ะ!"/>
+<key id="f_12_title" value="ฟาร์มของคุณยิ่งสวยขึ้นเรื่อยๆ แล้ว!"/>
+<key id="f_13_body" value="{0}ต้องการขยายพื้นที่ในฟาร์มเพิ่ม ช่วยเป็นอีกหนึ่งแรงที่ช่วยเขาทีนะ!"/>
+<key id="f_13_title" value="ขยายฟาร์ม"/>
+<key id="f_14_body" value="{0}จับลิงน่ารังเกียจได้ที่บ้านของตนเอง 1 ตัว! เพื่ออิสรภาพของตนเอง เจ้าลิงจึงได้มอบรางวัลให้ 1 ชิ้น, เป็นเรื่องที่คาดไม่ถึงจริงๆ!"/>
+<key id="f_14_title" value="จับเจ้าลิงที่น่ารังเกียจ!"/>
+<key id="f_15_body" value="ในช่วงกิจกรรมจับลิงนี้ {0}แสดงความโดดเด่นเป็นที่สุด ดังนั้นจึงได้รับรางวัลไปแล้วมากมาย!"/>
+<key id="f_15_title" value="{0} ของฟาร์มได้รับการป้องกัน!"/>
+<key id="f_1_body" value="ยินดีด้วย ตัวละครของ{0}อัพเกรดเป็นเลเวล{1}แล้ว พวกเราดื่มให้กับเจ้าของฟาร์มผู้ยิ่งใหญ่กันดีกว่า!"/>
+<key id="f_1_title" value="อัพเกรดตัวละคร"/>
+<key id="f_2_body" value="โกดังของ{0}อัพเกรดแล้ว! แบบนี้ก็สามารถเก็บสินค้าได้มากขึ้นแล้ว!"/>
+<key id="f_2_title" value="อัพเกรดโกดัง"/>
+<key id="f_3_body" value="{0}ทำภารกิจสำเร็จแล้วอย่างหนึ่งที่แฮปปี้ฟาร์ม ช่วงเวลาดีๆ แบบนี้จะขาดเพื่อนไปได้ยังไงล่ะ ไปอวยพรเขาดีกว่า!"/>
+<key id="f_3_title" value="เป้าหมายรับรางวัล"/>
+<key id="f_4_body" value="ยุ้งฉางของ{0}อัพเกรดแล้ว! ตอนนี้ผลผลิตที่เก็บมามากมายก็มีที่วางแล้ว!"/>
+<key id="f_4_title" value="อัพเกรดยุ้งฉาง"/>
+<key id="f_5_body" value="{0}เพื่อนของคุณกำลังรอของขวัญจากคุณอยู่ที่ฉอปปี้ฟาร์ม คลิกที่นี่เพื่อส่งของขวัญให้เขาสิ! ถ้าหากคุณอยู่ในแฮปปี้ฟาร์มก็ยังมีเรื่องเซอร์ไพรท์เล็กๆ รออยู่ด้วยนะ"/>
+<key id="f_5_title" value="ขอของขวัญ"/>
+<key id="f_6_body" value="{0}เพื่อนของคุณกำลังรอของขวัญจากคุณอยู่ที่ฉอปปี้ฟาร์ม คลิกที่นี่เพื่อส่งของขวัญให้เขาสิ! ถ้าหากคุณอยู่ในแฮปปี้ฟาร์มก็ยังมีเรื่องเซอร์ไพรท์เล็กๆ รออยู่ด้วยนะ"/>
+<key id="f_6_title" value="ขอของขวัญ"/>
+<key id="f_7_body" value="{0}เพื่อนของคุณกำลังรอของขวัญจากคุณอยู่ที่ฉอปปี้ฟาร์ม คลิกที่นี่เพื่อส่งของขวัญให้เขาสิ! ถ้าหากคุณอยู่ในแฮปปี้ฟาร์มก็ยังมีเรื่องเซอร์ไพรท์เล็กๆ รออยู่ด้วยนะ"/>
+<key id="f_7_title" value="ขอของขวัญ"/>
+<key id="f_8_body" value="{0} ได้รับเพียงแค่ถังของเหรียญในฟาร์มดาวและเขาต้องการที่จะแบ่งปันความสุขของเขากับคุณ!"/>
+<key id="f_8_title" value="เสียงเหรียญทองกรุ๊งกริ๊ง!"/>
+<key id="f_9_body" value="ตอนนี้ที่เกมฟาร์มมหาสนุกกำลังจัดกิจกรรมแฟนเกม 200,000 คน, เพชรมากมายสามารถรับได้ฟรี, ไม่ต้องเสียเงินก็เล่นเกมได้นะ! ฉันได้เพชรมาแล้ว 5 เม็ด ทุกคนรีบเป็นแฟนเกมแล้วรับเชรกันดีกว่า!"/>
+<key id="f_9_title" value="นำข้อมูลดีๆ แบบนี้ไปบอกกับเพื่อนๆ ของคุณสิ!"/>
+<key id="fanpage_LimitError" value="โชคไม่ดีที่ได้รับรางวัลได้รับแสงและความสนใจมากที่จะเข้าใจโอกาสหน้าต่อไปแฟน!"/>
+<key id="fanpage_RewardMsg" value="ขอแสดงความยินดีที่คุณได้รับรางวัลที่ประสบความสำเร็จจากเหตุการณ์ครั้งนี้!"/>
+<key id="fanpage_title" value="ยินดีด้วย"/>
+<key id="farmBeThief" value="แปลงเกษตรถูกเก็บเกี่ยวแล้ว"/>
+<key id="farm_score" value="แต้มความสำเร็จ:"/>
+<key id="feedAward" value="ยินดีด้วยคุณรับรางวัลสำเร็จแล้ว!"/>
+<key id="finishButton" value="ต้องการ{0}"/>
+<key id="finishConstructButton" value="เสร็จสิ้นการสร้าง"/>
+<key id="finished" value="เสร็จสิ้น"/>
+<key id="finishedQuest" value="ทำเป้าหมายให้สำเร็จ!"/>
+<key id="follows" value="สหาย"/>
+<key id="friAlready" value="อื่น ๆ ที่มีอยู่แล้วให้เพื่อนของคุณ"/>
+<key id="friend" value="เพื่อน"/>
+<key id="friendGiftInfo" value="คุณได้รับรางวัลดังนี้"/>
+<key id="friendGiftTitle" value="ของขวัญ"/>
+<key id="friendPanelVisitText" value="คลิกเยี่ยม"/>
+<key id="friendReq" value="เชิญเพื่อน"/>
+<key id="friendUid" value="ID เกมของเพื่อน"/>
+<key id="friendmarket" value="ของเพื่อน"/>
+<key id="friends" value="เพื่อน"/>
+<key id="fullscreenTooltip" value="เต็มหน้าจอ"/>
+<key id="g_order_info" value="(คุณมี:"/>
+<key id="g_order_no" value="ขออภัย"/>
+<key id="g_order_title" value="วันที่ดี! เริ่มต้นการจัดการฟาร์มของคุณหลังจากที่ยืดหยุ่นขึ้น!"/>
+<key id="g_order_wait" value="กรุณารอสักครู่"/>
+<key id="g_order_yes" value="ตกลง, ให้คุณก็แล้วกัน"/>
+<key id="gameName" value="Star Farm"/>
+<key id="getReward" value="ได้รับรางวัลเชคพอยท์"/>
+<key id="get_reward" value="รับรางวัล"/>
+<key id="getfromfriend" value="ขอจากเพื่อน"/>
+<key id="getreward" value="เริ่มเล่น"/>
+<key id="giveUpTrainOrder" value="คุณตัดสินใจที่จะยอมแพ้กับคำสั่งของรถไฟรอบนี้หรือไม่?"/>
+<key id="goatfood" value="อาหารแพะ"/>
+<key id="gohome" value="กลับบ้าน"/>
+<key id="gohomeTip" value="กลับบ้าน"/>
+<key id="govermentPopupUnfinishTitle" value="จ้างคนงานสร้างอาคาร"/>
+<key id="govermentShareReminderButton" value="เตือนเพื่อน"/>
+<key id="govermentUseMoneyButton" value="ใช้ {0}"/>
+<key id="guiBagButton" value="กระเป๋าเป้"/>
+<key id="guiBuildButton" value="ซื้อ/สร้าง"/>
+<key id="guiCancelButton" value="ยกเลิก"/>
+<key id="guiHandleButton" value="ดำเนินการ"/>
+<key id="guiInviteFriendButton" value="เชิญเพื่อน"/>
+<key id="guiReturnhomeButton" value="กลับบ้าน"/>
+<key id="guiSkillSearchButton" value="วิจัยและพัฒนา"/>
+<key id="guiStrengthenButton" value="เสริมความแกร่ง"/>
+<key id="hasBeenBuilded" value="สร้างแล้ว"/>
+<key id="helpStatusbuild" value="กำลังก่อสร้าง"/>
+<key id="helpStatusclean" value="กำลังจัดการ"/>
+<key id="helpStatusharvest" value="กำลังเก็บเกี่ยว"/>
+<key id="helpStatusrevive" value="กำลังรดน้ำ"/>
+<key id="helpStatusspeedup" value="กำลังเร่งความเร็ว"/>
+<key id="hours" value="ชั่วโมง"/>
+<key id="hungry" value="หิวโหย"/>
+<key id="increase_storage_to" value="เพิ่มความจุเป็น{0}"/>
+<key id="industryBuildingTips" value="คลิกเพื่อดูเพิ่มเติม"/>
+<key id="industryProducePannelProduce" value="รายรับ"/>
+<key id="industryProducePannelResource" value="ใส่ใน"/>
+<key id="invite" value="เชิญชวน"/>
+<key id="inviteTooltip" value="เชิญเพื่อน"/>
+<key id="islandDetail" value="รายละเอียด"/>
+<key id="jinxu" value="เท่านั้น"/>
+<key id="levelNotEnough" value="ต้องการเลเวล{0}"/>
+<key id="levelTooltip" value="{0}/{1}"/>
+<key id="levelUp" value="อัพเกรดแล้ว"/>
+<key id="levelUpButton" value="อัพเกรด"/>
+<key id="levelUpInfo" value="{0}"/>
+<key id="levelUpUnlock" value="ได้รับรางวัลดังนี้"/>
+<key id="licenseStamp" value="ตราอนุญาติ"/>
+<key id="loading" value="กรุณารอสักครู่,กำลังโหลดข้อมูล"/>
+<key id="locked" value="ล็อค"/>
+<key id="lockedAction" value="หีบปริศนาที่คุณเจอถูกล็อคอยู่ คุณสามารถใช้เพชรเพื่อเปิดมันได้"/>
+<key id="locked_space_halt" value="ยังไม่มีคุณสมบัติพอที่จะขยายพื้นที่มายังที่ดินผืนน"/>
+<key id="locked_space_unrelease" value="ยังไม่มีคุณสมบัติพอที่จะขยายพื้นที่มายังที่ดินผืนนี้ กรุณาติดตามต่อไป"/>
+<key id="logindays" value="วันที่{0}"/>
+<key id="make_action" value="ผลิต{0}{1}ชิ้น"/>
+<key id="marketPopupAd" value="โฆษณา:3 ชั่วโมง"/>
+<key id="marketPopupAdCool" value="โฆษณาจะเริ่ม:"/>
+<key id="marketPopupAddAll" value="เพิ่มทั้งหมด"/>
+<key id="marketPopupConfirm" value="ยืนยัน"/>
+<key id="marketPopupCreateTip" value="เพิ่มสินค้าใหม่"/>
+<key id="marketPopupForBuy" value="รถเข็นชอปปิ้ง"/>
+<key id="marketPopupForSale" value="ขาย"/>
+<key id="marketPopupMyItems" value="สินค้าของฉัน"/>
+<key id="marketPopupNewsButton" value="เพิ่ม"/>
+<key id="marketPopupNewsTip" value="ลงโฆษณาในหนังสือพิมพ์"/>
+<key id="marketPopupPriceTip" value="ราคา"/>
+<key id="marketPopupQuantity" value="จำนวน"/>
+<key id="marketPopupRemove" value="ย้ายออก"/>
+<key id="marketPopupSelectItem" value="เลือกสินค้า 1 อย่าง"/>
+<key id="marketPopupSelectedButton" value="เลือก"/>
+<key id="marketPopupTitle" value="ตลาดริมถนน"/>
+<key id="marketPopupTotalCost" value="ราคารวม"/>
+<key id="marketTradeInfoTitle" value="แก้ไข"/>
+<key id="materialStorageFullInfo" value="คลังสินค้าเต็มคลังสินค้าอัพเกรดสามารถเพิ่มกำลังการผลิต"/>
+<key id="materialStorageFullToClick" value="โกดังเต็มแล้ว"/>
+<key id="materialStorageMaxInfo" value="โกดังที่เต็มไปจบคลังสินค้าหลังการเก็บเกี่ยว"/>
+<key id="maxLevelError" value="มีเลเวลสูงสุดแล้ว"/>
+<key id="max_energy_tips" value="มากกว่าขีดสูงสุด{energy}แล้ว"/>
+<key id="mei" value="ทุกๆ"/>
+<key id="milk" value="น้ำนม"/>
+<key id="minutes" value="นาที"/>
+<key id="moneyNotEnough" value="เพชรมีค่าน้อยกว่า"/>
+<key id="moneyNotEnoughTips" value="{points}ของคุณไม่พอ, กรุณาคลิกซื้อ{points}"/>
+<key id="monkeyAimedTip" value="ไม่สามารถดำเนินการได้ในขณะที่ลิงน้อยกำลังเล่นอยู่ที่นี่"/>
+<key id="monkeyLeftTime" value="เวลาหนีที่เหลือ"/>
+<key id="move" value="ย้าย"/>
+<key id="moveOnfriendinvadeiconTip" value="ต้องการความช่วยเหลือ"/>
+<key id="musicTooltip" value="เพลง"/>
+<key id="myGameUid" value="ID เกมของคุณ:{0}"/>
+<key id="mymarket" value="ของฉัน"/>
+<key id="nail" value="หมุด"/>
+<key id="need expanded" value="ต้องขยายพื้นที่"/>
+<key id="needNewVersions" value="เวอร์ชั่นเก่าเกิน, กรุณาอัพเกรด"/>
+<key id="needToRepairTrain" value="คุณต้องทำการซ่อมรถไฟให้เรียบร้อยก่อน จึงจะสามารถใช้สถานีได้!"/>
+<key id="need_resource" value="ต้องการวัตถุดิบเพิ่มขึ้น"/>
+<key id="need_resource_buy" value="ใช้{0}"/>
+<key id="need_resource_dynic" value="ส่งให้เพื่อน"/>
+<key id="need_resource_explain" value="ขอจากเพื่อนหรือซื้อด้วยตัวเอง"/>
+<key id="needmore" value="ต้องการ$$เพิ่ม"/>
+<key id="newItem" value="สินค้าใหม่"/>
+<key id="newShopPopupTitle" value="ร้านค้า"/>
+<key id="newspaper_sendfeed" value="ส่ง"/>
+<key id="next" value="ถัดไป"/>
+<key id="nextTrainOrder" value="คำสั่งของรถไฟขบวนถัดไป"/>
+<key id="noAdvertisement" value="การปรับปรุงยังไม่มีโปรดตรวจสอบอีกครั้งในภายหลัง"/>
+<key id="noFeed" value="คำขอของขวัญของคุณได้ส่งออกไปแล้ว ของขวัญชิ้นถัดไปจะพร้อมหลังจาก{0}"/>
+<key id="not enough storage" value="พื้นที่ว่างในโกดังไม่เพียงพอ"/>
+<key id="notFriend" value="พวกคุณยังไม่ได้เป็นเพื่อนกันนี่ รีบเพิ่มเป็นเพื่อนสิ!"/>
+<key id="not_placeable" value="ไม่สามารถวางได้"/>
+<key id="ok" value="ยืนยัน"/>
+<key id="onCheckingPay" value="ตรวจสอบการชำระเงิน..."/>
+<key id="onStartPay" value="กำลังชำระเงิน..."/>
+<key id="openLevel" value="ต้องมีเลเวล{0}ก่อน จึงจะใช้ฟังก์ชั่นนี้ได้"/>
+<key id="orderActivityEndTime1" value="ช่วงเวลากิจกรรม:ตั้งแต่วันนี้จนถึงวันที่ 15 พฤษภาคม 2013"/>
+<key id="orderActivityEndTime2" value="ช่วงเวลากิจกรรม:ตั้งแต่วันนี้จนถึงวันที่ 23 พฤษภาคม 2013"/>
+<key id="orderActivityInfo1" value="ในช่วงเวลากิจกรรม, แค่ทำภารกิจของ NPC ให้สำเร็จตามจำนวนที่กำหนด ก็สามารถรับรางวัลมากมายไปได้เลย! รางวัลจะแตกต่างกันไปในแต่ละวัน รีเซ็ตจำนวนครั้งที่คุณจัดการคำสั่งสำเร็จทุก 24 ชั่วโมง มีโอกาสรับเพชรได้ทุกวันเลยนะ!"/>
+<key id="orderActivityInfo2" value="ในช่วงเวลากิจกรรม จัดการคำสั่งซื้อจากรถบรรทุกสำเร็จตามจำนวนที่กำหนดก็รับรางวัลไปเลย! รางวัลไม่ซ้ำ,รับเพชรฟรีทุกวัน! รีบๆ ทำให้รถบรรทุกของคุณวิ่งเข้าสิ!"/>
+<key id="orderActivityItemTip" value="ทำคำสั่งสำเร็จ {0} ครั้งสามารถรับ, ตอนนี้ทำสำเร็จแล้ว {1} ครั้ง"/>
+<key id="orderActivityNextRefreshTime" value="เวลานับถอยหลังรีเซ็ตคำสั่งที่ทำสำเร็จและรางวัล"/>
+<key id="orderActivityTitle1" value="เทศกาลคำสั่งซื้อ"/>
+<key id="orderActivityTitle2" value="คาราวานรถบรรทุก"/>
+<key id="orderBuild" value="คำสั่ง"/>
+<key id="order_action" value="ทำคำสั่งสำเร็จ{0}ครั้ง"/>
+<key id="order_waitInfo" value="คำสั่งนี้ไม่สามารถใช้ได้ชั่วคราว กรุณารอหรือเร่งความเร็ว!"/>
+<key id="order_waitTime" value="รอสักครู่..."/>
+<key id="ownCount" value="มี:"/>
+<key id="own_action" value="มี{0} {1} ชิ้น"/>
+<key id="packTitle" value="กระเป๋าเป้"/>
+<key id="packagehave" value="สินค้าที่อยู่ในกระเป๋า:"/>
+<key id="patureBeThief" value="สัตว์ถูกเก็บเกี่ยวแล้ว"/>
+<key id="peddlersBackBtntext" value="ไม่เลือก"/>
+<key id="peddlersBackCntText" value="เหลือเวลาใช้:{0}"/>
+<key id="peddlersBackInfoText" value="พวกนี้คือของที่ฉันเจอ คุณต้องการชิ้นไหนล่ะ?"/>
+<key id="peddlersBeginBtnText" value="ตกลง ฉันจะลองดู"/>
+<key id="peddlersBeginInfoText" value="สวัสดี! ฉันชื่อทอม, ต่อไปฉันจะเป็นผู้ช่วยเหลือคุณ, ฉันจะคอยคุณอยู่ที่แผงขายสินค้านะ"/>
+<key id="peddlersBuyTimesInfoText" value="อยากจ้างฉันอีกรึเปล่าล่ะ?"/>
+<key id="peddlersBuyTimesThankCellText" value="ไม่เป็นไร ขอบคุณมาก"/>
+<key id="peddlersBuyTimesbuyCellText" value="{0}วัน"/>
+<key id="peddlersChooseBtnText" value="เริ่มมองมา"/>
+<key id="peddlersChooseTitleText" value="คุณอยากให้ฉันหาอะไร?"/>
+<key id="peddlersRestInfoText" value="Zzz...ฉันคงจะต้องพักจริงๆ แล้วล่ะ"/>
+<key id="peddlersRestTimeText" value="เวลาใช้อีกครั้ง:{0}"/>
+<key id="peopleTooltip" value="จำนวนคน/จำนวนคนสูงสุด"/>
+<key id="petProducePannelResource" value="ใช้วัตถุดิบ"/>
+<key id="pickaxe" value="อีเต้อขยายพื้นที่"/>
+<key id="pigfood" value="อาหารหมู"/>
+<key id="pillageBuff" value="เพิ่มผลผลิตจากอาคารอีก{0}%"/>
+<key id="place" value="วาง"/>
+<key id="plank" value="ไม้กระดาน"/>
+<key id="points" value="ไพลิน"/>
+<key id="popularizeInfo" value="ฟาร์มดาวโลกที่มีชื่อเสียงจะมาให้คุณในวันนี้! เกียรติของการเป็นเจ้าของฟาร์มที่ดีที่ถูกต้องในหน้าของคุณ มาและสร้างความรุ่งโรจน์ของคุณที่นี่!"/>
+<key id="popularizeInfo2" value="ออกจากเมืองที่คึกคักอยู่เบื้องหลังและสนุกกับเวลาที่เงียบสงบและเงียบสงบ ยินดีต้อนรับสู่ฟาร์มดาว! เก็บเพชรและมีชีวิตอยู่ในฟาร์มเพื่อการพักผ่อนที่!"/>
+<key id="population" value="ประชากร"/>
+<key id="populationText" value="{0}/{1}"/>
+<key id="population_max" value="จำนวนคนสูงสุด"/>
+<key id="population_now" value="จำนวนคนปัจจุบัน"/>
+<key id="populationmaxNotEnough" value="จำนวนคนสูงสุดไม่พอ"/>
+<key id="produce" value="ผลิต"/>
+<key id="producePannelProduceTime" value="เวลาผลิต"/>
+<key id="produceing" value="กำลังผลิต"/>
+<key id="questUpdateNotice" value="{0} {1}/{2}"/>
+<key id="quest_get" value="มีภารกิจใหม่"/>
+<key id="quest_remind" value="ก้าวหน้าไม่เลวเลยนะ"/>
+<key id="rabbitfood" value="อาหารกระต่าย"/>
+<key id="raidMoreCount" value="จำนวนครั้งเพิ่มขึ้น"/>
+<key id="raidPopupCount" value="วันนี้จำนวนครั้งคงเหลือ"/>
+<key id="raidPopupEnter" value="เข้า"/>
+<key id="raidPopupTitle" value="เข้าสู่ดันเจียน"/>
+<key id="raidTips" value="คลิกเข้าสู่{0}"/>
+<key id="raidUserMoneyToMoreCount" value="มี{0}{points}เพิ่ม 1 ครั้ง"/>
+<key id="ready to collect" value="เตรียมตัวเก็บเกี่ยว"/>
+<key id="recharge" value="เติมเงิน"/>
+<key id="recharge_cash0" value="แซฟไฟร์ 1 กอง"/>
+<key id="recharge_cash1" value="แซฟไฟร์ 1 ห่อ"/>
+<key id="recharge_cash2" value="แซฟไฟร์ 1 ถุง"/>
+<key id="recharge_cash3" value="แซฟไฟร์ 1 กล่อง"/>
+<key id="recharge_cash4" value="แซฟไฟร์ 1 ตู้"/>
+<key id="recharge_cash5" value="แซฟไฟร์ 1 หีบ"/>
+<key id="recharge_coin0" value="เหรียญทอง 1 กอง"/>
+<key id="recharge_coin1" value="เหรียญทอง 1 ห่อ"/>
+<key id="recharge_coin2" value="เหรียญทอง 1 ถุง"/>
+<key id="recharge_coin3" value="เหรียญทอง 1 กล่อง"/>
+<key id="recharge_coin4" value="เหรียญทอง 1 ตู้"/>
+<key id="recharge_coin5" value="เหรียญทอง 1 กล่อง"/>
+<key id="recharge_title_cash" value="เติมแซฟไฟร์"/>
+<key id="recharge_title_coin" value="แลกเหรียญทอง"/>
+<key id="refresh_game" value="กรุณารีเฟรชเกม"/>
+<key id="refuse" value="ปฏิเสธ"/>
+<key id="renwujieshou" value="ภารกิจ"/>
+<key id="requesttofriend" value="เพื่อนช่วย"/>
+<key id="requireExitGame" value="ต้องการออกจากเกม?"/>
+<key id="require_explain" value="หากคุณต้องการ$$เพิ่มขึ้น, สามารถขอจากเพื่อน หรือซื้อได้โดยผ่านการซื้อ{points}"/>
+<key id="requires" value="ต้องการ"/>
+<key id="requiresBuildingLevel" value="ต้องการ{0}เลเวล{1}"/>
+<key id="requiresLevel" value="อันดับ"/>
+<key id="requiresOwn" value="คุณต้องมี"/>
+<key id="requires_item" value="ใช้ไอเทม:"/>
+<key id="resource not enough" value="{0}ไม่พอ"/>
+<key id="resourceIsLast" value="เฉพาะพืชที่ผ่านการตรวจสอบผลิตหรือไม่"/>
+<key id="resourceNotEnough" value="ขาดทรัพยากรคุณสามารถดำเนินการโดยการซื้อ."/>
+<key id="reward" value="รางวัล"/>
+<key id="rubyX10" value="ดีบุกx10"/>
+<key id="saw" value="เลื่อย"/>
+<key id="screw" value="น็อตขนาดเล็ก"/>
+<key id="secondes" value="วินาที"/>
+<key id="seedStorageFullInfo" value="ยุ้งเต็มยุ้งอัพเกรดสามารถเพิ่มกำลังการผลิต.หรือคุณสามารถขายบางอย่างในการยืนบนท้องถนนของคุณ"/>
+<key id="seedStorageFullToClick" value="ยุ้งเต็ม"/>
+<key id="seedStorageMaxInfo" value="ยุ้งเต็มจบยุ้งข้าวหลังการเก็บเกี่ยว"/>
+<key id="select" value="เลือก"/>
+<key id="selectFeed" value="คลิกของขวัญที่คุณอยากได้รับจากเพื่อนที่นี่!"/>
+<key id="sell" value="ขาย"/>
+<key id="sell_coin" value="ได้รับ"/>
+<key id="sell_confirm" value="ตกลงขาย"/>
+<key id="server_error" value="ขออภัย, มีความพลาดกับอินเทอร์เน็ต, กรุณารีเฟรชเกมใหม่"/>
+<key id="setting" value="ตั้งค่า"/>
+<key id="settingsTooltip" value="ตั้งค่า"/>
+<key id="shareBtn" value="สานต่อ"/>
+<key id="sheepfood" value="อาหารแกะ"/>
+<key id="shouchong" value="ผู้เล่นเติมทองเท่าไหร่ก็แล้วแต่ จะได้รับของขวัญสุดคุ้ม"/>
+<key id="shouchongtitle" value="ของขวัญเติมเงินครั้งแรก"/>
+<key id="shovel" value="พลั่ว"/>
+<key id="skillBuySkillButton" value="ซื้อ"/>
+<key id="soundTooltip" value="ออดิโอ"/>
+<key id="speedtext" value="เพิ่มความเร็ว"/>
+<key id="startAction" value="ลงมือ"/>
+<key id="startGrub" value="เริ่มขุด"/>
+<key id="stateNot" value="ใครบางคนได้ช่วยให้ฉันคุณสามารถช่วยเพื่อนคนอื่น ๆ"/>
+<key id="stealInfo" value="ขณะที่คุณไม่ได้เล่นเกมอยู่นั้น ลิงน้อยได้ขโมย{0}ไปแ"/>
+<key id="stealInfoOnline" value="หลังจากลิงน้อยขโมย{0}ไปหนึ่งชิ้นก็หนีไป"/>
+<key id="steal_action" value="ขโมย{0}{1}ชิ้น"/>
+<key id="stopWorkButton" value="หยุดทำงาน"/>
+<key id="stopWorkPopup" value="ถ้าหากคุณหยุดการผลิตของอาคารนี้ จะสูญเสียวัตถุดิบ"/>
+<key id="storageCapacity" value="ความจุโกดัง:{0}/{1}"/>
+<key id="subtext01" value="ส่งปัญหา"/>
+<key id="subtext02" value="เคล็ดลับ: โปรดอธิบายปัญหาที่เกิดขึ้นในเกมเพื่อให้เราสามารถตรวจสอบและแก้ไขโดยไม่ชักช้า ขอบคุณ!"/>
+<key id="subtext03" value="ชนิดปัญหา"/>
+<key id="subtext04" value="อธิบายปัญหาของเกม"/>
+<key id="subtext05" value="กล่องข้อความ"/>
+<key id="subtext06" value="ยื่นเสนอ"/>
+<key id="subtext07" value="กรุณากรอกปัญหาของคุณที่นี่"/>
+<key id="subtext09" value="รูปแบบอีเมล์ไม่ถูกต้อง"/>
+<key id="subtext10" value="ช่องอธิบายปัญหาไม่สามารถเว้นว่าง"/>
+<key id="swanfood" value="อาหารหงษ์"/>
+<key id="tape" value="สก๊อตเทป"/>
+<key id="thiefItemBtnTF" value="ไปยังฟาร์มของเพื่อน"/>
+<key id="thiefItemTimeTF" value="เวลาขโมย:{0}"/>
+<key id="thiefItemTitle" value="ฟาร์มของ{0}"/>
+<key id="thiefLevel" value="ต้องมีเลเวล{0}ก่อนจึงจะทำการขโมยได้นะ รีบๆ อัพเลเวลสิ!"/>
+<key id="thiefTitle" value="ข้อมูลผู้เล่น"/>
+<key id="ticketNotEnough" value="ตั๋วแลกเปลี่ยนไม่พอ"/>
+<key id="timeDay" value="วัน"/>
+<key id="timeHour" value="ชั่วโมง"/>
+<key id="timeMinute" value="นาที"/>
+<key id="timeSencond" value="วินาที"/>
+<key id="topazX10" value="เหล็กx10"/>
+<key id="total" value="ทั้งหมด"/>
+<key id="tutorial_1" value="เคล็ดลับ:โปรดอธิบายปัญหาที่เกิดขึ้นในเกมเพื่อให้เราสามารถตรวจสอบและแก้ไขโดยไม่ชักช้า ขอบคุณ!"/>
+<key id="tutorial_2" value="ตอนนี้คุณมีเงินพอแล้ว ไปซื้อเครื่องจักรเพิ่มสักเครื่องสิ ไปเลือกดูที่ร้านค้าสิ"/>
+<key id="tutorial_2" value="ตอนนี้คุณมีเงินพอแล้วนะ รีบไปซื้อเครื่องจักรใหม่จากร้านค้าซักเครื่องนึงสิ!"/>
+<key id="tutorial_3" value="รู้สึกว่าไม่ค่อยมีชีวิตชีวาใช่รึเปล่าล่ะ? ไปยังร้านค้าเพื่อซื้อแม่ไก่สักตัว, เพิ่มสีสันให้กับชีวิตในฟาร์ม!"/>
+<key id="tutorial_3_1" value="ฟีดของคุณทำงานไปที่ร้านที่จะซื้ออาหารที่คุณสามารถสร้างฟีดไปและสัมผัสกับมัน!"/>
+<key id="tutorial_3_2" value="ฟาร์มสาวน้อยรอคอยความช่วยเหลือของคุณไปและเฝ้ามองและให้ความช่วยเหลือบาง!"/>
+<key id="tutorial_4" value="ปฏิบัติตามคำสั่งที่ประสบความสำเร็จของรถทำให้คุณได้สัมผัสและเหรียญไปและได้ลอง!"/>
+<key id="tutorial_5" value="ตลาดขนาดเล็กที่จะขายสินค้าของคุณออกคุณสามารถซื้อสินค้าที่คุณต้องการ!"/>
+<key id="tutorial_5_1" value="ตอนนี้คุณคุ้นเคยกับการดำเนินงานขั้นพื้นฐานของฟาร์มที่กำลังมองไปข้างหน้าเพื่อคนรุ่นใหม่ของเกษตรกร!"/>
+<key id="tutorial_Buy" value="ซื้อ"/>
+<key id="tutorial_ChickFeed" value="ให้อาหาร"/>
+<key id="tutorial_ChickHarvest" value="เก็บเกี่ยว"/>
+<key id="tutorial_FarmHarvest" value="เก็บเกี่ยว"/>
+<key id="tutorial_FarmSeed" value="การเพาะปลูก"/>
+<key id="tutorial_Produce" value="แปรรูป"/>
+<key id="tutorial_intro" value="ยินดีต้อนรับสู่ดาวฟาร์ม ก่อนที่ผมจะมอบฟาร์มไปยังคุณฉันจะสอนคุณบางส่วนของทักษะพื้นฐานที่คุณจะต้อง ตอนนี้ขอเริ่มต้น!"/>
+<key id="unLockatlevel" value="ปลดล็อคเลเวล{0}"/>
+<key id="unLockformoney" value="ปลดล็อคจ่าย"/>
+<key id="unlockTrainConfirm" value="รถไฟก็สามารถทำกำไรได้ไม่เลวเลยนะ ซ่อมมันตอนนี้เลยสิ!จำเป็นต้องใช้จ่าย 16,000 เหรียญเพื่อซ่อมแซม"/>
+<key id="unlock_battle" value="ต้องทำลาย{0}"/>
+<key id="upgradeToLevel" value="บรรลุระดับ {0}"/>
+<key id="user_sealed_forever" value="ขออภัย, บัญชีของคุณได้ถูกระงับถาวรแล้ว"/>  
+<key id="visitFriendButton" value="ถาม"/>
+<key id="waiting" value="รอ..."/>
+<key id="warn" value="การเตือน"/>
+<key id="wood" value="ไม้ซุง"/>
+<key id="wool" value="ขนแกะ"/>
+<key id="workInProgressPopupAsk" value="เชิญเพื่อนมาช่วยเร่งความเร็ว"/>
+<key id="workInProgressPopupFinish" value="ใช้{0}{points}ทำให้เสร็จทันที"/>
+<key id="workInProgressPopupFinish1" value="เสร็จทันที"/>
+<key id="workInProgressPopupOr" value="หรือ"/>
+<key id="workshopIsFull" value="คิวเครื่องจักรเต็มแล้ว"/>
+<key id="workshopRipeFull" value="ผลิตภัณฑ์แปรรูปถึงขีดสูงสุด, กรุณาเก็บ"/>
+<key id="xinshoutitle" value="กล่องของขวัญสำหรับมือใหม่"/>
+<key id="zanInfo" value="คุณสามารถคลิก“ถูกใจ”ที่มุมบนซ้ายของเกม หรือที่มุมบนขวาของแฟนเพจ เพื่อเป็นกำลังใจให้พวกเราได้ ทุกกำลังใจของคุณจะเป็นแรงขับดันพวกเราต่อไป!"/>
+<key id="zanInfo2" value="ขอบคุณในการสนับสนุนของคุณ ตั้งแต่วันนี้ถึงวันที่ 28 เมษายน คลิกถูกใจก็มีเรื่องเซอร์ไพรท์!"/>
+<key id="zanTitle" value="”ถูกใจ“ ไม่หยุดมือ!"/>
+<key id="zoomInTooltip" value="ขยายใหญ่"/>
+<key id="zoomOutTooltip" value="ย่อลง"/>
+<key id="LackResources" value="การขาดทรัพยากร"/>
+<key id="EnergyAddPopouInfo" value="เพิ่มความแข็งแรงช่วยให้เพื่อน! เก็บเกี่ยวพืชผล, คุณจะได้รับโชคลาภ"/>
+<key id="EnergyAddPopouTitle" value="เพิ่มความแข็งแรง"/>
+<key id="isVisitText" value="เยี่ยมเพื่อน"/>
+<key id="Windmill" value="สีลม"/>
+<key id="ChildrenBallon" value="เจี๊ยบ บอลลูน"/>
+<key id="Swing" value="สวิง สำหรับเด็ก"/>
+<key id="ChildrenSwing" value="สวิง ฤดูใบไม้ร่วง"/>	
+<key id="feed_230013_1_body" value="ขนมปัง {0} ทำจะขายออก"/>
+<key id="feed_230013_2_body" value="เพียง แต่กินหนึ่งชิ้นส่วนของขนมปัง {0} ทำคุณจะไม่ลืมมัน"/>
+<key id="feed_230013_3_body" value="ขนมปัง {0} ทำด้วยความรักทำให้คุณจำแม่ของคุณ"/>
+		 
+<key id="feed_230012_1_body" value="{0} ผลิตอาหารสัตว์สัตว์ขนาดเล็กมาก"/>
+<key id="feed_230012_2_body" value="ฮ่าฮ่า! หมูป่าจนกลายเป็นไขมันและมีสุขภาพดีเพราะการกินอาหารที่ทำโดย {0}"/>
+<key id="feed_230012_3_body" value="หลังจากที่กินอาหาร {0} ผลิต, แมวและสุนัขจะบอกคุณว่าพวกเขารู้สึกว่า"/>
+		 
+<key id="feed_230014_1_body" value="เนย {0} ทำให้เป็นสิ่งที่ดีมาก"/>
+<key id="feed_230014_2_body" value="หากคุณมีเนย {0} ทำอย่างต่อเนื่องเป็นไปตาม 5214 สัปดาห์คุณจะอยู่เป็น 100 ปี"/>
+<key id="feed_230014_3_body" value="เลขานุการต้องการ! คุณจะต้องทำตัวเป็นผู้หญิง แต่ความคิดเหมือนคน"/>
+		 
+<key id="feed_230034_1_body" value="{0} ไม่สามารถช่วยให้การดื่มมากเกินไป"/>
+<key id="feed_230034_2_body" value="เบียร์ {0} ทำให้เป็นชั้นนำทั่วโลก"/>
+<key id="feed_230034_3_body" value="ไวน์ {0} ทำมือลงเพื่อให้คนรุ่น"/>
+<key id="feed_230034_4_body" value="{0} โอนออกจาก KIR ROYAL มันรสชาติที่ยอดเยี่ยม"/>
+		 
+<key id="feed_230015_1_body" value="ด้วยความช่วยเหลือของ {0} เราได้สองครั้งที่ได้รับ"/>
+<key id="feed_230015_2_body" value="น้ำตาล {0} ผลิตทำให้คุณรู้สึกบริสุทธิ์"/>
+<key id="feed_230015_3_body" value="{0} กล่าวว่ามีสินค้าคงคลังไม่! รีบขึ้นในการผลิต!"/>
+		 
+<key id="feed_230016_1_body" value="{0} ซ่อมแซมเครื่องข้าวโพดคั่วและเราสามารถผลิตข้าวโพดคั่วอร่อยอีกครั้ง"/>
+<key id="feed_230016_2_body" value="ข้าวโพดคั่ว {0} ผลิตภาพยนตร์ที่ดีที่สุดการแข่งขันนี้"/>
+<key id="feed_230016_3_body" value="{0} ใส่ข้าวโพดคั่วขายทั่วโลก"/>
+		 
+<key id="feed_230017_1_body" value="{0} จะเป็นครั้งแรกในการแข่งขันการรับประทานอาหารในสตาร์ฟาร์ม"/>
+<key id="feed_230017_2_body" value="ตั้งแต่กินแฮมเบอร์เกอร์ {0} ผลิตตอนนี้ฉันชอบมันกับอาหารอื่นทุกวัน"/>
+<key id="feed_230017_3_body" value="{0} กล่าวว่า: เนื้อเราซื้อเป็นที่สดใหม่และดีต่อสุขภาพ, ยินดีต้อนรับสู่ฟาร์มของฉันที่จะมีรสชาติ!"/>
+		 
+<key id="feed_230018_1_body" value="{0} สัญญาคุณราคาถูกและรวดเร็วในการส่งมอบบ้าน"/>
+<key id="feed_230018_2_body" value="คุกกี้อบ {0} ทำจะดีกว่าเช่นเดียวกับการมีสุขภาพดี"/>
+<key id="feed_230018_3_body" value="{0} ทำความสะอาดเสร็จสิ้นเพียงแค่ยินดีต้อนรับสู่ฟาร์มของฉัน!"/>
+<key id="feed_230018_4_body" value="{0} สามารถให้คุณพายแสนอร่อยที่บ้านของคุณ"/>
+		 
+<key id="feed_230024_1_body" value="{0} ออกแบบเสื้อผ้าบนจอแสดงผลที่ปารีสแฟชั่นวีค"/>
+<key id="feed_230024_2_body" value="{0} นักออกแบบเสื้อผ้าสีของโลกที่จะนำคุณ!"/>
+<key id="feed_230024_3_body" value="{0} นักออกแบบเสื้อผ้าเข้าร่วมโอกาสสำคัญขึ้นอยู่กับมัน"/>
+<key id="feed_230024_4_body" value="{0} กล่าวว่า เอ้ยชุดของฉันกลายเป็นแน่นอีกครั้ง! "/>
+		 
+<key id="feed_230031_1_body" value="ทาร์ตไข่-{0} ทำให้มีรสหวานมากกว่าความรักครั้งแรกของฉัน"/>
+<key id="feed_230031_2_body" value="ฉันยังไม่สามารถใช้ดวงตาของฉันออกทาร์ตไข่ {0} ทำ"/>
+<key id="feed_230031_3_body" value="{0} ประสงค์ไข่ Tars จะไม่ถูกขายออกไปเพื่อที่เขาจะสนุกกับทุก Tars ไข่"/>
+		 
+<key id="feed_230032_1_body" value="ด้วยน้ำหอมของเรา {0} พบแฟนหล่อ"/>
+<key id="feed_230032_2_body" value="น้ำหอมที่ทำโดย {0} ดึงดูดเพศตรงข้ามได้อย่างง่ายดายนอกจากนี้ยังมีน้ำหอมมาพร้อมกับหนังสือเกี่ยวกับการป้องกันตัวเอง"/>
+<key id="feed_230032_3_body" value="น้ำหอมที่ทำโดย {0} ติดทนนาน"/>
+<key id="feed_230032_4_body" value="{0} บอกว่าถ้าสามีของคุณจะไม่ซื้อคุณน้ำหอม, หาคนอื่น!"/>
+<key id="feed_230032_5_body" value="กรุณาอย่าเกี้ยวพาราสีผู้หญิงแต่งหน้าแบบสบาย ๆ เพราะเธอจะเป็นคุณยายของคุณ!"/>
+		 
+<key id="feed_230035_1_body" value="มันเป็นที่น่าทึ่งอย่างที่ {0} ได้ทำจากลูกอมรสเผ็ดรส"/>
+<key id="feed_230035_2_body" value="ลูกอมมิ้นท์ {0} ผลิตให้จูบของคุณทุกที่สมบูรณ์แบบ"/>
+<key id="feed_230035_3_body" value="พระเจ้าเท่านั้นที่รู้ลูกอมที่ดีที่สุดมาจาก {0} 'มือ"/>
+<key id="feed_230035_4_body" value="{0} กล่าวว่าการทำงานที่ทำให้คนมีความสุข! คุณต้องการลอง?"/>
+		 
+<key id="feed_230033_1_body" value="ด้วยความช่วยเหลือของ {0} เรามีจำนวนสองเท่าของการผลิต"/>
+<key id="feed_230033_2_body" value="{0} พบชนิดที่หายากของแร่"/>
+<key id="feed_230033_3_body" value="{0} พบแร่ที่ดีที่สุด"/>
+<key id="feed_230033_4_body" value="{0} เป็นชื่อที่ดีที่สุดเลิกราดาวฟาร์ม"/>
+		 
+<key id="feed_230039_1_body" value="{0} ทำไอศครีมทอดมาและสนุกกับตัวเอง!"/>
+<key id="feed_230039_2_body" value="ไอศครีมที่ดีที่สุดทำโดย {0} เป็นเพียงสำหรับคนที่ชื่นชอบ"/>
+<key id="feed_230039_3_body" value="มาเยี่ยมชมฟาร์มของฉันถ้าคุณมีอิสระ"/>
+<key id="feed_230039_4_body" value="ความรักของเธอ/เขาแล้วเชิญเธอ/เขากินไอศครีมที่มีชื่อเสียงที่สุดทำโดย {0}"/>
+		 
+<key id="feed_230040_1_body" value="น้ำผลไม้ที่ทำโดย {0} จะดีที่สุดที่ขายทั่วโลก"/>
+<key id="feed_230040_2_body" value="คุณจะได้ดื่มน้ำหยดสุดท้ายของน้ำผลไม้ที่ทำโดย {0}"/>
+<key id="feed_230040_3_body" value="น้ำผลไม้ที่ทำโดย {0} อยู่นอกเหนือจินตนาการของคุณ"/>
+<key id="feed_230040_4_body" value="{0} พร้อมให้คุณเป็นทนายความส่วนตัวฟรี"/>
+
+<!--  新增 职位 -->
+<key id="crew_230013_1" value="ปริญญาโทขนมปัง"/>
+<key id="crew_230013_2" value="ฝึกหัดขนมปัง"/>
+<key id="crew_230013_3" value="ผู้จัดการเบเกอรี่"/>
+		 
+<key id="crew_230012_1" value="การกินอาหารของคนงาน"/>
+<key id="crew_230012_2" value="แพ็แรงงาน"/>
+<key id="crew_230012_3" value="สูตรอาหาร"/>
+		 
+<key id="crew_230014_1" value="ผู้ตรวจสอบคุณภาพ"/>
+<key id="crew_230014_2" value="ผู้จัดการฝ่ายจัดซื้อ"/>
+<key id="crew_230014_3" value="เลขานุการ"/>
+		 
+<key id="crew_230034_1" value="บาร์เทนเด"/>
+<key id="crew_230034_2" value="ผู้จัดการฝ่ายขาย"/>
+<key id="crew_230034_3" value="ผู้ผลิตไวน์"/>
+<key id="crew_230034_4" value="บาร์เทนเด"/>
+		 
+<key id="crew_230015_1" value="ผู้อำนวยการผลิตน้ำตาล"/>
+<key id="crew_230015_2" value="เทคโนโลยีน้ำตาล"/>
+<key id="crew_230015_3" value="ผู้จัดการคลังสินค้า"/>
+		 
+<key id="crew_230016_1" value="ส่วนการติดตั้งเครื่องกล"/>
+<key id="crew_230016_2" value="ซีเอฟโอ"/>
+<key id="crew_230016_3" value="การขายของผู้คน"/>
+		 
+<key id="crew_230017_1" value="เสพซูเปอร์"/>
+<key id="crew_230017_2" value="โทบาร์บีคิว"/>
+<key id="crew_230017_3" value="ผู้จัดการฝ่ายจัดซื้อ"/>
+		 
+<key id="crew_230018_1" value="การบัญชี"/>
+<key id="crew_230018_2" value="อบโทพาย"/>
+<key id="crew_230018_3" value="ทำความสะอาด"/>
+<key id="crew_230018_4" value="คนส่ง"/>
+		 
+<key id="crew_230024_1" value="เครื่องแต่งกายผู้จัดการฝ่ายผลิต"/>
+<key id="crew_230024_2" value="ออกแบบสี"/>
+<key id="crew_230024_3" value="การออกแบบแฟชั่น"/>
+<key id="crew_230024_4" value="เครื่องแต่งกายอปปิ้ง"/>
+		 
+<key id="crew_230031_1" value="นักวิจัยการตลาด"/>
+<key id="crew_230031_2" value="อุปกรณ์ช่างซ่อมบำรุง"/>
+<key id="crew_230031_3" value="พนักงานขายหญิงโสเภณี"/>
+		 
+<key id="crew_230032_1" value="ที่ปรึกษาความงามน้ำหอม"/>
+<key id="crew_230032_2" value="รุ่นน้ำหอม"/>
+<key id="crew_230032_3" value="การปรับใช้น้ำหอมของกอง"/>
+<key id="crew_230032_4" value="เคาน์เตอร์คู่มือช้อปปิ้ง"/>
+<key id="crew_230032_5" value="ช่างแต่งหน้า"/>
+		 
+<key id="crew_230035_1" value="ประธานเจ้าหน้าที่ฝ่ายปฏิบัติการ"/>
+<key id="crew_230035_2" value="ผู้จัดการฝ่ายการเงิน"/>
+<key id="crew_230035_3" value="พนักงานขาย"/>
+<key id="crew_230035_4" value="ผู้จัดการฝ่ายทรัพยากรบุคคล"/>
+		 
+<key id="crew_230033_1" value="กองวิศวกรรมซ่อม"/>
+<key id="crew_230033_2" value="แร่ประเมินราคา"/>
+<key id="crew_230033_3" value="แร่กรรมการจัดซื้อ"/>
+<key id="crew_230033_4" value="Kotelshchik"/>
+		 
+<key id="crew_230039_1" value="ขนมกองขนม"/>
+<key id="crew_230039_2" value="Haagen ฝึกหัด"/>
+<key id="crew_230039_3" value="บริกร"/>
+<key id="crew_230039_4" value="แฟนซีไอศกรีมฝึกหัด"/>
+		 
+<key id="crew_230040_1" value="น้ำผลไม้ R &amp; D ผู้จัดการ"/>
+<key id="crew_230040_2" value="ผู้จัดการฝ่ายโลจิสติก"/>
+<key id="crew_230040_3" value="การปรับใช้รสชาติของกอง"/>
+<key id="crew_230040_4" value="ที่ปรึกษากฎหมาย"/>
+
+<key id="crew_friends"  value="ที่จะจ้าง เพื่อน"/>
+<key id="crew_friends_title"  value="เพื่อน จ้างงาน"/>
+<key id="hire"  value="จ้าง"/>
+<key id="need_hire"  value="ตัวเลข การจ้างงาน ที่ต้องการ:{0}"/>
+<key id="help_people"  value="{0 } พูดว่า: {1} ฉันต้องการ กำลังคนและ หวังเป็นอย่างยิ่ง ว่าคุณ สามารถเข้ามา ช่วยเหลือ！"/>
+<key id="needCrew" value="นี้ ความต้องการ เครื่อง ของพนักงาน เชิญเพื่อนของคุณ จะกลายเป็น พนักงานของคุณ ขวา!"/>
+<key id="uncollected"  value="ไม่ได้รับ"/>
+<key id="SevendaysReward"  value="รางวัล เข้าสู่ระบบ"/>
+<key id="RechargeActivities"  value="กิจกรรม การเติมเงิน"/>
+<key id="RechargeActivitiesText"  value="เติมเงิน จำนวนเงิน ใด ๆ ที่คุณ จะได้รับ เพิ่มอีก 50 %"/>
+<key id="lastTime"  value="เวลาที่เหลือ:"/>
+	</module>
+</root>
